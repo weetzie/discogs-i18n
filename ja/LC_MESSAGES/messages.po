@@ -1,0 +1,112 @@
+# Japanese translations for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-12-23 16:29-0800\n"
+"PO-Revision-Date: 2011-12-23 16:29-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+
+#: jviews/_footer.html:60
+msgid "About Us"
+msgstr "私達について"
+
+#: jviews/_footer.html:61
+msgid "Blog"
+msgstr "ブログ"
+
+#: jviews/_footer.html:62
+msgid "Jobs"
+msgstr "仕事"
+
+#: jviews/_footer.html:63
+msgid "Shop"
+msgstr "店"
+
+#: jviews/_footer.html:64
+msgid "Mobile"
+msgstr "移動式"
+
+#: jviews/_footer.html:69
+msgid "Help&nbsp;Is&nbsp;Here"
+msgstr "助けはここにある"
+
+#: jviews/_footer.html:71 jviews/_header.html:11
+msgid "Help"
+msgstr "助け"
+
+#: jviews/_footer.html:72
+msgid "Forums"
+msgstr "フォーラム"
+
+#: jviews/_footer.html:74
+msgid "Support Request"
+msgstr "サポート要求"
+
+#: jviews/_footer.html:76
+msgid "Contact"
+msgstr "接触"
+
+#: jviews/_footer.html:82
+msgid "Join&nbsp;In"
+msgstr "結合しなさい"
+
+#: jviews/_footer.html:85
+msgid "Sign Up"
+msgstr "参加しなさい"
+
+#: jviews/_footer.html:87
+msgid "Contribute"
+msgstr "貢献しなさい"
+
+#: jviews/_footer.html:88
+msgid "Add Release"
+msgstr "解放を加えなさい"
+
+#: jviews/_footer.html:89
+msgid "Contributor List"
+msgstr "貢献者のリスト"
+
+#: jviews/_footer.html:94
+msgid "Follow&nbsp;Us"
+msgstr "貢献者のリスト"
+
+#: jviews/_footer.html:96
+msgid "Facebook"
+msgstr ""
+
+#: jviews/_footer.html:97
+msgid "Twitter"
+msgstr ""
+
+#: jviews/_footer.html:102
+msgid "Other&nbsp;Stuff"
+msgstr "他の原料"
+
+#: jviews/_footer.html:104
+msgid "Developers API"
+msgstr "開発者API"
+
+#: jviews/_footer.html:112
+msgid "Discogs&trade; website Copyright &copy; 2011 Discogs"
+msgstr "Discog&trade; sのウェブサイトの版権年の &copy; 2011 Discogs"
+
+#: jviews/_footer.html:113
+msgid "Terms of Service"
+msgstr "年期"
+
+#: jviews/_footer.html:114
+msgid "Privacy Policy"
+msgstr "ライバシー規約"
+

@@ -1,0 +1,112 @@
+# German translations for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-12-23 16:02-0800\n"
+"PO-Revision-Date: 2011-12-23 14:41-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+
+#: jviews/_footer.html:60
+msgid "About Us"
+msgstr "Über uns"
+
+#: jviews/_footer.html:61
+msgid "Blog"
+msgstr ""
+
+#: jviews/_footer.html:62
+msgid "Jobs"
+msgstr ""
+
+#: jviews/_footer.html:63
+msgid "Shop"
+msgstr "Geschäft"
+
+#: jviews/_footer.html:64
+msgid "Mobile"
+msgstr "Beweglich"
+
+#: jviews/_footer.html:69
+msgid "Help&nbsp;Is&nbsp;Here"
+msgstr "Hilfe&nbsp;ist&nbsp;hier"
+
+#: jviews/_footer.html:71 jviews/_header.html:11
+msgid "Help"
+msgstr "Hilfe"
+
+#: jviews/_footer.html:72
+msgid "Forums"
+msgstr "Foren"
+
+#: jviews/_footer.html:74
+msgid "Support Request"
+msgstr "Stützantrag"
+
+#: jviews/_footer.html:76
+msgid "Contact"
+msgstr "Kontakt"
+
+#: jviews/_footer.html:82
+msgid "Join&nbsp;In"
+msgstr "Verbinden&nbsp;Sie&nbsp;innen"
+
+#: jviews/_footer.html:85
+msgid "Sign Up"
+msgstr "Melden Sie sich an"
+
+#: jviews/_footer.html:87
+msgid "Contribute"
+msgstr "Tragen Sie bei"
+
+#: jviews/_footer.html:88
+msgid "Add Release"
+msgstr "Addieren Sie Freigabe"
+
+#: jviews/_footer.html:89
+msgid "Contributor List"
+msgstr "Mitwirkend-Liste"
+
+#: jviews/_footer.html:94
+msgid "Follow&nbsp;Us"
+msgstr "Folgen&nbsp;Sie&nbsp;uns"
+
+#: jviews/_footer.html:96
+msgid "Facebook"
+msgstr ""
+
+#: jviews/_footer.html:97
+msgid "Twitter"
+msgstr ""
+
+#: jviews/_footer.html:102
+msgid "Other&nbsp;Stuff"
+msgstr "Anderes&nbsp;Material"
+
+#: jviews/_footer.html:104
+msgid "Developers API"
+msgstr "Entwickler API"
+
+#: jviews/_footer.html:112
+msgid "Discogs&trade; website Copyright &copy; 2011 Discogs"
+msgstr ""
+
+#: jviews/_footer.html:113
+msgid "Terms of Service"
+msgstr "Ausdrücke des Services"
+
+#: jviews/_footer.html:114
+msgid "Privacy Policy"
+msgstr ""
+
