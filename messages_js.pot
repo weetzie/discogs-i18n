@@ -1,0 +1,4 @@
+#: static/js/admin_credits_formats-norm.js:84
+msgid "Are you sure you want to delete this?"
+msgstr ""
+
