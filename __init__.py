@@ -4,6 +4,7 @@ Internationalization (i18n) and Localization (l10n) module.
 import simplejson
 import os
 
+import utils
 import dbobjects
 from babel.support import Translations
 
@@ -17,8 +18,6 @@ def get_locales(request):
     """
     methods = [
         _get_locales_from_query_string,
-        _get_locales_from_user_preferences,
-        _get_locales_from_cookie,
         _get_locales_from_browser,
         _get_locales_from_ip,
         lambda x: ['en']
@@ -37,7 +36,13 @@ def get_language(locales=['en']):
     Returns the first item in the locales list.
     Defaults to english.
     """
-    return locales[0]
+    language = 'en' # default language
+    supported_locales = _get_supported_locales_from_directories()
+    for locale in locales:
+        if locale in supported_locales:
+            language = locale
+            break
+    return language
 
 
 def get_translations(locales=['en'], domain='messages'):
@@ -52,18 +57,7 @@ def get_translations_json(locales=['en']):
     Return json version of translations for given locales and messages_js domain.
     """
     translations = get_translations(locales=locales, domain='messages_js')
-    keys = translations._catalog.keys()
-    keys.sort()
-    translations_dict = {}
-    for k in keys:
-        v = translations._catalog[k]
-        if type(k) is tuple:
-            if k[0] not in translations_dict:
-                translations_dict[k[0]] = []
-            translations_dict[k[0]].append(v)
-        else:
-            translations_dict[k] = v
-    return simplejson.dumps(translations_dict, ensure_ascii=False, indent=False)
+    return simplejson.dumps(translations._catalog, ensure_ascii=False, indent=False)
 
 
 def _get_supported_locales_from_directories():
@@ -112,6 +106,7 @@ def _get_locales_from_ip(request):
     """
     country_to_language_map = {
         'us': 'en',
+        # TODO: add more mappings
     }
     country_code = dbobjects.IP_Country.lookup(request.remote_addr)[0].strip().lower()
     print country_code
@@ -123,14 +118,6 @@ def _get_locales_from_ip(request):
     return []
 
 
-def _get_locales_from_user_preferences(request):
-    """
-    Return supported locales based on user preferences.
-    """
-    # TODO
-    pass
-
-
 def _get_locales_from_query_string(request):
     """
     Return supported locales based on query string.
@@ -138,21 +125,12 @@ def _get_locales_from_query_string(request):
     requested_language = request.args.get('language')
     supported_locales = _get_supported_locales_from_directories()
     if requested_language and requested_language in supported_locales:
-        # set cookie to remember this request when the user navigates elsewhere
-        # TODO
-        return [language]
+        return [requested_language]
     return []
 
 
-def _get_locales_from_cookie(request):
-    """
-    Return supported locales from cookie.
-    """
-    supported_locales = _get_supported_locales_from_directories()
-    # TODO
-    pass
 
-
+# TODO: Move this out to some fabric command line tool
 # from apiclient.discovery import build
 # def get_google_translations(language='fr'):
 #     service = build('translate', 'v2',
