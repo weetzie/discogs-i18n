@@ -106,10 +106,10 @@ def _get_locales_from_ip(request):
     """
     country_to_language_map = {
         'us': 'en',
+        'br': 'pt',
         # TODO: add more mappings
     }
     country_code = dbobjects.IP_Country.lookup(request.remote_addr)[0].strip().lower()
-    print country_code
     if country_to_language_map.has_key(country_code):
         language = country_to_language_map[country_code]
         supported_locales = _get_supported_locales_from_directories()
