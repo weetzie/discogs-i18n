@@ -17,7 +17,6 @@ def get_locales(request):
     Default to english if all else fails.
     """
     methods = [
-        _get_locales_from_query_string,
         _get_locales_from_browser,
         _get_locales_from_ip,
         lambda x: ['en']
@@ -115,17 +114,6 @@ def _get_locales_from_ip(request):
         supported_locales = _get_supported_locales_from_directories()
         if language in supported_locales:
             return [language]
-    return []
-
-
-def _get_locales_from_query_string(request):
-    """
-    Return supported locales based on query string.
-    """
-    requested_language = request.args.get('language')
-    supported_locales = _get_supported_locales_from_directories()
-    if requested_language and requested_language in supported_locales:
-        return [requested_language]
     return []
 
 
