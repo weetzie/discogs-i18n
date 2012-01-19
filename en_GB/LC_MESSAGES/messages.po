@@ -1,0 +1,505 @@
+# English (United Kingdom) translations for PROJECT.
+# Copyright (C) 2012 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2012-01-18 17:07-0800\n"
+"PO-Revision-Date: 2012-01-18 17:07-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en_GB <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+
+#: controllers/user.py:75
+msgid "List already in use"
+msgstr ""
+
+#: controllers/user.py:157
+msgid "My"
+msgstr ""
+
+#: controllers/user.py:175
+msgid "Cannot add list because it already exists"
+msgstr ""
+
+#: controllers/user.py:177
+msgid "List does not exist"
+msgstr ""
+
+#: controllers/user.py:219
+msgid "Module already exists on your dashboard"
+msgstr ""
+
+#: controllers/user.py:238
+msgid "This account has been closed"
+msgstr ""
+
+#: controllers/user.py:455
+msgid "Create New Discogs Account"
+msgstr ""
+
+#: controllers/user.py:469
+msgid "Incorrect verification code"
+msgstr ""
+
+#: controllers/user.py:479
+msgid "You did not enter your Email Address"
+msgstr ""
+
+#: controllers/user.py:483
+msgid "You did not enter a valid Email Address"
+msgstr ""
+
+#: controllers/user.py:488
+msgid ""
+"Email addresses do not match. Please re-type your email address in both "
+"fields."
+msgstr ""
+
+#: controllers/user.py:493
+msgid ""
+"An Account with this Email Address already exists. If you already have a "
+"Discogs Account please use the \"Forgot Password\" or \"Forgot Username\""
+" options."
+msgstr ""
+
+#: controllers/user.py:505
+msgid "You did not enter a Password"
+msgstr ""
+
+#: controllers/user.py:508 controllers/user.py:778 controllers/user.py:994
+msgid ""
+"Your password contains some non-alphanumeric characters. Please try a "
+"different one."
+msgstr ""
+
+#: controllers/user.py:511 controllers/user.py:777
+msgid ""
+"You did not type your password correctly. Both fields must match. Please "
+"try again."
+msgstr ""
+
+#: controllers/user.py:515
+msgid "You must accept the Terms of Service to use Discogs"
+msgstr ""
+
+#: controllers/user.py:606
+msgid "Confirm Account"
+msgstr ""
+
+#: controllers/user.py:609
+msgid "Missing confirmation code"
+msgstr ""
+
+#: controllers/user.py:615 controllers/user.py:621
+msgid ""
+"The user account you are trying to activate was not found. If you "
+"registered more than two weeks ago please re-register."
+msgstr ""
+
+#: controllers/user.py:646
+msgid "Log In"
+msgstr ""
+
+#: controllers/user.py:656
+msgid "Your account has been activated."
+msgstr ""
+
+#: controllers/user.py:668
+msgid "Oops, you tried to view a page that requires you to log in."
+msgstr ""
+
+#: controllers/user.py:670
+msgid "Oops, your session has expired. Please enter your password to continue."
+msgstr ""
+
+#: controllers/user.py:672
+msgid ""
+"Oops, your IP address has changed since you last logged in. Please enter "
+"your password to continue."
+msgstr ""
+
+#: controllers/user.py:674
+msgid ""
+"Oops, a server error occurred when we tried to log you in. Please try "
+"again."
+msgstr ""
+
+#: controllers/user.py:676
+msgid "You can now log in."
+msgstr ""
+
+#: controllers/user.py:716 controllers/user.py:720
+msgid "Username does not exist."
+msgstr ""
+
+#: controllers/user.py:724
+msgid ""
+"This account has not been activated. Please check your email for a "
+"message from"
+msgstr ""
+
+#: controllers/user.py:750
+msgid "Incorrect password."
+msgstr ""
+
+#: controllers/user.py:775
+msgid ""
+"The provided password reset token was invalid or has expired. If you wish"
+" to reset your password, use the form below to send a new token."
+msgstr ""
+
+#: controllers/user.py:776
+msgid "You did not enter a password."
+msgstr ""
+
+#: controllers/user.py:779
+msgid ""
+"Your password has been changed. You may now log in with your new "
+"credentials."
+msgstr ""
+
+#: controllers/user.py:780 controllers/user.py:1005
+msgid "Your recent Discogs password change"
+msgstr ""
+
+#: controllers/user.py:781 controllers/user.py:1004
+msgid ""
+"This message is to confirm that your Discogs password has just been "
+"changed."
+msgstr ""
+
+#: controllers/user.py:784
+msgid "Forgot Password - Step 1/3"
+msgstr ""
+
+#: controllers/user.py:789
+msgid "Forgot Password - Step 2/3"
+msgstr ""
+
+#: controllers/user.py:803
+msgid "Forgot Password - Step 3/3"
+msgstr ""
+
+#: controllers/user.py:869
+msgid "Discogs Account Password Reset Instructions"
+msgstr ""
+
+#: controllers/user.py:872
+msgid "Password reset instructions have been sent to"
+msgstr ""
+
+#: controllers/user.py:875
+msgid "There is no Discogs user with that e-mail address."
+msgstr ""
+
+#: controllers/user.py:884 controllers/user.py:923
+msgid "Are you sure you want to close this account?"
+msgstr ""
+
+#: controllers/user.py:893
+msgid "You cannot close a suspended account."
+msgstr ""
+
+#: controllers/user.py:895
+msgid ""
+"You have pending sales and cannot close your account until those have "
+"been completed."
+msgstr ""
+
+#: controllers/user.py:897
+msgid ""
+"You have unpaid invoices and cannot close your account until those have "
+"been paid."
+msgstr ""
+
+#: controllers/user.py:908
+msgid "We have emailed you instructions on deleting your account."
+msgstr ""
+
+#: controllers/user.py:911 controllers/user.py:938 controllers/user.py:1275
+msgid "Incorrect password"
+msgstr ""
+
+#: controllers/user.py:934
+msgid "Account Deleted"
+msgstr ""
+
+#: controllers/user.py:936
+msgid "Your account has been closed."
+msgstr ""
+
+#: controllers/user.py:952
+msgid "General Settings"
+msgstr ""
+
+#: controllers/user.py:981 controllers/user.py:1156
+msgid "Saved Changes"
+msgstr ""
+
+#: controllers/user.py:988 controllers/user.py:997
+msgid "There was an error changing your password."
+msgstr ""
+
+#: controllers/user.py:991
+msgid "You did not type a new password."
+msgstr ""
+
+#: controllers/user.py:1001
+msgid "Changed password"
+msgstr ""
+
+#: controllers/user.py:1021
+msgid "Applications"
+msgstr ""
+
+#: controllers/user.py:1030
+msgid "The application's access has been revoked."
+msgstr ""
+
+#: controllers/user.py:1048
+msgid "The application has been deleted."
+msgstr ""
+
+#: controllers/user.py:1058
+msgid "Saved changes"
+msgstr ""
+
+#: controllers/user.py:1067
+msgid "Notification Options"
+msgstr ""
+
+#: controllers/user.py:1132
+msgid "Saved"
+msgstr ""
+
+#: controllers/user.py:1141
+msgid "Privacy Settings"
+msgstr ""
+
+#: controllers/user.py:1164
+msgid "Unblocked user(s)"
+msgstr ""
+
+#: controllers/user.py:1176
+msgid "Blocked"
+msgstr ""
+
+#: controllers/user.py:1186
+msgid "Removed user from ignore list."
+msgstr ""
+
+#: controllers/user.py:1211
+msgid ""
+"One or more of your fields has no name. Please enter a name for your "
+"field."
+msgstr ""
+
+#: controllers/user.py:1223
+msgid "Saved your changes."
+msgstr ""
+
+#: controllers/user.py:1249
+msgid "Change Email Address"
+msgstr ""
+
+#: controllers/user.py:1260
+msgid "Missing address"
+msgstr ""
+
+#: controllers/user.py:1263
+msgid "Addresses do not match"
+msgstr ""
+
+#: controllers/user.py:1269
+msgid ""
+"An account with this email address already exists in Discogs. Discogs "
+"enforces unique email addresses for all accounts."
+msgstr ""
+
+#: controllers/user.py:1289
+msgid "Confirm Discogs email address change"
+msgstr ""
+
+#: controllers/user.py:1313
+msgid "Confirm Email Address Change"
+msgstr ""
+
+#: controllers/user.py:1318
+msgid "Missing key"
+msgstr ""
+
+#: controllers/user.py:1323
+msgid "Key not found or address has already been changed"
+msgstr ""
+
+#: controllers/user.py:1356
+msgid "was added to your friends list."
+msgstr ""
+
+#: controllers/user.py:1365
+msgid "Removed"
+msgstr ""
+
+#: controllers/user.py:1365
+msgid "from your friends list."
+msgstr ""
+
+#: controllers/user.py:1376
+msgid "Add Friend"
+msgstr ""
+
+#: controllers/user.py:1386
+msgid "Drafts"
+msgstr ""
+
+#: controllers/user.py:1399
+msgid "Release was deleted."
+msgstr ""
+
+#: controllers/user.py:1407
+msgid "Export My Data"
+msgstr ""
+
+#: controllers/user.py:1424
+msgid ""
+"Sorry, that type of export has already been requested within the past "
+"hour. Please try again after one hour."
+msgstr ""
+
+#: controllers/user.py:1431
+msgid "Your export request was scheduled"
+msgstr ""
+
+#: controllers/user.py:1468
+msgid "Manage Folders"
+msgstr ""
+
+#: controllers/user.py:1475
+msgid "You did not select a folder to delete."
+msgstr ""
+
+#: controllers/user.py:1479
+msgid "Deleted Folder"
+msgstr ""
+
+#: controllers/user.py:1481
+msgid "Folder is not empty"
+msgstr ""
+
+#: controllers/user.py:1487
+msgid "Missing new folder name and/or you did not select a folder to rename"
+msgstr ""
+
+#: controllers/user.py:1490
+msgid "Renamed folder"
+msgstr ""
+
+#: controllers/user.py:1495
+msgid "Missing folder name"
+msgstr ""
+
+#: controllers/user.py:1498
+msgid "Added new folder"
+msgstr ""
+
+#: jviews/_footer.html:60
+msgid "About Us"
+msgstr ""
+
+#: jviews/_footer.html:61
+msgid "Blog"
+msgstr ""
+
+#: jviews/_footer.html:62
+msgid "Jobs"
+msgstr ""
+
+#: jviews/_footer.html:63
+msgid "Shop"
+msgstr ""
+
+#: jviews/_footer.html:64
+msgid "Mobile"
+msgstr ""
+
+#: jviews/_footer.html:69
+msgid "Help&nbsp;Is&nbsp;Here"
+msgstr ""
+
+#: jviews/_footer.html:71 jviews/_header.html:11
+msgid "Help"
+msgstr ""
+
+#: jviews/_footer.html:72
+msgid "Forums"
+msgstr ""
+
+#: jviews/_footer.html:74
+msgid "Support Request"
+msgstr ""
+
+#: jviews/_footer.html:76
+msgid "Contact"
+msgstr ""
+
+#: jviews/_footer.html:82
+msgid "Join&nbsp;In"
+msgstr ""
+
+#: jviews/_footer.html:85
+msgid "Sign Up"
+msgstr ""
+
+#: jviews/_footer.html:87
+msgid "Contribute"
+msgstr ""
+
+#: jviews/_footer.html:88
+msgid "Add Release"
+msgstr ""
+
+#: jviews/_footer.html:89
+msgid "Contributor List"
+msgstr ""
+
+#: jviews/_footer.html:94
+msgid "Follow&nbsp;Us"
+msgstr ""
+
+#: jviews/_footer.html:96
+msgid "Facebook"
+msgstr ""
+
+#: jviews/_footer.html:97
+msgid "Twitter"
+msgstr ""
+
+#: jviews/_footer.html:102
+msgid "Other&nbsp;Stuff"
+msgstr ""
+
+#: jviews/_footer.html:104
+msgid "Developers API"
+msgstr ""
+
+#: jviews/_footer.html:112
+msgid "Discogs&trade; website Copyright &copy; 2011 Discogs"
+msgstr ""
+
+#: jviews/_footer.html:113
+msgid "Terms of Service"
+msgstr ""
+
+#: jviews/_footer.html:114
+msgid "Privacy Policy"
+msgstr ""
+

@@ -36,7 +36,7 @@ def get_language(locales=['en']):
     Defaults to english.
     """
     language = 'en' # default language
-    supported_locales = _get_supported_locales_from_directories()
+    supported_locales = _get_supported_locales()
     for locale in locales:
         if locale in supported_locales:
             language = locale
@@ -59,7 +59,7 @@ def get_translations_json(locales=['en']):
     return simplejson.dumps(translations._catalog, ensure_ascii=False, indent=False)
 
 
-def _get_supported_locales_from_directories():
+def _get_supported_locales():
     """
     Return a list of supported locales based on existing directories.
     """
@@ -95,7 +95,7 @@ def _get_locales_from_browser(request):
     Return supported locales based on browser Accept-Language header.
     """
     accept_languages = _parse_accept_language(request.headers.get('Accept-Language', None))
-    supported_locales = _get_supported_locales_from_directories()
+    supported_locales = _get_supported_locales()
     return [language for language in accept_languages if language in supported_locales]
 
 
@@ -111,12 +111,10 @@ def _get_locales_from_ip(request):
     country_code = dbobjects.IP_Country.lookup(request.remote_addr)[0].strip().lower()
     if country_to_language_map.has_key(country_code):
         language = country_to_language_map[country_code]
-        supported_locales = _get_supported_locales_from_directories()
+        supported_locales = _get_supported_locales()
         if language in supported_locales:
             return [language]
     return []
-
-
 
 # TODO: Move this out to some fabric command line tool
 # from apiclient.discovery import build
