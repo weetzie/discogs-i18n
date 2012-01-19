@@ -1,3 +1,21 @@
+# Translations template for Discogs.
+# Copyright (C) 2012 Discogs
+# This file is distributed under the same license as the Discogs project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+##, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Discogs 0.1\n"
+"Report-Msgid-Bugs-To: rflosi@discogs.com\n"
+"POT-Creation-Date: 2012-01-19 15:08-0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+
 #: controllers/user.py:75
 msgid "List already in use"
 msgstr ""
@@ -50,11 +68,11 @@ msgstr ""
 msgid "You did not enter a Password"
 msgstr ""
 
-#: controllers/user.py:508 controllers/user.py:778 controllers/user.py:994
+#: controllers/user.py:508 controllers/user.py:784 controllers/user.py:1001
 msgid "Your password contains some non-alphanumeric characters. Please try a different one."
 msgstr ""
 
-#: controllers/user.py:511 controllers/user.py:777
+#: controllers/user.py:511 controllers/user.py:783
 msgid "You did not type your password correctly. Both fields must match. Please try again."
 msgstr ""
 
@@ -110,251 +128,251 @@ msgstr ""
 msgid "This account has not been activated. Please check your email for a message from"
 msgstr ""
 
-#: controllers/user.py:750
+#: controllers/user.py:753
 msgid "Incorrect password."
 msgstr ""
 
-#: controllers/user.py:775
+#: controllers/user.py:781
 msgid "The provided password reset token was invalid or has expired. If you wish to reset your password, use the form below to send a new token."
 msgstr ""
 
-#: controllers/user.py:776
+#: controllers/user.py:782
 msgid "You did not enter a password."
 msgstr ""
 
-#: controllers/user.py:779
+#: controllers/user.py:785
 msgid "Your password has been changed. You may now log in with your new credentials."
 msgstr ""
 
-#: controllers/user.py:780 controllers/user.py:1005
+#: controllers/user.py:786 controllers/user.py:1012
 msgid "Your recent Discogs password change"
 msgstr ""
 
-#: controllers/user.py:781 controllers/user.py:1004
+#: controllers/user.py:787 controllers/user.py:1011
 msgid "This message is to confirm that your Discogs password has just been changed."
 msgstr ""
 
-#: controllers/user.py:784
+#: controllers/user.py:791
 msgid "Forgot Password - Step 1/3"
 msgstr ""
 
-#: controllers/user.py:789
+#: controllers/user.py:796
 msgid "Forgot Password - Step 2/3"
 msgstr ""
 
-#: controllers/user.py:803
+#: controllers/user.py:810
 msgid "Forgot Password - Step 3/3"
 msgstr ""
 
-#: controllers/user.py:869
+#: controllers/user.py:876
 msgid "Discogs Account Password Reset Instructions"
 msgstr ""
 
-#: controllers/user.py:872
+#: controllers/user.py:879
 msgid "Password reset instructions have been sent to"
 msgstr ""
 
-#: controllers/user.py:875
+#: controllers/user.py:882
 msgid "There is no Discogs user with that e-mail address."
 msgstr ""
 
-#: controllers/user.py:884 controllers/user.py:923
+#: controllers/user.py:891 controllers/user.py:930
 msgid "Are you sure you want to close this account?"
 msgstr ""
 
-#: controllers/user.py:893
+#: controllers/user.py:900
 msgid "You cannot close a suspended account."
 msgstr ""
 
-#: controllers/user.py:895
+#: controllers/user.py:902
 msgid "You have pending sales and cannot close your account until those have been completed."
 msgstr ""
 
-#: controllers/user.py:897
+#: controllers/user.py:904
 msgid "You have unpaid invoices and cannot close your account until those have been paid."
 msgstr ""
 
-#: controllers/user.py:908
+#: controllers/user.py:915
 msgid "We have emailed you instructions on deleting your account."
 msgstr ""
 
-#: controllers/user.py:911 controllers/user.py:938 controllers/user.py:1275
+#: controllers/user.py:918 controllers/user.py:945 controllers/user.py:1282
 msgid "Incorrect password"
 msgstr ""
 
-#: controllers/user.py:934
+#: controllers/user.py:941
 msgid "Account Deleted"
 msgstr ""
 
-#: controllers/user.py:936
+#: controllers/user.py:943
 msgid "Your account has been closed."
 msgstr ""
 
-#: controllers/user.py:952
+#: controllers/user.py:959
 msgid "General Settings"
 msgstr ""
 
-#: controllers/user.py:981 controllers/user.py:1156
+#: controllers/user.py:988 controllers/user.py:1163
 msgid "Saved Changes"
 msgstr ""
 
-#: controllers/user.py:988 controllers/user.py:997
+#: controllers/user.py:995 controllers/user.py:1004
 msgid "There was an error changing your password."
 msgstr ""
 
-#: controllers/user.py:991
+#: controllers/user.py:998
 msgid "You did not type a new password."
 msgstr ""
 
-#: controllers/user.py:1001
+#: controllers/user.py:1008
 msgid "Changed password"
 msgstr ""
 
-#: controllers/user.py:1021
+#: controllers/user.py:1028
 msgid "Applications"
 msgstr ""
 
-#: controllers/user.py:1030
+#: controllers/user.py:1037
 msgid "The application's access has been revoked."
 msgstr ""
 
-#: controllers/user.py:1048
+#: controllers/user.py:1055
 msgid "The application has been deleted."
 msgstr ""
 
-#: controllers/user.py:1058
+#: controllers/user.py:1065
 msgid "Saved changes"
 msgstr ""
 
-#: controllers/user.py:1067
+#: controllers/user.py:1074
 msgid "Notification Options"
 msgstr ""
 
-#: controllers/user.py:1132
+#: controllers/user.py:1139
 msgid "Saved"
 msgstr ""
 
-#: controllers/user.py:1141
+#: controllers/user.py:1148
 msgid "Privacy Settings"
 msgstr ""
 
-#: controllers/user.py:1164
+#: controllers/user.py:1171
 msgid "Unblocked user(s)"
 msgstr ""
 
-#: controllers/user.py:1176
+#: controllers/user.py:1183
 msgid "Blocked"
 msgstr ""
 
-#: controllers/user.py:1186
+#: controllers/user.py:1193
 msgid "Removed user from ignore list."
 msgstr ""
 
-#: controllers/user.py:1211
+#: controllers/user.py:1218
 msgid "One or more of your fields has no name. Please enter a name for your field."
 msgstr ""
 
-#: controllers/user.py:1223
+#: controllers/user.py:1230
 msgid "Saved your changes."
 msgstr ""
 
-#: controllers/user.py:1249
+#: controllers/user.py:1256
 msgid "Change Email Address"
 msgstr ""
 
-#: controllers/user.py:1260
+#: controllers/user.py:1267
 msgid "Missing address"
 msgstr ""
 
-#: controllers/user.py:1263
+#: controllers/user.py:1270
 msgid "Addresses do not match"
 msgstr ""
 
-#: controllers/user.py:1269
+#: controllers/user.py:1276
 msgid "An account with this email address already exists in Discogs. Discogs enforces unique email addresses for all accounts."
 msgstr ""
 
-#: controllers/user.py:1289
+#: controllers/user.py:1296
 msgid "Confirm Discogs email address change"
 msgstr ""
 
-#: controllers/user.py:1313
+#: controllers/user.py:1320
 msgid "Confirm Email Address Change"
 msgstr ""
 
-#: controllers/user.py:1318
+#: controllers/user.py:1325
 msgid "Missing key"
 msgstr ""
 
-#: controllers/user.py:1323
+#: controllers/user.py:1330
 msgid "Key not found or address has already been changed"
 msgstr ""
 
-#: controllers/user.py:1356
+#: controllers/user.py:1363
 msgid "was added to your friends list."
 msgstr ""
 
-#: controllers/user.py:1365
+#: controllers/user.py:1372
 msgid "Removed"
 msgstr ""
 
-#: controllers/user.py:1365
+#: controllers/user.py:1372
 msgid "from your friends list."
 msgstr ""
 
-#: controllers/user.py:1376
+#: controllers/user.py:1383
 msgid "Add Friend"
 msgstr ""
 
-#: controllers/user.py:1386
+#: controllers/user.py:1393
 msgid "Drafts"
 msgstr ""
 
-#: controllers/user.py:1399
+#: controllers/user.py:1406
 msgid "Release was deleted."
 msgstr ""
 
-#: controllers/user.py:1407
+#: controllers/user.py:1414
 msgid "Export My Data"
 msgstr ""
 
-#: controllers/user.py:1424
+#: controllers/user.py:1431
 msgid "Sorry, that type of export has already been requested within the past hour. Please try again after one hour."
 msgstr ""
 
-#: controllers/user.py:1431
+#: controllers/user.py:1438
 msgid "Your export request was scheduled"
 msgstr ""
 
-#: controllers/user.py:1468
+#: controllers/user.py:1475
 msgid "Manage Folders"
 msgstr ""
 
-#: controllers/user.py:1475
+#: controllers/user.py:1482
 msgid "You did not select a folder to delete."
 msgstr ""
 
-#: controllers/user.py:1479
+#: controllers/user.py:1486
 msgid "Deleted Folder"
 msgstr ""
 
-#: controllers/user.py:1481
+#: controllers/user.py:1488
 msgid "Folder is not empty"
 msgstr ""
 
-#: controllers/user.py:1487
+#: controllers/user.py:1494
 msgid "Missing new folder name and/or you did not select a folder to rename"
 msgstr ""
 
-#: controllers/user.py:1490
+#: controllers/user.py:1497
 msgid "Renamed folder"
 msgstr ""
 
-#: controllers/user.py:1495
+#: controllers/user.py:1502
 msgid "Missing folder name"
 msgstr ""
 
-#: controllers/user.py:1498
+#: controllers/user.py:1505
 msgid "Added new folder"
 msgstr ""
 
@@ -431,22 +449,30 @@ msgid "Twitter"
 msgstr ""
 
 #: jviews/_footer.html:102
+msgid "Languages"
+msgstr ""
+
+#: jviews/_footer.html:116
 msgid "Other&nbsp;Stuff"
 msgstr ""
 
-#: jviews/_footer.html:104
-msgid "Developers API"
+#: jviews/_footer.html:118
+msgid "Developers&nbsp;API"
 msgstr ""
 
-#: jviews/_footer.html:112
-msgid "Discogs&trade; website Copyright &copy; 2011 Discogs"
+#: jviews/_footer.html:126
+msgid "website"
 msgstr ""
 
-#: jviews/_footer.html:113
+#: jviews/_footer.html:126
+msgid "Copyright"
+msgstr ""
+
+#: jviews/_footer.html:127
 msgid "Terms of Service"
 msgstr ""
 
-#: jviews/_footer.html:114
+#: jviews/_footer.html:128
 msgid "Privacy Policy"
 msgstr ""
 
