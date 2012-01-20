@@ -116,15 +116,3 @@ def _get_locales_from_ip(request):
             return [language]
     return []
 
-# TODO: Move this out to some fabric command line tool
-# from apiclient.discovery import build
-# def get_google_translations(language='fr'):
-#     service = build('translate', 'v2',
-#         developerKey='test')
-#     l = service.translations().list(
-#         format='text',
-#         source='en',
-#         target=language,
-#         q=['flower', 'car']
-#     ).execute()
-#     return l
