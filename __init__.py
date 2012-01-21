@@ -8,7 +8,8 @@ import utils
 import dbobjects
 from babel.support import Translations
 
-__all__ = ["get_locales", "get_language", "get_translations", "get_translations_json"]
+
+__all__ = ["get_locales", "get_language", "get_translations"]
 
 
 def get_locales(request):
@@ -51,7 +52,7 @@ def get_translations(locales=['en'], domain='messages'):
     return Translations.load(dirname='i18n', locales=locales, domain=domain)
 
 
-def get_translations_json(locales=['en']):
+def _get_translations_json(locales=['en']):
     """
     Return json version of translations for given locales and messages_js domain.
     """
