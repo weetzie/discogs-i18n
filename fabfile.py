@@ -85,6 +85,14 @@ def remove_locale(locale=None):
 
 
 @task
+def reset_locale(locale=None):
+    """
+    Removes the locale and then adds it back.
+    Useful if you need to clear out all current translations for a given locale.
+    """
+    local('fab i18n.remove_locale:{locale} && fab i18n.add_locale:{locale}'.format(locale=locale))
+
+@task
 def eutc_messages():
     """
     Extract, Update, Translate, and Compile messages.
@@ -123,39 +131,73 @@ def translate_messages():
     Translate new messages using Google Translate API.
     This will find empty msgstr strings in .po files and use Google Translate API to populate them.
     """
-    def _add_missing_translations(domain, locale):
+    def _add_missing_translations(service=None, domain=None, locale=None):
+        block_size = 50 # limit querying of google translate api to blocks of block_size messages to stay under 5K character limit
+
+        # get catalog of messages
         fileobj = open(os.path.join('i18n', locale, 'LC_MESSAGES', '{domain}.po'.format(domain=domain)), 'r')
         catalog = babel.messages.pofile.read_po(fileobj, locale=locale, domain=domain, ignore_obsolete=True)
         fileobj.close()
-        msgids_to_translate = [msgid for msgid, message in catalog._messages.items() if message.string == '']
 
-        # google translate
-        # translations_json = service.translations().list(
-        #     format='text',
-        #     source='en',
-        #     target=locale,
-        #     q=msgids_to_translate,
-        #     ).execute()
-        # print translations_json # {'translations': [{'translatedText': 'fleurs'}, {'translatedText': 'voiture'}]}
+        # translate singular messages
+        singular_messages = [message for message in catalog
+            if (message.id and isinstance(message.string, str) and message.string == '')]
+        singular_message_blocks = [singular_messages[block:block+block_size]
+            for block in range(0, len(singular_messages), block_size)]
+        for message_block in singular_message_blocks:
+            # google translate
+            translations_json = service.translations().list(
+                format='html',
+                source='en',
+                target=locale[:2], # google only knows about 2 letter language codes. Truncate locales like: pt_BR
+                q=[message.id for message in message_block],
+                ).execute()
+            # e.g. return value {'translations': [{'translatedText': 'fleurs'}, {'translatedText': 'voiture'}]}
 
-        # mock google translate
-        translations_json = {'translations': []}
-        for count in range(0, len(msgids_to_translate)):
-            translations_json['translations'].append({'translatedText': 'foo%s' % count})
+            # mock google translate
+            # translations_json = {'translations': []}
+            # for count in range(0, len(message_block)):
+            #     translations_json['translations'].append({'translatedText': 'foo%s' % count})
 
-        for index, msgid in enumerate(msgids_to_translate):
-            catalog[msgid].string = translations_json['translations'][index]['translatedText']
+            for index, message in enumerate(message_block):
+                catalog[message.id].string = translations_json['translations'][index]['translatedText']
+
+        # translate plural messages
+        plural_messages = [message for message in catalog
+            if (message.id and isinstance(message.string, tuple) and '' in message.string)]
+        plural_message_blocks = [plural_messages[block:block+block_size]
+            for block in range(0, len(plural_messages), block_size)]
+        for message_block in plural_message_blocks:
+            # google translate
+            translations_json = service.translations().list(
+                format='html',
+                source='en',
+                target=locale[:2], # google only knows about 2 letter language codes. Truncate locales like: pt_BR
+                q=[msgid for msgid in message.id for message in message_block],
+                ).execute()
+            # e.g. return value {'translations': [{'translatedText': 'fleurs'}, {'translatedText': 'voiture'}]}
+
+            # mock google translate
+            # translations_json = {'translations': []}
+            # for count in range(0, len(message_block)*2):
+            #     translations_json['translations'].append({'translatedText': 'foo%s' % count})
+
+            for index, message in enumerate(message_block):
+                catalog[message.id].string = (translations_json['translations'][index*2]['translatedText'],
+                    translations_json['translations'][(index*2)+1]['translatedText'])
+
         fileobj = open(os.path.join('i18n', locale, 'LC_MESSAGES', '{domain}.po'.format(domain=domain)), 'w')
         babel.messages.pofile.write_po(fileobj, catalog, ignore_obsolete=True, include_previous=True)
         fileobj.close()
-        return len(msgids_to_translate)
+
+        return (len(singular_messages) + len(plural_messages))
 
     translation_count = 0
     service = apiclient.discovery.build('translate', 'v2', developerKey=_locals.google_translate_server_api_key)
     supported_locales = i18n._get_supported_locales()
     for locale in supported_locales:
-        translation_count += _add_missing_translations(domain='messages', locale=locale)
-        translation_count += _add_missing_translations(domain='messages_js', locale=locale)
+        translation_count += _add_missing_translations(service=service, domain='messages', locale=locale)
+        translation_count += _add_missing_translations(service=service, domain='messages_js', locale=locale)
     print "Translated %d new strings." % translation_count
 
 

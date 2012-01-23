@@ -6,9 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Discogs 0.1\n"
-"Report-Msgid-Bugs-To: rflosi@discogs.com\n"
-"POT-Creation-Date: 2012-01-19 15:08-0800\n"
-"PO-Revision-Date: 2012-01-19 11:22-0800\n"
+"Report-Msgid-Bugs-To: language@discogs.com\n"
+"POT-Creation-Date: 2012-01-23 14:54-0800\n"
+"PO-Revision-Date: 2012-01-23 14:51-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
@@ -17,496 +17,1108 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
 
-#: controllers/user.py:75
-msgid "List already in use"
-msgstr ""
-
-#: controllers/user.py:157
-msgid "My"
-msgstr ""
-
-#: controllers/user.py:175
-msgid "Cannot add list because it already exists"
-msgstr ""
-
-#: controllers/user.py:177
-msgid "List does not exist"
-msgstr ""
-
-#: controllers/user.py:219
-msgid "Module already exists on your dashboard"
-msgstr ""
-
-#: controllers/user.py:238
-msgid "This account has been closed"
-msgstr ""
-
-#: controllers/user.py:455
-msgid "Create New Discogs Account"
-msgstr ""
-
-#: controllers/user.py:469
-msgid "Incorrect verification code"
-msgstr ""
-
-#: controllers/user.py:479
-msgid "You did not enter your Email Address"
-msgstr ""
-
-#: controllers/user.py:483
-msgid "You did not enter a valid Email Address"
-msgstr ""
-
-#: controllers/user.py:488
-msgid ""
-"Email addresses do not match. Please re-type your email address in both "
-"fields."
-msgstr ""
-
-#: controllers/user.py:493
-msgid ""
-"An Account with this Email Address already exists. If you already have a "
-"Discogs Account please use the \"Forgot Password\" or \"Forgot Username\""
-" options."
-msgstr ""
-
-#: controllers/user.py:505
-msgid "You did not enter a Password"
-msgstr ""
-
-#: controllers/user.py:508 controllers/user.py:784 controllers/user.py:1001
-msgid ""
-"Your password contains some non-alphanumeric characters. Please try a "
-"different one."
-msgstr ""
-
-#: controllers/user.py:511 controllers/user.py:783
-msgid ""
-"You did not type your password correctly. Both fields must match. Please "
-"try again."
-msgstr ""
-
-#: controllers/user.py:515
-msgid "You must accept the Terms of Service to use Discogs"
-msgstr ""
-
-#: controllers/user.py:606
-msgid "Confirm Account"
-msgstr ""
-
-#: controllers/user.py:609
-msgid "Missing confirmation code"
-msgstr ""
-
-#: controllers/user.py:615 controllers/user.py:621
-msgid ""
-"The user account you are trying to activate was not found. If you "
-"registered more than two weeks ago please re-register."
-msgstr ""
-
-#: controllers/user.py:646
-msgid "Log In"
-msgstr ""
-
-#: controllers/user.py:656
-msgid "Your account has been activated."
-msgstr ""
-
-#: controllers/user.py:668
-msgid "Oops, you tried to view a page that requires you to log in."
-msgstr ""
-
-#: controllers/user.py:670
-msgid "Oops, your session has expired. Please enter your password to continue."
-msgstr ""
-
-#: controllers/user.py:672
-msgid ""
-"Oops, your IP address has changed since you last logged in. Please enter "
-"your password to continue."
-msgstr ""
-
-#: controllers/user.py:674
-msgid ""
-"Oops, a server error occurred when we tried to log you in. Please try "
-"again."
-msgstr ""
-
-#: controllers/user.py:676
-msgid "You can now log in."
-msgstr ""
-
-#: controllers/user.py:716 controllers/user.py:720
-msgid "Username does not exist."
-msgstr ""
-
-#: controllers/user.py:724
-msgid ""
-"This account has not been activated. Please check your email for a "
-"message from"
-msgstr ""
-
-#: controllers/user.py:753
-msgid "Incorrect password."
-msgstr ""
-
-#: controllers/user.py:781
-msgid ""
-"The provided password reset token was invalid or has expired. If you wish"
-" to reset your password, use the form below to send a new token."
-msgstr ""
-
-#: controllers/user.py:782
-msgid "You did not enter a password."
-msgstr ""
-
-#: controllers/user.py:785
-msgid ""
-"Your password has been changed. You may now log in with your new "
-"credentials."
-msgstr ""
-
-#: controllers/user.py:786 controllers/user.py:1012
-msgid "Your recent Discogs password change"
-msgstr ""
-
-#: controllers/user.py:787 controllers/user.py:1011
-msgid ""
-"This message is to confirm that your Discogs password has just been "
-"changed."
-msgstr ""
-
-#: controllers/user.py:791
-msgid "Forgot Password - Step 1/3"
-msgstr ""
-
-#: controllers/user.py:796
-msgid "Forgot Password - Step 2/3"
-msgstr ""
-
-#: controllers/user.py:810
-msgid "Forgot Password - Step 3/3"
-msgstr ""
-
-#: controllers/user.py:876
-msgid "Discogs Account Password Reset Instructions"
-msgstr ""
-
-#: controllers/user.py:879
-msgid "Password reset instructions have been sent to"
-msgstr ""
-
-#: controllers/user.py:882
-msgid "There is no Discogs user with that e-mail address."
-msgstr ""
-
-#: controllers/user.py:891 controllers/user.py:930
-msgid "Are you sure you want to close this account?"
-msgstr ""
-
-#: controllers/user.py:900
-msgid "You cannot close a suspended account."
-msgstr ""
-
-#: controllers/user.py:902
-msgid ""
-"You have pending sales and cannot close your account until those have "
-"been completed."
-msgstr ""
-
-#: controllers/user.py:904
-msgid ""
-"You have unpaid invoices and cannot close your account until those have "
-"been paid."
-msgstr ""
-
-#: controllers/user.py:915
-msgid "We have emailed you instructions on deleting your account."
-msgstr ""
-
-#: controllers/user.py:918 controllers/user.py:945 controllers/user.py:1282
-msgid "Incorrect password"
-msgstr ""
-
-#: controllers/user.py:941
-msgid "Account Deleted"
-msgstr ""
-
-#: controllers/user.py:943
-msgid "Your account has been closed."
-msgstr ""
-
-#: controllers/user.py:959
-msgid "General Settings"
-msgstr ""
-
-#: controllers/user.py:988 controllers/user.py:1163
-msgid "Saved Changes"
-msgstr ""
-
-#: controllers/user.py:995 controllers/user.py:1004
-msgid "There was an error changing your password."
-msgstr ""
-
-#: controllers/user.py:998
-msgid "You did not type a new password."
-msgstr ""
-
-#: controllers/user.py:1008
-msgid "Changed password"
-msgstr ""
-
-#: controllers/user.py:1028
-msgid "Applications"
-msgstr ""
-
-#: controllers/user.py:1037
-msgid "The application's access has been revoked."
-msgstr ""
-
-#: controllers/user.py:1055
-msgid "The application has been deleted."
-msgstr ""
-
-#: controllers/user.py:1065
-msgid "Saved changes"
-msgstr ""
-
-#: controllers/user.py:1074
-msgid "Notification Options"
-msgstr ""
-
-#: controllers/user.py:1139
-msgid "Saved"
-msgstr ""
-
-#: controllers/user.py:1148
-msgid "Privacy Settings"
-msgstr ""
-
-#: controllers/user.py:1171
-msgid "Unblocked user(s)"
-msgstr ""
-
-#: controllers/user.py:1183
-msgid "Blocked"
-msgstr ""
-
-#: controllers/user.py:1193
-msgid "Removed user from ignore list."
-msgstr ""
-
-#: controllers/user.py:1218
-msgid ""
-"One or more of your fields has no name. Please enter a name for your "
-"field."
-msgstr ""
-
-#: controllers/user.py:1230
-msgid "Saved your changes."
-msgstr ""
-
-#: controllers/user.py:1256
-msgid "Change Email Address"
-msgstr ""
-
-#: controllers/user.py:1267
-msgid "Missing address"
-msgstr ""
-
-#: controllers/user.py:1270
-msgid "Addresses do not match"
-msgstr ""
-
-#: controllers/user.py:1276
-msgid ""
-"An account with this email address already exists in Discogs. Discogs "
-"enforces unique email addresses for all accounts."
-msgstr ""
-
-#: controllers/user.py:1296
-msgid "Confirm Discogs email address change"
-msgstr ""
-
-#: controllers/user.py:1320
-msgid "Confirm Email Address Change"
-msgstr ""
-
-#: controllers/user.py:1325
-msgid "Missing key"
-msgstr ""
-
-#: controllers/user.py:1330
-msgid "Key not found or address has already been changed"
-msgstr ""
-
-#: controllers/user.py:1363
-msgid "was added to your friends list."
-msgstr ""
-
-#: controllers/user.py:1372
-msgid "Removed"
-msgstr ""
-
-#: controllers/user.py:1372
-msgid "from your friends list."
-msgstr ""
-
-#: controllers/user.py:1383
-msgid "Add Friend"
-msgstr ""
-
-#: controllers/user.py:1393
+#: controllers/digital.py:225 controllers/jd.py:277 controllers/m.py:1873
+msgid "Marketplace"
+msgstr "市场"
+
+#: controllers/digital.py:226 controllers/jd.py:278 controllers/m.py:1874
+msgid "Digital"
+msgstr "数字"
+
+#: controllers/digital.py:228 controllers/jd.py:280 controllers/m.py:1789
+#: controllers/m.py:1876
+msgid "Shopping Cart"
+msgstr "购物车"
+
+#: controllers/explore.py:20 jviews/digital/bundle.html:66
+#: jviews/digital/index.html:34 jviews/label/rollover.html:20
+#: jviews/search/query.html:131
+msgid "Releases"
+msgstr "发布"
+
+#: controllers/explore.py:21
+msgid "Videos"
+msgstr "视频"
+
+#: controllers/explore.py:22
+msgid "Reviews"
+msgstr "评论"
+
+#: controllers/explore.py:23 jviews/_footer.html:44
+msgid "Lists"
+msgstr "列表"
+
+#: controllers/explore.py:24
+msgid "Artists"
+msgstr "艺术家"
+
+#: controllers/explore.py:25
+msgid "Labels"
+msgstr "标签"
+
+#: controllers/explore.py:28 jviews/_header.html:56
+msgid "Explore"
+msgstr "浏览"
+
+#: jviews/_errors_alerts_warnings.html:5
+msgid "Error"
+msgstr "错误"
+
+#: jviews/_footer.html:10 jviews/m/buymusic.html:79
+msgid "Items I Want"
+msgstr "我想要的物品"
+
+#: jviews/_footer.html:11
+msgid "in MP3/WAV"
+msgstr "在MP3/WAV"
+
+#: jviews/_footer.html:12 jviews/m/list.html:33
+msgid "My Purchases"
+msgstr "我的购买"
+
+#: jviews/_footer.html:13 jviews/_footer.html:28 jviews/_footer.html:48
+msgid "Settings"
+msgstr "设置"
+
+#: jviews/_footer.html:14
+msgid "Popular Formats"
+msgstr "流行的格式"
+
+#: jviews/_footer.html:15 jviews/m/buymusic.html:20
+msgid "Vinyl"
+msgstr "乙烯"
+
+#: jviews/_footer.html:16 jviews/m/buymusic.html:21
+msgid "CD"
+msgstr "CD"
+
+#: jviews/_footer.html:17 jviews/m/buymusic.html:22
+msgid "MP3/WAV"
+msgstr "MP3/WAV"
+
+#: jviews/_footer.html:21
+msgid "Getting Started"
+msgstr "入门"
+
+#: jviews/_footer.html:22 jviews/m/list.html:34
+msgid "Manage Inventory"
+msgstr "管理库存"
+
+#: jviews/_footer.html:24
+msgid "My Items For Sale"
+msgstr "出售我的项目"
+
+#: jviews/_footer.html:26 jviews/m/list.html:35
+msgid "My Orders"
+msgstr "我的订单"
+
+#: jviews/_footer.html:27 jviews/m/list.html:36
+msgid "Billing"
+msgstr "帐单"
+
+#: jviews/_footer.html:32
+msgid "Recent Group Activity"
+msgstr "最近的小组活动"
+
+#: jviews/_footer.html:33
+msgid "My Groups"
+msgstr "我的群组"
+
+#: jviews/_footer.html:34
+msgid "Saved Group Topics"
+msgstr "组保存的主题"
+
+#: jviews/_footer.html:35
+msgid "Help Forums"
+msgstr "帮助论坛"
+
+#: jviews/_footer.html:39
+msgid "Collection"
+msgstr "收藏"
+
+#: jviews/_footer.html:40 jviews/digital/index.html:18
+msgid "Wantlist"
+msgstr "Wantlist"
+
+#: jviews/_footer.html:41
+msgid "Submissions"
+msgstr "意见书"
+
+#: jviews/_footer.html:42
 msgid "Drafts"
-msgstr ""
+msgstr "草稿"
 
-#: controllers/user.py:1406
-msgid "Release was deleted."
-msgstr ""
+#: jviews/_footer.html:46
+msgid "Friends"
+msgstr "朋友"
 
-#: controllers/user.py:1414
-msgid "Export My Data"
-msgstr ""
+#: jviews/_footer.html:47
+msgid "Export Data"
+msgstr "导出数据"
 
-#: controllers/user.py:1431
-msgid ""
-"Sorry, that type of export has already been requested within the past "
-"hour. Please try again after one hour."
-msgstr ""
-
-#: controllers/user.py:1438
-msgid "Your export request was scheduled"
-msgstr ""
-
-#: controllers/user.py:1475
-msgid "Manage Folders"
-msgstr ""
-
-#: controllers/user.py:1482
-msgid "You did not select a folder to delete."
-msgstr ""
-
-#: controllers/user.py:1486
-msgid "Deleted Folder"
-msgstr ""
-
-#: controllers/user.py:1488
-msgid "Folder is not empty"
-msgstr ""
-
-#: controllers/user.py:1494
-msgid "Missing new folder name and/or you did not select a folder to rename"
-msgstr ""
-
-#: controllers/user.py:1497
-msgid "Renamed folder"
-msgstr ""
-
-#: controllers/user.py:1502
-msgid "Missing folder name"
-msgstr ""
-
-#: controllers/user.py:1505
-msgid "Added new folder"
-msgstr ""
+#: jviews/_footer.html:50
+msgid "Logout"
+msgstr "登出"
 
 #: jviews/_footer.html:60
 msgid "About Us"
-msgstr ""
+msgstr "关于我们"
 
 #: jviews/_footer.html:61
 msgid "Blog"
-msgstr ""
+msgstr "博客"
 
 #: jviews/_footer.html:62
 msgid "Jobs"
-msgstr ""
+msgstr "乔布斯"
 
 #: jviews/_footer.html:63
 msgid "Shop"
-msgstr ""
+msgstr "铺"
 
 #: jviews/_footer.html:64
 msgid "Mobile"
-msgstr ""
+msgstr "移动"
 
 #: jviews/_footer.html:69
 msgid "Help&nbsp;Is&nbsp;Here"
-msgstr ""
+msgstr "在此获得帮助"
 
 #: jviews/_footer.html:71 jviews/_header.html:11
 msgid "Help"
-msgstr ""
+msgstr "帮助"
 
 #: jviews/_footer.html:72
 msgid "Forums"
-msgstr ""
+msgstr "论坛"
 
 #: jviews/_footer.html:74
 msgid "Support Request"
-msgstr ""
+msgstr "支持请求"
 
 #: jviews/_footer.html:76
 msgid "Contact"
-msgstr ""
+msgstr "联系"
 
 #: jviews/_footer.html:82
 msgid "Join&nbsp;In"
-msgstr ""
+msgstr "加盟"
 
 #: jviews/_footer.html:85
 msgid "Sign Up"
-msgstr ""
+msgstr "注册"
 
-#: jviews/_footer.html:87
+#: jviews/_footer.html:87 jviews/explore/_carousel.html:11
 msgid "Contribute"
-msgstr ""
+msgstr "作出贡献"
 
-#: jviews/_footer.html:88
+#: jviews/_footer.html:88 jviews/label/view.html:89
 msgid "Add Release"
-msgstr ""
+msgstr "新增发行"
 
 #: jviews/_footer.html:89
 msgid "Contributor List"
-msgstr ""
+msgstr "参与者名单"
 
 #: jviews/_footer.html:94
 msgid "Follow&nbsp;Us"
-msgstr ""
-
-#: jviews/_footer.html:96
-msgid "Facebook"
-msgstr ""
-
-#: jviews/_footer.html:97
-msgid "Twitter"
-msgstr ""
+msgstr "跟随我们"
 
 #: jviews/_footer.html:102
 msgid "Languages"
-msgstr ""
-
-#: jviews/_footer.html:116
-msgid "Other&nbsp;Stuff"
-msgstr ""
+msgstr "语言"
 
 #: jviews/_footer.html:118
+msgid "Other&nbsp;Stuff"
+msgstr "其他的东西"
+
+#: jviews/_footer.html:120
 msgid "Developers&nbsp;API"
-msgstr ""
-
-#: jviews/_footer.html:126
-msgid "website"
-msgstr ""
-
-#: jviews/_footer.html:126
-msgid "Copyright"
-msgstr ""
-
-#: jviews/_footer.html:127
-msgid "Terms of Service"
-msgstr ""
+msgstr "API开发"
 
 #: jviews/_footer.html:128
+msgid "website"
+msgstr "网站"
+
+#: jviews/_footer.html:128
+msgid "Copyright"
+msgstr "版权所有"
+
+#: jviews/_footer.html:129
+msgid "Terms of Service"
+msgstr "服务条款"
+
+#: jviews/_footer.html:130
 msgid "Privacy Policy"
-msgstr ""
+msgstr "隐私权政策"
+
+#: jviews/_header.html:34
+msgid "Log In"
+msgstr "登录"
+
+#: jviews/_header.html:42
+msgid "Go to Discogs.com homepage"
+msgstr "转到Discogs.com网页"
+
+#: jviews/_header.html:47
+msgid "Search artists, albums and more..."
+msgstr "搜索艺术家，影集和更多..."
+
+#: jviews/_header.html:57
+msgid "Buy Music"
+msgstr "购买音乐"
+
+#: jviews/_header.html:58
+msgid "Sell Music"
+msgstr "出售音乐"
+
+#: jviews/_header.html:59
+msgid "Community"
+msgstr "社区"
+
+#: jviews/_header.html:62
+msgid "My Discogs"
+msgstr "我Discogs"
+
+#: jviews/_header.html:67
+msgid "Create Account"
+msgstr "创建帐户"
+
+#: jviews/admin/styles.html:7
+msgid "Genre"
+msgstr "类型"
+
+#: jviews/admin/styles.html:21
+msgid "New Styles"
+msgstr "新风格"
+
+#: jviews/admin/styles.html:21
+msgid "one per line"
+msgstr "每行一个"
+
+#: jviews/digital/bundle.html:13 jviews/digital/bundle.html:29
+#: jviews/digital/index.html:53 jviews/digital/index.html:74
+#: jviews/digital/index.html:78 jviews/explore/lists.html:50
+#: jviews/explore/lists.html:58
+msgid "more"
+msgstr "更多"
+
+#: jviews/digital/bundle.html:16 jviews/digital/bundle.html:32
+msgid "More From"
+msgstr "更多来自"
+
+#: jviews/digital/bundle.html:43
+msgid "more genres"
+msgstr "更多的流派"
+
+#: jviews/digital/bundle.html:45 jviews/digital/index.html:55
+msgid "Browse by Genre"
+msgstr "按类别浏览"
+
+#: jviews/digital/cart.html:5
+msgid "Continue Shopping"
+msgstr "继续购物"
+
+#: jviews/digital/cart.html:9
+msgid "Empty Cart"
+msgstr "清空购物车"
+
+#: jviews/digital/cart.html:20 jviews/digital/checkout.html:15
+msgid "Item"
+msgstr "项目"
+
+#: jviews/digital/cart.html:21 jviews/digital/checkout.html:16
+msgid "Format"
+msgstr "格式"
+
+#: jviews/digital/cart.html:22 jviews/digital/checkout.html:17
+#: jviews/m/list.html:80 jviews/m/list_release.html:99
+msgid "Price"
+msgstr "价格"
+
+#: jviews/digital/cart.html:30
+msgid "Change all formats to"
+msgstr "将所有格式"
+
+#: jviews/digital/cart.html:77
+msgid "release"
+msgstr "发布"
+
+#: jviews/digital/cart.html:77
+msgid "tracks"
+msgstr "轨道"
+
+#: jviews/digital/cart.html:79
+msgid "track"
+msgstr "追踪"
+
+#: jviews/digital/cart.html:91 jviews/label/view.html:37
+msgid "remove"
+msgstr "删除"
+
+#: jviews/digital/cart.html:99 jviews/digital/checkout.html:34
+#: jviews/digital/history.html:14
+msgid "Total"
+msgstr "共有"
+
+#: jviews/digital/cart.html:107
+msgid "Checkout"
+msgstr "结帐"
+
+#: jviews/digital/cart.html:115 jviews/digital/checkout.html:59
+msgid "Your cart is empty"
+msgstr "你的车是空的的"
+
+#: jviews/digital/checkout.html:45
+msgid "Subscribe to featured releases newsletter"
+msgstr "订阅功能释放简讯"
+
+#: jviews/digital/history.html:6
+msgid "No orders"
+msgstr "没有订单"
+
+#: jviews/digital/history.html:7
+msgid "Start Shopping"
+msgstr "开始购物"
+
+#: jviews/digital/history.html:12
+msgid "Order Number"
+msgstr "订单号"
+
+#: jviews/digital/history.html:13
+msgid "Purchase Date"
+msgstr "购买日期"
+
+#: jviews/digital/index.html:10
+msgid "MP3 &amp; WAV Downloads"
+msgstr "MP3及WAV下载"
+
+#: jviews/digital/index.html:15
+msgid "Showing"
+msgstr "显示"
+
+#: jviews/digital/index.html:16 jviews/m/list.html:69
+msgid "item"
+msgid_plural "items"
+msgstr[0] "F"
+msgstr[1] "F"
+
+#: jviews/digital/index.html:17
+msgid "from my"
+msgstr "从我"
+
+#: jviews/digital/index.html:19
+msgid "available in digital format"
+msgstr "可在数字格式"
+
+#: jviews/digital/index.html:42
+msgid "Sorry, no downloads could be found."
+msgstr "对不起，没有下载可以找到。"
+
+#: jviews/digital/index.html:88
+msgid "MP3 &amp; WAV"
+msgstr "MP3和WAV"
+
+#: jviews/explore/_carousel.html:5
+msgid "Discover"
+msgstr "探索"
+
+#: jviews/explore/_carousel.html:6
+msgid "new and old music, connect with other music lovers"
+msgstr "新老音乐，与其他音乐爱好者连接"
+
+#: jviews/explore/_carousel.html:12
+msgid "to the largest and most accurate music database"
+msgstr "到的最大和最准确的的音乐资料库"
+
+#: jviews/explore/_carousel.html:17 jviews/m/buymusic.html:90
+#: jviews/m/buymusic.html:113
+msgid "Buy"
+msgstr "购买"
+
+#: jviews/explore/_carousel.html:17
+msgid "Sell"
+msgstr "卖"
+
+#: jviews/explore/_carousel.html:18
+msgid "music in the world's biggest and best music marketplace"
+msgstr "音乐在世界上最大和最好的音乐市场"
+
+#: jviews/explore/_carousel.html:23
+msgid "Track"
+msgstr "追踪"
+
+#: jviews/explore/_carousel.html:24
+msgid ""
+"your collection and wantlist, get notified when items you want are for "
+"sale"
+msgstr "您的收集和wantlist，你想要的物品出售时获得通知"
+
+#: jviews/explore/_facets.html:81 jviews/explore/lists.html:21
+#: jviews/label/rollover.html:11
+msgid "Genres"
+msgstr "类型"
+
+#: jviews/explore/_facets.html:91 jviews/explore/_facets.html:124
+#: jviews/explore/_facets.html:163 jviews/explore/_facets.html:225
+msgid "show more"
+msgstr "显示更多"
+
+#: jviews/explore/_facets.html:111
+msgid "Styles"
+msgstr "样式"
+
+#: jviews/explore/_facets.html:152
+msgid "Formats"
+msgstr "格式"
+
+#: jviews/explore/_facets.html:188
+msgid "Decade"
+msgstr "十年"
+
+#: jviews/explore/_facets.html:199
+msgid "Year"
+msgstr "年"
+
+#: jviews/explore/_facets.html:213
+msgid "Country"
+msgstr "国家"
+
+#: jviews/explore/_sort.html:3
+msgid "Sort By"
+msgstr "排序方式"
+
+#: jviews/explore/_sort.html:8
+msgid "Show"
+msgstr "显示"
+
+#: jviews/home/marketplace.html:5
+msgid "The Best Way to Sell Music"
+msgstr "出售音乐的最佳途径"
+
+#: jviews/home/marketplace.html:6
+msgid "Selling vinyl records and CDs has never been easier."
+msgstr "销售的黑胶唱片和CD从未如此简单。"
+
+#: jviews/home/marketplace.html:12
+msgid "Make more money"
+msgstr "赚更多的钱"
+
+#: jviews/home/marketplace.html:14
+msgid "Listing items for sale on Discogs is <strong>always free</strong>."
+msgstr "Discogs上出售的上市项目<strong>一直</strong>是<strong>免费</strong>的。"
+
+#: jviews/home/marketplace.html:15
+msgid "You only pay a 6 - 8&#37; fee when your items sell."
+msgstr "您只需支付6 - 8％的费用，当您的项目出售。"
+
+#: jviews/home/marketplace.html:22
+msgid "Reach more buyers"
+msgstr "接触更多的买家"
+
+#: jviews/home/marketplace.html:24
+msgid ""
+"More than <strong>4 million people</strong> look for music on Discogs "
+"every month."
+msgstr "<strong>超过</strong> 400万<strong>的</strong>人寻找音乐上的Discogs每一个月。"
+
+#: jviews/home/marketplace.html:25
+msgid "Selling here gets you instant exposure to our high traffic."
+msgstr "销售在这里可以让你即时接触到我们的高流量。"
+
+#: jviews/home/marketplace.html:32
+msgid "Do less work"
+msgstr "少做工作"
+
+#: jviews/home/marketplace.html:34
+msgid "No need to type up detailed item descriptions."
+msgstr "无需输入详细的项目说明。"
+
+#: jviews/home/marketplace.html:35
+msgid "The info is already here."
+msgstr "信息已经在这里。"
+
+#: jviews/home/marketplace.html:36
+msgid "Discogs users are auto-notified when items they want are listed."
+msgstr "Discogs用户自动列出他们想要的物品时通知。"
+
+#: jviews/home/marketplace.html:45
+msgid "Listing Options"
+msgstr "清单选项"
+
+#: jviews/home/marketplace.html:50
+msgid "Standard Listing"
+msgstr "标准清单"
+
+#: jviews/home/marketplace.html:51
+msgid "For sellers with time to list items one-by-one"
+msgstr "随着时间的推移卖家列出的项目之一一"
+
+#: jviews/home/marketplace.html:53
+msgid "Initial listings are one-by-one, but can be updated in bulk"
+msgstr "首次上市是一个由一，但可以批量更新"
+
+#: jviews/home/marketplace.html:54
+msgid "Items are displayed under the exact release you list them"
+msgstr "项目会显示在你一一列举确切的释放"
+
+#: jviews/home/marketplace.html:55
+msgid "Only 6&#37; in fees incur when your items sell"
+msgstr "只有6％的费用产生当您的物品出售"
+
+#: jviews/home/marketplace.html:56
+msgid "Watch how it's done"
+msgstr "手表它是如何做"
+
+#: jviews/home/marketplace.html:57
+msgid "Get Started"
+msgstr "入门"
+
+#: jviews/home/marketplace.html:61
+msgid "OR"
+msgstr "或"
+
+#: jviews/home/marketplace.html:64
+msgid "Product Search"
+msgstr "产品搜索"
+
+#: jviews/home/marketplace.html:65
+msgid "For sellers that need to list their items in bulk"
+msgstr "卖家需要散装的项目列表"
+
+#: jviews/home/marketplace.html:67
+msgid "Initial listings and all updates are handled with bulk uploads"
+msgstr "首次上市及所有更新处理批量上传"
+
+#: jviews/home/marketplace.html:68
+msgid "Items are displayed in search results based on artist, title and format"
+msgstr "项显示在艺术家，标题和格式的搜索结果"
+
+#: jviews/home/marketplace.html:69
+msgid "Only 8&#37; in fees incur when your items sell"
+msgstr "只有8％的费用产生当您的物品出售"
+
+#: jviews/home/marketplace.html:70
+msgid "Learn more"
+msgstr "了解更多"
+
+#: jviews/home/marketplace.html:80
+msgid "Read what other Discogs sellers have to say"
+msgstr "读什么其他Discogs的卖家不得不说"
+
+#: jviews/home/marketplace.html:256
+msgid "If you would like us to add your testimonial, please contact"
+msgstr "如果您想我们添加您的推荐，请联系"
+
+#: jviews/home/marketplace.html:257
+msgid "Marketplace Support"
+msgstr "市场支持"
+
+#: jviews/home/marketplace.html:263
+msgid "Get Started Selling Now"
+msgstr "开始销售现在"
+
+#: jviews/label/rollover.html:2
+msgid "This label does not exist in Discogs."
+msgstr "在Discogs此标签不存在。"
+
+#: jviews/label/rollover.html:6
+msgid "Profile"
+msgstr "简介"
+
+#: jviews/label/rollover.html:25 jviews/label/view.html:44
+msgid "submission pending"
+msgid_plural "submissions pending"
+msgstr[0] "F"
+msgstr[1] "F"
+
+#: jviews/label/rollover.html:30
+msgid "Alternates"
+msgstr "候补"
+
+#: jviews/label/rollover.html:39
+msgid "Search for variations of"
+msgstr "搜寻的变化"
+
+#: jviews/label/view.html:27
+msgid "history / edit"
+msgstr "历史/编辑"
+
+#: jviews/label/view.html:28 jviews/m/list_release.html:110
+msgid "Label"
+msgstr "标签"
+
+#: jviews/label/view.html:42 jviews/search/_results.html:55
+#: jviews/search/query.html:93
+msgid "Add to List"
+msgstr "添加到列表"
+
+#: jviews/label/view.html:50
+msgid "Jump To"
+msgstr "跳转至"
+
+#: jviews/label/view.html:52
+msgid "reviews"
+msgstr "评论"
+
+#: jviews/label/view.html:53
+msgid "lists"
+msgstr "列表"
+
+#: jviews/label/view.html:63
+msgid "sort"
+msgstr "排序"
+
+#: jviews/label/view.html:69
+msgid "genres"
+msgstr "体裁"
+
+#: jviews/label/view.html:72 jviews/label/view.html:74
+#: jviews/m/buymusic.html:135
+msgid "All Genres"
+msgstr "所有类型"
+
+#: jviews/label/view.html:97
+msgid "Discography"
+msgstr "唱片"
+
+#: jviews/label/view.html:99
+msgid "showing"
+msgstr "显示"
+
+#: jviews/label/view.html:105
+msgid "This label has no approved releases"
+msgstr "这个标签没有批准发行"
+
+#: jviews/label/view.html:105
+msgid "in"
+msgstr "在"
+
+#: jviews/label/view.html:105
+msgid "View all genres"
+msgstr "所有类型"
+
+#: jviews/m/_macro.html:716
+msgid "Add&nbsp;to&nbsp;Cart"
+msgstr "加入购物车"
+
+#: jviews/m/buymusic.html:10
+msgid ""
+"Discogs is the safe and easy way to buy and <a "
+"href=\"/marketplace\">sell</a> music."
+msgstr "Discogs是安全和方便的方式购买和<a href=\"/marketplace\">出售</a>音乐。"
+
+#: jviews/m/buymusic.html:14 jviews/m/buymusic.html:129
+msgid "browse all"
+msgstr "浏览所有"
+
+#: jviews/m/buymusic.html:16
+msgid "Buy Vinyl Records, CDs and More"
+msgstr "购买唱片，CD和"
+
+#: jviews/m/buymusic.html:23
+msgid "Cassette"
+msgstr "盒式"
+
+#: jviews/m/buymusic.html:24
+msgid "More formats"
+msgstr "更多的格式"
+
+#: jviews/m/buymusic.html:27
+msgid "Electronic"
+msgstr "电子"
+
+#: jviews/m/buymusic.html:28
+msgid "Rock"
+msgstr "岩"
+
+#: jviews/m/buymusic.html:29
+msgid "Hip Hop"
+msgstr "嘻哈"
+
+#: jviews/m/buymusic.html:30
+msgid "Funk / Soul"
+msgstr "放克/灵魂"
+
+#: jviews/m/buymusic.html:31
+msgid "Pop"
+msgstr "流行"
+
+#: jviews/m/buymusic.html:32
+msgid "Jazz"
+msgstr "爵士乐"
+
+#: jviews/m/buymusic.html:33
+msgid "Reggae"
+msgstr "雷鬼"
+
+#: jviews/m/buymusic.html:34
+msgid "Classical"
+msgstr "古典"
+
+#: jviews/m/buymusic.html:35
+msgid "More genres"
+msgstr "更多类型"
+
+#: jviews/m/buymusic.html:38
+msgid "House"
+msgstr "楼"
+
+#: jviews/m/buymusic.html:39
+msgid "Techno"
+msgstr "TECHNO"
+
+#: jviews/m/buymusic.html:40
+msgid "Trance"
+msgstr "发呆"
+
+#: jviews/m/buymusic.html:41
+msgid "Disco"
+msgstr "迪斯科"
+
+#: jviews/m/buymusic.html:42
+msgid "Indie Rock"
+msgstr "独立摇滚"
+
+#: jviews/m/buymusic.html:43
+msgid "Punk"
+msgstr "朋克"
+
+#: jviews/m/buymusic.html:44
+msgid "New Wave"
+msgstr "新浪潮"
+
+#: jviews/m/buymusic.html:45
+msgid "Dancehall"
+msgstr "舞厅"
+
+#: jviews/m/buymusic.html:46
+msgid "More styles"
+msgstr "更多样式"
+
+#: jviews/m/buymusic.html:53
+msgid "Recent Marketplace Sales"
+msgstr "最近的市场销售。"
+
+#: jviews/m/buymusic.html:77
+msgid "view all"
+msgstr "查看全部"
+
+#: jviews/m/buymusic.html:83
+msgid ""
+"Add stuff to your wantlist and we'll let you know when someone is selling"
+" it."
+msgstr "添加的东西你wantlist，我们会让你知道，当有人出售。"
+
+#: jviews/m/buymusic.html:91 jviews/m/buymusic.html:114
+msgid "for sale"
+msgstr "出售"
+
+#: jviews/m/buymusic.html:102
+msgid "Recommendations For You"
+msgstr "您的建议"
+
+#: jviews/m/buymusic.html:106
+msgid "Start getting recommendations by making a purchase in the marketplace."
+msgstr "开始通过在市场上购买的建议。"
+
+#: jviews/m/buymusic.html:131
+msgid "Bestselling MP3/WAV"
+msgstr "畅销MP3/WAV"
+
+#: jviews/m/buymusic.html:141
+msgid "Bestselling"
+msgstr "畅销"
+
+#: jviews/m/buymusic.html:143
+msgid "New Releases"
+msgstr "新发布"
+
+#: jviews/m/cartrecs.html:5
+msgid "Recommendations"
+msgstr "建议"
+
+#: jviews/m/cartrecs.html:7 jviews/m/cartrecs.html:37 jviews/m/item.html:130
+#: jviews/m/list.html:82 jviews/m/seller.html:9
+msgid "View Cart"
+msgstr "查看购物车"
+
+#: jviews/m/cartrecs.html:9
+msgid "Based on the items in your Shopping Cart from seller"
+msgstr "根据您的购物车的物品从卖方"
+
+#: jviews/m/cartrecs.html:9
+msgid "we recommend these releases"
+msgstr "我们建议这些版本"
+
+#: jviews/m/item.html:135 jviews/m/list.html:185 jviews/m/list_release.html:48
+msgid "Sales History"
+msgstr "销售记录"
+
+#: jviews/m/list.html:32
+msgid "Show Items I Want"
+msgstr "显示我想要的物品"
+
+#: jviews/m/list.html:33
+msgid "Buyers"
+msgstr "买家"
+
+#: jviews/m/list.html:34
+msgid "Sellers"
+msgstr "卖家"
+
+#: jviews/m/list.html:56
+msgid "You Selected"
+msgstr "您选择"
+
+#: jviews/m/list.html:66 jviews/m/list_release.html:82
+#: jviews/search/_results.html:32
+msgid "Sort by"
+msgstr "排序方式"
+
+#: jviews/m/list.html:73 jviews/m/list_release.html:57
+msgid "Community Data"
+msgstr "社区数据"
+
+#: jviews/m/list.html:77 jviews/m/list_release.html:98
+msgid "Seller Information"
+msgstr "卖家信息"
+
+#: jviews/m/list.html:118 jviews/m/list_release.html:136
+msgid "Seller"
+msgstr "卖方"
+
+#: jviews/m/list.html:119 jviews/m/list_release.html:137
+msgid "Rating"
+msgstr "评价"
+
+#: jviews/m/list.html:120 jviews/m/list_release.html:138
+msgid "Ships From"
+msgstr "从船舶"
+
+#: jviews/m/list.html:143 jviews/m/list_release.html:162
+msgid "Make Offer / Details"
+msgstr "买方报价/详细信息"
+
+#: jviews/m/list.html:145 jviews/m/list_release.html:162
+msgid "Details"
+msgstr "详情"
+
+#: jviews/m/list.html:149 jviews/m/list_release.html:122
+msgid "Install Flash player to hear audio clip."
+msgstr "安装Flash Player听到音频剪辑。"
+
+#: jviews/m/list.html:173 jviews/m/list_release.html:152
+msgid "Manage Product Search Items"
+msgstr "管理产品搜索项"
+
+#: jviews/m/list.html:187 jviews/m/list_release.html:51
+msgid "Sell this Item"
+msgstr "卖此项目"
+
+#: jviews/m/list_release.html:34
+msgid "Back to Release Details"
+msgstr "返回到版本详细"
+
+#: jviews/m/list_release.html:37
+msgid "In Collection"
+msgstr "在集合"
+
+#: jviews/m/list_release.html:40
+msgid "In Wantlist"
+msgstr "在Wantlist"
+
+#: jviews/m/list_release.html:44
+msgid "Show/Hide Tracklist"
+msgstr "显示/隐藏曲目"
+
+#: jviews/m/list_release.html:76
+msgid "page"
+msgstr "页"
+
+#: jviews/m/list_release.html:76
+msgid "of"
+msgstr "对"
+
+#: jviews/m/list_release.html:97
+msgid "Condition"
+msgstr "条件"
+
+#: jviews/m/list_release.html:100
+msgid "Buy It"
+msgstr "买它"
+
+#: jviews/m/list_release.html:113
+msgid "Media"
+msgstr "媒体"
+
+#: jviews/m/list_release.html:115
+msgid "Sleeve"
+msgstr "套"
+
+#: jviews/m/list_release.html:154
+msgid "Edit Listing"
+msgstr "编辑清单"
+
+#: jviews/m/list_release.html:155
+msgid "Unlist Item"
+msgstr "不公开项目"
+
+#: jviews/m/seller.html:7
+msgid "New Seller"
+msgstr "新卖家"
+
+#: jviews/m/seller.html:30
+msgid "Items Ship From"
+msgstr "项目船从"
+
+#: jviews/m/seller.html:31
+msgid "Payment Methods"
+msgstr "付款方式"
+
+#: jviews/m/seller.html:32
+msgid "Shipping Policies"
+msgstr "航运政策"
+
+#: jviews/search/_results.html:5
+msgid "Your search returned no results. Please try a different query."
+msgstr "您的搜索返回任何结果。请尝试一个不同的查询。"
+
+#: jviews/search/_results.html:7 jviews/search/_results.html:16
+#: jviews/search/query.html:34
+msgid "Help on search"
+msgstr "在搜索的帮助"
+
+#: jviews/search/_results.html:13
+msgid "Search results"
+msgstr "搜索结果"
+
+#: jviews/search/_results.html:14
+msgid "results"
+msgstr "结果"
+
+#: jviews/search/_results.html:21
+msgid "Filter results by"
+msgstr "过滤结果"
+
+#: jviews/search/_results.html:42
+msgid "Needs Vote"
+msgstr "需要投票"
+
+#: jviews/search/_results.html:45
+msgid "Needs Changes"
+msgstr "需求的变化"
+
+#: jviews/search/query.html:27
+msgid "Show Advanced Search"
+msgstr "显示高级搜索"
+
+#: jviews/search/query.html:33
+msgid "You did not enter a search query."
+msgstr "您没有输入一个搜索查询。"
+
+#: jviews/search/query.html:43
+msgid "Did you mean?"
+msgstr "你的意思吗？"
+
+#: jviews/search/query.html:60
+msgid "artist named"
+msgid_plural "artists named"
+msgstr[0] "F"
+msgstr[1] "Ø"
+
+#: jviews/search/query.html:63 jviews/search/query.html:72
+#: jviews/search/query.html:81
+msgid "We're showing the first 10, but you can"
+msgstr "我们呈现出前10，但你可以"
+
+#: jviews/search/query.html:64 jviews/search/query.html:73
+#: jviews/search/query.html:82
+msgid "view all here"
+msgstr "查看所有在这里"
+
+#: jviews/search/query.html:69 jviews/search/query.html:123
+msgid "artist name variation of"
+msgid_plural "artist name variations of"
+msgstr[0] "Ø"
+msgstr[1] "Ø"
+
+#: jviews/search/query.html:78
+msgid "label named"
+msgid_plural "labels named"
+msgstr[0] "Ø"
+msgstr[1] "Ø"
+
+#: jviews/search/query.html:100
+msgid "In list"
+msgstr "在列表"
+
+#: jviews/user/login.html:20
+msgid "Don't Have An Account?"
+msgstr "不要有一个帐户？"
+
+#: jviews/user/login.html:21
+msgid "A Discogs Account will let you:"
+msgstr "一个Discogs帐户将让您："
+
+#: jviews/user/login.html:23
+msgid "Help build the Discogs Database"
+msgstr "帮助建立Discogs数据库"
+
+#: jviews/user/login.html:24
+msgid "Organize your music collection and wantlist"
+msgstr "组织您的音乐收藏和wantlist"
+
+#: jviews/user/login.html:25
+msgid "Post comments and rate releases"
+msgstr "发表评论和利率发行"
+
+#: jviews/user/login.html:26
+msgid "Receive emails when something you want is for sale"
+msgstr "接收电子邮件时，你想要的东西出售"
+
+#: jviews/user/login.html:27
+msgid "Buy and sell music in the <a href=\"/marketplace\">Discogs Marketplace</a>"
+msgstr "购买和出售在音乐<a href=\"/marketplace\">Discogs市场</a>"
+
+#: jviews/user/login.html:28
+msgid "Make connections with other music lovers"
+msgstr "与其他音乐爱好者的连接"
+
+#: jviews/user/login.html:30
+msgid "Create an Account Now"
+msgstr "现在创建帐户"
+
+#: jviews/user/login.html:37
+msgid "Log In to Discogs"
+msgstr "登录到Discogs"
+
+#: jviews/user/login.html:41 jviews/user/login.html:49
+#: jviews/user/login.html:58
+msgid "Username"
+msgstr "用户名"
+
+#: jviews/user/login.html:52
+msgid "Not"
+msgstr "不"
+
+#: jviews/user/login.html:52
+msgid "?"
+msgstr "？"
+
+#: jviews/user/login.html:64
+msgid "Password"
+msgstr "密码"
+
+#: jviews/user/login.html:73
+msgid "Remember me"
+msgstr "记住我"
+
+#: jviews/user/login.html:75
+msgid "Only this IP"
+msgstr "只有这一个IP"
+
+#: jviews/user/login.html:81
+msgid "Forgot your password?"
+msgstr "忘记密码？"
 

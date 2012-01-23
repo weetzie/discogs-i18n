@@ -6,9 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Discogs 0.1\n"
-"Report-Msgid-Bugs-To: rflosi@discogs.com\n"
-"POT-Creation-Date: 2012-01-19 15:08-0800\n"
-"PO-Revision-Date: 2012-01-19 11:22-0800\n"
+"Report-Msgid-Bugs-To: language@discogs.com\n"
+"POT-Creation-Date: 2012-01-23 14:54-0800\n"
+"PO-Revision-Date: 2012-01-23 14:50-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: pt <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
@@ -17,496 +17,1124 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
 
-#: controllers/user.py:75
-msgid "List already in use"
-msgstr ""
-
-#: controllers/user.py:157
-msgid "My"
-msgstr ""
-
-#: controllers/user.py:175
-msgid "Cannot add list because it already exists"
-msgstr ""
-
-#: controllers/user.py:177
-msgid "List does not exist"
-msgstr ""
-
-#: controllers/user.py:219
-msgid "Module already exists on your dashboard"
-msgstr ""
-
-#: controllers/user.py:238
-msgid "This account has been closed"
-msgstr ""
-
-#: controllers/user.py:455
-msgid "Create New Discogs Account"
-msgstr ""
-
-#: controllers/user.py:469
-msgid "Incorrect verification code"
-msgstr ""
-
-#: controllers/user.py:479
-msgid "You did not enter your Email Address"
-msgstr ""
-
-#: controllers/user.py:483
-msgid "You did not enter a valid Email Address"
-msgstr ""
-
-#: controllers/user.py:488
-msgid ""
-"Email addresses do not match. Please re-type your email address in both "
-"fields."
-msgstr ""
-
-#: controllers/user.py:493
-msgid ""
-"An Account with this Email Address already exists. If you already have a "
-"Discogs Account please use the \"Forgot Password\" or \"Forgot Username\""
-" options."
-msgstr ""
-
-#: controllers/user.py:505
-msgid "You did not enter a Password"
-msgstr ""
-
-#: controllers/user.py:508 controllers/user.py:784 controllers/user.py:1001
-msgid ""
-"Your password contains some non-alphanumeric characters. Please try a "
-"different one."
-msgstr ""
-
-#: controllers/user.py:511 controllers/user.py:783
-msgid ""
-"You did not type your password correctly. Both fields must match. Please "
-"try again."
-msgstr ""
-
-#: controllers/user.py:515
-msgid "You must accept the Terms of Service to use Discogs"
-msgstr ""
-
-#: controllers/user.py:606
-msgid "Confirm Account"
-msgstr ""
-
-#: controllers/user.py:609
-msgid "Missing confirmation code"
-msgstr ""
-
-#: controllers/user.py:615 controllers/user.py:621
-msgid ""
-"The user account you are trying to activate was not found. If you "
-"registered more than two weeks ago please re-register."
-msgstr ""
-
-#: controllers/user.py:646
-msgid "Log In"
-msgstr ""
-
-#: controllers/user.py:656
-msgid "Your account has been activated."
-msgstr ""
-
-#: controllers/user.py:668
-msgid "Oops, you tried to view a page that requires you to log in."
-msgstr ""
-
-#: controllers/user.py:670
-msgid "Oops, your session has expired. Please enter your password to continue."
-msgstr ""
-
-#: controllers/user.py:672
-msgid ""
-"Oops, your IP address has changed since you last logged in. Please enter "
-"your password to continue."
-msgstr ""
-
-#: controllers/user.py:674
-msgid ""
-"Oops, a server error occurred when we tried to log you in. Please try "
-"again."
-msgstr ""
-
-#: controllers/user.py:676
-msgid "You can now log in."
-msgstr ""
-
-#: controllers/user.py:716 controllers/user.py:720
-msgid "Username does not exist."
-msgstr ""
-
-#: controllers/user.py:724
-msgid ""
-"This account has not been activated. Please check your email for a "
-"message from"
-msgstr ""
-
-#: controllers/user.py:753
-msgid "Incorrect password."
-msgstr ""
-
-#: controllers/user.py:781
-msgid ""
-"The provided password reset token was invalid or has expired. If you wish"
-" to reset your password, use the form below to send a new token."
-msgstr ""
-
-#: controllers/user.py:782
-msgid "You did not enter a password."
-msgstr ""
-
-#: controllers/user.py:785
-msgid ""
-"Your password has been changed. You may now log in with your new "
-"credentials."
-msgstr ""
-
-#: controllers/user.py:786 controllers/user.py:1012
-msgid "Your recent Discogs password change"
-msgstr ""
-
-#: controllers/user.py:787 controllers/user.py:1011
-msgid ""
-"This message is to confirm that your Discogs password has just been "
-"changed."
-msgstr ""
-
-#: controllers/user.py:791
-msgid "Forgot Password - Step 1/3"
-msgstr ""
-
-#: controllers/user.py:796
-msgid "Forgot Password - Step 2/3"
-msgstr ""
-
-#: controllers/user.py:810
-msgid "Forgot Password - Step 3/3"
-msgstr ""
-
-#: controllers/user.py:876
-msgid "Discogs Account Password Reset Instructions"
-msgstr ""
-
-#: controllers/user.py:879
-msgid "Password reset instructions have been sent to"
-msgstr ""
-
-#: controllers/user.py:882
-msgid "There is no Discogs user with that e-mail address."
-msgstr ""
-
-#: controllers/user.py:891 controllers/user.py:930
-msgid "Are you sure you want to close this account?"
-msgstr ""
-
-#: controllers/user.py:900
-msgid "You cannot close a suspended account."
-msgstr ""
-
-#: controllers/user.py:902
-msgid ""
-"You have pending sales and cannot close your account until those have "
-"been completed."
-msgstr ""
-
-#: controllers/user.py:904
-msgid ""
-"You have unpaid invoices and cannot close your account until those have "
-"been paid."
-msgstr ""
-
-#: controllers/user.py:915
-msgid "We have emailed you instructions on deleting your account."
-msgstr ""
-
-#: controllers/user.py:918 controllers/user.py:945 controllers/user.py:1282
-msgid "Incorrect password"
-msgstr ""
-
-#: controllers/user.py:941
-msgid "Account Deleted"
-msgstr ""
-
-#: controllers/user.py:943
-msgid "Your account has been closed."
-msgstr ""
-
-#: controllers/user.py:959
-msgid "General Settings"
-msgstr ""
-
-#: controllers/user.py:988 controllers/user.py:1163
-msgid "Saved Changes"
-msgstr ""
-
-#: controllers/user.py:995 controllers/user.py:1004
-msgid "There was an error changing your password."
-msgstr ""
-
-#: controllers/user.py:998
-msgid "You did not type a new password."
-msgstr ""
-
-#: controllers/user.py:1008
-msgid "Changed password"
-msgstr ""
-
-#: controllers/user.py:1028
-msgid "Applications"
-msgstr ""
-
-#: controllers/user.py:1037
-msgid "The application's access has been revoked."
-msgstr ""
-
-#: controllers/user.py:1055
-msgid "The application has been deleted."
-msgstr ""
-
-#: controllers/user.py:1065
-msgid "Saved changes"
-msgstr ""
-
-#: controllers/user.py:1074
-msgid "Notification Options"
-msgstr ""
-
-#: controllers/user.py:1139
-msgid "Saved"
-msgstr ""
-
-#: controllers/user.py:1148
-msgid "Privacy Settings"
-msgstr ""
-
-#: controllers/user.py:1171
-msgid "Unblocked user(s)"
-msgstr ""
-
-#: controllers/user.py:1183
-msgid "Blocked"
-msgstr ""
-
-#: controllers/user.py:1193
-msgid "Removed user from ignore list."
-msgstr ""
-
-#: controllers/user.py:1218
-msgid ""
-"One or more of your fields has no name. Please enter a name for your "
-"field."
-msgstr ""
-
-#: controllers/user.py:1230
-msgid "Saved your changes."
-msgstr ""
-
-#: controllers/user.py:1256
-msgid "Change Email Address"
-msgstr ""
-
-#: controllers/user.py:1267
-msgid "Missing address"
-msgstr ""
-
-#: controllers/user.py:1270
-msgid "Addresses do not match"
-msgstr ""
-
-#: controllers/user.py:1276
-msgid ""
-"An account with this email address already exists in Discogs. Discogs "
-"enforces unique email addresses for all accounts."
-msgstr ""
-
-#: controllers/user.py:1296
-msgid "Confirm Discogs email address change"
-msgstr ""
-
-#: controllers/user.py:1320
-msgid "Confirm Email Address Change"
-msgstr ""
-
-#: controllers/user.py:1325
-msgid "Missing key"
-msgstr ""
-
-#: controllers/user.py:1330
-msgid "Key not found or address has already been changed"
-msgstr ""
-
-#: controllers/user.py:1363
-msgid "was added to your friends list."
-msgstr ""
-
-#: controllers/user.py:1372
-msgid "Removed"
-msgstr ""
-
-#: controllers/user.py:1372
-msgid "from your friends list."
-msgstr ""
-
-#: controllers/user.py:1383
-msgid "Add Friend"
-msgstr ""
-
-#: controllers/user.py:1393
+#: controllers/digital.py:225 controllers/jd.py:277 controllers/m.py:1873
+msgid "Marketplace"
+msgstr "Mercado"
+
+#: controllers/digital.py:226 controllers/jd.py:278 controllers/m.py:1874
+msgid "Digital"
+msgstr "Digital"
+
+#: controllers/digital.py:228 controllers/jd.py:280 controllers/m.py:1789
+#: controllers/m.py:1876
+msgid "Shopping Cart"
+msgstr "Carrinho de compras"
+
+#: controllers/explore.py:20 jviews/digital/bundle.html:66
+#: jviews/digital/index.html:34 jviews/label/rollover.html:20
+#: jviews/search/query.html:131
+msgid "Releases"
+msgstr "Releases"
+
+#: controllers/explore.py:21
+msgid "Videos"
+msgstr "Vídeos"
+
+#: controllers/explore.py:22
+msgid "Reviews"
+msgstr "Comentários"
+
+#: controllers/explore.py:23 jviews/_footer.html:44
+msgid "Lists"
+msgstr "Listas"
+
+#: controllers/explore.py:24
+msgid "Artists"
+msgstr "Artistas"
+
+#: controllers/explore.py:25
+msgid "Labels"
+msgstr "Rótulos"
+
+#: controllers/explore.py:28 jviews/_header.html:56
+msgid "Explore"
+msgstr "Explorar"
+
+#: jviews/_errors_alerts_warnings.html:5
+msgid "Error"
+msgstr "Erro"
+
+#: jviews/_footer.html:10 jviews/m/buymusic.html:79
+msgid "Items I Want"
+msgstr "Incisos I Wanna"
+
+#: jviews/_footer.html:11
+msgid "in MP3/WAV"
+msgstr "em MP3/WAV"
+
+#: jviews/_footer.html:12 jviews/m/list.html:33
+msgid "My Purchases"
+msgstr "Minhas compras"
+
+#: jviews/_footer.html:13 jviews/_footer.html:28 jviews/_footer.html:48
+msgid "Settings"
+msgstr "Configurações"
+
+#: jviews/_footer.html:14
+msgid "Popular Formats"
+msgstr "Formatos populares"
+
+#: jviews/_footer.html:15 jviews/m/buymusic.html:20
+msgid "Vinyl"
+msgstr "Vinil"
+
+#: jviews/_footer.html:16 jviews/m/buymusic.html:21
+msgid "CD"
+msgstr "CD"
+
+#: jviews/_footer.html:17 jviews/m/buymusic.html:22
+msgid "MP3/WAV"
+msgstr "MP3/WAV"
+
+#: jviews/_footer.html:21
+msgid "Getting Started"
+msgstr "Introdução"
+
+#: jviews/_footer.html:22 jviews/m/list.html:34
+msgid "Manage Inventory"
+msgstr "Gerenciar estoques"
+
+#: jviews/_footer.html:24
+msgid "My Items For Sale"
+msgstr "Meus Itens Venda"
+
+#: jviews/_footer.html:26 jviews/m/list.html:35
+msgid "My Orders"
+msgstr "Meus Pedidos"
+
+#: jviews/_footer.html:27 jviews/m/list.html:36
+msgid "Billing"
+msgstr "Faturamento"
+
+#: jviews/_footer.html:32
+msgid "Recent Group Activity"
+msgstr "Atividade Grupo recentes"
+
+#: jviews/_footer.html:33
+msgid "My Groups"
+msgstr "Meus Grupos"
+
+#: jviews/_footer.html:34
+msgid "Saved Group Topics"
+msgstr "Salvo Tópicos Grupo"
+
+#: jviews/_footer.html:35
+msgid "Help Forums"
+msgstr "Fóruns de ajuda"
+
+#: jviews/_footer.html:39
+msgid "Collection"
+msgstr "Coleção"
+
+#: jviews/_footer.html:40 jviews/digital/index.html:18
+msgid "Wantlist"
+msgstr "Wantlist"
+
+#: jviews/_footer.html:41
+msgid "Submissions"
+msgstr "Submissões"
+
+#: jviews/_footer.html:42
 msgid "Drafts"
-msgstr ""
+msgstr "Rascunhos"
 
-#: controllers/user.py:1406
-msgid "Release was deleted."
-msgstr ""
+#: jviews/_footer.html:46
+msgid "Friends"
+msgstr "Amigos"
 
-#: controllers/user.py:1414
-msgid "Export My Data"
-msgstr ""
+#: jviews/_footer.html:47
+msgid "Export Data"
+msgstr "Exportação de dados"
 
-#: controllers/user.py:1431
-msgid ""
-"Sorry, that type of export has already been requested within the past "
-"hour. Please try again after one hour."
-msgstr ""
-
-#: controllers/user.py:1438
-msgid "Your export request was scheduled"
-msgstr ""
-
-#: controllers/user.py:1475
-msgid "Manage Folders"
-msgstr ""
-
-#: controllers/user.py:1482
-msgid "You did not select a folder to delete."
-msgstr ""
-
-#: controllers/user.py:1486
-msgid "Deleted Folder"
-msgstr ""
-
-#: controllers/user.py:1488
-msgid "Folder is not empty"
-msgstr ""
-
-#: controllers/user.py:1494
-msgid "Missing new folder name and/or you did not select a folder to rename"
-msgstr ""
-
-#: controllers/user.py:1497
-msgid "Renamed folder"
-msgstr ""
-
-#: controllers/user.py:1502
-msgid "Missing folder name"
-msgstr ""
-
-#: controllers/user.py:1505
-msgid "Added new folder"
-msgstr ""
+#: jviews/_footer.html:50
+msgid "Logout"
+msgstr "Sair"
 
 #: jviews/_footer.html:60
 msgid "About Us"
-msgstr ""
+msgstr "Quem Somos"
 
 #: jviews/_footer.html:61
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: jviews/_footer.html:62
 msgid "Jobs"
-msgstr ""
+msgstr "Jobs"
 
 #: jviews/_footer.html:63
 msgid "Shop"
-msgstr ""
+msgstr "Loja"
 
 #: jviews/_footer.html:64
 msgid "Mobile"
-msgstr ""
+msgstr "Móvel"
 
 #: jviews/_footer.html:69
 msgid "Help&nbsp;Is&nbsp;Here"
-msgstr ""
+msgstr "A ajuda está Aqui"
 
 #: jviews/_footer.html:71 jviews/_header.html:11
 msgid "Help"
-msgstr ""
+msgstr "Ajuda"
 
 #: jviews/_footer.html:72
 msgid "Forums"
-msgstr ""
+msgstr "Fóruns"
 
 #: jviews/_footer.html:74
 msgid "Support Request"
-msgstr ""
+msgstr "Pedido de apoio"
 
 #: jviews/_footer.html:76
 msgid "Contact"
-msgstr ""
+msgstr "Contato"
 
 #: jviews/_footer.html:82
 msgid "Join&nbsp;In"
-msgstr ""
+msgstr "Junte-se na"
 
 #: jviews/_footer.html:85
 msgid "Sign Up"
-msgstr ""
+msgstr "Inscrever-se"
 
-#: jviews/_footer.html:87
+#: jviews/_footer.html:87 jviews/explore/_carousel.html:11
 msgid "Contribute"
-msgstr ""
+msgstr "Contribuir"
 
-#: jviews/_footer.html:88
+#: jviews/_footer.html:88 jviews/label/view.html:89
 msgid "Add Release"
-msgstr ""
+msgstr "Adicionar Lançamento"
 
 #: jviews/_footer.html:89
 msgid "Contributor List"
-msgstr ""
+msgstr "Lista de contribuinte"
 
 #: jviews/_footer.html:94
 msgid "Follow&nbsp;Us"
-msgstr ""
-
-#: jviews/_footer.html:96
-msgid "Facebook"
-msgstr ""
-
-#: jviews/_footer.html:97
-msgid "Twitter"
-msgstr ""
+msgstr "Follow Us"
 
 #: jviews/_footer.html:102
 msgid "Languages"
-msgstr ""
-
-#: jviews/_footer.html:116
-msgid "Other&nbsp;Stuff"
-msgstr ""
+msgstr "Línguas"
 
 #: jviews/_footer.html:118
+msgid "Other&nbsp;Stuff"
+msgstr "Outras Coisas"
+
+#: jviews/_footer.html:120
 msgid "Developers&nbsp;API"
-msgstr ""
-
-#: jviews/_footer.html:126
-msgid "website"
-msgstr ""
-
-#: jviews/_footer.html:126
-msgid "Copyright"
-msgstr ""
-
-#: jviews/_footer.html:127
-msgid "Terms of Service"
-msgstr ""
+msgstr "Desenvolvedores de API"
 
 #: jviews/_footer.html:128
+msgid "website"
+msgstr "site"
+
+#: jviews/_footer.html:128
+msgid "Copyright"
+msgstr "Direitos autorais"
+
+#: jviews/_footer.html:129
+msgid "Terms of Service"
+msgstr "Termos de Serviço"
+
+#: jviews/_footer.html:130
 msgid "Privacy Policy"
+msgstr "Política de Privacidade"
+
+#: jviews/_header.html:34
+msgid "Log In"
+msgstr "Entrar"
+
+#: jviews/_header.html:42
+msgid "Go to Discogs.com homepage"
+msgstr "Ir para página inicial Discogs.com"
+
+#: jviews/_header.html:47
+msgid "Search artists, albums and more..."
+msgstr "Pesquisa artistas, álbuns e muito mais ..."
+
+#: jviews/_header.html:57
+msgid "Buy Music"
+msgstr "Comprar Música"
+
+#: jviews/_header.html:58
+msgid "Sell Music"
+msgstr "Vender música"
+
+#: jviews/_header.html:59
+msgid "Community"
+msgstr "Comunidade"
+
+#: jviews/_header.html:62
+msgid "My Discogs"
+msgstr "My Discogs"
+
+#: jviews/_header.html:67
+msgid "Create Account"
+msgstr "Criar Conta"
+
+#: jviews/admin/styles.html:7
+msgid "Genre"
+msgstr "Gênero"
+
+#: jviews/admin/styles.html:21
+msgid "New Styles"
+msgstr "Novos Estilos"
+
+#: jviews/admin/styles.html:21
+msgid "one per line"
+msgstr "um por linha"
+
+#: jviews/digital/bundle.html:13 jviews/digital/bundle.html:29
+#: jviews/digital/index.html:53 jviews/digital/index.html:74
+#: jviews/digital/index.html:78 jviews/explore/lists.html:50
+#: jviews/explore/lists.html:58
+msgid "more"
+msgstr "mais"
+
+#: jviews/digital/bundle.html:16 jviews/digital/bundle.html:32
+msgid "More From"
+msgstr "Mais de"
+
+#: jviews/digital/bundle.html:43
+msgid "more genres"
+msgstr "gêneros mais"
+
+#: jviews/digital/bundle.html:45 jviews/digital/index.html:55
+msgid "Browse by Genre"
+msgstr "Procurar por Gênero"
+
+#: jviews/digital/cart.html:5
+msgid "Continue Shopping"
+msgstr "Continuar comprando"
+
+#: jviews/digital/cart.html:9
+msgid "Empty Cart"
+msgstr "Carrinho vazio"
+
+#: jviews/digital/cart.html:20 jviews/digital/checkout.html:15
+msgid "Item"
+msgstr "Item"
+
+#: jviews/digital/cart.html:21 jviews/digital/checkout.html:16
+msgid "Format"
+msgstr "Formato"
+
+#: jviews/digital/cart.html:22 jviews/digital/checkout.html:17
+#: jviews/m/list.html:80 jviews/m/list_release.html:99
+msgid "Price"
+msgstr "Preço"
+
+#: jviews/digital/cart.html:30
+msgid "Change all formats to"
+msgstr "Alterar todos os formatos para"
+
+#: jviews/digital/cart.html:77
+msgid "release"
+msgstr "lançamento"
+
+#: jviews/digital/cart.html:77
+msgid "tracks"
+msgstr "faixas"
+
+#: jviews/digital/cart.html:79
+msgid "track"
+msgstr "caminho"
+
+#: jviews/digital/cart.html:91 jviews/label/view.html:37
+msgid "remove"
+msgstr "remover"
+
+#: jviews/digital/cart.html:99 jviews/digital/checkout.html:34
+#: jviews/digital/history.html:14
+msgid "Total"
+msgstr "Total"
+
+#: jviews/digital/cart.html:107
+msgid "Checkout"
+msgstr "Checkout"
+
+#: jviews/digital/cart.html:115 jviews/digital/checkout.html:59
+msgid "Your cart is empty"
+msgstr "Seu carrinho está vazio"
+
+#: jviews/digital/checkout.html:45
+msgid "Subscribe to featured releases newsletter"
+msgstr "Inscrever-se caracterizado boletim releases"
+
+#: jviews/digital/history.html:6
+msgid "No orders"
+msgstr "Sem pedidos"
+
+#: jviews/digital/history.html:7
+msgid "Start Shopping"
+msgstr "Start Shopping"
+
+#: jviews/digital/history.html:12
+msgid "Order Number"
+msgstr "Número de ordem"
+
+#: jviews/digital/history.html:13
+msgid "Purchase Date"
+msgstr "Data da compra"
+
+#: jviews/digital/index.html:10
+msgid "MP3 &amp; WAV Downloads"
+msgstr "MP3 e WAV Download"
+
+#: jviews/digital/index.html:15
+msgid "Showing"
+msgstr "Mostrando"
+
+#: jviews/digital/index.html:16 jviews/m/list.html:69
+msgid "item"
+msgid_plural "items"
+msgstr[0] "F"
+msgstr[1] "F"
+
+#: jviews/digital/index.html:17
+msgid "from my"
+msgstr "da minha"
+
+#: jviews/digital/index.html:19
+msgid "available in digital format"
+msgstr "disponíveis em formato digital"
+
+#: jviews/digital/index.html:42
+msgid "Sorry, no downloads could be found."
+msgstr "Desculpe, não houve downloads pôde ser encontrado."
+
+#: jviews/digital/index.html:88
+msgid "MP3 &amp; WAV"
+msgstr "MP3 e WAV"
+
+#: jviews/explore/_carousel.html:5
+msgid "Discover"
+msgstr "Descobrir"
+
+#: jviews/explore/_carousel.html:6
+msgid "new and old music, connect with other music lovers"
+msgstr "músicas novas e antigas, se conectar com outros amantes de música"
+
+#: jviews/explore/_carousel.html:12
+msgid "to the largest and most accurate music database"
+msgstr "ao banco de dados de música maior e mais preciso"
+
+#: jviews/explore/_carousel.html:17 jviews/m/buymusic.html:90
+#: jviews/m/buymusic.html:113
+msgid "Buy"
+msgstr "Comprar"
+
+#: jviews/explore/_carousel.html:17
+msgid "Sell"
+msgstr "Vender"
+
+#: jviews/explore/_carousel.html:18
+msgid "music in the world's biggest and best music marketplace"
+msgstr "música no mercado de música do mundo maior e melhor"
+
+#: jviews/explore/_carousel.html:23
+msgid "Track"
+msgstr "Caminho"
+
+#: jviews/explore/_carousel.html:24
+msgid ""
+"your collection and wantlist, get notified when items you want are for "
+"sale"
 msgstr ""
+"sua coleção e wantlist, ser notificado quando itens que você deseja estão"
+" à venda"
+
+#: jviews/explore/_facets.html:81 jviews/explore/lists.html:21
+#: jviews/label/rollover.html:11
+msgid "Genres"
+msgstr "Gêneros"
+
+#: jviews/explore/_facets.html:91 jviews/explore/_facets.html:124
+#: jviews/explore/_facets.html:163 jviews/explore/_facets.html:225
+msgid "show more"
+msgstr "mostrar mais"
+
+#: jviews/explore/_facets.html:111
+msgid "Styles"
+msgstr "Estilos"
+
+#: jviews/explore/_facets.html:152
+msgid "Formats"
+msgstr "Formatos"
+
+#: jviews/explore/_facets.html:188
+msgid "Decade"
+msgstr "Década"
+
+#: jviews/explore/_facets.html:199
+msgid "Year"
+msgstr "Ano"
+
+#: jviews/explore/_facets.html:213
+msgid "Country"
+msgstr "País"
+
+#: jviews/explore/_sort.html:3
+msgid "Sort By"
+msgstr "Sort By"
+
+#: jviews/explore/_sort.html:8
+msgid "Show"
+msgstr "Mostrar"
+
+#: jviews/home/marketplace.html:5
+msgid "The Best Way to Sell Music"
+msgstr "A melhor maneira de vender música"
+
+#: jviews/home/marketplace.html:6
+msgid "Selling vinyl records and CDs has never been easier."
+msgstr "Venda de discos de vinil e CDs nunca foi tão fácil."
+
+#: jviews/home/marketplace.html:12
+msgid "Make more money"
+msgstr "Ganhar mais dinheiro"
+
+#: jviews/home/marketplace.html:14
+msgid "Listing items for sale on Discogs is <strong>always free</strong>."
+msgstr "Listagem itens à venda no Discogs é <strong>sempre gratuita.</strong>"
+
+#: jviews/home/marketplace.html:15
+msgid "You only pay a 6 - 8&#37; fee when your items sell."
+msgstr "Você só paga um 6 - taxa de 8%, quando seus itens vender."
+
+#: jviews/home/marketplace.html:22
+msgid "Reach more buyers"
+msgstr "Atingir mais compradores"
+
+#: jviews/home/marketplace.html:24
+msgid ""
+"More than <strong>4 million people</strong> look for music on Discogs "
+"every month."
+msgstr ""
+"Mais de <strong>4 milhões</strong> de <strong>pessoas olham</strong> para"
+" a música no Discogs cada mês."
+
+#: jviews/home/marketplace.html:25
+msgid "Selling here gets you instant exposure to our high traffic."
+msgstr "Vendendo aqui você recebe exposição instantânea para o nosso alto tráfego."
+
+#: jviews/home/marketplace.html:32
+msgid "Do less work"
+msgstr "Fazer menos trabalho"
+
+#: jviews/home/marketplace.html:34
+msgid "No need to type up detailed item descriptions."
+msgstr "Não há necessidade de digitar até descrições detalhadas item."
+
+#: jviews/home/marketplace.html:35
+msgid "The info is already here."
+msgstr "A informação já está aqui."
+
+#: jviews/home/marketplace.html:36
+msgid "Discogs users are auto-notified when items they want are listed."
+msgstr ""
+"Discogs usuários são notificados automaticamente quando os itens que eles"
+" querem são listados."
+
+#: jviews/home/marketplace.html:45
+msgid "Listing Options"
+msgstr "Opções de listagem"
+
+#: jviews/home/marketplace.html:50
+msgid "Standard Listing"
+msgstr "Listagem padrão"
+
+#: jviews/home/marketplace.html:51
+msgid "For sellers with time to list items one-by-one"
+msgstr "Para os vendedores com tempo para listar os itens um por um"
+
+#: jviews/home/marketplace.html:53
+msgid "Initial listings are one-by-one, but can be updated in bulk"
+msgstr "Listagens iniciais são um por um, mas pode ser atualizado a granel"
+
+#: jviews/home/marketplace.html:54
+msgid "Items are displayed under the exact release you list them"
+msgstr "Itens são exibidos sob o release exato você listá-los"
+
+#: jviews/home/marketplace.html:55
+msgid "Only 6&#37; in fees incur when your items sell"
+msgstr "Apenas 6% nas taxas de incorrer quando seus itens vender"
+
+#: jviews/home/marketplace.html:56
+msgid "Watch how it's done"
+msgstr "Assistir como é feito"
+
+#: jviews/home/marketplace.html:57
+msgid "Get Started"
+msgstr "Get Started"
+
+#: jviews/home/marketplace.html:61
+msgid "OR"
+msgstr "OR"
+
+#: jviews/home/marketplace.html:64
+msgid "Product Search"
+msgstr "Pesquisa do produto"
+
+#: jviews/home/marketplace.html:65
+msgid "For sellers that need to list their items in bulk"
+msgstr "Para os vendedores que precisam de sua lista de itens a granel"
+
+#: jviews/home/marketplace.html:67
+msgid "Initial listings and all updates are handled with bulk uploads"
+msgstr ""
+"Listagens inicial e todas as atualizações são tratadas com uploads em "
+"massa"
+
+#: jviews/home/marketplace.html:68
+msgid "Items are displayed in search results based on artist, title and format"
+msgstr ""
+"Itens são exibidos nos resultados de busca com base no título, artista e "
+"formato"
+
+#: jviews/home/marketplace.html:69
+msgid "Only 8&#37; in fees incur when your items sell"
+msgstr "Apenas 8% em taxas de incorrer quando seus itens vender"
+
+#: jviews/home/marketplace.html:70
+msgid "Learn more"
+msgstr "Saiba mais"
+
+#: jviews/home/marketplace.html:80
+msgid "Read what other Discogs sellers have to say"
+msgstr "Leia o que outros vendedores Discogs têm a dizer"
+
+#: jviews/home/marketplace.html:256
+msgid "If you would like us to add your testimonial, please contact"
+msgstr "Se você gostaria de nos adicionar o seu testemunho, entre em contato"
+
+#: jviews/home/marketplace.html:257
+msgid "Marketplace Support"
+msgstr "Suporte de mercado"
+
+#: jviews/home/marketplace.html:263
+msgid "Get Started Selling Now"
+msgstr "Começar a vender agora"
+
+#: jviews/label/rollover.html:2
+msgid "This label does not exist in Discogs."
+msgstr "Esse rótulo não existe no Discogs."
+
+#: jviews/label/rollover.html:6
+msgid "Profile"
+msgstr "Perfil"
+
+#: jviews/label/rollover.html:25 jviews/label/view.html:44
+msgid "submission pending"
+msgid_plural "submissions pending"
+msgstr[0] "F"
+msgstr[1] "F"
+
+#: jviews/label/rollover.html:30
+msgid "Alternates"
+msgstr "Suplentes"
+
+#: jviews/label/rollover.html:39
+msgid "Search for variations of"
+msgstr "Busca de variações de"
+
+#: jviews/label/view.html:27
+msgid "history / edit"
+msgstr "história / edit"
+
+#: jviews/label/view.html:28 jviews/m/list_release.html:110
+msgid "Label"
+msgstr "Rótulo"
+
+#: jviews/label/view.html:42 jviews/search/_results.html:55
+#: jviews/search/query.html:93
+msgid "Add to List"
+msgstr "Adicionar à lista"
+
+#: jviews/label/view.html:50
+msgid "Jump To"
+msgstr "Ir Para"
+
+#: jviews/label/view.html:52
+msgid "reviews"
+msgstr "comentários"
+
+#: jviews/label/view.html:53
+msgid "lists"
+msgstr "listas"
+
+#: jviews/label/view.html:63
+msgid "sort"
+msgstr "espécie"
+
+#: jviews/label/view.html:69
+msgid "genres"
+msgstr "gêneros"
+
+#: jviews/label/view.html:72 jviews/label/view.html:74
+#: jviews/m/buymusic.html:135
+msgid "All Genres"
+msgstr "Todos os Gêneros"
+
+#: jviews/label/view.html:97
+msgid "Discography"
+msgstr "Discografia"
+
+#: jviews/label/view.html:99
+msgid "showing"
+msgstr "mostrando"
+
+#: jviews/label/view.html:105
+msgid "This label has no approved releases"
+msgstr "Esta etiqueta não tem aprovado releases"
+
+#: jviews/label/view.html:105
+msgid "in"
+msgstr "em"
+
+#: jviews/label/view.html:105
+msgid "View all genres"
+msgstr "Ver todos os gêneros"
+
+#: jviews/m/_macro.html:716
+msgid "Add&nbsp;to&nbsp;Cart"
+msgstr "Adicionar ao carrinho"
+
+#: jviews/m/buymusic.html:10
+msgid ""
+"Discogs is the safe and easy way to buy and <a "
+"href=\"/marketplace\">sell</a> music."
+msgstr ""
+"Discogs é a maneira fácil e segura de comprar e <a "
+"href=\"/marketplace\">vender</a> música."
+
+#: jviews/m/buymusic.html:14 jviews/m/buymusic.html:129
+msgid "browse all"
+msgstr "Navegue por todos os"
+
+#: jviews/m/buymusic.html:16
+msgid "Buy Vinyl Records, CDs and More"
+msgstr "Comprar discos de vinil, CDs e muito mais"
+
+#: jviews/m/buymusic.html:23
+msgid "Cassette"
+msgstr "Cassete"
+
+#: jviews/m/buymusic.html:24
+msgid "More formats"
+msgstr "Formatos mais"
+
+#: jviews/m/buymusic.html:27
+msgid "Electronic"
+msgstr "Eletrônico"
+
+#: jviews/m/buymusic.html:28
+msgid "Rock"
+msgstr "Rocha"
+
+#: jviews/m/buymusic.html:29
+msgid "Hip Hop"
+msgstr "Hip Hop"
+
+#: jviews/m/buymusic.html:30
+msgid "Funk / Soul"
+msgstr "Funk / Soul"
+
+#: jviews/m/buymusic.html:31
+msgid "Pop"
+msgstr "Pop"
+
+#: jviews/m/buymusic.html:32
+msgid "Jazz"
+msgstr "Jazz"
+
+#: jviews/m/buymusic.html:33
+msgid "Reggae"
+msgstr "Reggae"
+
+#: jviews/m/buymusic.html:34
+msgid "Classical"
+msgstr "Clássico"
+
+#: jviews/m/buymusic.html:35
+msgid "More genres"
+msgstr "Gêneros mais"
+
+#: jviews/m/buymusic.html:38
+msgid "House"
+msgstr "Casa"
+
+#: jviews/m/buymusic.html:39
+msgid "Techno"
+msgstr "Techno"
+
+#: jviews/m/buymusic.html:40
+msgid "Trance"
+msgstr "Transe"
+
+#: jviews/m/buymusic.html:41
+msgid "Disco"
+msgstr "Discoteca"
+
+#: jviews/m/buymusic.html:42
+msgid "Indie Rock"
+msgstr "Indie Rock"
+
+#: jviews/m/buymusic.html:43
+msgid "Punk"
+msgstr "Punk"
+
+#: jviews/m/buymusic.html:44
+msgid "New Wave"
+msgstr "New Wave"
+
+#: jviews/m/buymusic.html:45
+msgid "Dancehall"
+msgstr "Dancehall"
+
+#: jviews/m/buymusic.html:46
+msgid "More styles"
+msgstr "Mais estilos"
+
+#: jviews/m/buymusic.html:53
+msgid "Recent Marketplace Sales"
+msgstr "Vendas recentes de mercado"
+
+#: jviews/m/buymusic.html:77
+msgid "view all"
+msgstr "ver todos"
+
+#: jviews/m/buymusic.html:83
+msgid ""
+"Add stuff to your wantlist and we'll let you know when someone is selling"
+" it."
+msgstr ""
+"Adicionar novidades à sua wantlist e vamos deixá-lo saber quando alguém "
+"está vendendo."
+
+#: jviews/m/buymusic.html:91 jviews/m/buymusic.html:114
+msgid "for sale"
+msgstr "à venda"
+
+#: jviews/m/buymusic.html:102
+msgid "Recommendations For You"
+msgstr "Recomendações para você"
+
+#: jviews/m/buymusic.html:106
+msgid "Start getting recommendations by making a purchase in the marketplace."
+msgstr "Comece a receber recomendações de fazer uma compra no mercado."
+
+#: jviews/m/buymusic.html:131
+msgid "Bestselling MP3/WAV"
+msgstr "Best-seller MP3/WAV"
+
+#: jviews/m/buymusic.html:141
+msgid "Bestselling"
+msgstr "Best-seller"
+
+#: jviews/m/buymusic.html:143
+msgid "New Releases"
+msgstr "Lançamentos"
+
+#: jviews/m/cartrecs.html:5
+msgid "Recommendations"
+msgstr "Recomendações"
+
+#: jviews/m/cartrecs.html:7 jviews/m/cartrecs.html:37 jviews/m/item.html:130
+#: jviews/m/list.html:82 jviews/m/seller.html:9
+msgid "View Cart"
+msgstr "Ver carrinho"
+
+#: jviews/m/cartrecs.html:9
+msgid "Based on the items in your Shopping Cart from seller"
+msgstr "Com base nos itens em seu carrinho de compras do vendedor"
+
+#: jviews/m/cartrecs.html:9
+msgid "we recommend these releases"
+msgstr "recomendamos esses lançamentos"
+
+#: jviews/m/item.html:135 jviews/m/list.html:185 jviews/m/list_release.html:48
+msgid "Sales History"
+msgstr "História vendas"
+
+#: jviews/m/list.html:32
+msgid "Show Items I Want"
+msgstr "Mostrar itens que eu quero"
+
+#: jviews/m/list.html:33
+msgid "Buyers"
+msgstr "Compradores"
+
+#: jviews/m/list.html:34
+msgid "Sellers"
+msgstr "Lojas"
+
+#: jviews/m/list.html:56
+msgid "You Selected"
+msgstr "Você Selected"
+
+#: jviews/m/list.html:66 jviews/m/list_release.html:82
+#: jviews/search/_results.html:32
+msgid "Sort by"
+msgstr "Classificar por"
+
+#: jviews/m/list.html:73 jviews/m/list_release.html:57
+msgid "Community Data"
+msgstr "Dados da comunidade"
+
+#: jviews/m/list.html:77 jviews/m/list_release.html:98
+msgid "Seller Information"
+msgstr "Informações sobre o vendedor"
+
+#: jviews/m/list.html:118 jviews/m/list_release.html:136
+msgid "Seller"
+msgstr "Vendedor"
+
+#: jviews/m/list.html:119 jviews/m/list_release.html:137
+msgid "Rating"
+msgstr "Classificação"
+
+#: jviews/m/list.html:120 jviews/m/list_release.html:138
+msgid "Ships From"
+msgstr "De navios"
+
+#: jviews/m/list.html:143 jviews/m/list_release.html:162
+msgid "Make Offer / Details"
+msgstr "Faça uma oferta / Detalhes"
+
+#: jviews/m/list.html:145 jviews/m/list_release.html:162
+msgid "Details"
+msgstr "Detalhes"
+
+#: jviews/m/list.html:149 jviews/m/list_release.html:122
+msgid "Install Flash player to hear audio clip."
+msgstr "Instale Flash Player para ouvir clipe de áudio."
+
+#: jviews/m/list.html:173 jviews/m/list_release.html:152
+msgid "Manage Product Search Items"
+msgstr "Gerenciar Itens Product Search"
+
+#: jviews/m/list.html:187 jviews/m/list_release.html:51
+msgid "Sell this Item"
+msgstr "Vender este item"
+
+#: jviews/m/list_release.html:34
+msgid "Back to Release Details"
+msgstr "Voltar ao Lançamento Detalhes"
+
+#: jviews/m/list_release.html:37
+msgid "In Collection"
+msgstr "Na Coleção"
+
+#: jviews/m/list_release.html:40
+msgid "In Wantlist"
+msgstr "Em Wantlist"
+
+#: jviews/m/list_release.html:44
+msgid "Show/Hide Tracklist"
+msgstr "Show / Hide Tracklist"
+
+#: jviews/m/list_release.html:76
+msgid "page"
+msgstr "página"
+
+#: jviews/m/list_release.html:76
+msgid "of"
+msgstr "de"
+
+#: jviews/m/list_release.html:97
+msgid "Condition"
+msgstr "Condição"
+
+#: jviews/m/list_release.html:100
+msgid "Buy It"
+msgstr "Compre"
+
+#: jviews/m/list_release.html:113
+msgid "Media"
+msgstr "Mídia"
+
+#: jviews/m/list_release.html:115
+msgid "Sleeve"
+msgstr "Manga"
+
+#: jviews/m/list_release.html:154
+msgid "Edit Listing"
+msgstr "Editar Listagem"
+
+#: jviews/m/list_release.html:155
+msgid "Unlist Item"
+msgstr "Item não listados"
+
+#: jviews/m/seller.html:7
+msgid "New Seller"
+msgstr "Vendedor nova"
+
+#: jviews/m/seller.html:30
+msgid "Items Ship From"
+msgstr "Navio De itens"
+
+#: jviews/m/seller.html:31
+msgid "Payment Methods"
+msgstr "Métodos de pagamento"
+
+#: jviews/m/seller.html:32
+msgid "Shipping Policies"
+msgstr "Políticas de transporte"
+
+#: jviews/search/_results.html:5
+msgid "Your search returned no results. Please try a different query."
+msgstr ""
+"Sua busca não retornou resultados. Por favor, tente uma consulta "
+"diferente."
+
+#: jviews/search/_results.html:7 jviews/search/_results.html:16
+#: jviews/search/query.html:34
+msgid "Help on search"
+msgstr "Ajuda na busca"
+
+#: jviews/search/_results.html:13
+msgid "Search results"
+msgstr "Resultados da busca"
+
+#: jviews/search/_results.html:14
+msgid "results"
+msgstr "resultados"
+
+#: jviews/search/_results.html:21
+msgid "Filter results by"
+msgstr "Filtrar resultados por"
+
+#: jviews/search/_results.html:42
+msgid "Needs Vote"
+msgstr "Vote necessidades"
+
+#: jviews/search/_results.html:45
+msgid "Needs Changes"
+msgstr "Alterações necessidades"
+
+#: jviews/search/query.html:27
+msgid "Show Advanced Search"
+msgstr "Mostrar busca avançada"
+
+#: jviews/search/query.html:33
+msgid "You did not enter a search query."
+msgstr "Você não inseriu uma consulta de pesquisa."
+
+#: jviews/search/query.html:43
+msgid "Did you mean?"
+msgstr "Você quis dizer?"
+
+#: jviews/search/query.html:60
+msgid "artist named"
+msgid_plural "artists named"
+msgstr[0] "F"
+msgstr[1] "o"
+
+#: jviews/search/query.html:63 jviews/search/query.html:72
+#: jviews/search/query.html:81
+msgid "We're showing the first 10, but you can"
+msgstr "Nós estamos mostrando os primeiros 10, mas você pode"
+
+#: jviews/search/query.html:64 jviews/search/query.html:73
+#: jviews/search/query.html:82
+msgid "view all here"
+msgstr "ver todos aqui"
+
+#: jviews/search/query.html:69 jviews/search/query.html:123
+msgid "artist name variation of"
+msgid_plural "artist name variations of"
+msgstr[0] "o"
+msgstr[1] "o"
+
+#: jviews/search/query.html:78
+msgid "label named"
+msgid_plural "labels named"
+msgstr[0] "o"
+msgstr[1] "o"
+
+#: jviews/search/query.html:100
+msgid "In list"
+msgstr "Na lista"
+
+#: jviews/user/login.html:20
+msgid "Don't Have An Account?"
+msgstr "Não tem uma conta?"
+
+#: jviews/user/login.html:21
+msgid "A Discogs Account will let you:"
+msgstr "A Conta Discogs vai deixar você:"
+
+#: jviews/user/login.html:23
+msgid "Help build the Discogs Database"
+msgstr "Ajude a construir o Banco de Dados Discogs"
+
+#: jviews/user/login.html:24
+msgid "Organize your music collection and wantlist"
+msgstr "Organize sua coleção de músicas e wantlist"
+
+#: jviews/user/login.html:25
+msgid "Post comments and rate releases"
+msgstr "Postar comentários e libera taxa de"
+
+#: jviews/user/login.html:26
+msgid "Receive emails when something you want is for sale"
+msgstr "Receber e-mails quando algo que você quer está à venda"
+
+#: jviews/user/login.html:27
+msgid "Buy and sell music in the <a href=\"/marketplace\">Discogs Marketplace</a>"
+msgstr "Comprar e vender música no <a href=\"/marketplace\">mercado Discogs</a>"
+
+#: jviews/user/login.html:28
+msgid "Make connections with other music lovers"
+msgstr "Fazer conexões com outros amantes de música"
+
+#: jviews/user/login.html:30
+msgid "Create an Account Now"
+msgstr "Crie uma conta agora"
+
+#: jviews/user/login.html:37
+msgid "Log In to Discogs"
+msgstr "Login para Discogs"
+
+#: jviews/user/login.html:41 jviews/user/login.html:49
+#: jviews/user/login.html:58
+msgid "Username"
+msgstr "Nome de Usuário"
+
+#: jviews/user/login.html:52
+msgid "Not"
+msgstr "Não"
+
+#: jviews/user/login.html:52
+msgid "?"
+msgstr "?"
+
+#: jviews/user/login.html:64
+msgid "Password"
+msgstr "Senha"
+
+#: jviews/user/login.html:73
+msgid "Remember me"
+msgstr "Lembre-me"
+
+#: jviews/user/login.html:75
+msgid "Only this IP"
+msgstr "Somente este IP"
+
+#: jviews/user/login.html:81
+msgid "Forgot your password?"
+msgstr "Esqueceu sua senha?"
 
