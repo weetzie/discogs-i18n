@@ -514,7 +514,7 @@ msgstr "Liste des objets en vente sur Discogs est <strong>toujours libre.</stron
 
 #: jviews/home/marketplace.html:15
 msgid "You only pay a 6 - 8&#37; fee when your items sell."
-msgstr "Vous ne payez qu&#39;un 6 - frais de 8% quand vos articles vendre."
+msgstr "Vous ne payez qu&#39;un 6 - frais de 8&#37; quand vos articles vendre."
 
 #: jviews/home/marketplace.html:22
 msgid "Reach more buyers"
@@ -574,7 +574,7 @@ msgstr "Les articles sont affichés sous la version exacte que vous les énumér
 
 #: jviews/home/marketplace.html:55
 msgid "Only 6&#37; in fees incur when your items sell"
-msgstr "Seulement 6% des frais engagés lorsque vos articles de vendre des"
+msgstr "Seulement 6&#37; des frais engagés lorsque vos articles de vendre des"
 
 #: jviews/home/marketplace.html:56
 msgid "Watch how it's done"
@@ -608,7 +608,7 @@ msgstr ""
 
 #: jviews/home/marketplace.html:69
 msgid "Only 8&#37; in fees incur when your items sell"
-msgstr "Seulement 8% des frais engagés lorsque vos articles de vendre des"
+msgstr "Seulement 8&#37; des frais engagés lorsque vos articles de vendre des"
 
 #: jviews/home/marketplace.html:70
 msgid "Learn more"

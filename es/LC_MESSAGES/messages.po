@@ -514,7 +514,7 @@ msgstr ""
 
 #: jviews/home/marketplace.html:15
 msgid "You only pay a 6 - 8&#37; fee when your items sell."
-msgstr "Usted sólo paga un 6-8% de tasa cuando los elementos de vender."
+msgstr "Usted sólo paga un 6-8&#37; de tasa cuando los elementos de vender."
 
 #: jviews/home/marketplace.html:22
 msgid "Reach more buyers"
@@ -574,7 +574,7 @@ msgstr "Los productos que se muestran en la versión exacta que les lista"
 
 #: jviews/home/marketplace.html:55
 msgid "Only 6&#37; in fees incur when your items sell"
-msgstr "Sólo el 6% en las tarifas incurren cuando los elementos de vender"
+msgstr "Sólo el 6&#37; en las tarifas incurren cuando los elementos de vender"
 
 #: jviews/home/marketplace.html:56
 msgid "Watch how it's done"
@@ -610,7 +610,7 @@ msgstr ""
 
 #: jviews/home/marketplace.html:69
 msgid "Only 8&#37; in fees incur when your items sell"
-msgstr "Sólo el 8% en las tarifas incurren cuando los elementos de vender"
+msgstr "Sólo el 8&#37; en las tarifas incurren cuando los elementos de vender"
 
 #: jviews/home/marketplace.html:70
 msgid "Learn more"

@@ -512,7 +512,7 @@ msgstr "Elenco articoli in vendita su Discogs è <strong>sempre libero.</strong>
 
 #: jviews/home/marketplace.html:15
 msgid "You only pay a 6 - 8&#37; fee when your items sell."
-msgstr "Si paga solo un 6 - 8% tassa quando vendere i tuoi oggetti."
+msgstr "Si paga solo un 6 - 8&#37; tassa quando vendere i tuoi oggetti."
 
 #: jviews/home/marketplace.html:22
 msgid "Reach more buyers"
@@ -574,7 +574,7 @@ msgstr "Gli elementi vengono visualizzati sotto il rilascio esatta di lista"
 
 #: jviews/home/marketplace.html:55
 msgid "Only 6&#37; in fees incur when your items sell"
-msgstr "Solo il 6% in spese di incorrere in cui vendere i tuoi oggetti"
+msgstr "Solo il 6&#37; in spese di incorrere in cui vendere i tuoi oggetti"
 
 #: jviews/home/marketplace.html:56
 msgid "Watch how it's done"
@@ -610,7 +610,7 @@ msgstr ""
 
 #: jviews/home/marketplace.html:69
 msgid "Only 8&#37; in fees incur when your items sell"
-msgstr "Solo l&#39;8% in spese di incorrere in cui vendere i tuoi oggetti"
+msgstr "Solo l&#39;8&#37; in spese di incorrere in cui vendere i tuoi oggetti"
 
 #: jviews/home/marketplace.html:70
 msgid "Learn more"

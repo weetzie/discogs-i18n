@@ -514,7 +514,7 @@ msgstr ""
 
 #: jviews/home/marketplace.html:15
 msgid "You only pay a 6 - 8&#37; fee when your items sell."
-msgstr "Sie zahlen nur eine 6 bis 8% Gebühr, wenn Ihre Artikel verkaufen."
+msgstr "Sie zahlen nur eine 6 bis 8&#37; Gebühr, wenn Ihre Artikel verkaufen."
 
 #: jviews/home/marketplace.html:22
 msgid "Reach more buyers"
@@ -572,7 +572,7 @@ msgstr "Die Artikel werden unter dem genauen Release-listen Sie sie angezeigt"
 
 #: jviews/home/marketplace.html:55
 msgid "Only 6&#37; in fees incur when your items sell"
-msgstr "Nur 6% der Gebühren entstehen, wenn Ihre Artikel verkaufen"
+msgstr "Nur 6&#37; der Gebühren entstehen, wenn Ihre Artikel verkaufen"
 
 #: jviews/home/marketplace.html:56
 msgid "Watch how it's done"
@@ -606,7 +606,7 @@ msgstr ""
 
 #: jviews/home/marketplace.html:69
 msgid "Only 8&#37; in fees incur when your items sell"
-msgstr "Nur 8% der Gebühren entstehen, wenn Ihre Artikel verkaufen"
+msgstr "Nur 8&#37; der Gebühren entstehen, wenn Ihre Artikel verkaufen"
 
 #: jviews/home/marketplace.html:70
 msgid "Learn more"
