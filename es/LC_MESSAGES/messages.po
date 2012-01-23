@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Discogs 0.1\n"
 "Report-Msgid-Bugs-To: language@discogs.com\n"
-"POT-Creation-Date: 2012-01-23 14:54-0800\n"
+"POT-Creation-Date: 2012-01-23 15:16-0800\n"
 "PO-Revision-Date: 2012-01-23 14:50-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: es <LL@li.org>\n"
@@ -713,8 +713,9 @@ msgid "View all genres"
 msgstr "Ver todos los géneros"
 
 #: jviews/m/_macro.html:716
-msgid "Add&nbsp;to&nbsp;Cart"
-msgstr "Añadir a la Cesta"
+#, fuzzy
+msgid "Add to Cart"
+msgstr "Agregar a la lista"
 
 #: jviews/m/buymusic.html:10
 msgid ""

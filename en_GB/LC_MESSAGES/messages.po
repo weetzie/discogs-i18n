@@ -31,8 +31,8 @@ msgid "Your cart is empty"
 msgstr "Your basket is empty"
 
 #: jviews/m/_macro.html:716
-msgid "Add&nbsp;to&nbsp;Cart"
-msgstr "Add&nbsp;to&nbsp;Basket"
+msgid "Add to Cart"
+msgstr "Add to Basket"
 
 #: jviews/m/cartrecs.html:7 jviews/m/cartrecs.html:37 jviews/m/item.html:130
 #: jviews/m/list.html:82 jviews/m/seller.html:9
