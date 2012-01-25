@@ -6,7 +6,8 @@ import os
 
 import utils
 import dbobjects
-from babel.support import Translations
+import babel.support
+import babel.localedata
 
 
 __all__ = ["get_locales", "get_language", "get_translations"]
@@ -49,7 +50,7 @@ def get_translations(locales=['en'], domain='messages'):
     """
     Return translations for given locale and domain.
     """
-    return Translations.load(dirname='i18n', locales=locales, domain=domain)
+    return babel.support.Translations.load(dirname='i18n', locales=locales, domain=domain)
 
 
 def _get_translations_json(locales=['en']):
@@ -104,16 +105,36 @@ def _get_locales_from_ip(request):
     """
     Return supported locales based on country code from ip country lookup.
     """
-    country_to_language_map = {
-        'us': 'en',
-        'br': 'pt',
-        # TODO: add more mappings
-    }
+    def _get_country_to_locales_map():
+        country_to_locales_map = {}
+        for locale in babel.localedata.list():
+            if not '_' in locale:
+                continue
+            language, country = locale.split('_', 1)
+            if '_' in country:
+                part1, part2 = country.split('_')
+                if len(part1) == 2:
+                    country = part1
+                elif len(part2) == 2:
+                    country = part2
+                else:
+                    raise ValueError("Unexpected value for country ({country}) with language ({language}) in locale ({locale}))".format(
+                        country=country, language=language, locale=locale))
+            if not country_to_locales_map.has_key(country.lower()):
+                country_to_locales_map[country.lower()] = []
+            if not language in country_to_locales_map[country.lower()]:
+                country_to_locales_map[country.lower()].append(language)
+            country_to_locales_map[country.lower()].append(locale)
+        for country, locales in country_to_locales_map.items():
+            locales = list(set(locales))
+            locales.sort()
+            country_to_locales_map[country] = locales
+        return country_to_locales_map
+
+    country_to_locales_map = _get_country_to_locales_map()
+    supported_locales = _get_supported_locales()
     country_code = dbobjects.IP_Country.lookup(request.remote_addr)[0].strip().lower()
-    if country_to_language_map.has_key(country_code):
-        language = country_to_language_map[country_code]
-        supported_locales = _get_supported_locales()
-        if language in supported_locales:
-            return [language]
+    if country_to_locales_map.has_key(country_code):
+        return [locale for locale in country_to_locales_map[country_code] if locale in supported_locales]
     return []
 

@@ -149,7 +149,7 @@ def translate_messages():
             translations_json = service.translations().list(
                 format='html',
                 source='en',
-                target=locale[:2], # google only knows about 2 letter language codes. Truncate locales like: pt_BR
+                target=locale.split('_', 1)[0], # google translate only knows about language codes. Truncate locales like: pt_BR
                 q=[message.id for message in message_block],
                 ).execute()
             # e.g. return value {'translations': [{'translatedText': 'fleurs'}, {'translatedText': 'voiture'}]}
@@ -172,7 +172,7 @@ def translate_messages():
             translations_json = service.translations().list(
                 format='html',
                 source='en',
-                target=locale[:2], # google only knows about 2 letter language codes. Truncate locales like: pt_BR
+                target=locale.split('_', 1)[0], # google translate only knows about language codes. Truncate locales like: pt_BR
                 q=[msgid for msgid in message.id for message in message_block],
                 ).execute()
             # e.g. return value {'translations': [{'translatedText': 'fleurs'}, {'translatedText': 'voiture'}]}
