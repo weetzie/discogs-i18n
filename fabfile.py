@@ -19,10 +19,9 @@ def list_supported_locales():
     List supported locales.
     These are the locales that currently exist.
     """
-    supported_locales = i18n._get_supported_locales()
-    for locale in supported_locales:
+    for locale in i18n.supported_locales:
         print locale
-    print "%d supported locales." % len(supported_locales)
+    print "%d supported locales." % len(i18n.supported_locales)
     print "List all locales with: fab list_locales"
     print "Add locales with: fab add_locale:<locale>"
     print "Remove locales with: fab remove_locale:<locale>"
@@ -52,10 +51,9 @@ def add_locale(locale=None):
     Creates the initial messages.po and messages_js.po files from the .pot files.
     Prints error message if locale alreay exists or is invalid.
     """
-    supported_locales = i18n._get_supported_locales()
     if locale is None:
         print "USAGE: Add locales with: fab add_locale:<locale>"
-    elif locale in supported_locales:
+    elif locale in i18n.supported_locales:
         print "ERROR: Locale %s is already a supported locale." % locale
     elif locale not in babel.localedata.list():
         print "ERROR: Invalid locale %s. Use `pybabel --list-locales` for a list of locales." % locale
@@ -117,7 +115,7 @@ def update_messages():
     Updates existing .po files with new entries in .pot files from extract_messages.
     """
     # manage English language files manually; en should be empty; en_GB should just have string we want to translate for the UK.
-    supported_locales = [locale for locale in i18n._get_supported_locales() if not locale.startswith('en')]
+    supported_locales = [locale for locale in i18n.supported_locales if not locale.startswith('en')]
     cmd = 'pybabel update --input-file=i18n/{domain}.pot --output-dir=i18n --locale={locale} --domain={domain} --ignore-obsolete'
     for locale in supported_locales:
         local(cmd.format(domain='messages', locale=locale))
@@ -204,8 +202,7 @@ def translate_messages():
 
     translation_count = 0
     service = apiclient.discovery.build('translate', 'v2', developerKey=_locals.google_translate_server_api_key)
-    supported_locales = i18n._get_supported_locales()
-    for locale in supported_locales:
+    for locale in i18n.supported_locales:
         translation_count += _add_missing_translations(service=service, domain='messages', locale=locale)
         translation_count += _add_missing_translations(service=service, domain='messages_js', locale=locale)
     print "Translated %d new strings. Next run: fab i18n.compile_messages" % translation_count
@@ -217,9 +214,8 @@ def compile_messages():
     Compiles .po messages to .mo files.
     Creates a translations.json file for each locale in static/js/i18n/<locale>/.
     """
-    supported_locales = i18n._get_supported_locales()
     cmd = 'pybabel compile --directory=i18n --locale={locale} --input-file=i18n/{locale}/LC_MESSAGES/{domain}.po --use-fuzzy --statistics --domain={domain}'
-    for locale in supported_locales:
+    for locale in i18n.supported_locales:
         local(cmd.format(locale=locale, domain='messages'))
         local(cmd.format(locale=locale, domain='messages_js'))
         try:
