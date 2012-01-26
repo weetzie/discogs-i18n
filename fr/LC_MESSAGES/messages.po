@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Discogs 0.1\n"
 "Report-Msgid-Bugs-To: language@discogs.com\n"
-"POT-Creation-Date: 2012-01-23 15:16-0800\n"
+"POT-Creation-Date: 2012-01-25 16:37-0800\n"
 "PO-Revision-Date: 2012-01-23 14:50-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -17,22 +17,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
 
-#: controllers/digital.py:225 controllers/jd.py:277 controllers/m.py:1873
+#: controllers/digital.py:225 controllers/jd.py:277 controllers/m.py:1879
 msgid "Marketplace"
 msgstr "Marketplace"
 
-#: controllers/digital.py:226 controllers/jd.py:278 controllers/m.py:1874
+#: controllers/digital.py:226 controllers/jd.py:278 controllers/m.py:1880
 msgid "Digital"
 msgstr "Numérique"
 
-#: controllers/digital.py:228 controllers/jd.py:280 controllers/m.py:1789
-#: controllers/m.py:1876
+#: controllers/digital.py:228 controllers/jd.py:280 controllers/m.py:1795
+#: controllers/m.py:1882
 msgid "Shopping Cart"
 msgstr "Panier"
 
 #: controllers/explore.py:20 jviews/digital/bundle.html:66
 #: jviews/digital/index.html:34 jviews/label/rollover.html:20
-#: jviews/search/query.html:131
+#: jviews/search/query.html:132
 msgid "Releases"
 msgstr "Communiqués"
 
@@ -72,7 +72,7 @@ msgstr "Articles I Wanna"
 msgid "in MP3/WAV"
 msgstr "en MP3/WAV"
 
-#: jviews/_footer.html:12 jviews/m/list.html:33
+#: jviews/_footer.html:12 jviews/m/list.html:34
 msgid "My Purchases"
 msgstr "Mes Achats"
 
@@ -100,7 +100,7 @@ msgstr "MP3/WAV"
 msgid "Getting Started"
 msgstr "Mise en route"
 
-#: jviews/_footer.html:22 jviews/m/list.html:34
+#: jviews/_footer.html:22 jviews/m/list.html:35
 msgid "Manage Inventory"
 msgstr "Gérer l&#39;inventaire"
 
@@ -108,11 +108,11 @@ msgstr "Gérer l&#39;inventaire"
 msgid "My Items For Sale"
 msgstr "Mes objets à vendre"
 
-#: jviews/_footer.html:26 jviews/m/list.html:35
+#: jviews/_footer.html:26 jviews/m/list.html:36
 msgid "My Orders"
 msgstr "Mes commandes"
 
-#: jviews/_footer.html:27 jviews/m/list.html:36
+#: jviews/_footer.html:27 jviews/m/list.html:37
 msgid "Billing"
 msgstr "Facturation"
 
@@ -212,7 +212,7 @@ msgstr "Inscription"
 msgid "Contribute"
 msgstr "Contribuer"
 
-#: jviews/_footer.html:88 jviews/label/view.html:89
+#: jviews/_footer.html:88 jviews/label/view.html:94
 msgid "Add Release"
 msgstr "Ajouter presse"
 
@@ -228,27 +228,27 @@ msgstr "Suivez-nous"
 msgid "Languages"
 msgstr "Langues"
 
-#: jviews/_footer.html:118
+#: jviews/_footer.html:111
 msgid "Other&nbsp;Stuff"
 msgstr "Autres sujets"
 
-#: jviews/_footer.html:120
+#: jviews/_footer.html:113
 msgid "Developers&nbsp;API"
 msgstr "Développeurs API"
 
-#: jviews/_footer.html:128
+#: jviews/_footer.html:121
 msgid "website"
 msgstr "site web"
 
-#: jviews/_footer.html:128
+#: jviews/_footer.html:121
 msgid "Copyright"
 msgstr "Droit d&#39;auteur"
 
-#: jviews/_footer.html:129
+#: jviews/_footer.html:122
 msgid "Terms of Service"
 msgstr "Conditions d&#39;utilisation"
 
-#: jviews/_footer.html:130
+#: jviews/_footer.html:123
 msgid "Privacy Policy"
 msgstr "Politique de confidentialité"
 
@@ -332,7 +332,7 @@ msgid "Format"
 msgstr "Format"
 
 #: jviews/digital/cart.html:22 jviews/digital/checkout.html:17
-#: jviews/m/list.html:80 jviews/m/list_release.html:99
+#: jviews/m/list.html:81 jviews/m/list_release.html:101
 msgid "Price"
 msgstr "Prix"
 
@@ -352,7 +352,7 @@ msgstr "pistes"
 msgid "track"
 msgstr "suivre"
 
-#: jviews/digital/cart.html:91 jviews/label/view.html:37
+#: jviews/digital/cart.html:91 jviews/label/view.html:42
 msgid "remove"
 msgstr "retirer"
 
@@ -397,11 +397,11 @@ msgstr "MP3 &amp; WAV Téléchargements"
 msgid "Showing"
 msgstr "Affichage"
 
-#: jviews/digital/index.html:16 jviews/m/list.html:69
+#: jviews/digital/index.html:16 jviews/m/list.html:70
 msgid "item"
 msgid_plural "items"
-msgstr[0] "F"
-msgstr[1] "F"
+msgstr[0] "Point"
+msgstr[1] "articles"
 
 #: jviews/digital/index.html:17
 msgid "from my"
@@ -640,11 +640,11 @@ msgstr "Ce label n&#39;existe pas dans Discogs."
 msgid "Profile"
 msgstr "Profil"
 
-#: jviews/label/rollover.html:25 jviews/label/view.html:44
+#: jviews/label/rollover.html:25 jviews/label/view.html:49
 msgid "submission pending"
 msgid_plural "submissions pending"
-msgstr[0] "F"
-msgstr[1] "F"
+msgstr[0] "en attendant la soumission"
+msgstr[1] "soumissions en attente"
 
 #: jviews/label/rollover.html:30
 msgid "Alternates"
@@ -654,68 +654,71 @@ msgstr "Remplaçants"
 msgid "Search for variations of"
 msgstr "Chercher des variantes de la"
 
-#: jviews/label/view.html:27
-msgid "history / edit"
-msgstr "Histoire / edit"
+#: jviews/label/view.html:32
+msgid "history"
+msgstr "l&#39;histoire"
 
-#: jviews/label/view.html:28 jviews/m/list_release.html:110
+#: jviews/label/view.html:32
+msgid "edit"
+msgstr "modifier"
+
+#: jviews/label/view.html:33 jviews/m/list_release.html:112
 msgid "Label"
 msgstr "Étiquette"
 
-#: jviews/label/view.html:42 jviews/search/_results.html:55
-#: jviews/search/query.html:93
+#: jviews/label/view.html:47 jviews/search/_results.html:55
+#: jviews/search/query.html:94
 msgid "Add to List"
 msgstr "Ajouter à la liste"
 
-#: jviews/label/view.html:50
+#: jviews/label/view.html:55
 msgid "Jump To"
 msgstr "Atteindre"
 
-#: jviews/label/view.html:52
+#: jviews/label/view.html:57
 msgid "reviews"
 msgstr "commentaires"
 
-#: jviews/label/view.html:53
+#: jviews/label/view.html:58
 msgid "lists"
 msgstr "listes"
 
-#: jviews/label/view.html:63
+#: jviews/label/view.html:68
 msgid "sort"
 msgstr "tri"
 
-#: jviews/label/view.html:69
+#: jviews/label/view.html:74
 msgid "genres"
 msgstr "genres"
 
-#: jviews/label/view.html:72 jviews/label/view.html:74
+#: jviews/label/view.html:77 jviews/label/view.html:79
 #: jviews/m/buymusic.html:135
 msgid "All Genres"
 msgstr "Tous les genres"
 
-#: jviews/label/view.html:97
+#: jviews/label/view.html:102
 msgid "Discography"
 msgstr "Discographie"
 
-#: jviews/label/view.html:99
+#: jviews/label/view.html:104
 msgid "showing"
 msgstr "montrant"
 
-#: jviews/label/view.html:105
+#: jviews/label/view.html:110
 msgid "This label has no approved releases"
 msgstr "Ce label n&#39;a pas approuvé les communiqués"
 
-#: jviews/label/view.html:105
+#: jviews/label/view.html:110
 msgid "in"
 msgstr "dans les"
 
-#: jviews/label/view.html:105
+#: jviews/label/view.html:110
 msgid "View all genres"
 msgstr "Afficher tous les genres"
 
 #: jviews/m/_macro.html:716
-#, fuzzy
 msgid "Add to Cart"
-msgstr "Ajouter à la liste"
+msgstr "Ajouter au panier"
 
 #: jviews/m/buymusic.html:10
 msgid ""
@@ -857,8 +860,8 @@ msgstr "Nouveautés"
 msgid "Recommendations"
 msgstr "Recommandations"
 
-#: jviews/m/cartrecs.html:7 jviews/m/cartrecs.html:37 jviews/m/item.html:130
-#: jviews/m/list.html:82 jviews/m/seller.html:9
+#: jviews/m/cartrecs.html:7 jviews/m/cartrecs.html:37 jviews/m/item.html:133
+#: jviews/m/list.html:83 jviews/m/seller.html:9
 msgid "View Cart"
 msgstr "Voir le panier"
 
@@ -870,116 +873,116 @@ msgstr "Sur la base des articles dans votre panier du vendeur"
 msgid "we recommend these releases"
 msgstr "Nous recommandons ces communiqués"
 
-#: jviews/m/item.html:135 jviews/m/list.html:185 jviews/m/list_release.html:48
+#: jviews/m/item.html:138 jviews/m/list.html:186 jviews/m/list_release.html:50
 msgid "Sales History"
 msgstr "Historique des ventes"
 
-#: jviews/m/list.html:32
+#: jviews/m/list.html:33
 msgid "Show Items I Want"
 msgstr "Afficher les éléments I Wanna"
 
-#: jviews/m/list.html:33
+#: jviews/m/list.html:34
 msgid "Buyers"
 msgstr "Acheteurs"
 
-#: jviews/m/list.html:34
+#: jviews/m/list.html:35
 msgid "Sellers"
 msgstr "Vendeurs"
 
-#: jviews/m/list.html:56
+#: jviews/m/list.html:57
 msgid "You Selected"
 msgstr "Vous avez sélectionné"
 
-#: jviews/m/list.html:66 jviews/m/list_release.html:82
+#: jviews/m/list.html:67 jviews/m/list_release.html:84
 #: jviews/search/_results.html:32
 msgid "Sort by"
 msgstr "Trier par"
 
-#: jviews/m/list.html:73 jviews/m/list_release.html:57
+#: jviews/m/list.html:74 jviews/m/list_release.html:59
 msgid "Community Data"
 msgstr "Les données communautaires"
 
-#: jviews/m/list.html:77 jviews/m/list_release.html:98
+#: jviews/m/list.html:78 jviews/m/list_release.html:100
 msgid "Seller Information"
 msgstr "Informations sur le vendeur"
 
-#: jviews/m/list.html:118 jviews/m/list_release.html:136
+#: jviews/m/list.html:119 jviews/m/list_release.html:138
 msgid "Seller"
 msgstr "Vendeur"
 
-#: jviews/m/list.html:119 jviews/m/list_release.html:137
+#: jviews/m/list.html:120 jviews/m/list_release.html:139
 msgid "Rating"
 msgstr "Note"
 
-#: jviews/m/list.html:120 jviews/m/list_release.html:138
+#: jviews/m/list.html:121 jviews/m/list_release.html:140
 msgid "Ships From"
 msgstr "Expédié"
 
-#: jviews/m/list.html:143 jviews/m/list_release.html:162
+#: jviews/m/list.html:144 jviews/m/list_release.html:164
 msgid "Make Offer / Details"
 msgstr "Faire une offre / Détails"
 
-#: jviews/m/list.html:145 jviews/m/list_release.html:162
+#: jviews/m/list.html:146 jviews/m/list_release.html:164
 msgid "Details"
 msgstr "Détails"
 
-#: jviews/m/list.html:149 jviews/m/list_release.html:122
+#: jviews/m/list.html:150 jviews/m/list_release.html:124
 msgid "Install Flash player to hear audio clip."
 msgstr "Installer Flash Player pour écouter clip audio."
 
-#: jviews/m/list.html:173 jviews/m/list_release.html:152
+#: jviews/m/list.html:174 jviews/m/list_release.html:154
 msgid "Manage Product Search Items"
 msgstr "Gérer les éléments de recherche de produits"
 
-#: jviews/m/list.html:187 jviews/m/list_release.html:51
+#: jviews/m/list.html:188 jviews/m/list_release.html:53
 msgid "Sell this Item"
 msgstr "Vendre cet article"
 
-#: jviews/m/list_release.html:34
+#: jviews/m/list_release.html:36
 msgid "Back to Release Details"
 msgstr "Retour au communiqué de détails"
 
-#: jviews/m/list_release.html:37
+#: jviews/m/list_release.html:39
 msgid "In Collection"
 msgstr "Dans la collection"
 
-#: jviews/m/list_release.html:40
+#: jviews/m/list_release.html:42
 msgid "In Wantlist"
 msgstr "En kaddy"
 
-#: jviews/m/list_release.html:44
+#: jviews/m/list_release.html:46
 msgid "Show/Hide Tracklist"
 msgstr "Afficher / Masquer Tracklist"
 
-#: jviews/m/list_release.html:76
+#: jviews/m/list_release.html:78
 msgid "page"
 msgstr "Page"
 
-#: jviews/m/list_release.html:76
+#: jviews/m/list_release.html:78
 msgid "of"
 msgstr "des"
 
-#: jviews/m/list_release.html:97
+#: jviews/m/list_release.html:99
 msgid "Condition"
 msgstr "Condition"
 
-#: jviews/m/list_release.html:100
+#: jviews/m/list_release.html:102
 msgid "Buy It"
 msgstr "Achat"
 
-#: jviews/m/list_release.html:113
+#: jviews/m/list_release.html:115
 msgid "Media"
 msgstr "Médias"
 
-#: jviews/m/list_release.html:115
+#: jviews/m/list_release.html:117
 msgid "Sleeve"
 msgstr "Manches"
 
-#: jviews/m/list_release.html:154
+#: jviews/m/list_release.html:156
 msgid "Edit Listing"
 msgstr "Modifier annonce"
 
-#: jviews/m/list_release.html:155
+#: jviews/m/list_release.html:157
 msgid "Unlist Item"
 msgstr "Produit Unlist"
 
@@ -1006,7 +1009,7 @@ msgstr ""
 " une requête différente."
 
 #: jviews/search/_results.html:7 jviews/search/_results.html:16
-#: jviews/search/query.html:34
+#: jviews/search/query.html:35
 msgid "Help on search"
 msgstr "Aide à la recherche"
 
@@ -1030,47 +1033,47 @@ msgstr "Vote des besoins"
 msgid "Needs Changes"
 msgstr "Les changements des besoins"
 
-#: jviews/search/query.html:27
+#: jviews/search/query.html:28
 msgid "Show Advanced Search"
 msgstr "Voir Recherche avancée"
 
-#: jviews/search/query.html:33
+#: jviews/search/query.html:34
 msgid "You did not enter a search query."
 msgstr "Vous n&#39;avez pas entrer une requête de recherche."
 
-#: jviews/search/query.html:43
+#: jviews/search/query.html:44
 msgid "Did you mean?"
 msgstr "Vouliez-vous dire?"
 
-#: jviews/search/query.html:60
+#: jviews/search/query.html:61
 msgid "artist named"
 msgid_plural "artists named"
-msgstr[0] "F"
-msgstr[1] "o"
-
-#: jviews/search/query.html:63 jviews/search/query.html:72
-#: jviews/search/query.html:81
-msgid "We're showing the first 10, but you can"
-msgstr "Nous montrons les 10 premiers, mais vous pouvez"
+msgstr[0] "artiste du nom de"
+msgstr[1] "artistes nommés"
 
 #: jviews/search/query.html:64 jviews/search/query.html:73
 #: jviews/search/query.html:82
+msgid "We're showing the first 10, but you can"
+msgstr "Nous montrons les 10 premiers, mais vous pouvez"
+
+#: jviews/search/query.html:65 jviews/search/query.html:74
+#: jviews/search/query.html:83
 msgid "view all here"
 msgstr "voir tous ici"
 
-#: jviews/search/query.html:69 jviews/search/query.html:123
+#: jviews/search/query.html:70 jviews/search/query.html:124
 msgid "artist name variation of"
 msgid_plural "artist name variations of"
-msgstr[0] "o"
-msgstr[1] "o"
+msgstr[0] "la variation du nom de l&#39;artiste"
+msgstr[1] "les variations du nom de l&#39;artiste"
 
-#: jviews/search/query.html:78
+#: jviews/search/query.html:79
 msgid "label named"
 msgid_plural "labels named"
-msgstr[0] "o"
-msgstr[1] "o"
+msgstr[0] "Label nommé"
+msgstr[1] "étiquettes nommées"
 
-#: jviews/search/query.html:100
+#: jviews/search/query.html:101
 msgid "In list"
 msgstr "Dans la liste"
 

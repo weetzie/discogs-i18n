@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Discogs 0.1\n"
 "Report-Msgid-Bugs-To: language@discogs.com\n"
-"POT-Creation-Date: 2012-01-23 15:16-0800\n"
+"POT-Creation-Date: 2012-01-25 16:37-0800\n"
 "PO-Revision-Date: 2012-01-23 14:50-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -17,22 +17,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
 
-#: controllers/digital.py:225 controllers/jd.py:277 controllers/m.py:1873
+#: controllers/digital.py:225 controllers/jd.py:277 controllers/m.py:1879
 msgid "Marketplace"
 msgstr "マーケット"
 
-#: controllers/digital.py:226 controllers/jd.py:278 controllers/m.py:1874
+#: controllers/digital.py:226 controllers/jd.py:278 controllers/m.py:1880
 msgid "Digital"
 msgstr "デジタル"
 
-#: controllers/digital.py:228 controllers/jd.py:280 controllers/m.py:1789
-#: controllers/m.py:1876
+#: controllers/digital.py:228 controllers/jd.py:280 controllers/m.py:1795
+#: controllers/m.py:1882
 msgid "Shopping Cart"
 msgstr "ショッピングカート"
 
 #: controllers/explore.py:20 jviews/digital/bundle.html:66
 #: jviews/digital/index.html:34 jviews/label/rollover.html:20
-#: jviews/search/query.html:131
+#: jviews/search/query.html:132
 msgid "Releases"
 msgstr "リリース"
 
@@ -72,7 +72,7 @@ msgstr "私が欲しいアイテム"
 msgid "in MP3/WAV"
 msgstr "MP3/WAVの"
 
-#: jviews/_footer.html:12 jviews/m/list.html:33
+#: jviews/_footer.html:12 jviews/m/list.html:34
 msgid "My Purchases"
 msgstr "私の購入"
 
@@ -100,7 +100,7 @@ msgstr "MP3/WAV"
 msgid "Getting Started"
 msgstr "はじめに"
 
-#: jviews/_footer.html:22 jviews/m/list.html:34
+#: jviews/_footer.html:22 jviews/m/list.html:35
 msgid "Manage Inventory"
 msgstr "インベントリを管理する"
 
@@ -108,11 +108,11 @@ msgstr "インベントリを管理する"
 msgid "My Items For Sale"
 msgstr "販売のための私のアイテム"
 
-#: jviews/_footer.html:26 jviews/m/list.html:35
+#: jviews/_footer.html:26 jviews/m/list.html:36
 msgid "My Orders"
 msgstr "マイオーダー"
 
-#: jviews/_footer.html:27 jviews/m/list.html:36
+#: jviews/_footer.html:27 jviews/m/list.html:37
 msgid "Billing"
 msgstr "請求"
 
@@ -212,7 +212,7 @@ msgstr "サインアップ"
 msgid "Contribute"
 msgstr "貢献"
 
-#: jviews/_footer.html:88 jviews/label/view.html:89
+#: jviews/_footer.html:88 jviews/label/view.html:94
 msgid "Add Release"
 msgstr "リリースを追加"
 
@@ -228,27 +228,27 @@ msgstr "フォロー"
 msgid "Languages"
 msgstr "言語"
 
-#: jviews/_footer.html:118
+#: jviews/_footer.html:111
 msgid "Other&nbsp;Stuff"
 msgstr "他のスタッフ"
 
-#: jviews/_footer.html:120
+#: jviews/_footer.html:113
 msgid "Developers&nbsp;API"
 msgstr "開発者API"
 
-#: jviews/_footer.html:128
+#: jviews/_footer.html:121
 msgid "website"
 msgstr "Webサイト"
 
-#: jviews/_footer.html:128
+#: jviews/_footer.html:121
 msgid "Copyright"
 msgstr "著作権"
 
-#: jviews/_footer.html:129
+#: jviews/_footer.html:122
 msgid "Terms of Service"
 msgstr "サービスの条件"
 
-#: jviews/_footer.html:130
+#: jviews/_footer.html:123
 msgid "Privacy Policy"
 msgstr "プライバシーポリシー"
 
@@ -332,7 +332,7 @@ msgid "Format"
 msgstr "フォーマット"
 
 #: jviews/digital/cart.html:22 jviews/digital/checkout.html:17
-#: jviews/m/list.html:80 jviews/m/list_release.html:99
+#: jviews/m/list.html:81 jviews/m/list_release.html:101
 msgid "Price"
 msgstr "価格"
 
@@ -352,7 +352,7 @@ msgstr "トラック"
 msgid "track"
 msgstr "トラック"
 
-#: jviews/digital/cart.html:91 jviews/label/view.html:37
+#: jviews/digital/cart.html:91 jviews/label/view.html:42
 msgid "remove"
 msgstr "削除"
 
@@ -397,10 +397,10 @@ msgstr "MP3＆WAVダウンロード"
 msgid "Showing"
 msgstr "表示"
 
-#: jviews/digital/index.html:16 jviews/m/list.html:69
+#: jviews/digital/index.html:16 jviews/m/list.html:70
 msgid "item"
 msgid_plural "items"
-msgstr[0] "F"
+msgstr[0] "の項目"
 
 #: jviews/digital/index.html:17
 msgid "from my"
@@ -625,10 +625,10 @@ msgstr "このラベルは、Discogsには存在しません。"
 msgid "Profile"
 msgstr "プロフィール"
 
-#: jviews/label/rollover.html:25 jviews/label/view.html:44
+#: jviews/label/rollover.html:25 jviews/label/view.html:49
 msgid "submission pending"
 msgid_plural "submissions pending"
-msgstr[0] "F"
+msgstr[0] "発信を保留中"
 
 #: jviews/label/rollover.html:30
 msgid "Alternates"
@@ -638,68 +638,71 @@ msgstr "交互に"
 msgid "Search for variations of"
 msgstr "のバリエーションを検索する。"
 
-#: jviews/label/view.html:27
-msgid "history / edit"
-msgstr "歴史/編集"
+#: jviews/label/view.html:32
+msgid "history"
+msgstr "の歴史"
 
-#: jviews/label/view.html:28 jviews/m/list_release.html:110
+#: jviews/label/view.html:32
+msgid "edit"
+msgstr "編集"
+
+#: jviews/label/view.html:33 jviews/m/list_release.html:112
 msgid "Label"
 msgstr "ラベル"
 
-#: jviews/label/view.html:42 jviews/search/_results.html:55
-#: jviews/search/query.html:93
+#: jviews/label/view.html:47 jviews/search/_results.html:55
+#: jviews/search/query.html:94
 msgid "Add to List"
 msgstr "リストに追加"
 
-#: jviews/label/view.html:50
+#: jviews/label/view.html:55
 msgid "Jump To"
 msgstr "にジャンプ"
 
-#: jviews/label/view.html:52
+#: jviews/label/view.html:57
 msgid "reviews"
 msgstr "レビュー"
 
-#: jviews/label/view.html:53
+#: jviews/label/view.html:58
 msgid "lists"
 msgstr "リスト"
 
-#: jviews/label/view.html:63
+#: jviews/label/view.html:68
 msgid "sort"
 msgstr "並べ替え"
 
-#: jviews/label/view.html:69
+#: jviews/label/view.html:74
 msgid "genres"
 msgstr "ジャンル"
 
-#: jviews/label/view.html:72 jviews/label/view.html:74
+#: jviews/label/view.html:77 jviews/label/view.html:79
 #: jviews/m/buymusic.html:135
 msgid "All Genres"
 msgstr "すべてのジャンル"
 
-#: jviews/label/view.html:97
+#: jviews/label/view.html:102
 msgid "Discography"
 msgstr "ディスコグラフィー"
 
-#: jviews/label/view.html:99
+#: jviews/label/view.html:104
 msgid "showing"
 msgstr "表示"
 
-#: jviews/label/view.html:105
+#: jviews/label/view.html:110
 msgid "This label has no approved releases"
 msgstr "このラベルは、承認されたリリースがありません"
 
-#: jviews/label/view.html:105
+#: jviews/label/view.html:110
 msgid "in"
 msgstr "の"
 
-#: jviews/label/view.html:105
+#: jviews/label/view.html:110
 msgid "View all genres"
 msgstr "すべてのジャンルを見る"
 
 #: jviews/m/_macro.html:716
-#, fuzzy
 msgid "Add to Cart"
-msgstr "リストに追加"
+msgstr "カートに入れる"
 
 #: jviews/m/buymusic.html:10
 msgid ""
@@ -837,8 +840,8 @@ msgstr "新しいリリース"
 msgid "Recommendations"
 msgstr "推奨事項"
 
-#: jviews/m/cartrecs.html:7 jviews/m/cartrecs.html:37 jviews/m/item.html:130
-#: jviews/m/list.html:82 jviews/m/seller.html:9
+#: jviews/m/cartrecs.html:7 jviews/m/cartrecs.html:37 jviews/m/item.html:133
+#: jviews/m/list.html:83 jviews/m/seller.html:9
 msgid "View Cart"
 msgstr "カートを見る"
 
@@ -850,116 +853,116 @@ msgstr "あなたのショッピングカート内の項目に基づいて売り
 msgid "we recommend these releases"
 msgstr "我々は、これらのリリースをお勧めします"
 
-#: jviews/m/item.html:135 jviews/m/list.html:185 jviews/m/list_release.html:48
+#: jviews/m/item.html:138 jviews/m/list.html:186 jviews/m/list_release.html:50
 msgid "Sales History"
 msgstr "販売履歴"
 
-#: jviews/m/list.html:32
+#: jviews/m/list.html:33
 msgid "Show Items I Want"
 msgstr "私が欲しいアイテムを表示する"
 
-#: jviews/m/list.html:33
+#: jviews/m/list.html:34
 msgid "Buyers"
 msgstr "バイヤー"
 
-#: jviews/m/list.html:34
+#: jviews/m/list.html:35
 msgid "Sellers"
 msgstr "売り手"
 
-#: jviews/m/list.html:56
+#: jviews/m/list.html:57
 msgid "You Selected"
 msgstr "あなたが選択"
 
-#: jviews/m/list.html:66 jviews/m/list_release.html:82
+#: jviews/m/list.html:67 jviews/m/list_release.html:84
 #: jviews/search/_results.html:32
 msgid "Sort by"
 msgstr "並べ替え"
 
-#: jviews/m/list.html:73 jviews/m/list_release.html:57
+#: jviews/m/list.html:74 jviews/m/list_release.html:59
 msgid "Community Data"
 msgstr "コミュニティのデータ"
 
-#: jviews/m/list.html:77 jviews/m/list_release.html:98
+#: jviews/m/list.html:78 jviews/m/list_release.html:100
 msgid "Seller Information"
 msgstr "販売店情報"
 
-#: jviews/m/list.html:118 jviews/m/list_release.html:136
+#: jviews/m/list.html:119 jviews/m/list_release.html:138
 msgid "Seller"
 msgstr "販売者"
 
-#: jviews/m/list.html:119 jviews/m/list_release.html:137
+#: jviews/m/list.html:120 jviews/m/list_release.html:139
 msgid "Rating"
 msgstr "評価"
 
-#: jviews/m/list.html:120 jviews/m/list_release.html:138
+#: jviews/m/list.html:121 jviews/m/list_release.html:140
 msgid "Ships From"
 msgstr "から船舶"
 
-#: jviews/m/list.html:143 jviews/m/list_release.html:162
+#: jviews/m/list.html:144 jviews/m/list_release.html:164
 msgid "Make Offer / Details"
 msgstr "/詳細を提示"
 
-#: jviews/m/list.html:145 jviews/m/list_release.html:162
+#: jviews/m/list.html:146 jviews/m/list_release.html:164
 msgid "Details"
 msgstr "詳細"
 
-#: jviews/m/list.html:149 jviews/m/list_release.html:122
+#: jviews/m/list.html:150 jviews/m/list_release.html:124
 msgid "Install Flash player to hear audio clip."
 msgstr "オーディオクリップを聞くためにFlashプレーヤーをインストールしてください。"
 
-#: jviews/m/list.html:173 jviews/m/list_release.html:152
+#: jviews/m/list.html:174 jviews/m/list_release.html:154
 msgid "Manage Product Search Items"
 msgstr "商品検索の項目を管理する"
 
-#: jviews/m/list.html:187 jviews/m/list_release.html:51
+#: jviews/m/list.html:188 jviews/m/list_release.html:53
 msgid "Sell this Item"
 msgstr "このアイテムを販売"
 
-#: jviews/m/list_release.html:34
+#: jviews/m/list_release.html:36
 msgid "Back to Release Details"
 msgstr "詳細をリリースに戻す"
 
-#: jviews/m/list_release.html:37
+#: jviews/m/list_release.html:39
 msgid "In Collection"
 msgstr "コレクションの"
 
-#: jviews/m/list_release.html:40
+#: jviews/m/list_release.html:42
 msgid "In Wantlist"
 msgstr "Wantlistで"
 
-#: jviews/m/list_release.html:44
+#: jviews/m/list_release.html:46
 msgid "Show/Hide Tracklist"
 msgstr "曲目リストの表示/非表示"
 
-#: jviews/m/list_release.html:76
+#: jviews/m/list_release.html:78
 msgid "page"
 msgstr "のページ"
 
-#: jviews/m/list_release.html:76
+#: jviews/m/list_release.html:78
 msgid "of"
 msgstr "中"
 
-#: jviews/m/list_release.html:97
+#: jviews/m/list_release.html:99
 msgid "Condition"
 msgstr "条件"
 
-#: jviews/m/list_release.html:100
+#: jviews/m/list_release.html:102
 msgid "Buy It"
 msgstr "それを購入する"
 
-#: jviews/m/list_release.html:113
+#: jviews/m/list_release.html:115
 msgid "Media"
 msgstr "メディアの"
 
-#: jviews/m/list_release.html:115
+#: jviews/m/list_release.html:117
 msgid "Sleeve"
 msgstr "スリーブ"
 
-#: jviews/m/list_release.html:154
+#: jviews/m/list_release.html:156
 msgid "Edit Listing"
 msgstr "リストを編集する"
 
-#: jviews/m/list_release.html:155
+#: jviews/m/list_release.html:157
 msgid "Unlist Item"
 msgstr "アイテムリストから抹消する"
 
@@ -984,7 +987,7 @@ msgid "Your search returned no results. Please try a different query."
 msgstr "検索結果はありませんが返されませんでした。別のクエリをお試しください。"
 
 #: jviews/search/_results.html:7 jviews/search/_results.html:16
-#: jviews/search/query.html:34
+#: jviews/search/query.html:35
 msgid "Help on search"
 msgstr "検索のヘルプ"
 
@@ -1008,44 +1011,44 @@ msgstr "投票が必要です"
 msgid "Needs Changes"
 msgstr "変更が必要です"
 
-#: jviews/search/query.html:27
+#: jviews/search/query.html:28
 msgid "Show Advanced Search"
 msgstr "詳細検索を表示"
 
-#: jviews/search/query.html:33
+#: jviews/search/query.html:34
 msgid "You did not enter a search query."
 msgstr "あなたは、検索クエリが入力されていません。"
 
-#: jviews/search/query.html:43
+#: jviews/search/query.html:44
 msgid "Did you mean?"
 msgstr "もしかして？"
 
-#: jviews/search/query.html:60
+#: jviews/search/query.html:61
 msgid "artist named"
 msgid_plural "artists named"
-msgstr[0] "F"
-
-#: jviews/search/query.html:63 jviews/search/query.html:72
-#: jviews/search/query.html:81
-msgid "We're showing the first 10, but you can"
-msgstr "我々は最初の10を示しているが、次の操作を実行できます"
+msgstr[0] "という名前のアーティスト"
 
 #: jviews/search/query.html:64 jviews/search/query.html:73
 #: jviews/search/query.html:82
+msgid "We're showing the first 10, but you can"
+msgstr "我々は最初の10を示しているが、次の操作を実行できます"
+
+#: jviews/search/query.html:65 jviews/search/query.html:74
+#: jviews/search/query.html:83
 msgid "view all here"
 msgstr "ここに全てを表示"
 
-#: jviews/search/query.html:69 jviews/search/query.html:123
+#: jviews/search/query.html:70 jviews/search/query.html:124
 msgid "artist name variation of"
 msgid_plural "artist name variations of"
-msgstr[0] "O"
+msgstr[0] "のアーティスト名のバリエーション"
 
-#: jviews/search/query.html:78
+#: jviews/search/query.html:79
 msgid "label named"
 msgid_plural "labels named"
-msgstr[0] "O"
+msgstr[0] "という名前のラベル"
 
-#: jviews/search/query.html:100
+#: jviews/search/query.html:101
 msgid "In list"
 msgstr "リスト内の"
 

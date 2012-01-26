@@ -108,7 +108,7 @@ def extract_messages():
     cmd = 'pybabel extract --mapping=config/{config} --charset=utf-8 --no-wrap --msgid-bugs-address=language@discogs.com --copyright-holder=Discogs --project=Discogs --version=0.1 --output=i18n/{domain}.pot .'
     local(cmd.format(config='babel.cfg', domain='messages'))
     local(cmd.format(config='babel_js.cfg', domain='messages_js'))
-    print "Extracted messages into template files. Next run: fab update_messages"
+    print "Extracted messages into template files. Next run: fab i18n.update_messages"
 
 
 @task
@@ -122,7 +122,7 @@ def update_messages():
     for locale in supported_locales:
         local(cmd.format(domain='messages', locale=locale))
         local(cmd.format(domain='messages_js', locale=locale))
-    print "Updated message catalogs. Next run: fab translate_messages"
+    print "Updated message catalogs. Next run: fab i18n.translate_messages"
 
 
 @task
@@ -169,11 +169,15 @@ def translate_messages():
             for block in range(0, len(plural_messages), block_size)]
         for message_block in plural_message_blocks:
             # google translate
+            q = []
+            for message in message_block:
+                for msgid in message.id:
+                    q.append(msgid)
             translations_json = service.translations().list(
                 format='html',
                 source='en',
                 target=locale.split('_', 1)[0], # google translate only knows about language codes. Truncate locales like: pt_BR
-                q=[msgid for msgid in message.id for message in message_block],
+                q=q,
                 ).execute()
             # e.g. return value {'translations': [{'translatedText': 'fleurs'}, {'translatedText': 'voiture'}]}
 
@@ -183,13 +187,19 @@ def translate_messages():
             #     translations_json['translations'].append({'translatedText': 'foo%s' % count})
 
             for index, message in enumerate(message_block):
-                catalog[message.id].string = (translations_json['translations'][index*2]['translatedText'],
+                translations = (translations_json['translations'][index*2]['translatedText'],
                     translations_json['translations'][(index*2)+1]['translatedText'])
+                # use plural form as value for additional plural forms in other languages
+                for i in range(1, len(message.id)):
+                    translations += (translations[1],)
+                catalog[message.id].string = translations
 
         fileobj = open(os.path.join('i18n', locale, 'LC_MESSAGES', '{domain}.po'.format(domain=domain)), 'w')
         babel.messages.pofile.write_po(fileobj, catalog, ignore_obsolete=True, include_previous=True)
         fileobj.close()
 
+        print "Translated {singular} singular and {plural} plural string for {locale}/{domain}".format(
+            singular=len(singular_messages), plural=len(plural_messages), locale=locale, domain=domain)
         return (len(singular_messages) + len(plural_messages))
 
     translation_count = 0
@@ -198,7 +208,7 @@ def translate_messages():
     for locale in supported_locales:
         translation_count += _add_missing_translations(service=service, domain='messages', locale=locale)
         translation_count += _add_missing_translations(service=service, domain='messages_js', locale=locale)
-    print "Translated %d new strings." % translation_count
+    print "Translated %d new strings. Next run: fab i18n.compile_messages" % translation_count
 
 
 @task
