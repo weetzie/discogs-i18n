@@ -117,6 +117,21 @@ def __supported_locales():
     return [d for d in os.listdir('i18n') if os.path.isdir(os.path.join('i18n', d))]
 
 
+def _shorten_display_name(display_name):
+    """
+    Shorten names like:
+        English (United Kingdom)
+    to:
+        English (UK)
+    When the country name is more than one word.
+    """
+    # TODO: update to use a regular expression
+    if '(' and ')' in display_name:
+        base, parens = display_name.replace(')', '').split('(')
+        if ' ' in parens:
+            display_name = '%s (%s)' % (base.strip(), ''.join([word[0] for word in parens.split()]))
+    return display_name
+
 def __supported_languages():
     """
     Return a list of language dictionaries.
@@ -127,7 +142,7 @@ def __supported_languages():
     for locale in supported_locales:
         languages.append({
             'code': locale,
-            'name': babel.Locale.parse(locale).display_name.title(),
+            'name': _shorten_display_name(babel.Locale.parse(locale).display_name.title()),
         })
     return languages
 
