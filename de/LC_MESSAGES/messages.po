@@ -28,7 +28,7 @@ msgstr "Digital"
 #: controllers/digital.py:228 controllers/jd.py:280 controllers/m.py:1795
 #: controllers/m.py:1882
 msgid "Shopping Cart"
-msgstr "Shopping Cart"
+msgstr "Einkaufswagen"
 
 #: controllers/explore.py:20 jviews/digital/bundle.html:66
 #: jviews/digital/index.html:34 jviews/label/rollover.html:20
@@ -321,7 +321,7 @@ msgstr "Weiter Warenkorb"
 
 #: jviews/digital/cart.html:9
 msgid "Empty Cart"
-msgstr "Empty Cart"
+msgstr "Leer Einkaufswagen"
 
 #: jviews/digital/cart.html:20 jviews/digital/checkout.html:15
 msgid "Item"
@@ -714,7 +714,7 @@ msgstr "Alle Genres"
 
 #: jviews/m/_macro.html:716
 msgid "Add to Cart"
-msgstr "In den Warenkorb"
+msgstr "In den Einkaufswagen"
 
 #: jviews/m/buymusic.html:10
 msgid ""
