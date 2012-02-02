@@ -54,7 +54,7 @@ msgstr "Artistas"
 
 #: controllers/explore.py:25
 msgid "Labels"
-msgstr "Rótulos"
+msgstr "Selos"
 
 #: controllers/explore.py:28 jviews/_header.html:56
 msgid "Explore"
@@ -468,7 +468,7 @@ msgstr "mostrar mais"
 
 #: jviews/explore/_facets.html:111
 msgid "Styles"
-msgstr "Estilos"
+msgstr "Estilo"
 
 #: jviews/explore/_facets.html:152
 msgid "Formats"
@@ -660,7 +660,7 @@ msgstr "editar"
 
 #: jviews/label/view.html:33 jviews/m/list_release.html:112
 msgid "Label"
-msgstr "Rótulo"
+msgstr "Selo"
 
 #: jviews/label/view.html:47 jviews/search/_results.html:55
 #: jviews/search/query.html:94

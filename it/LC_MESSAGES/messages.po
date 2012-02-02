@@ -58,7 +58,7 @@ msgstr "Etichette"
 
 #: controllers/explore.py:28 jviews/_header.html:56
 msgid "Explore"
-msgstr "Esplorare"
+msgstr "Esplora"
 
 #: jviews/_errors_alerts_warnings.html:5
 msgid "Error"
@@ -218,7 +218,7 @@ msgstr "Aggiungi rilascio"
 
 #: jviews/_footer.html:89
 msgid "Contributor List"
-msgstr "Collaboratore Lista"
+msgstr "Lista Contributi"
 
 #: jviews/_footer.html:94
 msgid "Follow&nbsp;Us"
@@ -266,7 +266,7 @@ msgstr "Cerca un artista, album e altro ancora ..."
 
 #: jviews/_header.html:57
 msgid "Buy Music"
-msgstr "Acquistare musica"
+msgstr "Acquista"
 
 #: jviews/_header.html:58
 msgid "Sell Music"

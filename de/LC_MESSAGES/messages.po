@@ -58,7 +58,7 @@ msgstr "Labels"
 
 #: controllers/explore.py:28 jviews/_header.html:56
 msgid "Explore"
-msgstr "Erkunden"
+msgstr "Explorieren"
 
 #: jviews/_errors_alerts_warnings.html:5
 msgid "Error"
@@ -66,7 +66,7 @@ msgstr "Fehler"
 
 #: jviews/_footer.html:10 jviews/m/buymusic.html:79
 msgid "Items I Want"
-msgstr "Artikel I Want"
+msgstr "Artikel ich möchte"
 
 #: jviews/_footer.html:11
 msgid "in MP3/WAV"
@@ -102,11 +102,11 @@ msgstr "Erste Schritte"
 
 #: jviews/_footer.html:22 jviews/m/list.html:35
 msgid "Manage Inventory"
-msgstr "Verwalten Inventar"
+msgstr "Inventar verwalten"
 
 #: jviews/_footer.html:24
 msgid "My Items For Sale"
-msgstr "Mein Artikel zum Verkauf"
+msgstr "Meine Angbote"
 
 #: jviews/_footer.html:26 jviews/m/list.html:36
 msgid "My Orders"
@@ -114,7 +114,7 @@ msgstr "Meine Bestellungen"
 
 #: jviews/_footer.html:27 jviews/m/list.html:37
 msgid "Billing"
-msgstr "Billing"
+msgstr "Rechnung"
 
 #: jviews/_footer.html:32
 msgid "Recent Group Activity"
@@ -138,7 +138,7 @@ msgstr "Sammlung"
 
 #: jviews/_footer.html:40 jviews/digital/index.html:18
 msgid "Wantlist"
-msgstr "Fehlliste"
+msgstr "Wunschliste"
 
 #: jviews/_footer.html:41
 msgid "Submissions"
@@ -270,15 +270,15 @@ msgstr "Musik kaufen"
 
 #: jviews/_header.html:58
 msgid "Sell Music"
-msgstr "Verkaufen Musik"
+msgstr "Musik verkaufen"
 
 #: jviews/_header.html:59
 msgid "Community"
-msgstr "Gemeinde"
+msgstr "Community"
 
 #: jviews/_header.html:62
 msgid "My Discogs"
-msgstr "My Discogs"
+msgstr "Mein Discogs"
 
 #: jviews/_header.html:67
 msgid "Create Account"
@@ -630,7 +630,7 @@ msgstr "Beginnt mit dem Verkauf jetzt Get"
 
 #: jviews/label/rollover.html:2
 msgid "This label does not exist in Discogs."
-msgstr "Dieses Etikett nicht in Discogs existieren."
+msgstr "Dieses label nicht in Discogs existieren."
 
 #: jviews/label/rollover.html:6
 msgid "Profile"
@@ -660,7 +660,7 @@ msgstr "bearbeiten"
 
 #: jviews/label/view.html:33 jviews/m/list_release.html:112
 msgid "Label"
-msgstr "Etikett"
+msgstr "Label"
 
 #: jviews/label/view.html:47 jviews/search/_results.html:55
 #: jviews/search/query.html:94
@@ -702,7 +702,7 @@ msgstr "zeigt"
 
 #: jviews/label/view.html:110
 msgid "This label has no approved releases"
-msgstr "Dieses Etikett hat keine Releases genehmigt"
+msgstr "Dieses label hat keine Releases genehmigt"
 
 #: jviews/label/view.html:110
 msgid "in"
@@ -1067,7 +1067,7 @@ msgstr[1] "Name des Interpreten Variationen"
 msgid "label named"
 msgid_plural "labels named"
 msgstr[0] "Label mit dem Namen"
-msgstr[1] "Etiketten mit dem Namen"
+msgstr[1] "labels mit dem Namen"
 
 #: jviews/search/query.html:101
 msgid "In list"
@@ -1087,7 +1087,7 @@ msgstr "Hilf mit, das Discogs Database"
 
 #: jviews/user/login.html:24
 msgid "Organize your music collection and wantlist"
-msgstr "Organisieren Sie Ihre Musiksammlung und Fehlliste"
+msgstr "Organisieren Sie Ihre Musiksammlung und Wunschliste"
 
 #: jviews/user/login.html:25
 msgid "Post comments and rate releases"

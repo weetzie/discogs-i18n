@@ -54,7 +54,7 @@ msgstr "Artistas"
 
 #: controllers/explore.py:25
 msgid "Labels"
-msgstr "Etiquetas"
+msgstr "Sellos"
 
 #: controllers/explore.py:28 jviews/_header.html:56
 msgid "Explore"
@@ -66,7 +66,7 @@ msgstr "Error"
 
 #: jviews/_footer.html:10 jviews/m/buymusic.html:79
 msgid "Items I Want"
-msgstr "Artículos I Wanna"
+msgstr "Artículos que quiero"
 
 #: jviews/_footer.html:11
 msgid "in MP3/WAV"
@@ -146,7 +146,7 @@ msgstr "Presentaciones"
 
 #: jviews/_footer.html:42
 msgid "Drafts"
-msgstr "Corrientes de aire"
+msgstr "Bocetos"
 
 #: jviews/_footer.html:46
 msgid "Friends"
@@ -664,7 +664,7 @@ msgstr "editar"
 
 #: jviews/label/view.html:33 jviews/m/list_release.html:112
 msgid "Label"
-msgstr "Etiqueta"
+msgstr "Sello"
 
 #: jviews/label/view.html:47 jviews/search/_results.html:55
 #: jviews/search/query.html:94
@@ -916,7 +916,7 @@ msgstr "Clasificación"
 
 #: jviews/m/list.html:121 jviews/m/list_release.html:140
 msgid "Ships From"
-msgstr "Los buques de"
+msgstr "Envía desde"
 
 #: jviews/m/list.html:144 jviews/m/list_release.html:164
 msgid "Make Offer / Details"
