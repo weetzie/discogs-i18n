@@ -514,7 +514,7 @@ msgstr "Листинг предметов для продажи на Discogs <st
 
 #: jviews/home/marketplace.html:15
 msgid "You only pay a 6 - 8&#37; fee when your items sell."
-msgstr "Вы платите только 6 - 8% от суммы перевода, когда ваши пункты продажи."
+msgstr "Вы платите только 6 - 8&#37; от суммы перевода, когда ваши пункты продажи."
 
 #: jviews/home/marketplace.html:22
 msgid "Reach more buyers"
@@ -574,7 +574,7 @@ msgstr "Элементы отображаются в точном освобод
 
 #: jviews/home/marketplace.html:55
 msgid "Only 6&#37; in fees incur when your items sell"
-msgstr "Только 6% в тарифах принимают на себя, свои пункты продажи"
+msgstr "Только 6&#37; в тарифах принимают на себя, свои пункты продажи"
 
 #: jviews/home/marketplace.html:56
 msgid "Watch how it's done"
@@ -612,7 +612,7 @@ msgstr ""
 
 #: jviews/home/marketplace.html:69
 msgid "Only 8&#37; in fees incur when your items sell"
-msgstr "Только 8% в тарифах принимают на себя, свои пункты продажи"
+msgstr "Только 8&#37; в тарифах принимают на себя, свои пункты продажи"
 
 #: jviews/home/marketplace.html:70
 msgid "Learn more"
