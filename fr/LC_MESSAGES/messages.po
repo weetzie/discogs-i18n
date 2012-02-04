@@ -262,7 +262,7 @@ msgstr "Aller à la page d&#39;accueil Discogs.com"
 
 #: jviews/_header.html:47
 msgid "Search artists, albums and more..."
-msgstr "Recherche d&#39;artistes, d&#39;albums et plus ..."
+msgstr "Recherche d'artistes, d'albums et plus ..."
 
 #: jviews/_header.html:57
 msgid "Buy Music"
