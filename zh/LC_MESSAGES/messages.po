@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Discogs 0.1\n"
 "Report-Msgid-Bugs-To: language@discogs.com\n"
-"POT-Creation-Date: 2012-01-25 16:37-0800\n"
+"POT-Creation-Date: 2012-03-12 10:23-0700\n"
 "PO-Revision-Date: 2012-01-23 14:51-0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh <LL@li.org>\n"
@@ -17,1112 +17,661 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
 
-#: controllers/digital.py:225 controllers/jd.py:277 controllers/m.py:1879
-msgid "Marketplace"
-msgstr "市场"
-
-#: controllers/digital.py:226 controllers/jd.py:278 controllers/m.py:1880
-msgid "Digital"
-msgstr "数字"
-
-#: controllers/digital.py:228 controllers/jd.py:280 controllers/m.py:1795
-#: controllers/m.py:1882
-msgid "Shopping Cart"
-msgstr "购物车"
-
-#: controllers/explore.py:20 jviews/digital/bundle.html:66
-#: jviews/digital/index.html:34 jviews/label/rollover.html:20
-#: jviews/search/query.html:132
-msgid "Releases"
-msgstr "发布"
-
-#: controllers/explore.py:21
-msgid "Videos"
-msgstr "视频"
-
-#: controllers/explore.py:22
-msgid "Reviews"
-msgstr "评论"
-
-#: controllers/explore.py:23 jviews/_footer.html:44
-msgid "Lists"
-msgstr "列表"
-
-#: controllers/explore.py:24
-msgid "Artists"
-msgstr "艺术家"
-
-#: controllers/explore.py:25
-msgid "Labels"
-msgstr "标签"
-
-#: controllers/explore.py:28 jviews/_header.html:56
-msgid "Explore"
-msgstr "浏览"
-
-#: jviews/_errors_alerts_warnings.html:5
-msgid "Error"
-msgstr "错误"
-
-#: jviews/_footer.html:10 jviews/m/buymusic.html:79
-msgid "Items I Want"
-msgstr "我想要的物品"
-
-#: jviews/_footer.html:11
-msgid "in MP3/WAV"
-msgstr "在MP3/WAV"
-
-#: jviews/_footer.html:12 jviews/m/list.html:34
-msgid "My Purchases"
-msgstr "我的购买"
-
-#: jviews/_footer.html:13 jviews/_footer.html:28 jviews/_footer.html:48
-msgid "Settings"
-msgstr "设置"
-
-#: jviews/_footer.html:14
-msgid "Popular Formats"
-msgstr "流行的格式"
-
-#: jviews/_footer.html:15 jviews/m/buymusic.html:20
-msgid "Vinyl"
-msgstr "乙烯"
-
-#: jviews/_footer.html:16 jviews/m/buymusic.html:21
-msgid "CD"
-msgstr "CD"
-
-#: jviews/_footer.html:17 jviews/m/buymusic.html:22
-msgid "MP3/WAV"
-msgstr "MP3/WAV"
-
-#: jviews/_footer.html:21
-msgid "Getting Started"
-msgstr "入门"
-
-#: jviews/_footer.html:22 jviews/m/list.html:35
-msgid "Manage Inventory"
-msgstr "管理库存"
-
-#: jviews/_footer.html:24
-msgid "My Items For Sale"
-msgstr "出售我的项目"
-
-#: jviews/_footer.html:26 jviews/m/list.html:36
-msgid "My Orders"
-msgstr "我的订单"
-
-#: jviews/_footer.html:27 jviews/m/list.html:37
-msgid "Billing"
-msgstr "帐单"
-
-#: jviews/_footer.html:32
-msgid "Recent Group Activity"
-msgstr "最近的小组活动"
-
-#: jviews/_footer.html:33
-msgid "My Groups"
-msgstr "我的群组"
-
-#: jviews/_footer.html:34
-msgid "Saved Group Topics"
-msgstr "组保存的主题"
-
-#: jviews/_footer.html:35
-msgid "Help Forums"
-msgstr "帮助论坛"
-
-#: jviews/_footer.html:39
-msgid "Collection"
-msgstr "收藏"
-
-#: jviews/_footer.html:40 jviews/digital/index.html:18
-msgid "Wantlist"
-msgstr "Wantlist"
-
-#: jviews/_footer.html:41
-msgid "Submissions"
-msgstr "意见书"
-
-#: jviews/_footer.html:42
-msgid "Drafts"
-msgstr "草稿"
-
-#: jviews/_footer.html:46
-msgid "Friends"
-msgstr "朋友"
-
-#: jviews/_footer.html:47
-msgid "Export Data"
-msgstr "导出数据"
-
-#: jviews/_footer.html:50
-msgid "Logout"
-msgstr "登出"
-
-#: jviews/_footer.html:60
 msgid "About Us"
 msgstr "关于我们"
 
-#: jviews/_footer.html:61
-msgid "Blog"
-msgstr "博客"
-
-#: jviews/_footer.html:62
-msgid "Jobs"
-msgstr "乔布斯"
-
-#: jviews/_footer.html:63
-msgid "Shop"
-msgstr "铺"
-
-#: jviews/_footer.html:64
-msgid "Mobile"
-msgstr "移动"
-
-#: jviews/_footer.html:69
-msgid "Help&nbsp;Is&nbsp;Here"
-msgstr "在此获得帮助"
-
-#: jviews/_footer.html:71 jviews/_header.html:11
-msgid "Help"
-msgstr "帮助"
-
-#: jviews/_footer.html:72
-msgid "Forums"
-msgstr "论坛"
-
-#: jviews/_footer.html:74
-msgid "Support Request"
-msgstr "支持请求"
-
-#: jviews/_footer.html:76
-msgid "Contact"
-msgstr "联系"
-
-#: jviews/_footer.html:82
-msgid "Join&nbsp;In"
-msgstr "加盟"
-
-#: jviews/_footer.html:85
-msgid "Sign Up"
-msgstr "注册"
-
-#: jviews/_footer.html:87 jviews/explore/_carousel.html:11
-msgid "Contribute"
-msgstr "作出贡献"
-
-#: jviews/_footer.html:88 jviews/label/view.html:94
 msgid "Add Release"
 msgstr "新增发行"
 
-#: jviews/_footer.html:89
-msgid "Contributor List"
-msgstr "参与者名单"
-
-#: jviews/_footer.html:94
-msgid "Follow&nbsp;Us"
-msgstr "跟随我们"
-
-#: jviews/_footer.html:102
-msgid "Languages"
-msgstr "语言"
-
-#: jviews/_footer.html:111
-msgid "Other&nbsp;Stuff"
-msgstr "其他的东西"
-
-#: jviews/_footer.html:113
-msgid "Developers&nbsp;API"
-msgstr "API开发"
-
-#: jviews/_footer.html:121
-msgid "website"
-msgstr "网站"
-
-#: jviews/_footer.html:121
-msgid "Copyright"
-msgstr "版权所有"
-
-#: jviews/_footer.html:122
-msgid "Terms of Service"
-msgstr "服务条款"
-
-#: jviews/_footer.html:123
-msgid "Privacy Policy"
-msgstr "隐私权政策"
-
-#: jviews/_header.html:34
-msgid "Log In"
-msgstr "登录"
-
-#: jviews/_header.html:42
-msgid "Go to Discogs.com homepage"
-msgstr "转到Discogs.com网页"
-
-#: jviews/_header.html:47
-msgid "Search artists, albums and more..."
-msgstr "搜索艺术家，影集和更多..."
-
-#: jviews/_header.html:57
-msgid "Buy Music"
-msgstr "购买音乐"
-
-#: jviews/_header.html:58
-msgid "Sell Music"
-msgstr "出售音乐"
-
-#: jviews/_header.html:59
-msgid "Community"
-msgstr "社区"
-
-#: jviews/_header.html:62
-msgid "My Discogs"
-msgstr "我Discogs"
-
-#: jviews/_header.html:67
-msgid "Create Account"
-msgstr "创建帐户"
-
-#: jviews/admin/styles.html:7
-msgid "Genre"
-msgstr "类型"
-
-#: jviews/admin/styles.html:21
-msgid "New Styles"
-msgstr "新风格"
-
-#: jviews/admin/styles.html:21
-msgid "one per line"
-msgstr "每行一个"
-
-#: jviews/digital/bundle.html:13 jviews/digital/bundle.html:29
-#: jviews/digital/index.html:53 jviews/digital/index.html:74
-#: jviews/digital/index.html:78 jviews/explore/lists.html:50
-#: jviews/explore/lists.html:58
-msgid "more"
-msgstr "更多"
-
-#: jviews/digital/bundle.html:16 jviews/digital/bundle.html:32
-msgid "More From"
-msgstr "更多来自"
-
-#: jviews/digital/bundle.html:43
-msgid "more genres"
-msgstr "更多的流派"
-
-#: jviews/digital/bundle.html:45 jviews/digital/index.html:55
-msgid "Browse by Genre"
-msgstr "按类别浏览"
-
-#: jviews/digital/cart.html:5
-msgid "Continue Shopping"
-msgstr "继续购物"
-
-#: jviews/digital/cart.html:9
-msgid "Empty Cart"
-msgstr "清空购物车"
-
-#: jviews/digital/cart.html:20 jviews/digital/checkout.html:15
-msgid "Item"
-msgstr "项目"
-
-#: jviews/digital/cart.html:21 jviews/digital/checkout.html:16
-msgid "Format"
-msgstr "格式"
-
-#: jviews/digital/cart.html:22 jviews/digital/checkout.html:17
-#: jviews/m/list.html:81 jviews/m/list_release.html:101
-msgid "Price"
-msgstr "价格"
-
-#: jviews/digital/cart.html:30
-msgid "Change all formats to"
-msgstr "将所有格式"
-
-#: jviews/digital/cart.html:77
-msgid "release"
-msgstr "发布"
-
-#: jviews/digital/cart.html:77
-msgid "tracks"
-msgstr "轨道"
-
-#: jviews/digital/cart.html:79
-msgid "track"
-msgstr "追踪"
-
-#: jviews/digital/cart.html:91 jviews/label/view.html:42
-msgid "remove"
-msgstr "删除"
-
-#: jviews/digital/cart.html:99 jviews/digital/checkout.html:34
-#: jviews/digital/history.html:14
-msgid "Total"
-msgstr "共有"
-
-#: jviews/digital/cart.html:107
-msgid "Checkout"
-msgstr "结帐"
-
-#: jviews/digital/cart.html:115 jviews/digital/checkout.html:59
-msgid "Your cart is empty"
-msgstr "你的车是空的的"
-
-#: jviews/digital/checkout.html:45
-msgid "Subscribe to featured releases newsletter"
-msgstr "订阅功能释放简讯"
-
-#: jviews/digital/history.html:6
-msgid "No orders"
-msgstr "没有订单"
-
-#: jviews/digital/history.html:7
-msgid "Start Shopping"
-msgstr "开始购物"
-
-#: jviews/digital/history.html:12
-msgid "Order Number"
-msgstr "订单号"
-
-#: jviews/digital/history.html:13
-msgid "Purchase Date"
-msgstr "购买日期"
-
-#: jviews/digital/index.html:10
-msgid "MP3 &amp; WAV Downloads"
-msgstr "MP3及WAV下载"
-
-#: jviews/digital/index.html:15
-msgid "Showing"
-msgstr "显示"
-
-#: jviews/digital/index.html:16 jviews/m/list.html:70
-msgid "item"
-msgid_plural "items"
-msgstr[0] "项目"
-msgstr[1] "项目"
-
-#: jviews/digital/index.html:17
-msgid "from my"
-msgstr "从我"
-
-#: jviews/digital/index.html:19
-msgid "available in digital format"
-msgstr "可在数字格式"
-
-#: jviews/digital/index.html:42
-msgid "Sorry, no downloads could be found."
-msgstr "对不起，没有下载可以找到。"
-
-#: jviews/digital/index.html:88
-msgid "MP3 &amp; WAV"
-msgstr "MP3和WAV"
-
-#: jviews/explore/_carousel.html:5
-msgid "Discover"
-msgstr "探索"
-
-#: jviews/explore/_carousel.html:6
-msgid "new and old music, connect with other music lovers"
-msgstr "新老音乐，与其他音乐爱好者连接"
-
-#: jviews/explore/_carousel.html:12
-msgid "to the largest and most accurate music database"
-msgstr "到的最大和最准确的的音乐资料库"
-
-#: jviews/explore/_carousel.html:17 jviews/m/buymusic.html:90
-#: jviews/m/buymusic.html:113
-msgid "Buy"
-msgstr "购买"
-
-#: jviews/explore/_carousel.html:17
-msgid "Sell"
-msgstr "卖"
-
-#: jviews/explore/_carousel.html:18
-msgid "music in the world's biggest and best music marketplace"
-msgstr "音乐在世界上最大和最好的音乐市场"
-
-#: jviews/explore/_carousel.html:23
-msgid "Track"
-msgstr "追踪"
-
-#: jviews/explore/_carousel.html:24
-msgid ""
-"your collection and wantlist, get notified when items you want are for "
-"sale"
-msgstr "您的收集和wantlist，你想要的物品出售时获得通知"
-
-#: jviews/explore/_facets.html:81 jviews/explore/lists.html:21
-#: jviews/label/rollover.html:11
-msgid "Genres"
-msgstr "类型"
-
-#: jviews/explore/_facets.html:91 jviews/explore/_facets.html:124
-#: jviews/explore/_facets.html:163 jviews/explore/_facets.html:225
-msgid "show more"
-msgstr "显示更多"
-
-#: jviews/explore/_facets.html:111
-msgid "Styles"
-msgstr "样式"
-
-#: jviews/explore/_facets.html:152
-msgid "Formats"
-msgstr "格式"
-
-#: jviews/explore/_facets.html:188
-msgid "Decade"
-msgstr "十年"
-
-#: jviews/explore/_facets.html:199
-msgid "Year"
-msgstr "年"
-
-#: jviews/explore/_facets.html:213
-msgid "Country"
-msgstr "国家"
-
-#: jviews/explore/_sort.html:3
-msgid "Sort By"
-msgstr "排序方式"
-
-#: jviews/explore/_sort.html:8
-msgid "Show"
-msgstr "显示"
-
-#: jviews/home/marketplace.html:5
-msgid "The Best Way to Sell Music"
-msgstr "出售音乐的最佳途径"
-
-#: jviews/home/marketplace.html:6
-msgid "Selling vinyl records and CDs has never been easier."
-msgstr "销售的黑胶唱片和CD从未如此简单。"
-
-#: jviews/home/marketplace.html:12
-msgid "Make more money"
-msgstr "赚更多的钱"
-
-#: jviews/home/marketplace.html:14
-msgid "Listing items for sale on Discogs is <strong>always free</strong>."
-msgstr "Discogs上出售的上市项目<strong>一直</strong>是<strong>免费</strong>的。"
-
-#: jviews/home/marketplace.html:15
-msgid "You only pay a 6 - 8&#37; fee when your items sell."
-msgstr "您只需支付6 - 8％的费用，当您的项目出售。"
-
-#: jviews/home/marketplace.html:22
-msgid "Reach more buyers"
-msgstr "接触更多的买家"
-
-#: jviews/home/marketplace.html:24
-msgid ""
-"More than <strong>4 million people</strong> look for music on Discogs "
-"every month."
-msgstr "<strong>超过</strong> 400万<strong>的</strong>人寻找音乐上的Discogs每一个月。"
-
-#: jviews/home/marketplace.html:25
-msgid "Selling here gets you instant exposure to our high traffic."
-msgstr "销售在这里可以让你即时接触到我们的高流量。"
-
-#: jviews/home/marketplace.html:32
-msgid "Do less work"
-msgstr "少做工作"
-
-#: jviews/home/marketplace.html:34
-msgid "No need to type up detailed item descriptions."
-msgstr "无需输入详细的项目说明。"
-
-#: jviews/home/marketplace.html:35
-msgid "The info is already here."
-msgstr "信息已经在这里。"
-
-#: jviews/home/marketplace.html:36
-msgid "Discogs users are auto-notified when items they want are listed."
-msgstr "Discogs用户自动列出他们想要的物品时通知。"
-
-#: jviews/home/marketplace.html:45
-msgid "Listing Options"
-msgstr "清单选项"
-
-#: jviews/home/marketplace.html:50
-msgid "Standard Listing"
-msgstr "标准清单"
-
-#: jviews/home/marketplace.html:51
-msgid "For sellers with time to list items one-by-one"
-msgstr "随着时间的推移卖家列出的项目之一一"
-
-#: jviews/home/marketplace.html:53
-msgid "Initial listings are one-by-one, but can be updated in bulk"
-msgstr "首次上市是一个由一，但可以批量更新"
-
-#: jviews/home/marketplace.html:54
-msgid "Items are displayed under the exact release you list them"
-msgstr "项目会显示在你一一列举确切的释放"
-
-#: jviews/home/marketplace.html:55
-msgid "Only 6&#37; in fees incur when your items sell"
-msgstr "只有6％的费用产生当您的物品出售"
-
-#: jviews/home/marketplace.html:56
-msgid "Watch how it's done"
-msgstr "手表它是如何做"
-
-#: jviews/home/marketplace.html:57
-msgid "Get Started"
-msgstr "入门"
-
-#: jviews/home/marketplace.html:61
-msgid "OR"
-msgstr "或"
-
-#: jviews/home/marketplace.html:64
-msgid "Product Search"
-msgstr "产品搜索"
-
-#: jviews/home/marketplace.html:65
-msgid "For sellers that need to list their items in bulk"
-msgstr "卖家需要散装的项目列表"
-
-#: jviews/home/marketplace.html:67
-msgid "Initial listings and all updates are handled with bulk uploads"
-msgstr "首次上市及所有更新处理批量上传"
-
-#: jviews/home/marketplace.html:68
-msgid "Items are displayed in search results based on artist, title and format"
-msgstr "项显示在艺术家，标题和格式的搜索结果"
-
-#: jviews/home/marketplace.html:69
-msgid "Only 8&#37; in fees incur when your items sell"
-msgstr "只有8％的费用产生当您的物品出售"
-
-#: jviews/home/marketplace.html:70
-msgid "Learn more"
-msgstr "了解更多"
-
-#: jviews/home/marketplace.html:80
-msgid "Read what other Discogs sellers have to say"
-msgstr "读什么其他Discogs的卖家不得不说"
-
-#: jviews/home/marketplace.html:256
-msgid "If you would like us to add your testimonial, please contact"
-msgstr "如果您想我们添加您的推荐，请联系"
-
-#: jviews/home/marketplace.html:257
-msgid "Marketplace Support"
-msgstr "市场支持"
-
-#: jviews/home/marketplace.html:263
-msgid "Get Started Selling Now"
-msgstr "开始销售现在"
-
-#: jviews/label/rollover.html:2
-msgid "This label does not exist in Discogs."
-msgstr "在Discogs此标签不存在。"
-
-#: jviews/label/rollover.html:6
-msgid "Profile"
-msgstr "简介"
-
-#: jviews/label/rollover.html:25 jviews/label/view.html:49
-msgid "submission pending"
-msgid_plural "submissions pending"
-msgstr[0] "提交待"
-msgstr[1] "意见书待"
-
-#: jviews/label/rollover.html:30
-msgid "Alternates"
-msgstr "候补"
-
-#: jviews/label/rollover.html:39
-msgid "Search for variations of"
-msgstr "搜寻的变化"
-
-#: jviews/label/view.html:32
-msgid "history"
-msgstr "历史"
-
-#: jviews/label/view.html:32
-msgid "edit"
-msgstr "编辑"
-
-#: jviews/label/view.html:33 jviews/m/list_release.html:112
-msgid "Label"
-msgstr "标签"
-
-#: jviews/label/view.html:47 jviews/search/_results.html:55
-#: jviews/search/query.html:94
-msgid "Add to List"
-msgstr "添加到列表"
-
-#: jviews/label/view.html:55
-msgid "Jump To"
-msgstr "跳转至"
-
-#: jviews/label/view.html:57
-msgid "reviews"
-msgstr "评论"
-
-#: jviews/label/view.html:58
-msgid "lists"
-msgstr "列表"
-
-#: jviews/label/view.html:68
-msgid "sort"
-msgstr "排序"
-
-#: jviews/label/view.html:74
-msgid "genres"
-msgstr "体裁"
-
-#: jviews/label/view.html:77 jviews/label/view.html:79
-#: jviews/m/buymusic.html:135
-msgid "All Genres"
-msgstr "所有类型"
-
-#: jviews/label/view.html:102
-msgid "Discography"
-msgstr "唱片"
-
-#: jviews/label/view.html:104
-msgid "showing"
-msgstr "显示"
-
-#: jviews/label/view.html:110
-msgid "This label has no approved releases"
-msgstr "这个标签没有批准发行"
-
-#: jviews/label/view.html:110
-msgid "in"
-msgstr "在"
-
-#: jviews/label/view.html:110
-msgid "View all genres"
-msgstr "所有类型"
-
-#: jviews/m/_macro.html:716
-msgid "Add to Cart"
-msgstr "加入购物车"
-
-#: jviews/m/buymusic.html:10
-msgid ""
-"Discogs is the safe and easy way to buy and <a "
-"href=\"/marketplace\">sell</a> music."
-msgstr "Discogs是安全和方便的方式购买和<a href=\"/marketplace\">出售</a>音乐。"
-
-#: jviews/m/buymusic.html:14 jviews/m/buymusic.html:129
-msgid "browse all"
-msgstr "浏览所有"
-
-#: jviews/m/buymusic.html:16
-msgid "Buy Vinyl Records, CDs and More"
-msgstr "购买唱片，CD和"
-
-#: jviews/m/buymusic.html:23
-msgid "Cassette"
-msgstr "盒式"
-
-#: jviews/m/buymusic.html:24
-msgid "More formats"
-msgstr "更多的格式"
-
-#: jviews/m/buymusic.html:27
-msgid "Electronic"
-msgstr "电子"
-
-#: jviews/m/buymusic.html:28
-msgid "Rock"
-msgstr "岩"
-
-#: jviews/m/buymusic.html:29
-msgid "Hip Hop"
-msgstr "嘻哈"
-
-#: jviews/m/buymusic.html:30
-msgid "Funk / Soul"
-msgstr "放克/灵魂"
-
-#: jviews/m/buymusic.html:31
-msgid "Pop"
-msgstr "流行"
-
-#: jviews/m/buymusic.html:32
-msgid "Jazz"
-msgstr "爵士乐"
-
-#: jviews/m/buymusic.html:33
-msgid "Reggae"
-msgstr "雷鬼"
-
-#: jviews/m/buymusic.html:34
-msgid "Classical"
-msgstr "古典"
-
-#: jviews/m/buymusic.html:35
-msgid "More genres"
-msgstr "更多类型"
-
-#: jviews/m/buymusic.html:38
-msgid "House"
-msgstr "楼"
-
-#: jviews/m/buymusic.html:39
-msgid "Techno"
-msgstr "TECHNO"
-
-#: jviews/m/buymusic.html:40
-msgid "Trance"
-msgstr "发呆"
-
-#: jviews/m/buymusic.html:41
-msgid "Disco"
-msgstr "迪斯科"
-
-#: jviews/m/buymusic.html:42
-msgid "Indie Rock"
-msgstr "独立摇滚"
-
-#: jviews/m/buymusic.html:43
-msgid "Punk"
-msgstr "朋克"
-
-#: jviews/m/buymusic.html:44
-msgid "New Wave"
-msgstr "新浪潮"
-
-#: jviews/m/buymusic.html:45
-msgid "Dancehall"
-msgstr "舞厅"
-
-#: jviews/m/buymusic.html:46
-msgid "More styles"
-msgstr "更多样式"
-
-#: jviews/m/buymusic.html:53
-msgid "Recent Marketplace Sales"
-msgstr "最近的市场销售。"
-
-#: jviews/m/buymusic.html:77
-msgid "view all"
-msgstr "查看全部"
-
-#: jviews/m/buymusic.html:83
 msgid ""
 "Add stuff to your wantlist and we'll let you know when someone is selling"
 " it."
 msgstr "添加的东西你wantlist，我们会让你知道，当有人出售。"
 
-#: jviews/m/buymusic.html:91 jviews/m/buymusic.html:114
-msgid "for sale"
-msgstr "出售"
+msgid "Add to Cart"
+msgstr "加入购物车"
 
-#: jviews/m/buymusic.html:102
-msgid "Recommendations For You"
-msgstr "您的建议"
+msgid "Add to List"
+msgstr "添加到列表"
 
-#: jviews/m/buymusic.html:106
-msgid "Start getting recommendations by making a purchase in the marketplace."
-msgstr "开始通过在市场上购买的建议。"
+msgid "All Genres"
+msgstr "所有类型"
 
-#: jviews/m/buymusic.html:131
-msgid "Bestselling MP3/WAV"
-msgstr "畅销MP3/WAV"
+msgid "Alternates"
+msgstr "候补"
 
-#: jviews/m/buymusic.html:141
-msgid "Bestselling"
-msgstr "畅销"
+msgid "Artists"
+msgstr "艺术家"
 
-#: jviews/m/buymusic.html:143
-msgid "New Releases"
-msgstr "新发布"
+msgid "Barcode and Other Identifiers"
+msgstr "条形码和其它标识符"
 
-#: jviews/m/cartrecs.html:5
-msgid "Recommendations"
-msgstr "建议"
-
-#: jviews/m/cartrecs.html:7 jviews/m/cartrecs.html:37 jviews/m/item.html:133
-#: jviews/m/list.html:83 jviews/m/seller.html:9
-msgid "View Cart"
-msgstr "查看购物车"
-
-#: jviews/m/cartrecs.html:9
 msgid "Based on the items in your Shopping Cart from seller"
 msgstr "根据您的购物车的物品从卖方"
 
-#: jviews/m/cartrecs.html:9
-msgid "we recommend these releases"
-msgstr "我们建议这些版本"
+msgid "Bestselling"
+msgstr "畅销"
 
-#: jviews/m/item.html:138 jviews/m/list.html:186 jviews/m/list_release.html:50
-msgid "Sales History"
-msgstr "销售记录"
+msgid "Bestselling MP3/WAV"
+msgstr "畅销MP3/WAV"
 
-#: jviews/m/list.html:33
-msgid "Show Items I Want"
-msgstr "显示我想要的物品"
+msgid "Billing"
+msgstr "帐单"
 
-#: jviews/m/list.html:34
-msgid "Buyers"
-msgstr "买家"
+msgid "Browse by Genre"
+msgstr "按类别浏览"
 
-#: jviews/m/list.html:35
-msgid "Sellers"
-msgstr "卖家"
+msgid "Buy"
+msgstr "购买"
 
-#: jviews/m/list.html:57
-msgid "You Selected"
-msgstr "您选择"
+msgid "Buy Vinyl Records, CDs and More"
+msgstr "购买唱片，CD和"
 
-#: jviews/m/list.html:67 jviews/m/list_release.html:84
-#: jviews/search/_results.html:32
-msgid "Sort by"
-msgstr "排序方式"
+msgid "CD"
+msgstr "CD"
 
-#: jviews/m/list.html:74 jviews/m/list_release.html:59
-msgid "Community Data"
-msgstr "社区数据"
+msgid "Cassette"
+msgstr "盒式"
 
-#: jviews/m/list.html:78 jviews/m/list_release.html:100
-msgid "Seller Information"
-msgstr "卖家信息"
+msgid "Change all formats to"
+msgstr "将所有格式"
 
-#: jviews/m/list.html:119 jviews/m/list_release.html:138
-msgid "Seller"
-msgstr "卖方"
+msgid "Checkout"
+msgstr "结帐"
 
-#: jviews/m/list.html:120 jviews/m/list_release.html:139
-msgid "Rating"
-msgstr "评价"
+msgid "Classical"
+msgstr "古典"
 
-#: jviews/m/list.html:121 jviews/m/list_release.html:140
-msgid "Ships From"
-msgstr "从船舶"
+msgid "Collection"
+msgstr "收藏"
 
-#: jviews/m/list.html:144 jviews/m/list_release.html:164
-msgid "Make Offer / Details"
-msgstr "买方报价/详细信息"
+msgid "Companies etc"
+msgstr "公司等"
 
-#: jviews/m/list.html:146 jviews/m/list_release.html:164
-msgid "Details"
-msgstr "详情"
+msgid "Contact"
+msgstr "联系"
 
-#: jviews/m/list.html:150 jviews/m/list_release.html:124
-msgid "Install Flash player to hear audio clip."
-msgstr "安装Flash Player听到音频剪辑。"
+msgid "Continue Shopping"
+msgstr "继续购物"
 
-#: jviews/m/list.html:174 jviews/m/list_release.html:154
-msgid "Manage Product Search Items"
-msgstr "管理产品搜索项"
+msgid "Contribute"
+msgstr "作出贡献"
 
-#: jviews/m/list.html:188 jviews/m/list_release.html:53
-msgid "Sell this Item"
-msgstr "卖此项目"
+msgid "Contributor List"
+msgstr "参与者名单"
 
-#: jviews/m/list_release.html:36
-msgid "Back to Release Details"
-msgstr "返回到版本详细"
+msgid "Copyright"
+msgstr "版权所有"
 
-#: jviews/m/list_release.html:39
-msgid "In Collection"
-msgstr "在集合"
+msgid "Country"
+msgstr "国家"
 
-#: jviews/m/list_release.html:42
-msgid "In Wantlist"
-msgstr "在Wantlist"
+#, fuzzy
+msgid "Credits"
+msgstr "编辑"
 
-#: jviews/m/list_release.html:46
-msgid "Show/Hide Tracklist"
-msgstr "显示/隐藏曲目"
+msgid "Dancehall"
+msgstr "舞厅"
 
-#: jviews/m/list_release.html:78
-msgid "page"
-msgstr "页"
+msgid "Decade"
+msgstr "十年"
 
-#: jviews/m/list_release.html:78
-msgid "of"
-msgstr "对"
+msgid "Developers&nbsp;API"
+msgstr "API开发"
 
-#: jviews/m/list_release.html:99
-msgid "Condition"
-msgstr "条件"
+msgid "Digital"
+msgstr "数字"
 
-#: jviews/m/list_release.html:102
-msgid "Buy It"
-msgstr "买它"
+msgid "Disco"
+msgstr "迪斯科"
 
-#: jviews/m/list_release.html:115
-msgid "Media"
-msgstr "媒体"
+msgid "Discography"
+msgstr "唱片"
 
-#: jviews/m/list_release.html:117
-msgid "Sleeve"
-msgstr "套"
+msgid ""
+"Discogs is the safe and easy way to buy and <a "
+"href=\"/marketplace\">sell</a> music."
+msgstr "Discogs是安全和方便的方式购买和<a href=\"/marketplace\">出售</a>音乐。"
 
-#: jviews/m/list_release.html:156
-msgid "Edit Listing"
-msgstr "编辑清单"
+msgid "Discogs users are auto-notified when items they want are listed."
+msgstr "Discogs用户自动列出他们想要的物品时通知。"
 
-#: jviews/m/list_release.html:157
-msgid "Unlist Item"
-msgstr "不公开项目"
+msgid "Discover"
+msgstr "探索"
 
-#: jviews/m/seller.html:7
-msgid "New Seller"
-msgstr "新卖家"
+msgid "Do less work"
+msgstr "少做工作"
 
-#: jviews/m/seller.html:30
-msgid "Items Ship From"
-msgstr "项目船从"
+msgid "Drafts"
+msgstr "草稿"
 
-#: jviews/m/seller.html:31
-msgid "Payment Methods"
-msgstr "付款方式"
+msgid "Electronic"
+msgstr "电子"
 
-#: jviews/m/seller.html:32
-msgid "Shipping Policies"
-msgstr "航运政策"
+msgid "Empty Cart"
+msgstr "清空购物车"
 
-#: jviews/search/_results.html:5
-msgid "Your search returned no results. Please try a different query."
-msgstr "您的搜索返回任何结果。请尝试一个不同的查询。"
+msgid "Explore"
+msgstr "浏览"
 
-#: jviews/search/_results.html:7 jviews/search/_results.html:16
-#: jviews/search/query.html:35
-msgid "Help on search"
-msgstr "在搜索的帮助"
+msgid "Export Data"
+msgstr "导出数据"
 
-#: jviews/search/_results.html:13
-msgid "Search results"
-msgstr "搜索结果"
-
-#: jviews/search/_results.html:14
-msgid "results"
-msgstr "结果"
-
-#: jviews/search/_results.html:21
 msgid "Filter results by"
 msgstr "过滤结果"
 
-#: jviews/search/_results.html:42
-msgid "Needs Vote"
-msgstr "需要投票"
+msgid "Follow&nbsp;Us"
+msgstr "跟随我们"
 
-#: jviews/search/_results.html:45
+msgid "For sellers that need to list their items in bulk"
+msgstr "卖家需要散装的项目列表"
+
+msgid "For sellers with time to list items one-by-one"
+msgstr "随着时间的推移卖家列出的项目之一一"
+
+msgid "Format"
+msgstr "格式"
+
+msgid "Formats"
+msgstr "格式"
+
+msgid "Forums"
+msgstr "论坛"
+
+msgid "Friends"
+msgstr "朋友"
+
+msgid "Funk / Soul"
+msgstr "放克/灵魂"
+
+msgid "Genre"
+msgstr "类型"
+
+msgid "Genres"
+msgstr "类型"
+
+msgid "Get Started"
+msgstr "入门"
+
+msgid "Get Started Selling Now"
+msgstr "开始销售现在"
+
+msgid "Getting Started"
+msgstr "入门"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Help Forums"
+msgstr "帮助论坛"
+
+msgid "Help on search"
+msgstr "在搜索的帮助"
+
+msgid "Help&nbsp;Is&nbsp;Here"
+msgstr "在此获得帮助"
+
+msgid "Hip Hop"
+msgstr "嘻哈"
+
+msgid "House"
+msgstr "楼"
+
+msgid "If you would like us to add your testimonial, please contact"
+msgstr "如果您想我们添加您的推荐，请联系"
+
+msgid "Indie Rock"
+msgstr "独立摇滚"
+
+msgid "Initial listings and all updates are handled with bulk uploads"
+msgstr "首次上市及所有更新处理批量上传"
+
+msgid "Initial listings are one-by-one, but can be updated in bulk"
+msgstr "首次上市是一个由一，但可以批量更新"
+
+msgid "Item"
+msgstr "项目"
+
+msgid "Items I Want"
+msgstr "我想要的物品"
+
+msgid "Items Ship From"
+msgstr "项目船从"
+
+msgid "Items are displayed in search results based on artist, title and format"
+msgstr "项显示在艺术家，标题和格式的搜索结果"
+
+msgid "Items are displayed under the exact release you list them"
+msgstr "项目会显示在你一一列举确切的释放"
+
+msgid "Jazz"
+msgstr "爵士乐"
+
+msgid "Jobs"
+msgstr "乔布斯"
+
+msgid "Join&nbsp;In"
+msgstr "加盟"
+
+msgid "Jump To"
+msgstr "跳转至"
+
+msgid "Label"
+msgstr "标签"
+
+msgid "Labels"
+msgstr "标签"
+
+msgid "Languages"
+msgstr "语言"
+
+msgid "Learn more"
+msgstr "了解更多"
+
+msgid "Listing Options"
+msgstr "清单选项"
+
+msgid "Listing items for sale on Discogs is <strong>always free</strong>."
+msgstr "Discogs上出售的上市项目<strong>一直</strong>是<strong>免费</strong>的。"
+
+msgid "Lists"
+msgstr "列表"
+
+msgid "Logout"
+msgstr "登出"
+
+msgid "MP3 &amp; WAV"
+msgstr "MP3和WAV"
+
+msgid "MP3 &amp; WAV Downloads"
+msgstr "MP3及WAV下载"
+
+msgid "MP3/WAV"
+msgstr "MP3/WAV"
+
+msgid "Make more money"
+msgstr "赚更多的钱"
+
+msgid "Manage Inventory"
+msgstr "管理库存"
+
+msgid "Marketplace"
+msgstr "市场"
+
+msgid "Marketplace Support"
+msgstr "市场支持"
+
+msgid "Mobile"
+msgstr "移动"
+
+msgid "More From"
+msgstr "更多来自"
+
+msgid "More formats"
+msgstr "更多的格式"
+
+msgid "More genres"
+msgstr "更多类型"
+
+msgid "More styles"
+msgstr "更多样式"
+
+msgid ""
+"More than <strong>4 million people</strong> look for music on Discogs "
+"every month."
+msgstr "<strong>超过</strong> 400万<strong>的</strong>人寻找音乐上的Discogs每一个月。"
+
+msgid "My Groups"
+msgstr "我的群组"
+
+msgid "My Items For Sale"
+msgstr "出售我的项目"
+
+msgid "My Orders"
+msgstr "我的订单"
+
+msgid "My Purchases"
+msgstr "我的购买"
+
 msgid "Needs Changes"
 msgstr "需求的变化"
 
-#: jviews/search/query.html:28
-msgid "Show Advanced Search"
-msgstr "显示高级搜索"
+msgid "Needs Vote"
+msgstr "需要投票"
 
-#: jviews/search/query.html:34
-msgid "You did not enter a search query."
-msgstr "您没有输入一个搜索查询。"
+msgid "New Releases"
+msgstr "新发布"
 
-#: jviews/search/query.html:44
-msgid "Did you mean?"
-msgstr "你的意思吗？"
+msgid "New Seller"
+msgstr "新卖家"
 
-#: jviews/search/query.html:61
-msgid "artist named"
-msgid_plural "artists named"
-msgstr[0] "艺术家命名"
-msgstr[1] "艺术家命名"
+msgid "New Styles"
+msgstr "新风格"
 
-#: jviews/search/query.html:64 jviews/search/query.html:73
-#: jviews/search/query.html:82
-msgid "We're showing the first 10, but you can"
-msgstr "我们呈现出前10，但你可以"
+msgid "New Wave"
+msgstr "新浪潮"
 
-#: jviews/search/query.html:65 jviews/search/query.html:74
-#: jviews/search/query.html:83
-msgid "view all here"
-msgstr "查看所有在这里"
+msgid "No need to type up detailed item descriptions."
+msgstr "无需输入详细的项目说明。"
 
-#: jviews/search/query.html:70 jviews/search/query.html:124
-msgid "artist name variation of"
-msgid_plural "artist name variations of"
-msgstr[0] "艺术家的名字变化"
-msgstr[1] "艺术家的名字变化"
+msgid "No orders"
+msgstr "没有订单"
 
-#: jviews/search/query.html:79
-msgid "label named"
-msgid_plural "labels named"
-msgstr[0] "标签命名"
-msgstr[1] "标签命名"
+msgid "Notes"
+msgstr "笔记"
 
-#: jviews/search/query.html:101
-msgid "In list"
-msgstr "在列表"
+msgid "OR"
+msgstr "或"
 
-#: jviews/user/login.html:20
-msgid "Don't Have An Account?"
-msgstr "不要有一个帐户？"
+msgid "Official Blog"
+msgstr "官方博客"
 
-#: jviews/user/login.html:21
-msgid "A Discogs Account will let you:"
-msgstr "一个Discogs帐户将让您："
+msgid "Only 6&#37; in fees incur when your items sell"
+msgstr "只有6％的费用产生当您的物品出售"
 
-#: jviews/user/login.html:23
-msgid "Help build the Discogs Database"
-msgstr "帮助建立Discogs数据库"
+msgid "Only 8&#37; in fees incur when your items sell"
+msgstr "只有8％的费用产生当您的物品出售"
 
-#: jviews/user/login.html:24
-msgid "Organize your music collection and wantlist"
-msgstr "组织您的音乐收藏和wantlist"
+msgid "Order Number"
+msgstr "订单号"
 
-#: jviews/user/login.html:25
-msgid "Post comments and rate releases"
-msgstr "发表评论和利率发行"
+msgid "Other&nbsp;Stuff"
+msgstr "其他的东西"
 
-#: jviews/user/login.html:26
-msgid "Receive emails when something you want is for sale"
-msgstr "接收电子邮件时，你想要的东西出售"
+msgid "Payment Methods"
+msgstr "付款方式"
 
-#: jviews/user/login.html:27
-msgid "Buy and sell music in the <a href=\"/marketplace\">Discogs Marketplace</a>"
-msgstr "购买和出售在音乐<a href=\"/marketplace\">Discogs市场</a>"
+msgid "Pop"
+msgstr "流行"
 
-#: jviews/user/login.html:28
-msgid "Make connections with other music lovers"
-msgstr "与其他音乐爱好者的连接"
+msgid "Popular Formats"
+msgstr "流行的格式"
 
-#: jviews/user/login.html:30
-msgid "Create an Account Now"
-msgstr "现在创建帐户"
+msgid "Price"
+msgstr "价格"
 
-#: jviews/user/login.html:37
-msgid "Log In to Discogs"
-msgstr "登录到Discogs"
+msgid "Privacy Policy"
+msgstr "隐私权政策"
 
-#: jviews/user/login.html:41 jviews/user/login.html:49
-#: jviews/user/login.html:58
-msgid "Username"
-msgstr "用户名"
+msgid "Product Search"
+msgstr "产品搜索"
 
-#: jviews/user/login.html:52
-msgid "Not"
-msgstr "不"
+msgid "Profile"
+msgstr "简介"
 
-#: jviews/user/login.html:52
-msgid "?"
-msgstr "？"
+msgid "Punk"
+msgstr "朋克"
 
-#: jviews/user/login.html:64
-msgid "Password"
-msgstr "密码"
+msgid "Purchase Date"
+msgstr "购买日期"
 
-#: jviews/user/login.html:73
-msgid "Remember me"
-msgstr "记住我"
+msgid "Reach more buyers"
+msgstr "接触更多的买家"
 
-#: jviews/user/login.html:75
-msgid "Only this IP"
-msgstr "只有这一个IP"
+msgid "Read what other Discogs sellers have to say"
+msgstr "读什么其他Discogs的卖家不得不说"
 
-#: jviews/user/login.html:81
-msgid "Forgot your password?"
-msgstr "忘记密码？"
+msgid "Recent Group Activity"
+msgstr "最近的小组活动"
+
+msgid "Recent Marketplace Sales"
+msgstr "最近的市场销售。"
+
+msgid "Recommendations"
+msgstr "建议"
+
+msgid "Recommendations For You"
+msgstr "您的建议"
+
+msgid "Reggae"
+msgstr "雷鬼"
+
+#, fuzzy
+msgid "Released"
+msgstr "发布"
+
+msgid "Releases"
+msgstr "发布"
+
+msgid "Reviews"
+msgstr "评论"
+
+msgid "Rock"
+msgstr "岩"
+
+msgid "Sales History"
+msgstr "销售记录"
+
+msgid "Saved Group Topics"
+msgstr "组保存的主题"
+
+msgid "Search for variations of"
+msgstr "搜寻的变化"
+
+msgid "Search results"
+msgstr "搜索结果"
+
+msgid "Sell"
+msgstr "卖"
+
+msgid "Selling here gets you instant exposure to our high traffic."
+msgstr "销售在这里可以让你即时接触到我们的高流量。"
+
+msgid "Selling vinyl records and CDs has never been easier."
+msgstr "销售的黑胶唱片和CD从未如此简单。"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Shipping Policies"
+msgstr "航运政策"
+
+msgid "Shop"
+msgstr "铺"
+
+msgid "Shopping Cart"
+msgstr "购物车"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Showing"
+msgstr "显示"
+
+msgid "Sign Up"
+msgstr "注册"
+
+msgid "Sorry, no downloads could be found."
+msgstr "对不起，没有下载可以找到。"
+
+msgid "Sort By"
+msgstr "排序方式"
+
+msgid "Sort by"
+msgstr "排序方式"
+
+msgid "Standard Listing"
+msgstr "标准清单"
+
+msgid "Start Shopping"
+msgstr "开始购物"
+
+msgid "Start getting recommendations by making a purchase in the marketplace."
+msgstr "开始通过在市场上购买的建议。"
+
+#, fuzzy
+msgid "Style"
+msgstr "样式"
+
+msgid "Styles"
+msgstr "样式"
+
+msgid "Submissions"
+msgstr "意见书"
+
+msgid "Subscribe to featured releases newsletter"
+msgstr "订阅功能释放简讯"
+
+msgid "Support Request"
+msgstr "支持请求"
+
+msgid "Techno"
+msgstr "TECHNO"
+
+msgid "Terms of Service"
+msgstr "服务条款"
+
+msgid "The Best Way to Sell Music"
+msgstr "出售音乐的最佳途径"
+
+msgid "The info is already here."
+msgstr "信息已经在这里。"
+
+msgid "This label does not exist in Discogs."
+msgstr "在Discogs此标签不存在。"
+
+msgid "This label has no approved releases"
+msgstr "这个标签没有批准发行"
+
+msgid "Total"
+msgstr "共有"
+
+msgid "Track"
+msgstr "追踪"
+
+#, fuzzy
+msgid "Tracklist"
+msgstr "轨道"
+
+msgid "Trance"
+msgstr "发呆"
+
+msgid "Videos"
+msgstr "视频"
+
+msgid "View Cart"
+msgstr "查看购物车"
+
+msgid "View all genres"
+msgstr "所有类型"
+
+msgid "Vinyl"
+msgstr "乙烯"
+
+msgid "Wantlist"
+msgstr "Wantlist"
+
+msgid "Watch how it's done"
+msgstr "手表它是如何做"
+
+msgid "Year"
+msgstr "年"
+
+msgid "You only pay a 6 - 8&#37; fee when your items sell."
+msgstr "您只需支付6 - 8％的费用，当您的项目出售。"
+
+msgid "Your cart is empty"
+msgstr "你的车是空的的"
+
+msgid "Your search returned no results. Please try a different query."
+msgstr "您的搜索返回任何结果。请尝试一个不同的查询。"
+
+msgid "available in digital format"
+msgstr "可在数字格式"
+
+msgid "browse all"
+msgstr "浏览所有"
+
+msgid "edit"
+msgstr "编辑"
+
+msgid "for sale"
+msgstr "出售"
+
+msgid "from my"
+msgstr "从我"
+
+msgid "genres"
+msgstr "体裁"
+
+msgid "history"
+msgstr "历史"
+
+msgid "in"
+msgstr "在"
+
+msgid "in MP3/WAV"
+msgstr "在MP3/WAV"
+
+msgid "item"
+msgid_plural "items"
+msgstr[0] "项目"
+msgstr[1] "项目"
+
+msgid "lists"
+msgstr "列表"
+
+msgid "more"
+msgstr "更多"
+
+msgid "more genres"
+msgstr "更多的流派"
+
+msgid "music in the world's biggest and best music marketplace"
+msgstr "音乐在世界上最大和最好的音乐市场"
+
+msgid "new and old music, connect with other music lovers"
+msgstr "新老音乐，与其他音乐爱好者连接"
+
+msgid "one per line"
+msgstr "每行一个"
+
+msgid "release"
+msgstr "发布"
+
+msgid "remove"
+msgstr "删除"
+
+msgid "results"
+msgstr "结果"
+
+msgid "reviews"
+msgstr "评论"
+
+msgid "show more"
+msgstr "显示更多"
+
+msgid "showing"
+msgstr "显示"
+
+msgid "sort"
+msgstr "排序"
+
+msgid "submission pending"
+msgid_plural "submissions pending"
+msgstr[0] "提交待"
+msgstr[1] "意见书待"
+
+msgid "to the largest and most accurate music database"
+msgstr "到的最大和最准确的的音乐资料库"
+
+msgid "track"
+msgstr "追踪"
+
+msgid "tracks"
+msgstr "轨道"
+
+msgid "view all"
+msgstr "查看全部"
+
+msgid "we recommend these releases"
+msgstr "我们建议这些版本"
+
+msgid "website"
+msgstr "网站"
+
+msgid ""
+"your collection and wantlist, get notified when items you want are for "
+"sale"
+msgstr "您的收集和wantlist，你想要的物品出售时获得通知"
 
