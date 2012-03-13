@@ -114,7 +114,7 @@ def __supported_locales():
     """
     Return a list of supported locales based on existing directories.
     """
-    l = [d for d in os.listdir('i18n') if os.path.isdir(os.path.join('i18n', d))]
+    l = [d for d in os.listdir('i18n') if os.path.isdir(os.path.join('i18n', d)) and not d.startswith('.')]
     l.sort()
     return l
 
