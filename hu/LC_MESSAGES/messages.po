@@ -1,0 +1,673 @@
+# Translations template for Discogs.
+# Copyright (C) 2012 Discogs
+# This file is distributed under the same license as the Discogs project.
+# Translators:
+# Imre Deak <>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Discogs\n"
+"Report-Msgid-Bugs-To: language@discogs.com\n"
+"POT-Creation-Date: 2012-03-12 10:23-0700\n"
+"PO-Revision-Date: 2012-03-21 13:42+0000\n"
+"Last-Translator: Imre Deak <>\n"
+"Language-Team: Hungarian (http://www.transifex.net/projects/p/discogs/language/hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "About Us"
+msgstr "Rólunk"
+
+msgid "Add Release"
+msgstr "Kiadvány hozzáadása"
+
+msgid ""
+"Add stuff to your wantlist and we'll let you know when someone is selling "
+"it."
+msgstr "Adj hozzá néhány kiadványt a kivánságlistádhoz, és tudni fogod, ha valaki eladna egy példányt belőle."
+
+msgid "Add to Cart"
+msgstr "Kosárba tesz"
+
+msgid "Add to List"
+msgstr "Listához ad"
+
+msgid "All Genres"
+msgstr "Minden műfaj"
+
+msgid "Alternates"
+msgstr "Helyettesitők"
+
+msgid "Artists"
+msgstr "Előadó"
+
+msgid "Barcode and Other Identifiers"
+msgstr "Vonalkód, és egyéb azonosítók"
+
+msgid "Based on the items in your Shopping Cart from seller"
+msgstr "Az eladótól a kosaradban lévő tételek alapján"
+
+msgid "Bestselling"
+msgstr "Legtöbbet eladott"
+
+msgid "Bestselling MP3/WAV"
+msgstr "Legtöbbet eladott MP3/WAV"
+
+msgid "Billing"
+msgstr "Számlázás"
+
+msgid "Browse by Genre"
+msgstr "Keresés műfaj alapján"
+
+msgid "Buy"
+msgstr "Vásárlás"
+
+msgid "Buy Vinyl Records, CDs and More"
+msgstr "Vásárolj CD-t, Vinyl-t , illetve egyebeket"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "Cassette"
+msgstr "Kazetta"
+
+msgid "Change all formats to"
+msgstr "Minden formátum megváltoztatása erre:"
+
+msgid "Checkout"
+msgstr "Pénztár"
+
+msgid "Classical"
+msgstr "Klasszikus"
+
+msgid "Collection"
+msgstr "Gyűjtemény"
+
+msgid "Companies etc"
+msgstr "Társkaidók stb..."
+
+msgid "Contact"
+msgstr "Kapcsolat"
+
+msgid "Continue Shopping"
+msgstr "Vásárlás Folytatása"
+
+msgid "Contribute"
+msgstr "Közreműködés"
+
+msgid "Contributor List"
+msgstr "Közreműködők listája"
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Country"
+msgstr "Ország"
+
+msgid "Credits"
+msgstr "Megjegyzések"
+
+msgid "Dancehall"
+msgstr "Dancehall"
+
+msgid "Decade"
+msgstr "Évtized"
+
+msgid "Developers&nbsp;API"
+msgstr "Fejleszői API"
+
+msgid "Digital"
+msgstr "Digitális"
+
+msgid "Disco"
+msgstr "Disco"
+
+msgid "Discography"
+msgstr "Diszkográfia"
+
+msgid ""
+"Discogs is the safe and easy way to buy and <a "
+"href=\"/marketplace\">sell</a> music."
+msgstr "A Discogs biztonságos és könnyű módja, hogy zenét vásárolj, vagy <a href=\"/marketplace\">eladj</a>"
+
+msgid "Discogs users are auto-notified when items they want are listed."
+msgstr "A Discogs felhasználók automatikusan értesülnek, ha olyasmit töltesz fel ami érdekli őket."
+
+msgid "Discover"
+msgstr "Felfedezés"
+
+msgid "Do less work"
+msgstr "Dolgozz kevesebbet"
+
+msgid "Drafts"
+msgstr "Piszkozatok"
+
+msgid "Electronic"
+msgstr "Elektronikus"
+
+msgid "Empty Cart"
+msgstr "Kosár ürítése"
+
+msgid "Explore"
+msgstr "Böngészés"
+
+msgid "Export Data"
+msgstr "Adatok exportálása"
+
+msgid "Filter results by"
+msgstr "Eredmények szürése"
+
+msgid "Follow&nbsp;Us"
+msgstr "Kövess&nbsp;Minket"
+
+msgid "For sellers that need to list their items in bulk"
+msgstr "Eladóknak, akik szeretnének több tételt feltölteni egyszerre"
+
+msgid "For sellers with time to list items one-by-one"
+msgstr "Eladóknak, akiknek van ideje egyesével feltölteni a termékeket"
+
+msgid "Format"
+msgstr "Formátum"
+
+msgid "Formats"
+msgstr "Formátumok"
+
+msgid "Forums"
+msgstr "Fórumok"
+
+msgid "Friends"
+msgstr "Barátok"
+
+msgid "Funk / Soul"
+msgstr "Funk/Soul"
+
+msgid "Genre"
+msgstr "Műfaj"
+
+msgid "Genres"
+msgstr "Műfajok"
+
+msgid "Get Started"
+msgstr "Elkezdem"
+
+msgid "Get Started Selling Now"
+msgstr "Elkezdem "
+
+msgid "Getting Started"
+msgstr "Az első lépések"
+
+msgid "Help"
+msgstr "Segítség"
+
+msgid "Help Forums"
+msgstr "Segítség fórum"
+
+msgid "Help on search"
+msgstr "Segítség a kereséshez"
+
+msgid "Help&nbsp;Is&nbsp;Here"
+msgstr "A&nbsp;Segítség&nbsp;Itt&nbsp;Van"
+
+msgid "Hip Hop"
+msgstr "Hip Hop"
+
+msgid "House"
+msgstr "House"
+
+msgid "If you would like us to add your testimonial, please contact"
+msgstr "Ha szeretnéd itt látni az ajánlásodat, vedd fel velünk a kapcsolatot:"
+
+msgid "Indie Rock"
+msgstr "Indie Rock"
+
+msgid "Initial listings and all updates are handled with bulk uploads"
+msgstr "A tételek feltölthetőek egy menetben, és jellemzőik is frissíthetőek egyszerre"
+
+msgid "Initial listings are one-by-one, but can be updated in bulk"
+msgstr "A tételeket egyesével kell feltölteni, de jellemzőik frissíthetőek egyszerre"
+
+msgid "Item"
+msgstr "Tétel"
+
+msgid "Items I Want"
+msgstr "Eladó tételek a kívánságlistádról"
+
+msgid "Items Ship From"
+msgstr "Szállítás a következő országból:"
+
+msgid ""
+"Items are displayed in search results based on artist, title and format"
+msgstr "A tételek megjelennek a keresőben az előadó,cím, és formátum alapján"
+
+msgid "Items are displayed under the exact release you list them"
+msgstr "A tétel annál a kiadványnál jelenik meg, ahová feltöltötted"
+
+msgid "Jazz"
+msgstr "Jazz"
+
+msgid "Jobs"
+msgstr "Állások"
+
+msgid "Join&nbsp;In"
+msgstr "Csatlakozz"
+
+msgid "Jump To"
+msgstr "Ugrás"
+
+msgid "Label"
+msgstr "Kiadó"
+
+msgid "Labels"
+msgstr "Kiadók"
+
+msgid "Languages"
+msgstr "Nyelvek"
+
+msgid "Learn more"
+msgstr "Tudj meg többet"
+
+msgid "Listing Options"
+msgstr "Listázási lehetőségek"
+
+msgid "Listing items for sale on Discogs is <strong>always free</strong>."
+msgstr "A listázott tételek a Discogs-on <strong>mindig ingyenesek</strong>,"
+
+msgid "Lists"
+msgstr "Listák"
+
+msgid "Logout"
+msgstr "Kijelentkezés"
+
+msgid "MP3 &amp; WAV"
+msgstr "MP3 és WAW"
+
+msgid "MP3 &amp; WAV Downloads"
+msgstr "MP3 és WAV Letöltés"
+
+msgid "MP3/WAV"
+msgstr "MP3/WAV"
+
+msgid "Make more money"
+msgstr "Keress több pénzt"
+
+msgid "Manage Inventory"
+msgstr "Eladó tételek kezelése"
+
+msgid "Marketplace"
+msgstr "Piactér"
+
+msgid "Marketplace Support"
+msgstr "Piactér Támogatás"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "More From"
+msgstr "Több"
+
+msgid "More formats"
+msgstr "Több formátum"
+
+msgid "More genres"
+msgstr "Több műfaj"
+
+msgid "More styles"
+msgstr "Több stílus"
+
+msgid ""
+"More than <strong>4 million people</strong> look for music on Discogs every "
+"month."
+msgstr "Több mint <strong>4 millió ember</strong>keres zenét a Discogs-ot minden hónapban."
+
+msgid "My Groups"
+msgstr "Csoportjaim"
+
+msgid "My Items For Sale"
+msgstr "Eladó tételeim"
+
+msgid "My Orders"
+msgstr "Eladott tételek"
+
+msgid "My Purchases"
+msgstr "Vásárlásaim"
+
+msgid "Needs Changes"
+msgstr "Változtatás szükséges"
+
+msgid "Needs Vote"
+msgstr "Szavazat szükséges"
+
+msgid "New Releases"
+msgstr "Új megjelenések"
+
+msgid "New Seller"
+msgstr "Új eladó"
+
+msgid "New Styles"
+msgstr "Új stílusok"
+
+msgid "New Wave"
+msgstr "New Wave"
+
+msgid "No need to type up detailed item descriptions."
+msgstr "Nem kell a termékleírásal bajlódnod."
+
+msgid "No orders"
+msgstr "Nincsenek megrendelések"
+
+msgid "Notes"
+msgstr "Jegyzetek"
+
+msgid "OR"
+msgstr "VAGY"
+
+msgid "Official Blog"
+msgstr "Hivatalos Blog"
+
+msgid "Only 6&#37; in fees incur when your items sell"
+msgstr "Csak 6&#37; jutalékot kell fizetned, ha a tételt eladtad"
+
+msgid "Only 8&#37; in fees incur when your items sell"
+msgstr "Csak 8&#37; jutalékot kell fizetned, ha a tételt eladtad"
+
+msgid "Order Number"
+msgstr "Rendelési azonosító"
+
+msgid "Other&nbsp;Stuff"
+msgstr "Egyéb"
+
+msgid "Payment Methods"
+msgstr "Fizetési módok"
+
+msgid "Pop"
+msgstr "Pop"
+
+msgid "Popular Formats"
+msgstr "Népszerű formátuok"
+
+msgid "Price"
+msgstr "Ár"
+
+msgid "Privacy Policy"
+msgstr "Adatvédelem"
+
+msgid "Product Search"
+msgstr "Termék kereséses"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Punk"
+msgstr "Punk"
+
+msgid "Purchase Date"
+msgstr "Vásárlás dátuma"
+
+msgid "Reach more buyers"
+msgstr "Érj el több vásárlót"
+
+msgid "Read what other Discogs sellers have to say"
+msgstr "Olvasd el, mit mondanak más Discogs eladók"
+
+msgid "Recent Group Activity"
+msgstr "Legutóbbi csoport tevékenységek"
+
+msgid "Recent Marketplace Sales"
+msgstr "A piactér legutóbbi eladásai"
+
+msgid "Recommendations"
+msgstr "Javaslatok"
+
+msgid "Recommendations For You"
+msgstr "Javaslataink neked"
+
+msgid "Reggae"
+msgstr "Reggae"
+
+msgid "Released"
+msgstr "Megjelenés"
+
+msgid "Releases"
+msgstr "Kiadványok"
+
+msgid "Reviews"
+msgstr "Vélemények"
+
+msgid "Rock"
+msgstr "Rock"
+
+msgid "Sales History"
+msgstr "Korábban eladott példányok"
+
+msgid "Saved Group Topics"
+msgstr "Mentett témák"
+
+msgid "Search for variations of"
+msgstr "Keresés a következő variációi között:"
+
+msgid "Search results"
+msgstr "Keresési eredmények"
+
+msgid "Sell"
+msgstr "Eladás"
+
+msgid "Selling here gets you instant exposure to our high traffic."
+msgstr "Ha itt árulsz, azonnal növekedni fog a forgalmad."
+
+msgid "Selling vinyl records and CDs has never been easier."
+msgstr "A hanglemezek, és CD-k eladása sosem volt ilyen egyszerű."
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Shipping Policies"
+msgstr "Szállítási feltételek"
+
+msgid "Shop"
+msgstr "Shop"
+
+msgid "Shopping Cart"
+msgstr "Bevásárló kosár"
+
+msgid "Show"
+msgstr "Mutasd"
+
+msgid "Showing"
+msgstr "Mutatás"
+
+msgid "Sign Up"
+msgstr "Regisztráció"
+
+msgid "Sorry, no downloads could be found."
+msgstr "Elnézést, nem találtunk letöltést."
+
+msgid "Sort By"
+msgstr "Rendezés"
+
+msgid "Sort by"
+msgstr "Rendezés"
+
+msgid "Standard Listing"
+msgstr "Standard listázás"
+
+msgid "Start Shopping"
+msgstr "Vásárlás"
+
+msgid "Start getting recommendations by making a purchase in the marketplace."
+msgstr "Vásárolj valamit, hogy tudjuk mit ajánljunk neked"
+
+msgid "Style"
+msgstr "Stílus"
+
+msgid "Styles"
+msgstr "Stílusok"
+
+msgid "Submissions"
+msgstr "Sub-ok"
+
+msgid "Subscribe to featured releases newsletter"
+msgstr "Feliratkozás a kapcsolódó kiadványok hírlevélre"
+
+msgid "Support Request"
+msgstr "Támogatás"
+
+msgid "Techno"
+msgstr "Techno"
+
+msgid "Terms of Service"
+msgstr "Felhasználási feltételek"
+
+msgid "The Best Way to Sell Music"
+msgstr "Az eladás legjobb módja"
+
+msgid "The info is already here."
+msgstr "Az információ megtalálható itt."
+
+msgid "This label does not exist in Discogs."
+msgstr "A kiadó nem található a Discogs-on"
+
+msgid "This label has no approved releases"
+msgstr "Ennek a kiadónak nincsenek elfogatott kiadványai"
+
+msgid "Total"
+msgstr "Összesen"
+
+msgid "Track"
+msgstr "Kövesd"
+
+msgid "Tracklist"
+msgstr "Számlista"
+
+msgid "Trance"
+msgstr "Trance"
+
+msgid "Videos"
+msgstr "Videók"
+
+msgid "View Cart"
+msgstr "Kosár"
+
+msgid "View all genres"
+msgstr "Minden műfaj mutatása"
+
+msgid "Vinyl"
+msgstr "Vinyl"
+
+msgid "Wantlist"
+msgstr "Kívánságlista"
+
+msgid "Watch how it's done"
+msgstr "Nézd meg, hogy működik"
+
+msgid "Year"
+msgstr "Év"
+
+msgid "You only pay a 6 - 8&#37; fee when your items sell."
+msgstr "Jutalékot csak a sikeres eladás után kell fizetned (6 - 8&#37;)."
+
+msgid "Your cart is empty"
+msgstr "A kosarad üres"
+
+msgid "Your search returned no results. Please try a different query."
+msgstr "A keresés nem hozott eredményt. Próbálj más kifejezést."
+
+msgid "available in digital format"
+msgstr "elérhető digitális formátumban"
+
+msgid "browse all"
+msgstr "keresés mindenhol"
+
+msgid "edit"
+msgstr "szerkesztés"
+
+msgid "for sale"
+msgstr "eladó"
+
+msgid "from my"
+msgstr "az én"
+
+msgid "genres"
+msgstr "stílusok"
+
+msgid "history"
+msgstr "előzmények"
+
+msgid "in"
+msgstr "in"
+
+msgid "in MP3/WAV"
+msgstr "MP3/WAV-ban"
+
+msgid "item"
+msgid_plural "items"
+msgstr[0] "tétel"
+msgstr[1] "tételek"
+
+msgid "lists"
+msgstr "listák"
+
+msgid "more"
+msgstr "több"
+
+msgid "more genres"
+msgstr "több stílus"
+
+msgid "music in the world's biggest and best music marketplace"
+msgstr "a világ legnagyobb, és legjobb zenei piacterén"
+
+msgid "new and old music, connect with other music lovers"
+msgstr "régi, és új zenék, kapcsolat másokkal akik szeretik a zenét"
+
+msgid "one per line"
+msgstr "soronként egy"
+
+msgid "release"
+msgstr "kiadvány"
+
+msgid "remove"
+msgstr "eltávolítás"
+
+msgid "results"
+msgstr "eredmények"
+
+msgid "reviews"
+msgstr "vélemények"
+
+msgid "show more"
+msgstr "mutass többet"
+
+msgid "showing"
+msgstr "mutatás"
+
+msgid "sort"
+msgstr "rendezés"
+
+msgid "submission pending"
+msgid_plural "submissions pending"
+msgstr[0] "sub várakozik"
+msgstr[1] "sub-ok várakoznak"
+
+msgid "to the largest and most accurate music database"
+msgstr "segíts a legnagyobb, és legpontosabb zenei adatbázis karbantartásában"
+
+msgid "track"
+msgstr "szám"
+
+msgid "tracks"
+msgstr "számok"
+
+msgid "view all"
+msgstr "mindet mutat"
+
+msgid "we recommend these releases"
+msgstr "ajánljuk ezeket a kiadványokat"
+
+msgid "website"
+msgstr "weboldal"
+
+msgid ""
+"your collection and wantlist, get notified when items you want are for sale"
+msgstr "a gyűjteményed, és értesülj, ha valalki meghirdet valamit ami rajta van a kivánságlistádon"

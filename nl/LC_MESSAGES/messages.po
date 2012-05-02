@@ -1,0 +1,673 @@
+# Translations template for Discogs.
+# Copyright (C) 2012 Discogs
+# This file is distributed under the same license as the Discogs project.
+# Translators:
+# Martijn van B. <martijneinstein@hotmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Discogs\n"
+"Report-Msgid-Bugs-To: language@discogs.com\n"
+"POT-Creation-Date: 2012-03-12 10:23-0700\n"
+"PO-Revision-Date: 2012-04-22 01:04+0000\n"
+"Last-Translator: Martijn van B. <martijneinstein@hotmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.net/projects/p/discogs/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "About Us"
+msgstr "Over ons"
+
+msgid "Add Release"
+msgstr "Release toevoegen"
+
+msgid ""
+"Add stuff to your wantlist and we'll let you know when someone is selling "
+"it."
+msgstr "Voeg artikelen toe aan je winkelwagen en we houden je op de hoogte wanneer iemand deze aanbiedt."
+
+msgid "Add to Cart"
+msgstr "Toevoegen aan winkelwagen"
+
+msgid "Add to List"
+msgstr "Toevoegen aan lijst"
+
+msgid "All Genres"
+msgstr "Alle genres"
+
+msgid "Alternates"
+msgstr "Alternatieven"
+
+msgid "Artists"
+msgstr "Artiesten"
+
+msgid "Barcode and Other Identifiers"
+msgstr "Barcode en andere identificatiemiddelen"
+
+msgid "Based on the items in your Shopping Cart from seller"
+msgstr "Gebaseerd op de items in je winkelwagen van verkoper"
+
+msgid "Bestselling"
+msgstr "Bestverkocht"
+
+msgid "Bestselling MP3/WAV"
+msgstr "Bestverkochte MP3/WAV"
+
+msgid "Billing"
+msgstr "Facturering"
+
+msgid "Browse by Genre"
+msgstr "Bladeren op genre"
+
+msgid "Buy"
+msgstr "Koop"
+
+msgid "Buy Vinyl Records, CDs and More"
+msgstr "Koop vinylplaten, cd's en meer"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "Cassette"
+msgstr "Cassette"
+
+msgid "Change all formats to"
+msgstr "Alle formaten wijzigen naar"
+
+msgid "Checkout"
+msgstr "Afrekenen"
+
+msgid "Classical"
+msgstr "Klassiek"
+
+msgid "Collection"
+msgstr "Verzameling"
+
+msgid "Companies etc"
+msgstr "Bedrijven, etc."
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Continue Shopping"
+msgstr "Doorgaan met winkelen"
+
+msgid "Contribute"
+msgstr "Draag bij"
+
+msgid "Contributor List"
+msgstr "Bijdragerslijst"
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Credits"
+msgstr "Credits"
+
+msgid "Dancehall"
+msgstr "Dancehall"
+
+msgid "Decade"
+msgstr "Jaartal"
+
+msgid "Developers&nbsp;API"
+msgstr "Ontwikkelaars-API"
+
+msgid "Digital"
+msgstr "Digitaal"
+
+msgid "Disco"
+msgstr "Disco"
+
+msgid "Discography"
+msgstr "Discografie"
+
+msgid ""
+"Discogs is the safe and easy way to buy and <a "
+"href=\"/marketplace\">sell</a> music."
+msgstr "Discogs is de veilige en makkelijke manier om muziek te kopen en te <a href=\"/marketplace\">verkopen</a>."
+
+msgid "Discogs users are auto-notified when items they want are listed."
+msgstr "Discogs-gebruikers ontvangen automatisch meldingen wanneer voorwerpen die zij willen beschikbaar zijn."
+
+msgid "Discover"
+msgstr "Ontdekken"
+
+msgid "Do less work"
+msgstr "Bespaar moeite"
+
+msgid "Drafts"
+msgstr "Concepten"
+
+msgid "Electronic"
+msgstr "Elektronisch"
+
+msgid "Empty Cart"
+msgstr "Winkelwagen legen"
+
+msgid "Explore"
+msgstr "Verkennen"
+
+msgid "Export Data"
+msgstr "Gegevens exporteren"
+
+msgid "Filter results by"
+msgstr "Resultaten filteren op"
+
+msgid "Follow&nbsp;Us"
+msgstr "Volg&nbsp;ons"
+
+msgid "For sellers that need to list their items in bulk"
+msgstr "Voor verkopers die veel items tegelijk willen aanbieden"
+
+msgid "For sellers with time to list items one-by-one"
+msgstr "Voor verkopers die items één voor één willen aanbieden"
+
+msgid "Format"
+msgstr "Drager"
+
+msgid "Formats"
+msgstr "Dragers"
+
+msgid "Forums"
+msgstr "Forum"
+
+msgid "Friends"
+msgstr "Vrienden"
+
+msgid "Funk / Soul"
+msgstr "Funk / Soul"
+
+msgid "Genre"
+msgstr "Genre"
+
+msgid "Genres"
+msgstr "Genres"
+
+msgid "Get Started"
+msgstr "Nu beginnen"
+
+msgid "Get Started Selling Now"
+msgstr "Begin nu met verkopen"
+
+msgid "Getting Started"
+msgstr "Aan de slag"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Help Forums"
+msgstr "Helpforum"
+
+msgid "Help on search"
+msgstr "Hulp bij zoeken"
+
+msgid "Help&nbsp;Is&nbsp;Here"
+msgstr "Hulp&nbsp;is&nbsp;hier"
+
+msgid "Hip Hop"
+msgstr "Hiphop"
+
+msgid "House"
+msgstr "House"
+
+msgid "If you would like us to add your testimonial, please contact"
+msgstr "Indien je jouw ervaring wilt laten toevoegen, neem dan contact op met"
+
+msgid "Indie Rock"
+msgstr "Indie Rock"
+
+msgid "Initial listings and all updates are handled with bulk uploads"
+msgstr "Aanbiedingen en alle updates kunnen met veel tegelijk worden uitgevoerd"
+
+msgid "Initial listings are one-by-one, but can be updated in bulk"
+msgstr "Aanbiedingen worden één voor één uitgevoerd, maar kunnen met veel tegelijk worden bijgewerkt"
+
+msgid "Item"
+msgstr "Item"
+
+msgid "Items I Want"
+msgstr "Items die ik wil"
+
+msgid "Items Ship From"
+msgstr "Items worden verzonden uit"
+
+msgid ""
+"Items are displayed in search results based on artist, title and format"
+msgstr "Items worden in de zoekresultaten weergegeven op basis van artiest, titel en drager"
+
+msgid "Items are displayed under the exact release you list them"
+msgstr "Voorwerpen worden weergegeven onder de exacte release die je hebt opgegeven"
+
+msgid "Jazz"
+msgstr "Jazz"
+
+msgid "Jobs"
+msgstr "Banen"
+
+msgid "Join&nbsp;In"
+msgstr "Doe&nbsp;mee"
+
+msgid "Jump To"
+msgstr "Springen naar"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Labels"
+msgstr "Labels"
+
+msgid "Languages"
+msgstr "Talen"
+
+msgid "Learn more"
+msgstr "Meer informatie"
+
+msgid "Listing Options"
+msgstr "Aanbiedingsopties"
+
+msgid "Listing items for sale on Discogs is <strong>always free</strong>."
+msgstr "Items aanbieden op Discogs is <strong>altijd gratis</strong>."
+
+msgid "Lists"
+msgstr "Lijsten"
+
+msgid "Logout"
+msgstr "Uitloggen"
+
+msgid "MP3 &amp; WAV"
+msgstr "MP3 &amp; WAV"
+
+msgid "MP3 &amp; WAV Downloads"
+msgstr "MP3- &amp; WAV-downloads"
+
+msgid "MP3/WAV"
+msgstr "MP3/WAV"
+
+msgid "Make more money"
+msgstr "Verdien meer geld"
+
+msgid "Manage Inventory"
+msgstr "Inventaris beheren"
+
+msgid "Marketplace"
+msgstr "Marktplaats"
+
+msgid "Marketplace Support"
+msgstr "Ondersteuning voor marktplaats"
+
+msgid "Mobile"
+msgstr "Mobiel"
+
+msgid "More From"
+msgstr "Meer van"
+
+msgid "More formats"
+msgstr "Meer dragers"
+
+msgid "More genres"
+msgstr "Meer genres"
+
+msgid "More styles"
+msgstr "Meer stijlen"
+
+msgid ""
+"More than <strong>4 million people</strong> look for music on Discogs every "
+"month."
+msgstr "Meer dan <strong>4 miljoen mensen</strong> zoeken maandelijks naar muziek op Discogs."
+
+msgid "My Groups"
+msgstr "Mijn groepen"
+
+msgid "My Items For Sale"
+msgstr "Mijn aangeboden items"
+
+msgid "My Orders"
+msgstr "Mijn bestellingen"
+
+msgid "My Purchases"
+msgstr "Mijn aankopen"
+
+msgid "Needs Changes"
+msgstr "Vereist bewerking"
+
+msgid "Needs Vote"
+msgstr "Vereist stemmen"
+
+msgid "New Releases"
+msgstr "Nieuwe releases"
+
+msgid "New Seller"
+msgstr "Nieuwe verkoper"
+
+msgid "New Styles"
+msgstr "Nieuwe stijlen"
+
+msgid "New Wave"
+msgstr "New Wave"
+
+msgid "No need to type up detailed item descriptions."
+msgstr "Gedetailleerde itembeschrijvingen zijn niet nodig."
+
+msgid "No orders"
+msgstr "Geen bestellingen"
+
+msgid "Notes"
+msgstr "Opmerkingen"
+
+msgid "OR"
+msgstr "OF"
+
+msgid "Official Blog"
+msgstr "Officiële blog"
+
+msgid "Only 6&#37; in fees incur when your items sell"
+msgstr "Slechts &#37;6 wordt in rekening gebracht als je items worden verkocht"
+
+msgid "Only 8&#37; in fees incur when your items sell"
+msgstr "Slechts &#37;8 wordt in rekening gebracht als je items worden verkocht"
+
+msgid "Order Number"
+msgstr "Bestellingnummer"
+
+msgid "Other&nbsp;Stuff"
+msgstr "Overig"
+
+msgid "Payment Methods"
+msgstr "Betaalmethoden"
+
+msgid "Pop"
+msgstr "Pop"
+
+msgid "Popular Formats"
+msgstr "Populaire dragers"
+
+msgid "Price"
+msgstr "Prijs"
+
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+msgid "Product Search"
+msgstr "Producten zoeken"
+
+msgid "Profile"
+msgstr "Profiel"
+
+msgid "Punk"
+msgstr "Punk"
+
+msgid "Purchase Date"
+msgstr "Aankoopdatum"
+
+msgid "Reach more buyers"
+msgstr "Bereik meer kopers"
+
+msgid "Read what other Discogs sellers have to say"
+msgstr "Lees wat andere Discogs-verkopers te zeggen hebben"
+
+msgid "Recent Group Activity"
+msgstr "Recente groepactiviteit"
+
+msgid "Recent Marketplace Sales"
+msgstr "Recente marktplaatsaankopen"
+
+msgid "Recommendations"
+msgstr "Aanbevelingen"
+
+msgid "Recommendations For You"
+msgstr "Aanbevolen voor jou"
+
+msgid "Reggae"
+msgstr "Reggae"
+
+msgid "Released"
+msgstr "Uitgebracht"
+
+msgid "Releases"
+msgstr "Uitgebracht"
+
+msgid "Reviews"
+msgstr "Reviews"
+
+msgid "Rock"
+msgstr "Rock"
+
+msgid "Sales History"
+msgstr "Verkoopgeschiedenis"
+
+msgid "Saved Group Topics"
+msgstr "Opgeslagen groepsonderwerpen"
+
+msgid "Search for variations of"
+msgstr "Zoeken naar variaties van"
+
+msgid "Search results"
+msgstr "Zoekresultaten"
+
+msgid "Sell"
+msgstr "Verkoop"
+
+msgid "Selling here gets you instant exposure to our high traffic."
+msgstr "Op deze plaats heb je een zeer groot publiek dat je aanbiedingen zal zien."
+
+msgid "Selling vinyl records and CDs has never been easier."
+msgstr "Vinylplaten en cd's verkopen was nog nooit zo makkelijk."
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Shipping Policies"
+msgstr "Verzendbeleid"
+
+msgid "Shop"
+msgstr "Winkel"
+
+msgid "Shopping Cart"
+msgstr "Winkelwagen"
+
+msgid "Show"
+msgstr "Toon"
+
+msgid "Showing"
+msgstr "Weergegeven:"
+
+msgid "Sign Up"
+msgstr "Registreren"
+
+msgid "Sorry, no downloads could be found."
+msgstr "Sorry, er zijn geen downloads gevonden."
+
+msgid "Sort By"
+msgstr "Sorteren op"
+
+msgid "Sort by"
+msgstr "Sorteren op"
+
+msgid "Standard Listing"
+msgstr "Standaard aanbieden"
+
+msgid "Start Shopping"
+msgstr "Beginnen met winkelen"
+
+msgid "Start getting recommendations by making a purchase in the marketplace."
+msgstr "Je zult aanbevelingen ontvangen nadat je aankoop hebt gedaan op de marktplaats."
+
+msgid "Style"
+msgstr "Stijl"
+
+msgid "Styles"
+msgstr "Stijlen"
+
+msgid "Submissions"
+msgstr "Inzendingen"
+
+msgid "Subscribe to featured releases newsletter"
+msgstr "Abonneren op de nieuwsbrief met aankomende releases"
+
+msgid "Support Request"
+msgstr "Ondersteuningsverzoek"
+
+msgid "Techno"
+msgstr "Techno"
+
+msgid "Terms of Service"
+msgstr "Gebruiksvoorwaarden"
+
+msgid "The Best Way to Sell Music"
+msgstr "Deze beste manier om muziek te verkopen"
+
+msgid "The info is already here."
+msgstr "Alle informatie is er al."
+
+msgid "This label does not exist in Discogs."
+msgstr "Dat label bestaat niet op Discogs."
+
+msgid "This label has no approved releases"
+msgstr "Dat label heeft geen goedgekeurde releases"
+
+msgid "Total"
+msgstr "Totaal"
+
+msgid "Track"
+msgstr "Beheer"
+
+msgid "Tracklist"
+msgstr "Tracklist"
+
+msgid "Trance"
+msgstr "Trance"
+
+msgid "Videos"
+msgstr "Video's"
+
+msgid "View Cart"
+msgstr "Winkelwagen weergeven"
+
+msgid "View all genres"
+msgstr "Alle genres weergeven"
+
+msgid "Vinyl"
+msgstr "Vinyl"
+
+msgid "Wantlist"
+msgstr "Verlanglijst"
+
+msgid "Watch how it's done"
+msgstr "Bekijk hoe het werkt"
+
+msgid "Year"
+msgstr "Jaar"
+
+msgid "You only pay a 6 - 8&#37; fee when your items sell."
+msgstr "Je betaalt slechts &#37;6-&#37;8 wanneer je items worden verkocht."
+
+msgid "Your cart is empty"
+msgstr "Je winkelwagen is leeg"
+
+msgid "Your search returned no results. Please try a different query."
+msgstr "Je zoekopdracht heeft geen resultaten opgeleverd. Probeer een andere."
+
+msgid "available in digital format"
+msgstr "digitaal beschikbaar"
+
+msgid "browse all"
+msgstr "alles weergeven"
+
+msgid "edit"
+msgstr "bewerken"
+
+msgid "for sale"
+msgstr "aangeboden"
+
+msgid "from my"
+msgstr "van mijn"
+
+msgid "genres"
+msgstr "genres"
+
+msgid "history"
+msgstr "geschiedenis"
+
+msgid "in"
+msgstr "in"
+
+msgid "in MP3/WAV"
+msgstr "in MP3/WAV"
+
+msgid "item"
+msgid_plural "items"
+msgstr[0] "item"
+msgstr[1] "items"
+
+msgid "lists"
+msgstr "lijsten"
+
+msgid "more"
+msgstr "meer"
+
+msgid "more genres"
+msgstr "meer genres"
+
+msgid "music in the world's biggest and best music marketplace"
+msgstr "muziek op 's werelds grootste en beste muziekmarktplaats"
+
+msgid "new and old music, connect with other music lovers"
+msgstr "nieuwe en oude muziek, kom in contact met andere muziekliefhebbers"
+
+msgid "one per line"
+msgstr "één per regel"
+
+msgid "release"
+msgstr "release"
+
+msgid "remove"
+msgstr "verwijderen"
+
+msgid "results"
+msgstr "resultaten"
+
+msgid "reviews"
+msgstr "reviews"
+
+msgid "show more"
+msgstr "meer"
+
+msgid "showing"
+msgstr "weergegeven:"
+
+msgid "sort"
+msgstr "sorteren"
+
+msgid "submission pending"
+msgid_plural "submissions pending"
+msgstr[0] "aanbieding in afwachting"
+msgstr[1] "aanbiedingen in afwachting"
+
+msgid "to the largest and most accurate music database"
+msgstr "aan de grootste en meest nauwkeurige muziekdatabase"
+
+msgid "track"
+msgstr "track"
+
+msgid "tracks"
+msgstr "tracks"
+
+msgid "view all"
+msgstr "alles weergeven"
+
+msgid "we recommend these releases"
+msgstr "wij raden deze releases aan"
+
+msgid "website"
+msgstr "website"
+
+msgid ""
+"your collection and wantlist, get notified when items you want are for sale"
+msgstr "je collectie en verlanglijst, en ontvang meldingen wanneer items die je wilt worden aangeboden"
