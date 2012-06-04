@@ -1,11 +1,9 @@
 """
 Internationalization (i18n) and Localization (l10n) module.
 """
-import simplejson
+import json
 import os
 
-import utils
-import dbobjects
 import babel
 import babel.support
 import babel.localedata
@@ -62,7 +60,7 @@ def _get_translations_json(locales=['en']):
     Return json version of translations for given locales and messages_js domain.
     """
     translations = get_translations(locales=locales, domain='messages_js')
-    return simplejson.dumps(translations._catalog, ensure_ascii=False, indent=False)
+    return json.dumps(translations._catalog, ensure_ascii=False, indent=False)
 
 
 def _parse_accept_language(accept_language):
@@ -102,8 +100,9 @@ def _get_locales_from_ip(request):
     """
     Return supported locales based on country code from ip country lookup.
     """
+    from dbobjects import IP_Country
     # country_to_locales_map and supported_locales defined at bottom of this module
-    country_code = dbobjects.IP_Country.lookup(request.remote_addr)[0].strip().lower()
+    country_code = IP_Country.lookup(request.remote_addr)[0].strip().lower()
     if country_to_locales_map.has_key(country_code):
         return [locale for locale in country_to_locales_map[country_code] if locale in supported_locales]
     return []
