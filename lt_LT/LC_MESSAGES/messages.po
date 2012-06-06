@@ -1,0 +1,675 @@
+# Translations template for Discogs.
+# Copyright (C) 2012 Discogs
+# This file is distributed under the same license as the Discogs project.
+# Translators:
+#   <rhazorzor@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Discogs\n"
+"Report-Msgid-Bugs-To: language@discogs.com\n"
+"POT-Creation-Date: 2012-03-12 10:23-0700\n"
+"PO-Revision-Date: 2012-05-27 20:45+0000\n"
+"Last-Translator: vibrasphere <rhazorzor@gmail.com>\n"
+"Language-Team: Lithuanian (Lithuania) (http://www.transifex.net/projects/p/discogs/language/lt_LT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+
+msgid "About Us"
+msgstr "Apie mus"
+
+msgid "Add Release"
+msgstr "Įtraukti leidinį"
+
+msgid ""
+"Add stuff to your wantlist and we'll let you know when someone is selling "
+"it."
+msgstr "Įtraukite jums mėgstamus leidinius į jūsų norų-sąrašą ir mes jums pranešime kada bus galima jų įsigyti."
+
+msgid "Add to Cart"
+msgstr "Įdėti į Krepšelį"
+
+msgid "Add to List"
+msgstr "Įtraukti į Sąrašą"
+
+msgid "All Genres"
+msgstr "Visi Žanrai"
+
+msgid "Alternates"
+msgstr "Alternatyvos"
+
+msgid "Artists"
+msgstr "Atlikėjai"
+
+msgid "Barcode and Other Identifiers"
+msgstr "Brūkšninis kodas ir kiti identifikatoriai"
+
+msgid "Based on the items in your Shopping Cart from seller"
+msgstr "Remiamasi pagal prekes, iš pardavėjo, esančias jūsų Pirkinių Krepšelyje"
+
+msgid "Bestselling"
+msgstr "Labiausiai perkami"
+
+msgid "Bestselling MP3/WAV"
+msgstr "Labiausiai perkami MP3/WAV"
+
+msgid "Billing"
+msgstr "Apmokėjimas"
+
+msgid "Browse by Genre"
+msgstr "Naršyti pagal Žanrą"
+
+msgid "Buy"
+msgstr "Pirkti"
+
+msgid "Buy Vinyl Records, CDs and More"
+msgstr "Pirkti vinilus, CD diskus ir daugiau"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "Cassette"
+msgstr "Kasetė"
+
+msgid "Change all formats to"
+msgstr "Pakeisti visus formatus į"
+
+msgid "Checkout"
+msgstr "Atsiskaitymas"
+
+msgid "Classical"
+msgstr "Klasikinis"
+
+msgid "Collection"
+msgstr "Kolekcija"
+
+msgid "Companies etc"
+msgstr "Kompanijos ir t.t."
+
+msgid "Contact"
+msgstr "Kontaktai"
+
+msgid "Continue Shopping"
+msgstr "Tęsti apsipirkimą"
+
+msgid "Contribute"
+msgstr "Prisidėti/padėti"
+
+msgid "Contributor List"
+msgstr "Savanorių padėti/prisidėti sąrašas"
+
+msgid "Copyright"
+msgstr "Autorystės teisės"
+
+msgid "Country"
+msgstr "Šalis"
+
+msgid "Credits"
+msgstr "Kreditai"
+
+msgid "Dancehall"
+msgstr "Dancehall"
+
+msgid "Decade"
+msgstr "Dešimtmetis"
+
+msgid "Developers&nbsp;API"
+msgstr "Kūrėjų API"
+
+msgid "Digital"
+msgstr "Skaitmeninis"
+
+msgid "Disco"
+msgstr "Disko"
+
+msgid "Discography"
+msgstr "Diskografija"
+
+msgid ""
+"Discogs is the safe and easy way to buy and <a "
+"href=\"/marketplace\">sell</a> music."
+msgstr "Discogs - tai saugi ir lengva vieta, kurioje galima pirkti ir <a href=\"/marketplace\">parduoti</a> muziką."
+
+msgid "Discogs users are auto-notified when items they want are listed."
+msgstr "Discogs vartotojai yra automatiškai perspėjami kai atsiranda kūriniai, kūrių jie nori."
+
+msgid "Discover"
+msgstr "Atraskite"
+
+msgid "Do less work"
+msgstr "Dirbkite mažiau"
+
+msgid "Drafts"
+msgstr "Smėlio dėžė"
+
+msgid "Electronic"
+msgstr "Elektroninė"
+
+msgid "Empty Cart"
+msgstr "Vežimėlis tuščias"
+
+msgid "Explore"
+msgstr "Naršyti"
+
+msgid "Export Data"
+msgstr "Eksportuoti informaciją"
+
+msgid "Filter results by"
+msgstr "Rūšiuoti pagal"
+
+msgid "Follow&nbsp;Us"
+msgstr "Sekite mus"
+
+msgid "For sellers that need to list their items in bulk"
+msgstr "Pardavėjams, kurie nori įkelti savo informaciją masiškai"
+
+msgid "For sellers with time to list items one-by-one"
+msgstr "Pardavėjams, kurie nori įkelti savo informaciją vieną-po-vienos su laiku"
+
+msgid "Format"
+msgstr "Formatas"
+
+msgid "Formats"
+msgstr "Formatai"
+
+msgid "Forums"
+msgstr "Forumas"
+
+msgid "Friends"
+msgstr "Draugai"
+
+msgid "Funk / Soul"
+msgstr "Funk/Soul"
+
+msgid "Genre"
+msgstr "Žanras"
+
+msgid "Genres"
+msgstr "Žanrai"
+
+msgid "Get Started"
+msgstr "Pradėkite"
+
+msgid "Get Started Selling Now"
+msgstr "Pradėkit pardavinėti dabar"
+
+msgid "Getting Started"
+msgstr "Pradedant"
+
+msgid "Help"
+msgstr "Pagalba"
+
+msgid "Help Forums"
+msgstr "Pagalbos forumas"
+
+msgid "Help on search"
+msgstr "Pagalba ieškant"
+
+msgid "Help&nbsp;Is&nbsp;Here"
+msgstr "Pagalba čia"
+
+msgid "Hip Hop"
+msgstr "Hip-Hop"
+
+msgid "House"
+msgstr "House"
+
+msgid "If you would like us to add your testimonial, please contact"
+msgstr "Jeigu jūs norite, kad mes pridėtume jūsų padėkas, prašome susisiekti"
+
+msgid "Indie Rock"
+msgstr "Indie Rock"
+
+msgid "Initial listings and all updates are handled with bulk uploads"
+msgstr "Pradiniai įtraukimai ir visi atnaujinimai yra apdorojami su mastiniais įkėlimais"
+
+msgid "Initial listings are one-by-one, but can be updated in bulk"
+msgstr "Pradiniai įtraukimai eina vienas-po-vieno, bet gali būti atnaujinti masiškai"
+
+msgid "Item"
+msgstr "Prekė/leidinys"
+
+msgid "Items I Want"
+msgstr "Prekės, kurių aš noriu"
+
+msgid "Items Ship From"
+msgstr "Prekė siunčiama iš"
+
+msgid ""
+"Items are displayed in search results based on artist, title and format"
+msgstr "Leidiniai yra rodomi paieškos rezultatuose pagal atlikėją, leidinio pavadinimą ir formatą"
+
+msgid "Items are displayed under the exact release you list them"
+msgstr "Kūriniai yra rodomi pagal tikslius leidinių pavadinimus"
+
+msgid "Jazz"
+msgstr "Džiazas"
+
+msgid "Jobs"
+msgstr "Darbai"
+
+msgid "Join&nbsp;In"
+msgstr "Prisijunkite"
+
+msgid "Jump To"
+msgstr "Peršokti į"
+
+msgid "Label"
+msgstr "Leidėjas"
+
+msgid "Labels"
+msgstr "Leidėjai"
+
+msgid "Languages"
+msgstr "Kalbos"
+
+msgid "Learn more"
+msgstr "Sužinokite daugiau"
+
+msgid "Listing Options"
+msgstr "Įtraukimų nustatymai"
+
+msgid "Listing items for sale on Discogs is <strong>always free</strong>."
+msgstr "Leidinių įtraukimas pardavimui Discogs svetainėje visada yra <strong>nemokamas</strong>."
+
+msgid "Lists"
+msgstr "Sąrašai"
+
+msgid "Logout"
+msgstr "Atsijungti"
+
+msgid "MP3 &amp; WAV"
+msgstr "MP3, WAV"
+
+msgid "MP3 &amp; WAV Downloads"
+msgstr "MP3, WAV siuntiniai"
+
+msgid "MP3/WAV"
+msgstr "MP3/WAV"
+
+msgid "Make more money"
+msgstr "Uždirbkite daugiau"
+
+msgid "Manage Inventory"
+msgstr "Valdykite inventorių"
+
+msgid "Marketplace"
+msgstr "Prekyvietė"
+
+msgid "Marketplace Support"
+msgstr "Prekyvietės pagalba"
+
+msgid "Mobile"
+msgstr "Mobilus"
+
+msgid "More From"
+msgstr "Daugiau iš"
+
+msgid "More formats"
+msgstr "Daugiau formatų"
+
+msgid "More genres"
+msgstr "Daugiau žanrų"
+
+msgid "More styles"
+msgstr "Daugiau stilių"
+
+msgid ""
+"More than <strong>4 million people</strong> look for music on Discogs every "
+"month."
+msgstr "Daugiau nei <strong>4 milijonai žmonių</strong> ieško muzikos Discogs svetainėje kiekvieną mėnesį."
+
+msgid "My Groups"
+msgstr "Mano grupės"
+
+msgid "My Items For Sale"
+msgstr "Mano prekės pardavimui"
+
+msgid "My Orders"
+msgstr "Mano užsakymai"
+
+msgid "My Purchases"
+msgstr "Mano pirkiniai"
+
+msgid "Needs Changes"
+msgstr "Reikia pakeitimų"
+
+msgid "Needs Vote"
+msgstr "Reikia balsų"
+
+msgid "New Releases"
+msgstr "Nauji leidiniai"
+
+msgid "New Seller"
+msgstr "Naujas pardavėjas"
+
+msgid "New Styles"
+msgstr "Nauji stiliai"
+
+msgid "New Wave"
+msgstr "New Wave"
+
+msgid "No need to type up detailed item descriptions."
+msgstr "Reikia aprašyti prekę"
+
+msgid "No orders"
+msgstr "Jokių užsakymų"
+
+msgid "Notes"
+msgstr "Pažymos"
+
+msgid "OR"
+msgstr "ARBA"
+
+msgid "Official Blog"
+msgstr "Oficialus blogas"
+
+msgid "Only 6&#37; in fees incur when your items sell"
+msgstr "Nutinka tik mokesčiuose kai jūsų prekė parduodama"
+
+msgid "Only 8&#37; in fees incur when your items sell"
+msgstr "Nutinka tik mokesčiuose kai jūsų prekė parduodama"
+
+msgid "Order Number"
+msgstr "Užsakymo numeris"
+
+msgid "Other&nbsp;Stuff"
+msgstr "Kita"
+
+msgid "Payment Methods"
+msgstr "Apmokėjimo būdai"
+
+msgid "Pop"
+msgstr "Pop"
+
+msgid "Popular Formats"
+msgstr "Populiarūs formatai"
+
+msgid "Price"
+msgstr "Kaina"
+
+msgid "Privacy Policy"
+msgstr "Privatumas"
+
+msgid "Product Search"
+msgstr "Prekės paieška"
+
+msgid "Profile"
+msgstr "Profilis"
+
+msgid "Punk"
+msgstr "Punk"
+
+msgid "Purchase Date"
+msgstr "Pirkimo data"
+
+msgid "Reach more buyers"
+msgstr "Siekite daugiau pirkėjų"
+
+msgid "Read what other Discogs sellers have to say"
+msgstr "Skaitykite ką kiti Discogs pardavėjai sako"
+
+msgid "Recent Group Activity"
+msgstr "Paskutinė grupės veikla"
+
+msgid "Recent Marketplace Sales"
+msgstr "Paskutiniai prekyvietės pardavimai"
+
+msgid "Recommendations"
+msgstr "Rekomendacijos"
+
+msgid "Recommendations For You"
+msgstr "Rekomendacijos jums"
+
+msgid "Reggae"
+msgstr "Reggae"
+
+msgid "Released"
+msgstr "Išleista"
+
+msgid "Releases"
+msgstr "Leidiniai"
+
+msgid "Reviews"
+msgstr "Apžvalgos"
+
+msgid "Rock"
+msgstr "Rock"
+
+msgid "Sales History"
+msgstr "Pardavimų istorija"
+
+msgid "Saved Group Topics"
+msgstr "Išsaugotos grupės temos"
+
+msgid "Search for variations of"
+msgstr "Ieškoti variantų"
+
+msgid "Search results"
+msgstr "Paiškos rezultatai"
+
+msgid "Sell"
+msgstr "Parduoti"
+
+msgid "Selling here gets you instant exposure to our high traffic."
+msgstr "Parduodant čia jūsų galimybės padidėja iškart"
+
+msgid "Selling vinyl records and CDs has never been easier."
+msgstr "Pardavinėji vinilus ir CD dar niekada nebuvo taip lengva"
+
+msgid "Settings"
+msgstr "Nustatymai"
+
+msgid "Shipping Policies"
+msgstr "Pristatymų politika"
+
+msgid "Shop"
+msgstr "Parduotuvė"
+
+msgid "Shopping Cart"
+msgstr "Pirkinių krepšelis"
+
+msgid "Show"
+msgstr "Rodyti"
+
+msgid "Showing"
+msgstr "Rodoma"
+
+msgid "Sign Up"
+msgstr "Užsiregistruokite"
+
+msgid "Sorry, no downloads could be found."
+msgstr "Atleiskite, bet nieko nerasta"
+
+msgid "Sort By"
+msgstr "Rūšiuoti pagal"
+
+msgid "Sort by"
+msgstr "Rūšiuoti pagal"
+
+msgid "Standard Listing"
+msgstr "Standartinis įtraukimas"
+
+msgid "Start Shopping"
+msgstr "Pradėkite apsipirkti"
+
+msgid "Start getting recommendations by making a purchase in the marketplace."
+msgstr "Pradėkite gauti rekomendacijas perkant prekyvietėje"
+
+msgid "Style"
+msgstr "Stilius"
+
+msgid "Styles"
+msgstr "Stiliai"
+
+msgid "Submissions"
+msgstr "Pateikimai"
+
+msgid "Subscribe to featured releases newsletter"
+msgstr "Užsisakykite mėgstamų leidinų naujienlaiškį"
+
+msgid "Support Request"
+msgstr "Pagalbos prašymas"
+
+msgid "Techno"
+msgstr "Techno"
+
+msgid "Terms of Service"
+msgstr "Paslaugų sąlygos"
+
+msgid "The Best Way to Sell Music"
+msgstr "Geriausias būdas parduoti muziką"
+
+msgid "The info is already here."
+msgstr "Informacija jau yra"
+
+msgid "This label does not exist in Discogs."
+msgstr "Leidėjas neegzistuoja Discogs svetainėje"
+
+msgid "This label has no approved releases"
+msgstr "Leidėjas neturi jokių patvirtintų leidinių"
+
+msgid "Total"
+msgstr "Iš viso"
+
+msgid "Track"
+msgstr "Kūrinys"
+
+msgid "Tracklist"
+msgstr "Kūrinių sąrašas"
+
+msgid "Trance"
+msgstr "Trance"
+
+msgid "Videos"
+msgstr "Video"
+
+msgid "View Cart"
+msgstr "Žiūrėti krepšelį"
+
+msgid "View all genres"
+msgstr "Žiūrėti visus žanrus"
+
+msgid "Vinyl"
+msgstr "Vinilas"
+
+msgid "Wantlist"
+msgstr "Norų sąrašas"
+
+msgid "Watch how it's done"
+msgstr "Žiūrėkite kaip tai atliekama"
+
+msgid "Year"
+msgstr "Metai"
+
+msgid "You only pay a 6 - 8&#37; fee when your items sell."
+msgstr "Jūs mokate tik 6-8% mokestį kai jūsų prekė parduodama"
+
+msgid "Your cart is empty"
+msgstr "Jūsų krepšelis tuščias"
+
+msgid "Your search returned no results. Please try a different query."
+msgstr "Nieko nerasta, mėginkite įvesti kitokius raktažodžius"
+
+msgid "available in digital format"
+msgstr "Yra skaitmeniniame formate"
+
+msgid "browse all"
+msgstr "Naršyti visus"
+
+msgid "edit"
+msgstr "Redaguoti"
+
+msgid "for sale"
+msgstr "Pardavimui"
+
+msgid "from my"
+msgstr "Iš mano"
+
+msgid "genres"
+msgstr "Žanrai"
+
+msgid "history"
+msgstr "Istorija"
+
+msgid "in"
+msgstr "į"
+
+msgid "in MP3/WAV"
+msgstr "MP3/WAV formatuose"
+
+msgid "item"
+msgid_plural "items"
+msgstr[0] "daiktas"
+msgstr[1] "daiktai"
+msgstr[2] "daiktų\ndaiktams\ndaiktui\ndaikte\ndaiktuose\ndaikto"
+
+msgid "lists"
+msgstr "sąrašai"
+
+msgid "more"
+msgstr "Daugiau"
+
+msgid "more genres"
+msgstr "Daugiau žanrų"
+
+msgid "music in the world's biggest and best music marketplace"
+msgstr "Muzika didžiausioje pasaulio muzikos prekyvietėje"
+
+msgid "new and old music, connect with other music lovers"
+msgstr "Nauja ir sena muzika, susipažinkite su kitais muzikos mylėtojais"
+
+msgid "one per line"
+msgstr "Vienas per eilutę"
+
+msgid "release"
+msgstr "Leidinys"
+
+msgid "remove"
+msgstr "Panaikinti"
+
+msgid "results"
+msgstr "Rezultatai"
+
+msgid "reviews"
+msgstr "Peržiūros"
+
+msgid "show more"
+msgstr "Rodyti daugiau"
+
+msgid "showing"
+msgstr "Rodoma"
+
+msgid "sort"
+msgstr "Rūšiuoti"
+
+msgid "submission pending"
+msgid_plural "submissions pending"
+msgstr[0] "Pateikimas nagrinėjamas"
+msgstr[1] "Pateikimai nagrinėjami"
+msgstr[2] "Pateikimai išnagrinėti\nPateikimai išnagrinėjami\nPateikimas išnagrinėjamas\nPateikimas išnagrinėtas"
+
+msgid "to the largest and most accurate music database"
+msgstr "Į didžiausią ir labiausiai tiksliausią muziks duomenų bazę"
+
+msgid "track"
+msgstr "Kūrinys"
+
+msgid "tracks"
+msgstr "Kūriniai"
+
+msgid "view all"
+msgstr "Žiūrėti visus"
+
+msgid "we recommend these releases"
+msgstr "Mes rekomenduojame šiuose leidinius"
+
+msgid "website"
+msgstr "Svetainė"
+
+msgid ""
+"your collection and wantlist, get notified when items you want are for sale"
+msgstr "Jūsų kolekcija ir norų-sąrašas bus įspėtas kai kūriniai, kurių jūs norite, atsiras pardavime"
