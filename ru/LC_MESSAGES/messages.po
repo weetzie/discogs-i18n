@@ -1,35 +1,34 @@
-# Russian translations for Discogs.
+# Translations template for Discogs.
 # Copyright (C) 2012 Discogs
 # This file is distributed under the same license as the Discogs project.
+# Translators:
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
-# #, fuzzy
+#   <krtkn@ya.ru>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: Discogs 0.1\n"
+"Project-Id-Version: Discogs\n"
 "Report-Msgid-Bugs-To: language@discogs.com\n"
-"POT-Creation-Date: 2012-03-29 15:33-0700\n"
-"PO-Revision-Date: 2012-01-25 15:28-0800\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: ru <LL@li.org>\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"POT-Creation-Date: 2012-03-12 10:23-0700\n"
+"PO-Revision-Date: 2012-05-22 18:54+0000\n"
+"Last-Translator: KRTKN <krtkn@ya.ru>\n"
+"Language-Team: Russian (http://www.transifex.net/projects/p/discogs/language/ru/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
 
 msgid "About Us"
-msgstr "О компании"
+msgstr "О нас"
 
 msgid "Add Release"
 msgstr "Добавить релиз"
 
 msgid ""
-"Add stuff to your wantlist and we'll let you know when someone is selling"
-" it."
-msgstr ""
-"Добавить материал в вашем wantlist и мы дадим вам знать, когда кто-то "
-"продает."
+"Add stuff to your wantlist and we'll let you know when someone is selling "
+"it."
+msgstr "Добавьте интересующие релизы в ваш список Желаний, чтобы получать уведомления при их поступлении в продажу."
 
 msgid "Add to Cart"
 msgstr "Добавить в корзину"
@@ -41,92 +40,91 @@ msgid "All Genres"
 msgstr "Все жанры"
 
 msgid "Alternates"
-msgstr "Заместители"
+msgstr "Другие варианты"
 
 msgid "Artists"
-msgstr "Художники"
+msgstr "Исполнители"
 
 msgid "Barcode and Other Identifiers"
-msgstr "Штрих и другие обозначения"
+msgstr "Штрих-код и другие обозначения"
 
 msgid "Based on the items in your Shopping Cart from seller"
-msgstr "На основании пунктов в вашей Корзине покупок от продавца"
+msgstr "С учетом позиций в вашей корзине, заказанных у продавца"
 
 msgid "Bestselling"
-msgstr "Бестселлеров"
+msgstr "Хиты продаж"
 
 msgid "Bestselling MP3/WAV"
-msgstr "Бестселлеров MP3/WAV"
+msgstr "Хиты продаж MP3/WAV"
 
 msgid "Billing"
-msgstr "Платежная"
+msgstr "Управление счетом"
 
 msgid "Browse by Genre"
 msgstr "Обзор по жанрам"
 
 msgid "Buy"
-msgstr "Купить"
+msgstr "Покупать"
 
 msgid "Buy Vinyl Records, CDs and More"
-msgstr "Купить виниловые пластинки, компакт-диски и многое другое"
+msgstr "Покупайте пластинки, компакт-диски и многое другое"
 
 msgid "CD"
-msgstr "Компакт-диск"
+msgstr "CD"
 
 msgid "Cassette"
-msgstr "Кассета"
+msgstr "Аудиокассеты"
 
 msgid "Change all formats to"
-msgstr "Измените все форматы"
+msgstr "Изменить все форматы:"
 
 msgid "Checkout"
-msgstr "Контроль"
+msgstr "Оформить заказ"
 
 msgid "Classical"
-msgstr "Классический"
+msgstr "Classical"
 
 msgid "Collection"
-msgstr "Сбор"
+msgstr "Коллекция"
 
 msgid "Companies etc"
-msgstr "Компании и т.д."
+msgstr "Компания и т.д."
 
 msgid "Contact"
-msgstr "Контакт"
+msgstr "Отправить сообщение"
 
 msgid "Continue Shopping"
-msgstr "Продолжить покупки"
+msgstr "Продолжить покупку"
 
 msgid "Contribute"
-msgstr "Способствовать"
+msgstr "Участвуйте"
 
 msgid "Contributor List"
-msgstr "Корреспондент Список"
+msgstr "Участники"
 
 msgid "Copyright"
-msgstr "Авторское право"
+msgstr "Все права защищены"
 
 msgid "Country"
-msgstr "Страна"
+msgstr "Страны"
 
-#, fuzzy
 msgid "Credits"
-msgstr "редактировать"
+msgstr "авторов"
 
 msgid "Dancehall"
 msgstr "Dancehall"
 
 msgid "Decade"
-msgstr "Десятилетие"
+msgstr "Даты"
 
 msgid "Developers&nbsp;API"
-msgstr "Разработчики API"
+msgstr "API-разработчикам"
 
 msgid "Digital"
-msgstr "Цифровой"
+msgstr "Digital"
 
 msgid "Disco"
-msgstr "Дискотека"
+msgstr "Disco"
 
 msgid "Discography"
 msgstr "Дискография"
@@ -134,49 +132,43 @@ msgstr "Дискография"
 msgid ""
 "Discogs is the safe and easy way to buy and <a "
 "href=\"/marketplace\">sell</a> music."
-msgstr ""
-"Discogs это безопасный и простой способ, чтобы покупать и <a "
-"href=\"/marketplace\">продавать</a> музыку."
+msgstr "Discogs — наиболее безопасный и простой способ покупки и <a href=\"/marketplace\">продажи</a> музыки."
 
 msgid "Discogs users are auto-notified when items they want are listed."
-msgstr ""
-"Discogs пользователи авто-уведомление, когда предметы, которые они хотят "
-"перечислены."
+msgstr "Пользователи Discogs автоматически получат уведомления при появлении в вашем списке интересующих их товаров."
 
 msgid "Discover"
-msgstr "Открыть"
+msgstr "Открывайте"
 
 msgid "Do less work"
 msgstr "Делайте меньше работы"
 
 msgid "Drafts"
-msgstr "Шашки"
+msgstr "Черновики"
 
 msgid "Electronic"
-msgstr "Электронный"
+msgstr "Electronic"
 
 msgid "Empty Cart"
 msgstr "Очистить корзину"
 
 msgid "Explore"
-msgstr "Исследовать"
+msgstr "Обзор"
 
 msgid "Export Data"
 msgstr "Экспорт данных"
 
 msgid "Filter results by"
-msgstr "Результаты фильтрации по"
+msgstr "Фильтровать результаты:"
 
 msgid "Follow&nbsp;Us"
 msgstr "Следуйте за нами"
 
 msgid "For sellers that need to list their items in bulk"
-msgstr ""
-"Для продавцов, которые нужно перечислить их элементов в натуральном "
-"выражении"
+msgstr "Публикация товаров единым списком"
 
 msgid "For sellers with time to list items one-by-one"
-msgstr "Для продавцов со временем, чтобы элементы списка один за одним"
+msgstr "Публикация товаров вручную, один за другим"
 
 msgid "Format"
 msgstr "Формат"
@@ -200,10 +192,10 @@ msgid "Genres"
 msgstr "Жанры"
 
 msgid "Get Started"
-msgstr "Начало работы"
+msgstr "Начать сейчас"
 
 msgid "Get Started Selling Now"
-msgstr "Начало продаж Теперь"
+msgstr "Приступить к продаже сейчас"
 
 msgid "Getting Started"
 msgstr "Приступая к работе"
@@ -212,82 +204,77 @@ msgid "Help"
 msgstr "Помощь"
 
 msgid "Help Forums"
-msgstr "Помощь Форум"
+msgstr "Помощь на форуме"
 
 msgid "Help on search"
-msgstr "Помощь по поиску"
+msgstr "Справка"
 
 msgid "Help&nbsp;Is&nbsp;Here"
-msgstr "Помощь уже здесь"
+msgstr "Справка"
 
 msgid "Hip Hop"
-msgstr "Хип-хоп"
+msgstr "Hip Hop"
 
 msgid "House"
-msgstr "Дом"
+msgstr "House"
 
 msgid "If you would like us to add your testimonial, please contact"
-msgstr "Если вы хотите, чтобы добавить свой отзыв, пожалуйста, свяжитесь"
+msgstr "Чтобы добавить свой отзыв, пожалуйста, обратитесь в "
 
 msgid "Indie Rock"
 msgstr "Indie Rock"
 
 msgid "Initial listings and all updates are handled with bulk uploads"
-msgstr ""
-"Первоначальные списки и все обновления, обрабатываются с объемными "
-"добавления:"
+msgstr "Первоначальный перечень товаров и все его последующие обновления загружаются единым списком"
 
 msgid "Initial listings are one-by-one, but can be updated in bulk"
-msgstr ""
-"Первоначальные списки одну за одной, а может быть обновлен в натуральном "
-"выражении"
+msgstr "Товары добавляются в список по одному, вручную; дальнейшие обновления выполняются через список товаров"
 
 msgid "Item"
-msgstr "Пункт"
+msgstr "Товар"
 
 msgid "Items I Want"
-msgstr "Элементы I Want"
+msgstr "Мои Желания"
 
 msgid "Items Ship From"
-msgstr "Элементы судна из"
+msgstr "Доставка осуществляется из региона"
 
-msgid "Items are displayed in search results based on artist, title and format"
-msgstr ""
-"Элементы отображаются в результатах поиска на основе исполнитель, "
-"название и формат"
+msgid ""
+"Items are displayed in search results based on artist, title and format"
+msgstr "Товары отображаются в результатах поисковых запросов по имени исполнителя, названию и формату"
 
 msgid "Items are displayed under the exact release you list them"
-msgstr "Элементы отображаются в точном освободить вас перечислить их"
+msgstr "Товары отображаются в том порядке, в котором они были составлены в списке"
 
 msgid "Jazz"
-msgstr "Джаз"
+msgstr "Jazz"
 
 msgid "Jobs"
 msgstr "Вакансии"
 
 msgid "Join&nbsp;In"
-msgstr "В регистрации"
+msgstr "Участие"
 
 msgid "Jump To"
-msgstr "Jump To"
+msgstr "Перейти к"
 
 msgid "Label"
-msgstr "Этикетка"
+msgstr "Лейбл"
 
 msgid "Labels"
-msgstr "Этикетки"
+msgstr "Лейблы"
 
 msgid "Languages"
-msgstr "Языки"
+msgstr "Язык"
 
 msgid "Learn more"
 msgstr "Узнать больше"
 
 msgid "Listing Options"
-msgstr "Листинг параметры"
+msgstr "Способы представления списка товаров"
 
 msgid "Listing items for sale on Discogs is <strong>always free</strong>."
-msgstr "Листинг предметов для продажи на Discogs <strong>всегда свободен.</strong>"
+msgstr "Публикация списка товаров для продажи на Discogs <strong>абсолютно бесплатна</strong>."
 
 msgid "Lists"
 msgstr "Списки"
@@ -299,53 +286,51 @@ msgid "MP3 &amp; WAV"
 msgstr "MP3 и WAV"
 
 msgid "MP3 &amp; WAV Downloads"
-msgstr "MP3 и WAV Загрузка"
+msgstr "MP3- и WAV-файлы"
 
 msgid "MP3/WAV"
 msgstr "MP3/WAV"
 
 msgid "Make more money"
-msgstr "Заработать больше денег"
+msgstr "Зарабатывайте больше"
 
 msgid "Manage Inventory"
-msgstr "Управление запасами"
+msgstr "Управление списком товаров"
 
 msgid "Marketplace"
 msgstr "Marketplace"
 
 msgid "Marketplace Support"
-msgstr "Рынок поддержки"
+msgstr "Службу поддержки Discogs Marketplace"
 
 msgid "Mobile"
-msgstr "Мобильный"
+msgstr "Мобильная версия"
 
 msgid "More From"
-msgstr "Больше От"
+msgstr "Еще"
 
 msgid "More formats"
-msgstr "Другие форматы"
+msgstr "Еще форматы"
 
 msgid "More genres"
-msgstr "Более жанров"
+msgstr "Еще жанры"
 
 msgid "More styles"
-msgstr "Больше стилей"
+msgstr "Еще стили"
 
 msgid ""
-"More than <strong>4 million people</strong> look for music on Discogs "
-"every month."
-msgstr ""
-"Более <strong>4 миллионов человек</strong> искать музыку на Discogs "
-"каждый месяц."
+"More than <strong>4 million people</strong> look for music on Discogs every "
+"month."
+msgstr "Более <strong>4 миллионов человек</strong> ищут музыку на Discogs каждый месяц."
 
 msgid "My Groups"
 msgstr "Мои группы"
 
 msgid "My Items For Sale"
-msgstr "Мой Товары для продажи"
+msgstr "Мои товары"
 
 msgid "My Orders"
-msgstr "Мои Заказы"
+msgstr "Мои заказы"
 
 msgid "My Purchases"
 msgstr "Мои покупки"
@@ -354,22 +339,22 @@ msgid "Needs Changes"
 msgstr "Нуждается в изменениях"
 
 msgid "Needs Vote"
-msgstr "Потребности Голосовать"
+msgstr "Нуждается в голосовании"
 
 msgid "New Releases"
 msgstr "Новые релизы"
 
 msgid "New Seller"
-msgstr "Новые продавца"
+msgstr "Новый продавец"
 
 msgid "New Styles"
 msgstr "Новые стили"
 
 msgid "New Wave"
-msgstr "Новая волна"
+msgstr "New Wave"
 
 msgid "No need to type up detailed item descriptions."
-msgstr "Больше нет необходимости набирать до подробного описания элемента."
+msgstr "Нет необходимости подробно описывать продаваемый вами товар."
 
 msgid "No orders"
 msgstr "Нет заказов"
@@ -384,10 +369,10 @@ msgid "Official Blog"
 msgstr "Официальный блог"
 
 msgid "Only 6&#37; in fees incur when your items sell"
-msgstr "Только 6&#37; в тарифах принимают на себя, свои пункты продажи"
+msgstr "Вы платите всего 6&#37; в случае продажи товара"
 
 msgid "Only 8&#37; in fees incur when your items sell"
-msgstr "Только 8&#37; в тарифах принимают на себя, свои пункты продажи"
+msgstr "Вы платите всего 8&#37; в случае продажи товара"
 
 msgid "Order Number"
 msgstr "Номер заказа"
@@ -399,10 +384,10 @@ msgid "Payment Methods"
 msgstr "Способы оплаты"
 
 msgid "Pop"
-msgstr "Популярный"
+msgstr "Pop"
 
 msgid "Popular Formats"
-msgstr "Популярные форматы"
+msgstr "Форматы"
 
 msgid "Price"
 msgstr "Цена"
@@ -411,13 +396,13 @@ msgid "Privacy Policy"
 msgstr "Политика конфиденциальности"
 
 msgid "Product Search"
-msgstr "Поиск товара"
+msgstr "Поиск товаров"
 
 msgid "Profile"
 msgstr "Профиль"
 
 msgid "Punk"
-msgstr "Панк"
+msgstr "Punk"
 
 msgid "Purchase Date"
 msgstr "Дата покупки"
@@ -426,26 +411,25 @@ msgid "Reach more buyers"
 msgstr "Привлекайте больше покупателей"
 
 msgid "Read what other Discogs sellers have to say"
-msgstr "Прочитайте то, что другие продавцы Discogs должен сказать,"
+msgstr "Вот что говорят о нас наши продавцы:"
 
 msgid "Recent Group Activity"
-msgstr "Последние действия группы"
+msgstr "Последние события в моих группах"
 
 msgid "Recent Marketplace Sales"
-msgstr "Недавние Продажи Marketplace"
+msgstr "Недавние продажи в Marketplace"
 
 msgid "Recommendations"
 msgstr "Рекомендации"
 
 msgid "Recommendations For You"
-msgstr "Рекомендации для Вас"
+msgstr "Рекомендации для вас"
 
 msgid "Reggae"
 msgstr "Reggae"
 
-#, fuzzy
 msgid "Released"
-msgstr "релиз"
+msgstr "Дата выпуска"
 
 msgid "Releases"
 msgstr "Релизы"
@@ -454,16 +438,16 @@ msgid "Reviews"
 msgstr "Отзывы"
 
 msgid "Rock"
-msgstr "Рок"
+msgstr "Rock"
 
 msgid "Sales History"
-msgstr "Продажи История"
+msgstr "История продаж"
 
 msgid "Saved Group Topics"
-msgstr "Сохраненные Темы группу"
+msgstr "Сохраненные обсуждения"
 
 msgid "Search for variations of"
-msgstr "Поиск вариации"
+msgstr "Искать другие вариации для имени"
 
 msgid "Search results"
 msgstr "Результаты поиска"
@@ -472,16 +456,16 @@ msgid "Sell"
 msgstr "Продавать"
 
 msgid "Selling here gets you instant exposure to our high traffic."
-msgstr "Продажа здесь получает мгновенный воздействия нашим высоким трафиком."
+msgstr "Открыв здесь собственную площадку для продажи, вы немедленно заявляете о себе всей нашей аудитории."
 
 msgid "Selling vinyl records and CDs has never been easier."
-msgstr "Продажи виниловых пластинок и компакт-дисках никогда не была проще."
+msgstr "Продажа виниловых пластинок и компакт-дисков никогда не была проще"
 
 msgid "Settings"
 msgstr "Настройки"
 
 msgid "Shipping Policies"
-msgstr "Доставка Политика"
+msgstr "Порядок доставки"
 
 msgid "Shop"
 msgstr "Магазин"
@@ -490,16 +474,16 @@ msgid "Shopping Cart"
 msgstr "Корзина"
 
 msgid "Show"
-msgstr "Шоу"
+msgstr "Показать"
 
 msgid "Showing"
-msgstr "Показ"
+msgstr "Отображается"
 
 msgid "Sign Up"
 msgstr "Регистрация"
 
 msgid "Sorry, no downloads could be found."
-msgstr "К сожалению, нет загрузки может быть найдена."
+msgstr "К сожалению, загрузок не найдено."
 
 msgid "Sort By"
 msgstr "Сортировать по"
@@ -508,17 +492,16 @@ msgid "Sort by"
 msgstr "Сортировать по"
 
 msgid "Standard Listing"
-msgstr "Стандартный Листинг"
+msgstr "Стандартный список"
 
 msgid "Start Shopping"
-msgstr "Начало Покупки"
+msgstr "Начать покупку"
 
 msgid "Start getting recommendations by making a purchase in the marketplace."
-msgstr "Начать получать рекомендации, делая покупки на рынке."
+msgstr "Получать рекомендации при покупке в Discogs Marketplace."
 
-#, fuzzy
 msgid "Style"
-msgstr "Стили"
+msgstr "Стиль"
 
 msgid "Styles"
 msgstr "Стили"
@@ -527,13 +510,13 @@ msgid "Submissions"
 msgstr "Материалы"
 
 msgid "Subscribe to featured releases newsletter"
-msgstr "Подписаться на рассылку признакам релизы"
+msgstr "Подписаться на рассылку о поступлении новых релизов"
 
 msgid "Support Request"
 msgstr "Запрос поддержки"
 
 msgid "Techno"
-msgstr "Техно"
+msgstr "Techno"
 
 msgid "Terms of Service"
 msgstr "Условия предоставления услуг"
@@ -542,26 +525,25 @@ msgid "The Best Way to Sell Music"
 msgstr "Лучший способ продавать музыку"
 
 msgid "The info is already here."
-msgstr "Информация уже здесь."
+msgstr "Вся информация уже есть здесь."
 
 msgid "This label does not exist in Discogs."
-msgstr "Эта метка не существует в Discogs."
+msgstr "Лейбл не найден в базе Discogs"
 
 msgid "This label has no approved releases"
-msgstr "Эта метка не имеет утвержденного релизы"
+msgstr "Для этого лейбла нет одобренных релизов"
 
 msgid "Total"
-msgstr "Общий"
+msgstr "Всего"
 
 msgid "Track"
 msgstr "Трек"
 
-#, fuzzy
 msgid "Tracklist"
-msgstr "треков"
+msgstr "Треклист"
 
 msgid "Trance"
-msgstr "Транс"
+msgstr "Trance"
 
 msgid "Videos"
 msgstr "Видео"
@@ -576,22 +558,22 @@ msgid "Vinyl"
 msgstr "Винил"
 
 msgid "Wantlist"
-msgstr "Wantlist"
+msgstr "Список Желаний"
 
 msgid "Watch how it's done"
-msgstr "Наблюдать, как это делается"
+msgstr "Как это работает:"
 
 msgid "Year"
 msgstr "Год"
 
 msgid "You only pay a 6 - 8&#37; fee when your items sell."
-msgstr "Вы платите только 6 - 8&#37; от суммы перевода, когда ваши пункты продажи."
+msgstr "Вы платите всего 6 - 8&#37; в случае продажи товара"
 
 msgid "Your cart is empty"
 msgstr "Ваша корзина пуста"
 
 msgid "Your search returned no results. Please try a different query."
-msgstr "Ваш поиск не дал результатов. Пожалуйста, попробуйте другой запрос."
+msgstr "Поиск не дал результатов. Попробуйте изменить запрос."
 
 msgid "available in digital format"
 msgstr "доступны в цифровом формате"
@@ -622,57 +604,57 @@ msgstr "в MP3/WAV"
 
 msgid "item"
 msgid_plural "items"
-msgstr[0] "пункт"
-msgstr[1] "пунктов"
-msgstr[2] "пунктов"
+msgstr[0] "товар"
+msgstr[1] "товаров"
+msgstr[2] "товаров"
 
 msgid "lists"
-msgstr "Списки"
+msgstr "списки"
 
 msgid "more"
-msgstr "больше"
+msgstr "еще"
 
 msgid "more genres"
-msgstr "больше жанров"
+msgstr "еще жанры"
 
 msgid "music in the world's biggest and best music marketplace"
-msgstr "музыки в крупнейших и лучших на рынке музыки в мире"
+msgstr "музыку в крупнейшем и самом лучшем в мире музыкальном магазине"
 
 msgid "new and old music, connect with other music lovers"
-msgstr "новые и старые музыку, общаться с другими меломанами"
+msgstr "новую и старую музыку, общаясь с другими меломанами"
 
 msgid "one per line"
-msgstr "по одному на строку"
+msgstr "разбивка по строкам"
 
 msgid "release"
 msgstr "релиз"
 
 msgid "remove"
-msgstr "удаление"
+msgstr "удалить"
 
 msgid "results"
-msgstr "Результаты"
+msgstr "найден(о)"
 
 msgid "reviews"
 msgstr "отзывы"
 
 msgid "show more"
-msgstr "показать больше"
+msgstr "еще"
 
 msgid "showing"
-msgstr "показ"
+msgstr "отображается"
 
 msgid "sort"
-msgstr "сортировать"
+msgstr "сортировка"
 
 msgid "submission pending"
 msgid_plural "submissions pending"
-msgstr[0] "представления в ожидании"
-msgstr[1] "представленных в ожидании"
-msgstr[2] "представленных в ожидании"
+msgstr[0] "заявка в ожидании"
+msgstr[1] "заявок в ожидании"
+msgstr[2] "заявок в ожидании"
 
 msgid "to the largest and most accurate music database"
-msgstr "для крупнейших и наиболее точную музыкальную базу данных"
+msgstr "в создании наиболее крупной и точной музыкальной базы данных"
 
 msgid "track"
 msgstr "трек"
@@ -684,15 +666,11 @@ msgid "view all"
 msgstr "просмотреть все"
 
 msgid "we recommend these releases"
-msgstr "Мы рекомендуем эти релизы"
+msgstr "Рекомендуемые релизы:"
 
 msgid "website"
-msgstr "веб-сайт"
+msgstr "website"
 
 msgid ""
-"your collection and wantlist, get notified when items you want are for "
-"sale"
-msgstr ""
-"Ваша коллекция и wantlist, получает уведомление, когда элементы, которые "
-"нужно на продажу"
-
+"your collection and wantlist, get notified when items you want are for sale"
+msgstr "содежимым вашей коллекции. Получайте уведомления при поступлении в продажу альбомов, включенных в ваш список Желаний"

@@ -1,32 +1,34 @@
-# Chinese translations for Discogs.
+# Translations template for Discogs.
 # Copyright (C) 2012 Discogs
 # This file is distributed under the same license as the Discogs project.
+# Translators:
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
-# #, fuzzy
+#   <panpanniunai@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: Discogs 0.1\n"
+"Project-Id-Version: Discogs\n"
 "Report-Msgid-Bugs-To: language@discogs.com\n"
-"POT-Creation-Date: 2012-03-29 15:33-0700\n"
-"PO-Revision-Date: 2012-01-23 14:51-0800\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: zh <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"POT-Creation-Date: 2012-03-12 10:23-0700\n"
+"PO-Revision-Date: 2012-05-06 04:39+0000\n"
+"Last-Translator: panpanniunai <panpanniunai@gmail.com>\n"
+"Language-Team: Chinese (http://www.transifex.net/projects/p/discogs/language/zh/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 
 msgid "About Us"
 msgstr "关于我们"
 
 msgid "Add Release"
-msgstr "新增发行"
+msgstr "添加唱片条目"
 
 msgid ""
-"Add stuff to your wantlist and we'll let you know when someone is selling"
-" it."
-msgstr "添加的东西你wantlist，我们会让你知道，当有人出售。"
+"Add stuff to your wantlist and we'll let you know when someone is selling "
+"it."
+msgstr "添加它到心愿单，当有人出售时我们会通知你。"
 
 msgid "Add to Cart"
 msgstr "加入购物车"
@@ -35,7 +37,7 @@ msgid "Add to List"
 msgstr "添加到列表"
 
 msgid "All Genres"
-msgstr "所有类型"
+msgstr "所有曲风"
 
 msgid "Alternates"
 msgstr "候补"
@@ -44,10 +46,10 @@ msgid "Artists"
 msgstr "艺术家"
 
 msgid "Barcode and Other Identifiers"
-msgstr "条形码和其它标识符"
+msgstr "条形码和其它标识"
 
 msgid "Based on the items in your Shopping Cart from seller"
-msgstr "根据您的购物车的物品从卖方"
+msgstr "根据您购物车中来自卖家的商品"
 
 msgid "Bestselling"
 msgstr "畅销"
@@ -59,13 +61,13 @@ msgid "Billing"
 msgstr "帐单"
 
 msgid "Browse by Genre"
-msgstr "按类别浏览"
+msgstr "按风格浏览"
 
 msgid "Buy"
 msgstr "购买"
 
 msgid "Buy Vinyl Records, CDs and More"
-msgstr "购买唱片，CD和"
+msgstr "购买黑胶/CD等"
 
 msgid "CD"
 msgstr "CD"
@@ -74,7 +76,7 @@ msgid "Cassette"
 msgstr "盒式"
 
 msgid "Change all formats to"
-msgstr "将所有格式"
+msgstr "把所有格式改成"
 
 msgid "Checkout"
 msgstr "结帐"
@@ -89,16 +91,16 @@ msgid "Companies etc"
 msgstr "公司等"
 
 msgid "Contact"
-msgstr "联系"
+msgstr "联系我们"
 
 msgid "Continue Shopping"
 msgstr "继续购物"
 
 msgid "Contribute"
-msgstr "作出贡献"
+msgstr "为我们出力"
 
 msgid "Contributor List"
-msgstr "参与者名单"
+msgstr "贡献者名单"
 
 msgid "Copyright"
 msgstr "版权所有"
@@ -106,12 +108,11 @@ msgstr "版权所有"
 msgid "Country"
 msgstr "国家"
 
-#, fuzzy
 msgid "Credits"
-msgstr "编辑"
+msgstr "制作人员名单"
 
 msgid "Dancehall"
-msgstr "舞厅"
+msgstr "Dancehall"
 
 msgid "Decade"
 msgstr "十年"
@@ -126,21 +127,21 @@ msgid "Disco"
 msgstr "迪斯科"
 
 msgid "Discography"
-msgstr "唱片"
+msgstr "音乐一览"
 
 msgid ""
 "Discogs is the safe and easy way to buy and <a "
 "href=\"/marketplace\">sell</a> music."
-msgstr "Discogs是安全和方便的方式购买和<a href=\"/marketplace\">出售</a>音乐。"
+msgstr "Discogs能让你安全、方便地购买和<a href=\"/marketplace\">出售</a>音乐。"
 
 msgid "Discogs users are auto-notified when items they want are listed."
-msgstr "Discogs用户自动列出他们想要的物品时通知。"
+msgstr "Discogs用户想要的商品上架后，通知会自动发送给他们。"
 
 msgid "Discover"
 msgstr "探索"
 
 msgid "Do less work"
-msgstr "少做工作"
+msgstr "不费力"
 
 msgid "Drafts"
 msgstr "草稿"
@@ -161,7 +162,7 @@ msgid "Filter results by"
 msgstr "过滤结果"
 
 msgid "Follow&nbsp;Us"
-msgstr "跟随我们"
+msgstr "关注我们"
 
 msgid "For sellers that need to list their items in bulk"
 msgstr "卖家需要散装的项目列表"
@@ -179,25 +180,25 @@ msgid "Forums"
 msgstr "论坛"
 
 msgid "Friends"
-msgstr "朋友"
+msgstr "好友"
 
 msgid "Funk / Soul"
 msgstr "放克/灵魂"
 
 msgid "Genre"
-msgstr "类型"
+msgstr "曲风"
 
 msgid "Genres"
-msgstr "类型"
+msgstr "曲风"
 
 msgid "Get Started"
-msgstr "入门"
+msgstr "开始上手"
 
 msgid "Get Started Selling Now"
-msgstr "开始销售现在"
+msgstr "开始卖宝贝"
 
 msgid "Getting Started"
-msgstr "入门"
+msgstr "开始上手"
 
 msgid "Help"
 msgstr "帮助"
@@ -206,58 +207,59 @@ msgid "Help Forums"
 msgstr "帮助论坛"
 
 msgid "Help on search"
-msgstr "在搜索的帮助"
+msgstr "搜索帮助"
 
 msgid "Help&nbsp;Is&nbsp;Here"
 msgstr "在此获得帮助"
 
 msgid "Hip Hop"
-msgstr "嘻哈"
+msgstr "Hip Hop"
 
 msgid "House"
-msgstr "楼"
+msgstr "House"
 
 msgid "If you would like us to add your testimonial, please contact"
-msgstr "如果您想我们添加您的推荐，请联系"
+msgstr "如果您想让我们添加自己的推荐词，请联系"
 
 msgid "Indie Rock"
 msgstr "独立摇滚"
 
 msgid "Initial listings and all updates are handled with bulk uploads"
-msgstr "首次上市及所有更新处理批量上传"
+msgstr "首次设定的商品列表及所有更新支持批量处理"
 
 msgid "Initial listings are one-by-one, but can be updated in bulk"
-msgstr "首次上市是一个由一，但可以批量更新"
+msgstr "首次的商品列表需逐一设定，但可以批量更新"
 
 msgid "Item"
-msgstr "项目"
+msgstr "商品"
 
 msgid "Items I Want"
-msgstr "我想要的物品"
+msgstr "我想要的"
 
 msgid "Items Ship From"
-msgstr "项目船从"
+msgstr "商品始发地"
 
-msgid "Items are displayed in search results based on artist, title and format"
-msgstr "项显示在艺术家，标题和格式的搜索结果"
+msgid ""
+"Items are displayed in search results based on artist, title and format"
+msgstr "商品搜索结果依据艺术家、标题和格式显示"
 
 msgid "Items are displayed under the exact release you list them"
-msgstr "项目会显示在你一一列举确切的释放"
+msgstr "商品将根据你所设定的实际发行情况进行显示"
 
 msgid "Jazz"
 msgstr "爵士乐"
 
 msgid "Jobs"
-msgstr "乔布斯"
+msgstr "工作机会"
 
 msgid "Join&nbsp;In"
-msgstr "加盟"
+msgstr "加入我们"
 
 msgid "Jump To"
 msgstr "跳转至"
 
 msgid "Label"
-msgstr "标签"
+msgstr "唱片公司"
 
 msgid "Labels"
 msgstr "标签"
@@ -269,16 +271,16 @@ msgid "Learn more"
 msgstr "了解更多"
 
 msgid "Listing Options"
-msgstr "清单选项"
+msgstr "选项列表"
 
 msgid "Listing items for sale on Discogs is <strong>always free</strong>."
-msgstr "Discogs上出售的上市项目<strong>一直</strong>是<strong>免费</strong>的。"
+msgstr "在Discogs上出售商品<strong>绝不收手续费！</strong>。"
 
 msgid "Lists"
 msgstr "列表"
 
 msgid "Logout"
-msgstr "登出"
+msgstr "退出"
 
 msgid "MP3 &amp; WAV"
 msgstr "MP3和WAV"
@@ -302,45 +304,45 @@ msgid "Marketplace Support"
 msgstr "市场支持"
 
 msgid "Mobile"
-msgstr "移动"
+msgstr "手机版页面"
 
 msgid "More From"
 msgstr "更多来自"
 
 msgid "More formats"
-msgstr "更多的格式"
+msgstr "更多格式"
 
 msgid "More genres"
-msgstr "更多类型"
+msgstr "更多曲风"
 
 msgid "More styles"
 msgstr "更多样式"
 
 msgid ""
-"More than <strong>4 million people</strong> look for music on Discogs "
-"every month."
-msgstr "<strong>超过</strong> 400万<strong>的</strong>人寻找音乐上的Discogs每一个月。"
+"More than <strong>4 million people</strong> look for music on Discogs every "
+"month."
+msgstr "每月有<strong>超过</strong> 400万<strong>的</strong>人在Discogs上“淘”音乐。"
 
 msgid "My Groups"
 msgstr "我的群组"
 
 msgid "My Items For Sale"
-msgstr "出售我的项目"
+msgstr "我出售的商品"
 
 msgid "My Orders"
 msgstr "我的订单"
 
 msgid "My Purchases"
-msgstr "我的购买"
+msgstr "我购买的"
 
 msgid "Needs Changes"
-msgstr "需求的变化"
+msgstr "需求变化"
 
 msgid "Needs Vote"
-msgstr "需要投票"
+msgstr "需求投票"
 
 msgid "New Releases"
-msgstr "新发布"
+msgstr "新发行"
 
 msgid "New Seller"
 msgstr "新卖家"
@@ -349,16 +351,16 @@ msgid "New Styles"
 msgstr "新风格"
 
 msgid "New Wave"
-msgstr "新浪潮"
+msgstr "New Wave"
 
 msgid "No need to type up detailed item descriptions."
-msgstr "无需输入详细的项目说明。"
+msgstr "无需详细描述商品。"
 
 msgid "No orders"
 msgstr "没有订单"
 
 msgid "Notes"
-msgstr "笔记"
+msgstr "备注"
 
 msgid "OR"
 msgstr "或"
@@ -367,31 +369,31 @@ msgid "Official Blog"
 msgstr "官方博客"
 
 msgid "Only 6&#37; in fees incur when your items sell"
-msgstr "只有6％的费用产生当您的物品出售"
+msgstr "当您的物品出售，只需承担6％的费用"
 
 msgid "Only 8&#37; in fees incur when your items sell"
-msgstr "只有8％的费用产生当您的物品出售"
+msgstr "当您的物品出售，只需承担8％的费用"
 
 msgid "Order Number"
 msgstr "订单号"
 
 msgid "Other&nbsp;Stuff"
-msgstr "其他的东西"
+msgstr "其他东西"
 
 msgid "Payment Methods"
 msgstr "付款方式"
 
 msgid "Pop"
-msgstr "流行"
+msgstr "Pop"
 
 msgid "Popular Formats"
-msgstr "流行的格式"
+msgstr "流行格式"
 
 msgid "Price"
 msgstr "价格"
 
 msgid "Privacy Policy"
-msgstr "隐私权政策"
+msgstr "隐私政策"
 
 msgid "Product Search"
 msgstr "产品搜索"
@@ -409,44 +411,43 @@ msgid "Reach more buyers"
 msgstr "接触更多的买家"
 
 msgid "Read what other Discogs sellers have to say"
-msgstr "读什么其他Discogs的卖家不得不说"
+msgstr "看看其他Discogs卖家想说的话"
 
 msgid "Recent Group Activity"
 msgstr "最近的小组活动"
 
 msgid "Recent Marketplace Sales"
-msgstr "最近的市场销售。"
+msgstr "最近的市场销售"
 
 msgid "Recommendations"
-msgstr "建议"
+msgstr "推荐"
 
 msgid "Recommendations For You"
-msgstr "您的建议"
+msgstr "给您的推荐"
 
 msgid "Reggae"
 msgstr "雷鬼"
 
-#, fuzzy
 msgid "Released"
-msgstr "发布"
+msgstr "发行日期"
 
 msgid "Releases"
-msgstr "发布"
+msgstr "发行的音乐"
 
 msgid "Reviews"
 msgstr "评论"
 
 msgid "Rock"
-msgstr "岩"
+msgstr "Rock"
 
 msgid "Sales History"
 msgstr "销售记录"
 
 msgid "Saved Group Topics"
-msgstr "组保存的主题"
+msgstr "保存的小组主题"
 
 msgid "Search for variations of"
-msgstr "搜寻的变化"
+msgstr "以...的变化搜索"
 
 msgid "Search results"
 msgstr "搜索结果"
@@ -455,10 +456,10 @@ msgid "Sell"
 msgstr "卖"
 
 msgid "Selling here gets you instant exposure to our high traffic."
-msgstr "销售在这里可以让你即时接触到我们的高流量。"
+msgstr "在这里销售可以让你即时接触到我们的高流量。"
 
 msgid "Selling vinyl records and CDs has never been easier."
-msgstr "销售的黑胶唱片和CD从未如此简单。"
+msgstr "销售黑胶和CD从未如此简单。"
 
 msgid "Settings"
 msgstr "设置"
@@ -467,7 +468,7 @@ msgid "Shipping Policies"
 msgstr "航运政策"
 
 msgid "Shop"
-msgstr "铺"
+msgstr "官方小店"
 
 msgid "Shopping Cart"
 msgstr "购物车"
@@ -482,7 +483,7 @@ msgid "Sign Up"
 msgstr "注册"
 
 msgid "Sorry, no downloads could be found."
-msgstr "对不起，没有下载可以找到。"
+msgstr "抱歉，没有可以下载的项目。"
 
 msgid "Sort By"
 msgstr "排序方式"
@@ -497,9 +498,8 @@ msgid "Start Shopping"
 msgstr "开始购物"
 
 msgid "Start getting recommendations by making a purchase in the marketplace."
-msgstr "开始通过在市场上购买的建议。"
+msgstr "通过在市场消费开始得到推荐。"
 
-#, fuzzy
 msgid "Style"
 msgstr "样式"
 
@@ -507,16 +507,16 @@ msgid "Styles"
 msgstr "样式"
 
 msgid "Submissions"
-msgstr "意见书"
+msgstr "条目"
 
 msgid "Subscribe to featured releases newsletter"
-msgstr "订阅功能释放简讯"
+msgstr "订阅特定的发行讯息"
 
 msgid "Support Request"
 msgstr "支持请求"
 
 msgid "Techno"
-msgstr "TECHNO"
+msgstr "Techno"
 
 msgid "Terms of Service"
 msgstr "服务条款"
@@ -528,23 +528,22 @@ msgid "The info is already here."
 msgstr "信息已经在这里。"
 
 msgid "This label does not exist in Discogs."
-msgstr "在Discogs此标签不存在。"
+msgstr "不存在此唱片公司条目。"
 
 msgid "This label has no approved releases"
-msgstr "这个标签没有批准发行"
+msgstr "此唱片公司没有任何发行项目。"
 
 msgid "Total"
-msgstr "共有"
+msgstr "总共"
 
 msgid "Track"
-msgstr "追踪"
+msgstr "曲目"
 
-#, fuzzy
 msgid "Tracklist"
-msgstr "轨道"
+msgstr "曲目列表"
 
 msgid "Trance"
-msgstr "发呆"
+msgstr "Trance"
 
 msgid "Videos"
 msgstr "视频"
@@ -553,31 +552,31 @@ msgid "View Cart"
 msgstr "查看购物车"
 
 msgid "View all genres"
-msgstr "所有类型"
+msgstr "浏览所有曲风"
 
 msgid "Vinyl"
-msgstr "乙烯"
+msgstr "黑胶"
 
 msgid "Wantlist"
-msgstr "Wantlist"
+msgstr "心愿单"
 
 msgid "Watch how it's done"
-msgstr "手表它是如何做"
+msgstr "看看它是如何被搞定的"
 
 msgid "Year"
 msgstr "年"
 
 msgid "You only pay a 6 - 8&#37; fee when your items sell."
-msgstr "您只需支付6 - 8％的费用，当您的项目出售。"
+msgstr "当您的商品出售，您只需支付6 - 8％的费用。"
 
 msgid "Your cart is empty"
-msgstr "你的车是空的的"
+msgstr "你的购物车是空的"
 
 msgid "Your search returned no results. Please try a different query."
-msgstr "您的搜索返回任何结果。请尝试一个不同的查询。"
+msgstr "您的搜索没有任何结果。请尝试不同关键字。"
 
 msgid "available in digital format"
-msgstr "可在数字格式"
+msgstr "存在数字格式"
 
 msgid "browse all"
 msgstr "浏览所有"
@@ -589,10 +588,10 @@ msgid "for sale"
 msgstr "出售"
 
 msgid "from my"
-msgstr "从我"
+msgstr "来自我的"
 
 msgid "genres"
-msgstr "体裁"
+msgstr "流派"
 
 msgid "history"
 msgstr "历史"
@@ -605,8 +604,7 @@ msgstr "在MP3/WAV"
 
 msgid "item"
 msgid_plural "items"
-msgstr[0] "项目"
-msgstr[1] "项目"
+msgstr[0] "商品"
 
 msgid "lists"
 msgstr "列表"
@@ -615,13 +613,13 @@ msgid "more"
 msgstr "更多"
 
 msgid "more genres"
-msgstr "更多的流派"
+msgstr "更多流派"
 
 msgid "music in the world's biggest and best music marketplace"
-msgstr "音乐在世界上最大和最好的音乐市场"
+msgstr "世界上最棒大卖场的音乐"
 
 msgid "new and old music, connect with other music lovers"
-msgstr "新老音乐，与其他音乐爱好者连接"
+msgstr "新旧音乐，与其他音乐爱好者相连接"
 
 msgid "one per line"
 msgstr "每行一个"
@@ -630,7 +628,7 @@ msgid "release"
 msgstr "发布"
 
 msgid "remove"
-msgstr "删除"
+msgstr "移除"
 
 msgid "results"
 msgstr "结果"
@@ -649,11 +647,10 @@ msgstr "排序"
 
 msgid "submission pending"
 msgid_plural "submissions pending"
-msgstr[0] "提交待"
-msgstr[1] "意见书待"
+msgstr[0] "待处理的条目"
 
 msgid "to the largest and most accurate music database"
-msgstr "到的最大和最准确的的音乐资料库"
+msgstr "打造最完善的音乐资料库"
 
 msgid "track"
 msgstr "追踪"
@@ -665,13 +662,11 @@ msgid "view all"
 msgstr "查看全部"
 
 msgid "we recommend these releases"
-msgstr "我们建议这些版本"
+msgstr "我们推荐以下唱片"
 
 msgid "website"
 msgstr "网站"
 
 msgid ""
-"your collection and wantlist, get notified when items you want are for "
-"sale"
-msgstr "您的收集和wantlist，你想要的物品出售时获得通知"
-
+"your collection and wantlist, get notified when items you want are for sale"
+msgstr "您的收藏和心愿单，当心愿单中的商品上架时你将获得通知"
