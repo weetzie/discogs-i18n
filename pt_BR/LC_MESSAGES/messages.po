@@ -1,21 +1,24 @@
-# Portuguese (Brazil) translations for Discogs.
+# Translations template for Discogs.
 # Copyright (C) 2012 Discogs
 # This file is distributed under the same license as the Discogs project.
+# Translators:
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
-# #, fuzzy
+#   <igorruckert@yahoo.com.br>, 2012.
+#   <marcelo.rwcorrea@hotmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: Discogs 0.1\n"
+"Project-Id-Version: Discogs\n"
 "Report-Msgid-Bugs-To: language@discogs.com\n"
-"POT-Creation-Date: 2012-03-29 15:33-0700\n"
-"PO-Revision-Date: 2012-01-23 14:51-0800\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: pt_BR <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"POT-Creation-Date: 2012-03-12 10:23-0700\n"
+"PO-Revision-Date: 2012-07-02 16:56+0000\n"
+"Last-Translator: Soturno <marcelo.rwcorrea@hotmail.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/discogs/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
 
 msgid "About Us"
 msgstr "Quem Somos"
@@ -24,11 +27,9 @@ msgid "Add Release"
 msgstr "Adicionar Lançamento"
 
 msgid ""
-"Add stuff to your wantlist and we'll let you know when someone is selling"
-" it."
-msgstr ""
-"Adicionar novidades à sua wantlist e vamos deixá-lo saber quando alguém "
-"está vendendo."
+"Add stuff to your wantlist and we'll let you know when someone is selling "
+"it."
+msgstr "Adicionar novidades à sua wantlist e vamos deixá-lo saber quando alguém está vendendo."
 
 msgid "Add to Cart"
 msgstr "Adicionar ao carrinho"
@@ -88,7 +89,7 @@ msgid "Collection"
 msgstr "Coleção"
 
 msgid "Companies etc"
-msgstr "Etc Empresas"
+msgstr "Companias etc"
 
 msgid "Contact"
 msgstr "Contato"
@@ -108,9 +109,8 @@ msgstr "Direitos autorais"
 msgid "Country"
 msgstr "País"
 
-#, fuzzy
 msgid "Credits"
-msgstr "editar"
+msgstr "Créditos"
 
 msgid "Dancehall"
 msgstr "Dancehall"
@@ -133,20 +133,16 @@ msgstr "Discografia"
 msgid ""
 "Discogs is the safe and easy way to buy and <a "
 "href=\"/marketplace\">sell</a> music."
-msgstr ""
-"Discogs é a maneira fácil e segura de comprar e <a "
-"href=\"/marketplace\">vender</a> música."
+msgstr "Discogs é a maneira fácil e segura de comprar e <a href=\"/marketplace\">vender</a> música."
 
 msgid "Discogs users are auto-notified when items they want are listed."
-msgstr ""
-"Discogs usuários são notificados automaticamente quando os itens que eles"
-" querem são listados."
+msgstr "Usuários do Discogs são notificados automaticamente quando os itens que eles querem são listados."
 
 msgid "Discover"
 msgstr "Descobrir"
 
 msgid "Do less work"
-msgstr "Fazer menos trabalho"
+msgstr "Faça menos trabalho"
 
 msgid "Drafts"
 msgstr "Rascunhos"
@@ -221,7 +217,7 @@ msgid "Hip Hop"
 msgstr "Hip Hop"
 
 msgid "House"
-msgstr "Casa"
+msgstr "House"
 
 msgid "If you would like us to add your testimonial, please contact"
 msgstr "Se você gostaria de nos adicionar o seu testemunho, entre em contato"
@@ -230,9 +226,7 @@ msgid "Indie Rock"
 msgstr "Indie Rock"
 
 msgid "Initial listings and all updates are handled with bulk uploads"
-msgstr ""
-"Listagens inicial e todas as atualizações são tratadas com uploads em "
-"massa"
+msgstr "Listagens inicial e todas as atualizações são tratadas com uploads em massa"
 
 msgid "Initial listings are one-by-one, but can be updated in bulk"
 msgstr "Listagens iniciais são um por um, mas pode ser atualizado a granel"
@@ -241,15 +235,14 @@ msgid "Item"
 msgstr "Item"
 
 msgid "Items I Want"
-msgstr "Incisos I Wanna"
+msgstr "Itens Que Eu Quero"
 
 msgid "Items Ship From"
-msgstr "Navio De itens"
+msgstr "Itens Enviados De"
 
-msgid "Items are displayed in search results based on artist, title and format"
-msgstr ""
-"Itens são exibidos nos resultados de busca com base no título, artista e "
-"formato"
+msgid ""
+"Items are displayed in search results based on artist, title and format"
+msgstr "Itens são exibidos nos resultados de busca com base no título, artista e formato"
 
 msgid "Items are displayed under the exact release you list them"
 msgstr "Os itens são apresentados sob o release exato que você incluí-los"
@@ -258,10 +251,10 @@ msgid "Jazz"
 msgstr "Jazz"
 
 msgid "Jobs"
-msgstr "Jobs"
+msgstr "Trabalhos"
 
 msgid "Join&nbsp;In"
-msgstr "Junte-se na"
+msgstr "Junte-se"
 
 msgid "Jump To"
 msgstr "Ir Para"
@@ -273,7 +266,7 @@ msgid "Labels"
 msgstr "Selos"
 
 msgid "Languages"
-msgstr "Línguas"
+msgstr "Linguagens"
 
 msgid "Learn more"
 msgstr "Saiba mais"
@@ -300,7 +293,7 @@ msgid "MP3/WAV"
 msgstr "MP3/WAV"
 
 msgid "Make more money"
-msgstr "Ganhar mais dinheiro"
+msgstr "Ganhe mais dinheiro"
 
 msgid "Manage Inventory"
 msgstr "Gerenciar estoques"
@@ -318,26 +311,24 @@ msgid "More From"
 msgstr "Mais de"
 
 msgid "More formats"
-msgstr "Formatos mais"
+msgstr "Mais formatos"
 
 msgid "More genres"
-msgstr "Gêneros mais"
+msgstr "Mais gêneros"
 
 msgid "More styles"
 msgstr "Mais estilos"
 
 msgid ""
-"More than <strong>4 million people</strong> look for music on Discogs "
-"every month."
-msgstr ""
-"Mais de <strong>4 milhões</strong> de <strong>pessoas olham</strong> para"
-" a música no Discogs cada mês."
+"More than <strong>4 million people</strong> look for music on Discogs every "
+"month."
+msgstr "Mais de <strong>4 millhões de pessoas</strong> procuram por música no Discogs cada mês."
 
 msgid "My Groups"
 msgstr "Meus Grupos"
 
 msgid "My Items For Sale"
-msgstr "Meus Itens Venda"
+msgstr "Meus Itens À Venda"
 
 msgid "My Orders"
 msgstr "Meus Pedidos"
@@ -346,16 +337,16 @@ msgid "My Purchases"
 msgstr "Minhas compras"
 
 msgid "Needs Changes"
-msgstr "Alterações necessidades"
+msgstr "Precisa de Alterações"
 
 msgid "Needs Vote"
-msgstr "Vote necessidades"
+msgstr "Precisa de Votos"
 
 msgid "New Releases"
-msgstr "Lançamentos"
+msgstr "Novos Lançamentos"
 
 msgid "New Seller"
-msgstr "Vendedor nova"
+msgstr "Novo vendedor"
 
 msgid "New Styles"
 msgstr "Novos Estilos"
@@ -421,7 +412,7 @@ msgid "Reach more buyers"
 msgstr "Atingir mais compradores"
 
 msgid "Read what other Discogs sellers have to say"
-msgstr "Leia o que outros vendedores Discogs têm a dizer"
+msgstr "Leia o que outros vendedores do Discogs têm a dizer"
 
 msgid "Recent Group Activity"
 msgstr "Atividade Grupo recentes"
@@ -438,18 +429,17 @@ msgstr "Recomendações para você"
 msgid "Reggae"
 msgstr "Reggae"
 
-#, fuzzy
 msgid "Released"
-msgstr "lançamento"
+msgstr "Lançamento"
 
 msgid "Releases"
-msgstr "Releases"
+msgstr "Lançamentos"
 
 msgid "Reviews"
 msgstr "Comentários"
 
 msgid "Rock"
-msgstr "Rocha"
+msgstr "Rock"
 
 msgid "Sales History"
 msgstr "História vendas"
@@ -511,12 +501,11 @@ msgstr "Start Shopping"
 msgid "Start getting recommendations by making a purchase in the marketplace."
 msgstr "Comece a receber recomendações de fazer uma compra no mercado."
 
-#, fuzzy
 msgid "Style"
 msgstr "Estilo"
 
 msgid "Styles"
-msgstr "Estilo"
+msgstr "Estilos"
 
 msgid "Submissions"
 msgstr "Submissões"
@@ -549,14 +538,13 @@ msgid "Total"
 msgstr "Total"
 
 msgid "Track"
-msgstr "Caminho"
+msgstr "Faixa"
 
-#, fuzzy
 msgid "Tracklist"
-msgstr "faixas"
+msgstr "Lista de músicas"
 
 msgid "Trance"
-msgstr "Transe"
+msgstr "Trance"
 
 msgid "Videos"
 msgstr "Vídeos"
@@ -571,7 +559,7 @@ msgid "Vinyl"
 msgstr "Vinil"
 
 msgid "Wantlist"
-msgstr "Wantlist"
+msgstr "Lista de desejos"
 
 msgid "Watch how it's done"
 msgstr "Assistir como é feito"
@@ -586,9 +574,7 @@ msgid "Your cart is empty"
 msgstr "Seu carrinho está vazio"
 
 msgid "Your search returned no results. Please try a different query."
-msgstr ""
-"Sua busca não retornou resultados. Por favor, tente uma consulta "
-"diferente."
+msgstr "Sua busca não retornou resultados. Por favor tente uma consulta diferente."
 
 msgid "available in digital format"
 msgstr "disponíveis em formato digital"
@@ -629,10 +615,10 @@ msgid "more"
 msgstr "mais"
 
 msgid "more genres"
-msgstr "gêneros mais"
+msgstr "mais gêneros"
 
 msgid "music in the world's biggest and best music marketplace"
-msgstr "música no mercado de música do mundo maior e melhor"
+msgstr "música no maior e melhor mercado de música do mundo"
 
 msgid "new and old music, connect with other music lovers"
 msgstr "músicas novas e antigas, se conectar com outros amantes de música"
@@ -664,13 +650,13 @@ msgstr "espécie"
 msgid "submission pending"
 msgid_plural "submissions pending"
 msgstr[0] "submissão pendente"
-msgstr[1] "envios pendentes"
+msgstr[1] "submissões pendentes"
 
 msgid "to the largest and most accurate music database"
 msgstr "ao banco de dados de música maior e mais preciso"
 
 msgid "track"
-msgstr "caminho"
+msgstr "faixa"
 
 msgid "tracks"
 msgstr "faixas"
@@ -685,9 +671,5 @@ msgid "website"
 msgstr "site"
 
 msgid ""
-"your collection and wantlist, get notified when items you want are for "
-"sale"
-msgstr ""
-"sua coleção e wantlist, ser notificado quando itens que você deseja estão"
-" à venda"
-
+"your collection and wantlist, get notified when items you want are for sale"
+msgstr "sua coleção e lista de desejos, seja notificado quando itens que você deseja estão à venda"
