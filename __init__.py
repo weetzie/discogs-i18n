@@ -100,7 +100,7 @@ def _get_locales_from_ip(request):
     """
     Return supported locales based on country code from ip country lookup.
     """
-    from dbobjects import IP_Country
+    from models.country import IP_Country
     # country_to_locales_map and supported_locales defined at bottom of this module
     country_code = IP_Country.lookup(request.remote_addr)[0].strip().lower()
     if country_to_locales_map.has_key(country_code):
