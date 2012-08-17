@@ -8,10 +8,13 @@ import babel
 import babel.support
 import babel.localedata
 
+import locals as _locals
+
 
 __all__ = ["get_locales", "get_language", "get_translations",
     "supported_locales", "supported_languages",]
 
+i18n_root = os.path.join(_locals.docroot, 'i18n')
 
 # public functions
 def get_locales(request):
@@ -51,7 +54,7 @@ def get_translations(locales=['en'], domain='messages'):
     """
     Return translations for given locale and domain.
     """
-    return babel.support.Translations.load(dirname='i18n', locales=locales, domain=domain)
+    return babel.support.Translations.load(dirname=i18n_root, locales=locales, domain=domain)
 
 
 # private functions
@@ -113,7 +116,7 @@ def __supported_locales():
     """
     Return a list of supported locales based on existing directories.
     """
-    l = [d for d in os.listdir('i18n') if os.path.isdir(os.path.join('i18n', d)) and not d.startswith('.')]
+    l = [d for d in os.listdir(i18n_root) if os.path.isdir(os.path.join(i18n_root, d)) and not d.startswith('.')]
     l.sort()
     return l
 
