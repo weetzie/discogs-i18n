@@ -8,13 +8,13 @@ import babel
 import babel.support
 import babel.localedata
 
-import locals as _locals
+import config
 
 
 __all__ = ["get_locales", "get_language", "get_translations",
     "supported_locales", "supported_languages",]
 
-i18n_root = os.path.join(_locals.docroot, 'i18n')
+i18n_root = os.path.join(config.docroot, 'i18n')
 
 # public functions
 def get_locales(request):
