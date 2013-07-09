@@ -1,0 +1,671 @@
+# Translations template for Discogs.
+# Copyright (C) 2012 Discogs
+# This file is distributed under the same license as the Discogs project.
+# Translators:
+#   <sodometal@hotmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Discogs\n"
+"Report-Msgid-Bugs-To: language@discogs.com\n"
+"POT-Creation-Date: 2012-03-12 10:23-0700\n"
+"PO-Revision-Date: 2012-03-19 08:28+0000\n"
+"Last-Translator: sodometal <sodometal@hotmail.com>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.net/projects/p/discogs/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "About Us"
+msgstr "Hakkımızda"
+
+msgid "Add Release"
+msgstr "Albüm Ekle"
+
+msgid ""
+"Add stuff to your wantlist and we'll let you know when someone is selling "
+"it."
+msgstr "İstek listenize ekleyin, biri sattığı zaman size haber verelim."
+
+msgid "Add to Cart"
+msgstr "Sepete Ekle"
+
+msgid "Add to List"
+msgstr "Listeye Ekle"
+
+msgid "All Genres"
+msgstr "Tüm Türler"
+
+msgid "Alternates"
+msgstr "Alternatifler"
+
+msgid "Artists"
+msgstr "Sanatçılar"
+
+msgid "Barcode and Other Identifiers"
+msgstr "Barkod ve Diğer Tanımlayıcılar"
+
+msgid "Based on the items in your Shopping Cart from seller"
+msgstr "Satıcının sepetinizde bulunan ürünlerine dayanarak"
+
+msgid "Bestselling"
+msgstr "En çok satan"
+
+msgid "Bestselling MP3/WAV"
+msgstr "En çok satan MP3/WAV"
+
+msgid "Billing"
+msgstr "Faturalandırma"
+
+msgid "Browse by Genre"
+msgstr "Türe göre tara"
+
+msgid "Buy"
+msgstr "Satın Al"
+
+msgid "Buy Vinyl Records, CDs and More"
+msgstr "Plak, CD ve daha fazlasını satın al"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "Cassette"
+msgstr "Kaset"
+
+msgid "Change all formats to"
+msgstr "Tüm biçimleri dönüştür"
+
+msgid "Checkout"
+msgstr "Öde"
+
+msgid "Classical"
+msgstr "Klasik"
+
+msgid "Collection"
+msgstr "Koleksiyon"
+
+msgid "Companies etc"
+msgstr "Şirketler vs."
+
+msgid "Contact"
+msgstr "İletişim"
+
+msgid "Continue Shopping"
+msgstr "Alışverişe Devam Et"
+
+msgid "Contribute"
+msgstr "Katkıda Bulun"
+
+msgid "Contributor List"
+msgstr "Katkıda Bulunanlar"
+
+msgid "Copyright"
+msgstr "Telif Hakkı"
+
+msgid "Country"
+msgstr "Ülke"
+
+msgid "Credits"
+msgstr "Teşekkürler"
+
+msgid "Dancehall"
+msgstr "Dans Salonu"
+
+msgid "Decade"
+msgstr "On Yıl"
+
+msgid "Developers&nbsp;API"
+msgstr "Geliştiriciler & API"
+
+msgid "Digital"
+msgstr "Dijital"
+
+msgid "Disco"
+msgstr "Disko"
+
+msgid "Discography"
+msgstr "Diskografi"
+
+msgid ""
+"Discogs is the safe and easy way to buy and <a "
+"href=\"/marketplace\">sell</a> music."
+msgstr "Discogs müzik almak ve <a href=\"/marketplace\">satmak</a> için güvenli ve kolay yoldur."
+
+msgid "Discogs users are auto-notified when items they want are listed."
+msgstr "Discogs kullanıcılarına istedikleri ürünler listelendiğinde otomatik olarak bilgi verilir."
+
+msgid "Discover"
+msgstr "Keşfet"
+
+msgid "Do less work"
+msgstr "Daha az iş yap"
+
+msgid "Drafts"
+msgstr "Taslaklar"
+
+msgid "Electronic"
+msgstr "Elektronik"
+
+msgid "Empty Cart"
+msgstr "Sepetiniz boş"
+
+msgid "Explore"
+msgstr "Araştır"
+
+msgid "Export Data"
+msgstr "Veriyi Dışa Aktar"
+
+msgid "Filter results by"
+msgstr "Sonuçları Süz"
+
+msgid "Follow&nbsp;Us"
+msgstr "Bizi Takip Edin"
+
+msgid "For sellers that need to list their items in bulk"
+msgstr "Ürünlerini toplu olarak listelemek isteyen satıcılar için"
+
+msgid "For sellers with time to list items one-by-one"
+msgstr "Ürünlerini tek tek listeyecek zamanı olan satıcılar için"
+
+msgid "Format"
+msgstr "Biçim"
+
+msgid "Formats"
+msgstr "Biçimler"
+
+msgid "Forums"
+msgstr "Forumlar"
+
+msgid "Friends"
+msgstr "Arkadaşlar"
+
+msgid "Funk / Soul"
+msgstr "Funk / Soul"
+
+msgid "Genre"
+msgstr "Tür"
+
+msgid "Genres"
+msgstr "Türler"
+
+msgid "Get Started"
+msgstr "Başla"
+
+msgid "Get Started Selling Now"
+msgstr "Satmaya Başla"
+
+msgid "Getting Started"
+msgstr "Başlangıç"
+
+msgid "Help"
+msgstr "Yardım"
+
+msgid "Help Forums"
+msgstr "Yardım Forumları"
+
+msgid "Help on search"
+msgstr "Arama yardımı"
+
+msgid "Help&nbsp;Is&nbsp;Here"
+msgstr "Yardım Burada"
+
+msgid "Hip Hop"
+msgstr "Hip Hop"
+
+msgid "House"
+msgstr "House"
+
+msgid "If you would like us to add your testimonial, please contact"
+msgstr "Onayınızı eklememizi istiyorsanız lütfen ileitşime geçin"
+
+msgid "Indie Rock"
+msgstr "Indie Rock"
+
+msgid "Initial listings and all updates are handled with bulk uploads"
+msgstr "İlk listelemeler ve tüm güncellemeler toplu yüklemelerle yapılır"
+
+msgid "Initial listings are one-by-one, but can be updated in bulk"
+msgstr "İlk listelemeler tek tek yapılır ancak toplu olarak güncellenebilir"
+
+msgid "Item"
+msgstr "Ürün"
+
+msgid "Items I Want"
+msgstr "İstediğim Ürünler"
+
+msgid "Items Ship From"
+msgstr "Ürünün gönderildiği yer"
+
+msgid ""
+"Items are displayed in search results based on artist, title and format"
+msgstr "Ürünler sanatçı, albüm ve biçime göre arama sonuçlarında gösterilmektedir"
+
+msgid "Items are displayed under the exact release you list them"
+msgstr "Ürünler listelediğiniz albümün altında gözükür"
+
+msgid "Jazz"
+msgstr "Jazz"
+
+msgid "Jobs"
+msgstr "İş"
+
+msgid "Join&nbsp;In"
+msgstr "Katıl"
+
+msgid "Jump To"
+msgstr "Git"
+
+msgid "Label"
+msgstr "Plak Şirketi"
+
+msgid "Labels"
+msgstr "Plak Şirketleri"
+
+msgid "Languages"
+msgstr "Diller"
+
+msgid "Learn more"
+msgstr "Daha fazla öğren"
+
+msgid "Listing Options"
+msgstr "Listeleme seçenekleri"
+
+msgid "Listing items for sale on Discogs is <strong>always free</strong>."
+msgstr "Discogs'ta satış listelemek <strong>her zaman ücretsiz</strong>."
+
+msgid "Lists"
+msgstr "Listeler"
+
+msgid "Logout"
+msgstr "Çıkış"
+
+msgid "MP3 &amp; WAV"
+msgstr "MP3&WAV"
+
+msgid "MP3 &amp; WAV Downloads"
+msgstr "MP3&WAV İndirmeleri"
+
+msgid "MP3/WAV"
+msgstr "MP3/WAV"
+
+msgid "Make more money"
+msgstr "Daha fazla para kazanın"
+
+msgid "Manage Inventory"
+msgstr "Dökümü düzenle"
+
+msgid "Marketplace"
+msgstr "Pazar"
+
+msgid "Marketplace Support"
+msgstr "Pazar Destek"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "More From"
+msgstr "Daha fazlası"
+
+msgid "More formats"
+msgstr "Daha fazla biçim"
+
+msgid "More genres"
+msgstr "Daha fazla tür"
+
+msgid "More styles"
+msgstr "Daha fazla stil"
+
+msgid ""
+"More than <strong>4 million people</strong> look for music on Discogs every "
+"month."
+msgstr "Her ay <strong>4 milyon</strong>dan fazla insan Discogs'ta müzik arıyor."
+
+msgid "My Groups"
+msgstr "Gruplarım"
+
+msgid "My Items For Sale"
+msgstr "Satılık Ürünlerim"
+
+msgid "My Orders"
+msgstr "Siparişlerim"
+
+msgid "My Purchases"
+msgstr "Satın Aldıklarım"
+
+msgid "Needs Changes"
+msgstr "Değişiklik Gerekiyor"
+
+msgid "Needs Vote"
+msgstr "Oylamak Gerekiyor"
+
+msgid "New Releases"
+msgstr "Yeni Albümler"
+
+msgid "New Seller"
+msgstr "Yeni Satıcı"
+
+msgid "New Styles"
+msgstr "Yeni Stiller"
+
+msgid "New Wave"
+msgstr "New Wave"
+
+msgid "No need to type up detailed item descriptions."
+msgstr "Detaylı ürün açıklaması yazmaya gerek yok"
+
+msgid "No orders"
+msgstr "Sipariş yok"
+
+msgid "Notes"
+msgstr "Notlar"
+
+msgid "OR"
+msgstr "OR"
+
+msgid "Official Blog"
+msgstr "Resmi Blog"
+
+msgid "Only 6&#37; in fees incur when your items sell"
+msgstr "satılan ürünlerinizden sadece &#376"
+
+msgid "Only 8&#37; in fees incur when your items sell"
+msgstr "satılan ürünlerinizden sadece &#378"
+
+msgid "Order Number"
+msgstr "Sipariş Numarası"
+
+msgid "Other&nbsp;Stuff"
+msgstr "Diğer Şeyler"
+
+msgid "Payment Methods"
+msgstr "Ödeme Yöntemleri"
+
+msgid "Pop"
+msgstr "Pop"
+
+msgid "Popular Formats"
+msgstr "Populer Biçimler"
+
+msgid "Price"
+msgstr "Fiyat"
+
+msgid "Privacy Policy"
+msgstr "Gizlilik Politikası"
+
+msgid "Product Search"
+msgstr "Ürün Araman"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Punk"
+msgstr "Punk"
+
+msgid "Purchase Date"
+msgstr "Satın Alma Tarihi"
+
+msgid "Reach more buyers"
+msgstr "Daha fazla alıcıya ulaşın"
+
+msgid "Read what other Discogs sellers have to say"
+msgstr "Diğer Discogs satıcılarının görüşlerini okuyun"
+
+msgid "Recent Group Activity"
+msgstr "Son grup etkinliği"
+
+msgid "Recent Marketplace Sales"
+msgstr "Son Pazar Satışları"
+
+msgid "Recommendations"
+msgstr "Tavsiyeler"
+
+msgid "Recommendations For You"
+msgstr "Size Tavsiyeler"
+
+msgid "Reggae"
+msgstr "Reggae"
+
+msgid "Released"
+msgstr "Yayım Tarihi"
+
+msgid "Releases"
+msgstr "Albümler"
+
+msgid "Reviews"
+msgstr "Yorumlar"
+
+msgid "Rock"
+msgstr "Rock"
+
+msgid "Sales History"
+msgstr "Satış Tarihçesi"
+
+msgid "Saved Group Topics"
+msgstr "Kaydedilmiş Grup Konuları"
+
+msgid "Search for variations of"
+msgstr "Varyasyonlarını ara"
+
+msgid "Search results"
+msgstr "Sonuçlarda ara"
+
+msgid "Sell"
+msgstr "Sat"
+
+msgid "Selling here gets you instant exposure to our high traffic."
+msgstr "Burada satış yapmak sizi yoğun trafiğimize dahil eder."
+
+msgid "Selling vinyl records and CDs has never been easier."
+msgstr "Plak ve CD satmak hiç bu kadar kolay olmamıştı."
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Shipping Policies"
+msgstr "Gönderi Kuralları"
+
+msgid "Shop"
+msgstr "Alışveriş"
+
+msgid "Shopping Cart"
+msgstr "Sepet"
+
+msgid "Show"
+msgstr "Göster"
+
+msgid "Showing"
+msgstr "Gösterilen"
+
+msgid "Sign Up"
+msgstr "Üye Ol"
+
+msgid "Sorry, no downloads could be found."
+msgstr "Üzgünüz, herhangi bir indirme bululamadı."
+
+msgid "Sort By"
+msgstr "Sırala"
+
+msgid "Sort by"
+msgstr "Sırala"
+
+msgid "Standard Listing"
+msgstr "Standart Listeleme"
+
+msgid "Start Shopping"
+msgstr "Alışverişe Başla"
+
+msgid "Start getting recommendations by making a purchase in the marketplace."
+msgstr "Pazardan ürün satın alın ve öneri almaya başlayın"
+
+msgid "Style"
+msgstr "Stil"
+
+msgid "Styles"
+msgstr "Stiller"
+
+msgid "Submissions"
+msgstr "Katkılar"
+
+msgid "Subscribe to featured releases newsletter"
+msgstr "Öne çıkan albüm haberleri için abone ol"
+
+msgid "Support Request"
+msgstr "Yardım İste"
+
+msgid "Techno"
+msgstr "Tekno"
+
+msgid "Terms of Service"
+msgstr "Kullanım Koşulları"
+
+msgid "The Best Way to Sell Music"
+msgstr "Müzik Satmak için En İyi Yol"
+
+msgid "The info is already here."
+msgstr "Bilgi zaten var."
+
+msgid "This label does not exist in Discogs."
+msgstr "Bu plak şirketi Discogs'ta yer almamaktadır."
+
+msgid "This label has no approved releases"
+msgstr "Bu plak şirketinin onaylı bir albümü yoktur"
+
+msgid "Total"
+msgstr "Toplam"
+
+msgid "Track"
+msgstr "İz"
+
+msgid "Tracklist"
+msgstr "Şarkı Listesi"
+
+msgid "Trance"
+msgstr "Trans"
+
+msgid "Videos"
+msgstr "Videolar"
+
+msgid "View Cart"
+msgstr "Sepete Git"
+
+msgid "View all genres"
+msgstr "Tüm türleri gör"
+
+msgid "Vinyl"
+msgstr "Plak"
+
+msgid "Wantlist"
+msgstr "İstek Listesi"
+
+msgid "Watch how it's done"
+msgstr "Nasıl yapıldığını öğrenin"
+
+msgid "Year"
+msgstr "Yıl"
+
+msgid "You only pay a 6 - 8&#37; fee when your items sell."
+msgstr "Ürünleriniz satılınca sadece &#376-8 arası ücret ödersiniz."
+
+msgid "Your cart is empty"
+msgstr "Sepetiniz boş"
+
+msgid "Your search returned no results. Please try a different query."
+msgstr "Aramanızla eşleşen bir sonuç bulunamadı. Başka bir sorgu ile deneyin."
+
+msgid "available in digital format"
+msgstr "dijital olarak var"
+
+msgid "browse all"
+msgstr "tümüne bak"
+
+msgid "edit"
+msgstr "düzenle"
+
+msgid "for sale"
+msgstr "satılık"
+
+msgid "from my"
+msgstr "kaynak"
+
+msgid "genres"
+msgstr "türler"
+
+msgid "history"
+msgstr "tarihçe"
+
+msgid "in"
+msgstr "yer"
+
+msgid "in MP3/WAV"
+msgstr "MP3/WAV olarak"
+
+msgid "item"
+msgid_plural "items"
+msgstr[0] "ürün\nürünler"
+
+msgid "lists"
+msgstr "listeler"
+
+msgid "more"
+msgstr "daha fazla"
+
+msgid "more genres"
+msgstr "daha fazla tür"
+
+msgid "music in the world's biggest and best music marketplace"
+msgstr "dünyanın en büyük ve en iyi müzik pazarında müzik"
+
+msgid "new and old music, connect with other music lovers"
+msgstr "yeni ve eski müzik, diğer müzik hayranları ile iletişime geçin"
+
+msgid "one per line"
+msgstr "her satıra bir adet"
+
+msgid "release"
+msgstr "albüm"
+
+msgid "remove"
+msgstr "kaldır"
+
+msgid "results"
+msgstr "sonuçlar"
+
+msgid "reviews"
+msgstr "yorumlar"
+
+msgid "show more"
+msgstr "daha fazla göster"
+
+msgid "showing"
+msgstr "gösterilen"
+
+msgid "sort"
+msgstr "sırala"
+
+msgid "submission pending"
+msgid_plural "submissions pending"
+msgstr[0] "bekleyen katkı\nbekleyen katkılar"
+
+msgid "to the largest and most accurate music database"
+msgstr "en geniş ve en doğru müzik veritabanına"
+
+msgid "track"
+msgstr "iz"
+
+msgid "tracks"
+msgstr "izler"
+
+msgid "view all"
+msgstr "tümünü gör"
+
+msgid "we recommend these releases"
+msgstr "önerdiğimiz albümler"
+
+msgid "website"
+msgstr "web sitesi"
+
+msgid ""
+"your collection and wantlist, get notified when items you want are for sale"
+msgstr "arşiviniz ve istek listeniz, istediğiniz ürünler satışa çıkınca haberdar olun"

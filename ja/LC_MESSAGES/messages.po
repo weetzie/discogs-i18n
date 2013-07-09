@@ -1,0 +1,675 @@
+# Japanese translations for Discogs.
+# Copyright (C) 2012 Discogs
+# This file is distributed under the same license as the Discogs project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+# #, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Discogs 0.1\n"
+"Report-Msgid-Bugs-To: language@discogs.com\n"
+"POT-Creation-Date: 2012-03-29 15:33-0700\n"
+"PO-Revision-Date: 2012-01-23 14:50-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+
+msgid "About Us"
+msgstr "会社概要"
+
+msgid "Add Release"
+msgstr "商品を追加"
+
+msgid ""
+"Add stuff to your wantlist and we'll let you know when someone is selling"
+" it."
+msgstr "欲しい物リストに商品を追加すると、誰かがその商品を出品した時にお知らせします。"
+
+msgid "Add to Cart"
+msgstr "カートに入れる"
+
+msgid "Add to List"
+msgstr "リストに追加"
+
+msgid "All Genres"
+msgstr "全てのジャンル"
+
+msgid "Alternates"
+msgstr "オルタネイツ"
+
+msgid "Artists"
+msgstr "アーティスト"
+
+msgid "Barcode and Other Identifiers"
+msgstr "バーコードとその他の識別子"
+
+msgid "Based on the items in your Shopping Cart from seller"
+msgstr "あなたのショッピングカート内にある出品者からの商品に基づく"
+
+msgid "Bestselling"
+msgstr "ベストセラー"
+
+msgid "Bestselling MP3/WAV"
+msgstr "ベストセラーMP3/WAV"
+
+msgid "Billing"
+msgstr "請求"
+
+msgid "Browse by Genre"
+msgstr "ジャンル別に見る"
+
+msgid "Buy"
+msgstr "購入"
+
+msgid "Buy Vinyl Records, CDs and More"
+msgstr "レコード、CDなどを購入する"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "Cassette"
+msgstr "カセットテープ"
+
+msgid "Change all formats to"
+msgstr "全てのフォーマットを変更する"
+
+msgid "Checkout"
+msgstr "チェックアウト"
+
+msgid "Classical"
+msgstr "クラシック"
+
+msgid "Collection"
+msgstr "コレクション"
+
+msgid "Companies etc"
+msgstr "会社等"
+
+msgid "Contact"
+msgstr "お問い合わせ"
+
+msgid "Continue Shopping"
+msgstr "ショッピングを続ける"
+
+msgid "Contribute"
+msgstr "貢献"
+
+msgid "Contributor List"
+msgstr "貢献者リスト"
+
+msgid "Copyright"
+msgstr "著作権"
+
+msgid "Country"
+msgstr "国"
+
+#, fuzzy
+msgid "Credits"
+msgstr "編集"
+
+msgid "Dancehall"
+msgstr "ダンスホール"
+
+msgid "Decade"
+msgstr "年代"
+
+msgid "Developers&nbsp;API"
+msgstr "開発者API"
+
+msgid "Digital"
+msgstr "デジタル"
+
+msgid "Disco"
+msgstr "ディスコ"
+
+msgid "Discography"
+msgstr "ディスコグラフィー"
+
+msgid ""
+"Discogs is the safe and easy way to buy and <a "
+"href=\"/marketplace\">sell</a> music."
+msgstr "Discogsは、安全かつ簡単に音楽を購入・<a href=\"/marketplace\">販売</a>できるサイトです。"
+
+msgid "Discogs users are auto-notified when items they want are listed."
+msgstr "Discogsユーザーの欲しい商品が掲載されると、そのユーザーに自動通知されます。"
+
+msgid "Discover"
+msgstr "発見"
+
+msgid "Do less work"
+msgstr "手間が省ける"
+
+msgid "Drafts"
+msgstr "下書き"
+
+msgid "Electronic"
+msgstr "電子"
+
+msgid "Empty Cart"
+msgstr "空のカート"
+
+msgid "Explore"
+msgstr "探す"
+
+msgid "Export Data"
+msgstr "データのエクスポート"
+
+msgid "Filter results by"
+msgstr "絞って検索する"
+
+msgid "Follow&nbsp;Us"
+msgstr "フォロー"
+
+msgid "For sellers that need to list their items in bulk"
+msgstr "一括で商品を掲載したい出品者へ"
+
+msgid "For sellers with time to list items one-by-one"
+msgstr "ひとつずつ商品を掲載したい出品者へ"
+
+msgid "Format"
+msgstr "フォーマット"
+
+msgid "Formats"
+msgstr "フォーマット"
+
+msgid "Forums"
+msgstr "フォーラム"
+
+msgid "Friends"
+msgstr "友達"
+
+msgid "Funk / Soul"
+msgstr "ファンク/ソウル"
+
+msgid "Genre"
+msgstr "ジャンル"
+
+msgid "Genres"
+msgstr "ジャンル"
+
+msgid "Get Started"
+msgstr "始める"
+
+msgid "Get Started Selling Now"
+msgstr "今すぐ販売する"
+
+msgid "Getting Started"
+msgstr "はじめに"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Help Forums"
+msgstr "フォーラムヘルプ"
+
+msgid "Help on search"
+msgstr "検索についてのヘルプ"
+
+msgid "Help&nbsp;Is&nbsp;Here"
+msgstr "ヘルプはこちら"
+
+msgid "Hip Hop"
+msgstr "ヒップホップ"
+
+msgid "House"
+msgstr "ハウス"
+
+msgid "If you would like us to add your testimonial, please contact"
+msgstr "あなたのレビューを掲載したい場合は、私達にお問い合わせください。"
+
+msgid "Indie Rock"
+msgstr "インディーロック"
+
+msgid "Initial listings and all updates are handled with bulk uploads"
+msgstr "最初のリストと、すべての更新が一括アップロードで処理されます。"
+
+msgid "Initial listings are one-by-one, but can be updated in bulk"
+msgstr "最初のリストは一つずつ更新しますが、一括で更新することもできます。"
+
+msgid "Item"
+msgstr "商品"
+
+msgid "Items I Want"
+msgstr "私が欲しい商品"
+
+msgid "Items Ship From"
+msgstr "商品発送国"
+
+msgid "Items are displayed in search results based on artist, title and format"
+msgstr "商品はアーティスト、タイトルとフォーマットに基づいて検索結果に表示されます。"
+
+msgid "Items are displayed under the exact release you list them"
+msgstr "商品は、あなたが掲載する正確な商品情報に基づいて表示されます。"
+
+msgid "Jazz"
+msgstr "ジャズ"
+
+msgid "Jobs"
+msgstr "求人"
+
+msgid "Join&nbsp;In"
+msgstr "に参加"
+
+msgid "Jump To"
+msgstr "にジャンプ"
+
+msgid "Label"
+msgstr "レーベル"
+
+msgid "Labels"
+msgstr "レーベル"
+
+msgid "Languages"
+msgstr "言語"
+
+msgid "Learn more"
+msgstr "詳細はこちら"
+
+msgid "Listing Options"
+msgstr "リストのオプション"
+
+msgid "Listing items for sale on Discogs is <strong>always free</strong>."
+msgstr "Discogsで販売する商品は <strong>いつも無料</strong>で掲載できます。"
+
+msgid "Lists"
+msgstr "リスト"
+
+msgid "Logout"
+msgstr "ログアウト"
+
+msgid "MP3 &amp; WAV"
+msgstr "MP3＆WAV"
+
+msgid "MP3 &amp; WAV Downloads"
+msgstr "MP3＆WAVダウンロード"
+
+msgid "MP3/WAV"
+msgstr "MP3/WAV"
+
+msgid "Make more money"
+msgstr "もっとお金を稼ぐ"
+
+msgid "Manage Inventory"
+msgstr "在庫を管理する"
+
+msgid "Marketplace"
+msgstr "マーケットプレイス"
+
+msgid "Marketplace Support"
+msgstr "マーケットプレイスのサポート"
+
+msgid "Mobile"
+msgstr "モバイル"
+
+msgid "More From"
+msgstr "からより多くの"
+
+msgid "More formats"
+msgstr "より多くのフォーマット"
+
+msgid "More genres"
+msgstr "より多くのジャンル"
+
+msgid "More styles"
+msgstr "より多くのスタイル"
+
+msgid ""
+"More than <strong>4 million people</strong> look for music on Discogs "
+"every month."
+msgstr "毎月<strong>400万人以上の人</strong>がDiscogsで音楽を探しています。"
+
+msgid "My Groups"
+msgstr "マイグループ"
+
+msgid "My Items For Sale"
+msgstr "私の販売用商品"
+
+msgid "My Orders"
+msgstr "マイオーダー"
+
+msgid "My Purchases"
+msgstr "私の購入したもの"
+
+msgid "Needs Changes"
+msgstr "変更が必要です。"
+
+msgid "Needs Vote"
+msgstr "投票が必要です。"
+
+msgid "New Releases"
+msgstr "新商品"
+
+msgid "New Seller"
+msgstr "新しい出品者"
+
+msgid "New Styles"
+msgstr "新しいスタイル"
+
+msgid "New Wave"
+msgstr "ニューウェーブ"
+
+msgid "No need to type up detailed item descriptions."
+msgstr "商品説明文を入力する必要はありません。"
+
+msgid "No orders"
+msgstr "注文がありません。"
+
+msgid "Notes"
+msgstr "注釈"
+
+msgid "OR"
+msgstr "又は"
+
+msgid "Official Blog"
+msgstr "オフィシャルブログ"
+
+msgid "Only 6&#37; in fees incur when your items sell"
+msgstr "あなたの商品が売れた時に発生する手数料はわずか6％です。"
+
+msgid "Only 8&#37; in fees incur when your items sell"
+msgstr "あなたの商品が売れた時に発生する手数料はわずか8％です"
+
+msgid "Order Number"
+msgstr "注文番号"
+
+msgid "Other&nbsp;Stuff"
+msgstr "他のスタッフ"
+
+msgid "Payment Methods"
+msgstr "お支払い方法"
+
+msgid "Pop"
+msgstr "ポップ"
+
+msgid "Popular Formats"
+msgstr "一般的なフォーマット"
+
+msgid "Price"
+msgstr "価格"
+
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+msgid "Product Search"
+msgstr "商品検索"
+
+msgid "Profile"
+msgstr "プロフィール"
+
+msgid "Punk"
+msgstr "パンク"
+
+msgid "Purchase Date"
+msgstr "購入日"
+
+msgid "Reach more buyers"
+msgstr "より多くのバイヤーの目に触れる"
+
+msgid "Read what other Discogs sellers have to say"
+msgstr "Discogsの出品者達からの熱い声をお聞きください。"
+
+msgid "Recent Group Activity"
+msgstr "最近のグループ活動"
+
+msgid "Recent Marketplace Sales"
+msgstr "最近のマーケットプレイスでの販売"
+
+msgid "Recommendations"
+msgstr "おすすめ"
+
+msgid "Recommendations For You"
+msgstr "あなたへのおすすめ"
+
+msgid "Reggae"
+msgstr "レゲエ"
+
+#, fuzzy
+msgid "Released"
+msgstr "リリース"
+
+msgid "Releases"
+msgstr "商品"
+
+msgid "Reviews"
+msgstr "レビュー"
+
+msgid "Rock"
+msgstr "ロック"
+
+msgid "Sales History"
+msgstr "販売履歴"
+
+msgid "Saved Group Topics"
+msgstr "保存したグループでの会話"
+
+msgid "Search for variations of"
+msgstr "のバリエーションを検索します。"
+
+msgid "Search results"
+msgstr "検索結果"
+
+msgid "Sell"
+msgstr "販売"
+
+msgid "Selling here gets you instant exposure to our high traffic."
+msgstr "ここでは、私達のサービスを利用しているたくさんのユーザーに向けて商品を販売できます。"
+
+msgid "Selling vinyl records and CDs has never been easier."
+msgstr "レコードやCDの販売が、今までにないほど簡単になりました。"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Shipping Policies"
+msgstr "配送ポリシー"
+
+msgid "Shop"
+msgstr "ショップ"
+
+msgid "Shopping Cart"
+msgstr "ショッピングカート"
+
+msgid "Show"
+msgstr "表示"
+
+msgid "Showing"
+msgstr "表示"
+
+msgid "Sign Up"
+msgstr "サインアップ"
+
+msgid "Sorry, no downloads could be found."
+msgstr "申し訳ありませんが、ダウンロードは見つかりませんでした。"
+
+msgid "Sort By"
+msgstr "並べ替え"
+
+msgid "Sort by"
+msgstr "並べ替え"
+
+msgid "Standard Listing"
+msgstr "標準リスト"
+
+msgid "Start Shopping"
+msgstr "買い物を始める"
+
+msgid "Start getting recommendations by making a purchase in the marketplace."
+msgstr "マーケットプレイスで買い物をするとおすすめが表示されます。"
+
+#, fuzzy
+msgid "Style"
+msgstr "スタイル"
+
+msgid "Styles"
+msgstr "スタイル"
+
+msgid "Submissions"
+msgstr "登録"
+
+msgid "Subscribe to featured releases newsletter"
+msgstr "商品特集メルマガを購読する"
+
+msgid "Support Request"
+msgstr "サポートリクエスト"
+
+msgid "Techno"
+msgstr "テクノ"
+
+msgid "Terms of Service"
+msgstr "利用規約"
+
+msgid "The Best Way to Sell Music"
+msgstr "これこそが、音楽を販売する最良の方法です。"
+
+msgid "The info is already here."
+msgstr "商品情報はすでに用意されています。"
+
+msgid "This label does not exist in Discogs."
+msgstr "このレーベルは、Discogsにはありません。"
+
+msgid "This label has no approved releases"
+msgstr "このレーベルからは、承認された商品が出されていません。"
+
+msgid "Total"
+msgstr "全て"
+
+msgid "Track"
+msgstr "トラック"
+
+#, fuzzy
+msgid "Tracklist"
+msgstr "トラックリスト"
+
+msgid "Trance"
+msgstr "トランス"
+
+msgid "Videos"
+msgstr "動画"
+
+msgid "View Cart"
+msgstr "カートを見る"
+
+msgid "View all genres"
+msgstr "全てのジャンルを見る"
+
+msgid "Vinyl"
+msgstr "レコード"
+
+msgid "Wantlist"
+msgstr "欲しいものリスト"
+
+msgid "Watch how it's done"
+msgstr "どうやって出来たかを見る"
+
+msgid "Year"
+msgstr "年"
+
+msgid "You only pay a 6 - 8&#37; fee when your items sell."
+msgstr "あなたの商品が売れた時に、支払う手数料はたったの6～8％です。"
+
+msgid "Your cart is empty"
+msgstr "カートは空です。"
+
+msgid "Your search returned no results. Please try a different query."
+msgstr "一致する検索結果はありませんでした。キーワードを変更して検索してみてください。"
+
+msgid "available in digital format"
+msgstr "デジタル形式で利用可能"
+
+msgid "browse all"
+msgstr "全てを見る"
+
+msgid "edit"
+msgstr "編集"
+
+msgid "for sale"
+msgstr "販売"
+
+msgid "from my"
+msgstr "私の～から"
+
+msgid "genres"
+msgstr "ジャンル"
+
+msgid "history"
+msgstr "歴史"
+
+msgid "in"
+msgstr "の"
+
+msgid "in MP3/WAV"
+msgstr "MP3/WAVの"
+
+msgid "item"
+msgid_plural "items"
+msgstr[0] "商品"
+
+msgid "lists"
+msgstr "リスト"
+
+msgid "more"
+msgstr "より"
+
+msgid "more genres"
+msgstr "より多くのジャンル"
+
+msgid "music in the world's biggest and best music marketplace"
+msgstr "世界最大そして最高の音楽市場に存在する音楽"
+
+msgid "new and old music, connect with other music lovers"
+msgstr "音楽を愛する人達を繋ぐ、新しい音楽とクラシック音楽"
+
+msgid "one per line"
+msgstr "1行につき1つ"
+
+msgid "release"
+msgstr "リリース"
+
+msgid "remove"
+msgstr "削除"
+
+msgid "results"
+msgstr "結果"
+
+msgid "reviews"
+msgstr "レビュー"
+
+msgid "show more"
+msgstr "続きを表示"
+
+msgid "showing"
+msgstr "表示"
+
+msgid "sort"
+msgstr "並べ替え"
+
+msgid "submission pending"
+msgid_plural "submissions pending"
+msgstr[0] "登録申請中"
+
+msgid "to the largest and most accurate music database"
+msgstr "最大かつ最も正確な音楽データベースへ"
+
+msgid "track"
+msgstr "トラック"
+
+msgid "tracks"
+msgstr "トラック"
+
+msgid "view all"
+msgstr "全てを表示"
+
+msgid "we recommend these releases"
+msgstr "私達は、これらの商品をお勧めします"
+
+msgid "website"
+msgstr "ウェブサイト"
+
+msgid ""
+"your collection and wantlist, get notified when items you want are for "
+"sale"
+msgstr "コレクションと欲しいものリストを使うと、気になる商品が出品されたら通知が送られます。"
+

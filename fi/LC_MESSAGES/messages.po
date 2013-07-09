@@ -1,0 +1,672 @@
+# Translations template for Discogs.
+# Copyright (C) 2012 Discogs
+# This file is distributed under the same license as the Discogs project.
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Discogs\n"
+"Report-Msgid-Bugs-To: language@discogs.com\n"
+"POT-Creation-Date: 2012-03-12 10:23-0700\n"
+"PO-Revision-Date: 2012-04-11 11:54+0000\n"
+"Last-Translator: Flammie <flammie@iki.fi>\n"
+"Language-Team: Finnish (http://www.transifex.net/projects/p/discogs/language/fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "About Us"
+msgstr "Lisätietoja meistä"
+
+msgid "Add Release"
+msgstr "Lisää julkaisu"
+
+msgid ""
+"Add stuff to your wantlist and we'll let you know when someone is selling "
+"it."
+msgstr "Lisää juttuja puutelistaasi niin lähetämme sinulle tiedon kun joku myy niitä."
+
+msgid "Add to Cart"
+msgstr "Lisää ostoskärryyn"
+
+msgid "Add to List"
+msgstr "Lisää listalle"
+
+msgid "All Genres"
+msgstr "Kaikki genret"
+
+msgid "Alternates"
+msgstr "Vaihtoehdot"
+
+msgid "Artists"
+msgstr "Artistit"
+
+msgid "Barcode and Other Identifiers"
+msgstr "Viivakoodi ja muut tunnisteet"
+
+msgid "Based on the items in your Shopping Cart from seller"
+msgstr "Perustuu ostoskärrysi tavaroihin samalta myyjältä"
+
+msgid "Bestselling"
+msgstr "Eniten myydyt"
+
+msgid "Bestselling MP3/WAV"
+msgstr "Eniten myydyt MP3:t ja WAVit"
+
+msgid "Billing"
+msgstr "Laskutus"
+
+msgid "Browse by Genre"
+msgstr "Selaa genreittäin"
+
+msgid "Buy"
+msgstr "Osta"
+
+msgid "Buy Vinyl Records, CDs and More"
+msgstr "Osta vinyylejä, cd:itä ja muita"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "Cassette"
+msgstr "Kasetti"
+
+msgid "Change all formats to"
+msgstr "Muuta kaikki formaatiksi"
+
+msgid "Checkout"
+msgstr "Maksa"
+
+msgid "Classical"
+msgstr "Klassinen"
+
+msgid "Collection"
+msgstr "Kokoelma"
+
+msgid "Companies etc"
+msgstr "Yhtiöt yms"
+
+msgid "Contact"
+msgstr "Yhteystiedot"
+
+msgid "Continue Shopping"
+msgstr "Jatka ostoksien tekoa"
+
+msgid "Contribute"
+msgstr "Lahjoita"
+
+msgid "Contributor List"
+msgstr "Lahjoittajat"
+
+msgid "Copyright"
+msgstr "Tekijänoikeus"
+
+msgid "Country"
+msgstr "Maa"
+
+msgid "Credits"
+msgstr "Tekijät"
+
+msgid "Dancehall"
+msgstr ""
+
+msgid "Decade"
+msgstr "Vuosikymmen"
+
+msgid "Developers&nbsp;API"
+msgstr "Kehittäjien API"
+
+msgid "Digital"
+msgstr "Digitaalinen"
+
+msgid "Disco"
+msgstr "Disko"
+
+msgid "Discography"
+msgstr "Diskografia"
+
+msgid ""
+"Discogs is the safe and easy way to buy and <a "
+"href=\"/marketplace\">sell</a> music."
+msgstr "Discogs on turvallinen ja helppo tapa ostaa ja <a href=\"/marketplace\">myydä</a> musiikkia."
+
+msgid "Discogs users are auto-notified when items they want are listed."
+msgstr "Discogsin käyttäjille ilmoitetaan automaattisesti listaamasi myytävät."
+
+msgid "Discover"
+msgstr ""
+
+msgid "Do less work"
+msgstr ""
+
+msgid "Drafts"
+msgstr "Vedokset"
+
+msgid "Electronic"
+msgstr ""
+
+msgid "Empty Cart"
+msgstr "Tyhjä ostoskärry"
+
+msgid "Explore"
+msgstr "Etsi"
+
+msgid "Export Data"
+msgstr "Tuo dataa"
+
+msgid "Filter results by"
+msgstr "Suodata"
+
+msgid "Follow&nbsp;Us"
+msgstr "Seuraa"
+
+msgid "For sellers that need to list their items in bulk"
+msgstr "Myyjille, jotka listaavat tavaransa isoissa erissä"
+
+msgid "For sellers with time to list items one-by-one"
+msgstr "Myyjille, jotka listaavat tavaransa yksittäin"
+
+msgid "Format"
+msgstr "Formaatti"
+
+msgid "Formats"
+msgstr "Formaatit"
+
+msgid "Forums"
+msgstr "Foorumit"
+
+msgid "Friends"
+msgstr "Kaverit"
+
+msgid "Funk / Soul"
+msgstr "Funk / Soul"
+
+msgid "Genre"
+msgstr "Genre"
+
+msgid "Genres"
+msgstr "Genret"
+
+msgid "Get Started"
+msgstr "Aloita"
+
+msgid "Get Started Selling Now"
+msgstr "Aloita myyminen"
+
+msgid "Getting Started"
+msgstr "Aloittaminen"
+
+msgid "Help"
+msgstr "Ohje"
+
+msgid "Help Forums"
+msgstr "Ohjefoorumit"
+
+msgid "Help on search"
+msgstr "Hakuohje"
+
+msgid "Help&nbsp;Is&nbsp;Here"
+msgstr "Täällä&nbsp;on&nbsp;ohjeita"
+
+msgid "Hip Hop"
+msgstr "Hiphop"
+
+msgid "House"
+msgstr "House"
+
+msgid "If you would like us to add your testimonial, please contact"
+msgstr ""
+
+msgid "Indie Rock"
+msgstr "Indierokki"
+
+msgid "Initial listings and all updates are handled with bulk uploads"
+msgstr "Alun listaukset ja päivitykset tehdään isoissa erissä lataamalla"
+
+msgid "Initial listings are one-by-one, but can be updated in bulk"
+msgstr "Alun listaukset tehdään yksittäin mutta voidaan päivittää isoissa erissä"
+
+msgid "Item"
+msgstr "Tuote"
+
+msgid "Items I Want"
+msgstr "Haluamani tuotteet"
+
+msgid "Items Ship From"
+msgstr "Tuotteet lähetetään maasta"
+
+msgid ""
+"Items are displayed in search results based on artist, title and format"
+msgstr ""
+
+msgid "Items are displayed under the exact release you list them"
+msgstr ""
+
+msgid "Jazz"
+msgstr "Jazz"
+
+msgid "Jobs"
+msgstr "Töitä"
+
+msgid "Join&nbsp;In"
+msgstr "Liity"
+
+msgid "Jump To"
+msgstr "Siirry"
+
+msgid "Label"
+msgstr ""
+
+msgid "Labels"
+msgstr ""
+
+msgid "Languages"
+msgstr "Kielet"
+
+msgid "Learn more"
+msgstr "Lisätietoja"
+
+msgid "Listing Options"
+msgstr "Listausasetukset"
+
+msgid "Listing items for sale on Discogs is <strong>always free</strong>."
+msgstr "Myyntituotteiden listaaminen Discogsissa tulee aina olemaan <strong>ilmaista</strong>."
+
+msgid "Lists"
+msgstr "Listat"
+
+msgid "Logout"
+msgstr "Kirjaudu ulos"
+
+msgid "MP3 &amp; WAV"
+msgstr "MP3 ja WAV"
+
+msgid "MP3 &amp; WAV Downloads"
+msgstr "MP3- ja WAV-tiedostohaut"
+
+msgid "MP3/WAV"
+msgstr "MP3 ja WAV"
+
+msgid "Make more money"
+msgstr ""
+
+msgid "Manage Inventory"
+msgstr ""
+
+msgid "Marketplace"
+msgstr "Markkinapaikka"
+
+msgid "Marketplace Support"
+msgstr ""
+
+msgid "Mobile"
+msgstr "Mobiili"
+
+msgid "More From"
+msgstr ""
+
+msgid "More formats"
+msgstr "Lisää formaatteja"
+
+msgid "More genres"
+msgstr "Lisää genrejä"
+
+msgid "More styles"
+msgstr "Lisää tyylejä"
+
+msgid ""
+"More than <strong>4 million people</strong> look for music on Discogs every "
+"month."
+msgstr ""
+
+msgid "My Groups"
+msgstr "Ryhmäni"
+
+msgid "My Items For Sale"
+msgstr "Myytäväni"
+
+msgid "My Orders"
+msgstr "Tilaukseni"
+
+msgid "My Purchases"
+msgstr "Ostoni"
+
+msgid "Needs Changes"
+msgstr "Tarvitsee muutoksia"
+
+msgid "Needs Vote"
+msgstr "Tarvitsee ääniä"
+
+msgid "New Releases"
+msgstr "Uudet julkaisut"
+
+msgid "New Seller"
+msgstr "Uusi myyjä"
+
+msgid "New Styles"
+msgstr "Uudet tyylit"
+
+msgid "New Wave"
+msgstr ""
+
+msgid "No need to type up detailed item descriptions."
+msgstr ""
+
+msgid "No orders"
+msgstr "Ei tilauksia"
+
+msgid "Notes"
+msgstr "Merkinnät"
+
+msgid "OR"
+msgstr "TAI"
+
+msgid "Official Blog"
+msgstr "Virallinen blogi"
+
+msgid "Only 6&#37; in fees incur when your items sell"
+msgstr ""
+
+msgid "Only 8&#37; in fees incur when your items sell"
+msgstr ""
+
+msgid "Order Number"
+msgstr "Tilausnumero"
+
+msgid "Other&nbsp;Stuff"
+msgstr "Muut&nbsp;jutut"
+
+msgid "Payment Methods"
+msgstr "Maksutavat"
+
+msgid "Pop"
+msgstr "Poppi"
+
+msgid "Popular Formats"
+msgstr "Suositut formaatit"
+
+msgid "Price"
+msgstr "Hinta"
+
+msgid "Privacy Policy"
+msgstr "Yksityisyyssuoja"
+
+msgid "Product Search"
+msgstr "Tuotehaku"
+
+msgid "Profile"
+msgstr "Profiili"
+
+msgid "Punk"
+msgstr "Punkki"
+
+msgid "Purchase Date"
+msgstr "Ostopäivä"
+
+msgid "Reach more buyers"
+msgstr "Tavoita enemmän ostajia"
+
+msgid "Read what other Discogs sellers have to say"
+msgstr "Lue muiden Discogsin myyjien mielipiteitä"
+
+msgid "Recent Group Activity"
+msgstr "Viimeisimmät ryhmän tapahtumat"
+
+msgid "Recent Marketplace Sales"
+msgstr "Viimeisimmät markkinapaikan myynnit"
+
+msgid "Recommendations"
+msgstr "Suositukset"
+
+msgid "Recommendations For You"
+msgstr "Suositukset sinulle"
+
+msgid "Reggae"
+msgstr "Reggae"
+
+msgid "Released"
+msgstr "Julkaistu"
+
+msgid "Releases"
+msgstr "Julkaisut"
+
+msgid "Reviews"
+msgstr "Arvostelu"
+
+msgid "Rock"
+msgstr "Rokki"
+
+msgid "Sales History"
+msgstr "Myyntihistoria"
+
+msgid "Saved Group Topics"
+msgstr "Tallennetut puheenaiheet"
+
+msgid "Search for variations of"
+msgstr "Etsi vaihtoehtoja kohteelle"
+
+msgid "Search results"
+msgstr "Hakutulokset"
+
+msgid "Sell"
+msgstr "Myy"
+
+msgid "Selling here gets you instant exposure to our high traffic."
+msgstr ""
+
+msgid "Selling vinyl records and CDs has never been easier."
+msgstr ""
+
+msgid "Settings"
+msgstr "Asetukset"
+
+msgid "Shipping Policies"
+msgstr "Toimitusehdot"
+
+msgid "Shop"
+msgstr "Kauppa"
+
+msgid "Shopping Cart"
+msgstr "Ostoskärry"
+
+msgid "Show"
+msgstr "Näytä"
+
+msgid "Showing"
+msgstr "Näytetään"
+
+msgid "Sign Up"
+msgstr "Kirjaudu"
+
+msgid "Sorry, no downloads could be found."
+msgstr "Valitettavasti ei löytynyt tiedostohakuja."
+
+msgid "Sort By"
+msgstr "Järjestä"
+
+msgid "Sort by"
+msgstr "Järjestä"
+
+msgid "Standard Listing"
+msgstr "Oletuslistaus"
+
+msgid "Start Shopping"
+msgstr "Aloita ostaminen"
+
+msgid "Start getting recommendations by making a purchase in the marketplace."
+msgstr "Saat suosituksia tekemällä ostoksia kauppapaikalla."
+
+msgid "Style"
+msgstr "Tyyli"
+
+msgid "Styles"
+msgstr "Tyylit"
+
+msgid "Submissions"
+msgstr "Lisäykset"
+
+msgid "Subscribe to featured releases newsletter"
+msgstr "Tilaa julkaisu-uutiskirje"
+
+msgid "Support Request"
+msgstr "Tukipyyntö"
+
+msgid "Techno"
+msgstr "Tekno"
+
+msgid "Terms of Service"
+msgstr "Käyttöehdot"
+
+msgid "The Best Way to Sell Music"
+msgstr "Paras tapa myydä musiikkia"
+
+msgid "The info is already here."
+msgstr "Tieto on jo täällä."
+
+msgid "This label does not exist in Discogs."
+msgstr ""
+
+msgid "This label has no approved releases"
+msgstr ""
+
+msgid "Total"
+msgstr "Yhteensä"
+
+msgid "Track"
+msgstr "Raita"
+
+msgid "Tracklist"
+msgstr "Raidat"
+
+msgid "Trance"
+msgstr "Trance"
+
+msgid "Videos"
+msgstr "Videot"
+
+msgid "View Cart"
+msgstr "Näytä ostoskärry"
+
+msgid "View all genres"
+msgstr "Näytä kaikki genret"
+
+msgid "Vinyl"
+msgstr "Vinyyli"
+
+msgid "Wantlist"
+msgstr "Puutelista"
+
+msgid "Watch how it's done"
+msgstr "Katso miten se tehdään"
+
+msgid "Year"
+msgstr "Vuosi"
+
+msgid "You only pay a 6 - 8&#37; fee when your items sell."
+msgstr ""
+
+msgid "Your cart is empty"
+msgstr "Ostoskärry on tyhjä"
+
+msgid "Your search returned no results. Please try a different query."
+msgstr "Haku ei tuottanut tuloksia"
+
+msgid "available in digital format"
+msgstr "saatavilla digitaalisena"
+
+msgid "browse all"
+msgstr "selaa kaikki"
+
+msgid "edit"
+msgstr "muokkaa"
+
+msgid "for sale"
+msgstr "myytävänä"
+
+msgid "from my"
+msgstr "omasta"
+
+msgid "genres"
+msgstr "genret"
+
+msgid "history"
+msgstr "historia"
+
+msgid "in"
+msgstr ""
+
+msgid "in MP3/WAV"
+msgstr ""
+
+msgid "item"
+msgid_plural "items"
+msgstr[0] "tuote"
+msgstr[1] "tuotetta"
+
+msgid "lists"
+msgstr "listat"
+
+msgid "more"
+msgstr "lisää"
+
+msgid "more genres"
+msgstr "lisää genrejä"
+
+msgid "music in the world's biggest and best music marketplace"
+msgstr ""
+
+msgid "new and old music, connect with other music lovers"
+msgstr ""
+
+msgid "one per line"
+msgstr "yksi per rivi"
+
+msgid "release"
+msgstr "julkaisu"
+
+msgid "remove"
+msgstr "poista"
+
+msgid "results"
+msgstr "tulokset"
+
+msgid "reviews"
+msgstr "arvostelut"
+
+msgid "show more"
+msgstr "näytä lisää"
+
+msgid "showing"
+msgstr "näytetään"
+
+msgid "sort"
+msgstr "järjestä"
+
+msgid "submission pending"
+msgid_plural "submissions pending"
+msgstr[0] "lisäys odottaa"
+msgstr[1] "lisäystä odottaa"
+
+msgid "to the largest and most accurate music database"
+msgstr ""
+
+msgid "track"
+msgstr "raita"
+
+msgid "tracks"
+msgstr "raidat"
+
+msgid "view all"
+msgstr "näytä kaikki"
+
+msgid "we recommend these releases"
+msgstr "suosittelemme näitä julkaisuja"
+
+msgid "website"
+msgstr "verkkosivusto"
+
+msgid ""
+"your collection and wantlist, get notified when items you want are for sale"
+msgstr ""

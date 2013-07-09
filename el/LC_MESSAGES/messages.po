@@ -1,0 +1,673 @@
+# Translations template for Discogs.
+# Copyright (C) 2012 Discogs
+# This file is distributed under the same license as the Discogs project.
+# Translators:
+#   <kosta.tee@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Discogs\n"
+"Report-Msgid-Bugs-To: language@discogs.com\n"
+"POT-Creation-Date: 2012-03-12 10:23-0700\n"
+"PO-Revision-Date: 2012-05-27 13:29+0000\n"
+"Last-Translator: John <cyberviewer@gmail.com>\n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/discogs/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "About Us"
+msgstr "Σχετικά με Εμας"
+
+msgid "Add Release"
+msgstr "Προσθήκη Κυκλοφορίας"
+
+msgid ""
+"Add stuff to your wantlist and we'll let you know when someone is selling "
+"it."
+msgstr "Πρόσθεσε προϊόντα στη λίστα επιθυμιών σου και θα ενημερωθείς για ενδεχόμενες πωλήσεις"
+
+msgid "Add to Cart"
+msgstr "Προσθήκη στο Καλάθι Αγορών"
+
+msgid "Add to List"
+msgstr "Προσθήκη στη Λίστα"
+
+msgid "All Genres"
+msgstr "Όλα Τα Είδη Μουσικής"
+
+msgid "Alternates"
+msgstr "Ενναλλακτικές"
+
+msgid "Artists"
+msgstr "Καλλιτέχνες"
+
+msgid "Barcode and Other Identifiers"
+msgstr "Γραμμωτός Κωδικός (Barcode) και Άλλα Αναγνωριστικά"
+
+msgid "Based on the items in your Shopping Cart from seller"
+msgstr "Βασισμένο σε προϊόντα στο Καλάθι Αγορών σου από τον πωλητή"
+
+msgid "Bestselling"
+msgstr "Καλύτερες Πωλήσεις"
+
+msgid "Bestselling MP3/WAV"
+msgstr "Καλύτερες πωλήσεις MP3/WAV"
+
+msgid "Billing"
+msgstr "Χρέωση"
+
+msgid "Browse by Genre"
+msgstr "Αναζήτηση ανά είδος μουσικής"
+
+msgid "Buy"
+msgstr "Αγορά"
+
+msgid "Buy Vinyl Records, CDs and More"
+msgstr "Αγορά Δίσκων Βινυλίου, Ψηφιακών Δίσκων (CD) κ.ά."
+
+msgid "CD"
+msgstr "CD"
+
+msgid "Cassette"
+msgstr "Κασέτα"
+
+msgid "Change all formats to"
+msgstr "Μετατροπή όλων των μορφών σε"
+
+msgid "Checkout"
+msgstr "Ολοκλήρωση Αγοράς"
+
+msgid "Classical"
+msgstr "Classical"
+
+msgid "Collection"
+msgstr "Συλλογή"
+
+msgid "Companies etc"
+msgstr "Εταιρείες κτλ."
+
+msgid "Contact"
+msgstr "Επικοινωνία"
+
+msgid "Continue Shopping"
+msgstr "Συνέχεια Αγορών"
+
+msgid "Contribute"
+msgstr "Συνεισφορά"
+
+msgid "Contributor List"
+msgstr "Λίστα Συνεισφέροντα"
+
+msgid "Copyright"
+msgstr "Πνευματική Ιδιοκτησία"
+
+msgid "Country"
+msgstr "Χώρα"
+
+msgid "Credits"
+msgstr "Συντελεστές"
+
+msgid "Dancehall"
+msgstr "Dancehall"
+
+msgid "Decade"
+msgstr "Δεκαετία"
+
+msgid "Developers&nbsp;API"
+msgstr "Προγραμματιστές API"
+
+msgid "Digital"
+msgstr "Ψηφιακό"
+
+msgid "Disco"
+msgstr "Disco"
+
+msgid "Discography"
+msgstr "Δισκογραφία"
+
+msgid ""
+"Discogs is the safe and easy way to buy and <a "
+"href=\"/marketplace\">sell</a> music."
+msgstr "Η ιστοσελίδα Discogs προσφέρει τον ασφαλέστερο και ευκολότερο τρόπο για να αγοράσετε και να πουλήσετε μουσική"
+
+msgid "Discogs users are auto-notified when items they want are listed."
+msgstr "Οι χρήστες της ιστοσελίδας Discogs ενημερώνονται αυτόματα όταν τα προϊόντα που επιθυμούν καταλογογραφούνται"
+
+msgid "Discover"
+msgstr "Ανακάλυψε"
+
+msgid "Do less work"
+msgstr "Εξοικονόμησε χρόνο εργασίας"
+
+msgid "Drafts"
+msgstr "Πρόχειρα"
+
+msgid "Electronic"
+msgstr "Electronic"
+
+msgid "Empty Cart"
+msgstr "Άδειασε Το Καλάθι Αγορών"
+
+msgid "Explore"
+msgstr "Εξερεύνηση"
+
+msgid "Export Data"
+msgstr "Εξαγωγή Δεδομένων"
+
+msgid "Filter results by"
+msgstr "Φιλτράρισμα αποτελεσμάτων κατά"
+
+msgid "Follow&nbsp;Us"
+msgstr "Ακολουθήστε μας"
+
+msgid "For sellers that need to list their items in bulk"
+msgstr "Για πωλητές που θέλουν να καταλογογράψουν τα προϊόντα τους χονδρικώς"
+
+msgid "For sellers with time to list items one-by-one"
+msgstr "Για πωλητές με χρόνο να καταλογογράψουν τα προϊόντα τους ένα προς ένα"
+
+msgid "Format"
+msgstr "Μορφή"
+
+msgid "Formats"
+msgstr "Μορφές"
+
+msgid "Forums"
+msgstr "Τόπος Δημόσιας Συζήτησης (Φόρουμ)"
+
+msgid "Friends"
+msgstr "Φίλοι"
+
+msgid "Funk / Soul"
+msgstr "Funk / Soul"
+
+msgid "Genre"
+msgstr "Είδος Μουσικής"
+
+msgid "Genres"
+msgstr "Είδη Μουσικής"
+
+msgid "Get Started"
+msgstr "Ξεκινήστε"
+
+msgid "Get Started Selling Now"
+msgstr "Ξεκινήστε τις πωλήσεις τώρα"
+
+msgid "Getting Started"
+msgstr "Ξεκινώντας"
+
+msgid "Help"
+msgstr "Βοήθεια"
+
+msgid "Help Forums"
+msgstr "Φόρουμ Βοηθείας"
+
+msgid "Help on search"
+msgstr "Βοήθεια στην αναζήτηση"
+
+msgid "Help&nbsp;Is&nbsp;Here"
+msgstr "Βοήθεια Εδώ"
+
+msgid "Hip Hop"
+msgstr "Χίπ Χοπ"
+
+msgid "House"
+msgstr "House"
+
+msgid "If you would like us to add your testimonial, please contact"
+msgstr "Αν θέλετε να προσθέσουμε τη μαρτυρία σας, παρακαλούμε επικοινωνήστε"
+
+msgid "Indie Rock"
+msgstr "Indie Rock"
+
+msgid "Initial listings and all updates are handled with bulk uploads"
+msgstr "Οι αρχικές καταλογογραφήσεις και όλες οι ενημερώσεις διαχειρίζονται μέσω χονδρικών ανεβασμάτων"
+
+msgid "Initial listings are one-by-one, but can be updated in bulk"
+msgstr "Οι αρχικές καταλογογραφήσεις γίνονται μία προς μία, αλλά μπορούν να ενημερωθούν χονδρικώς"
+
+msgid "Item"
+msgstr "Αντικείμενο"
+
+msgid "Items I Want"
+msgstr "Αντικείμενα που Θέλω"
+
+msgid "Items Ship From"
+msgstr "Αποστολή αντικειμένων από:"
+
+msgid ""
+"Items are displayed in search results based on artist, title and format"
+msgstr "Τα αντικείμενα εμφανίζονται στα αποτελέσματα ανά καλλιτέχνη, τίτλο και μορφή"
+
+msgid "Items are displayed under the exact release you list them"
+msgstr "Τα αντικείμενα εμφανίζονται κάτω από τη συγκεκριμένη κυκλοφορία στην οποία τα συμπεριλάβατε"
+
+msgid "Jazz"
+msgstr "Jazz"
+
+msgid "Jobs"
+msgstr "Θέσεις Εργασίας"
+
+msgid "Join&nbsp;In"
+msgstr "Γίνε μέλος"
+
+msgid "Jump To"
+msgstr "Πήγαινε σε"
+
+msgid "Label"
+msgstr "Εταιρεία"
+
+msgid "Labels"
+msgstr "Εταιρείες"
+
+msgid "Languages"
+msgstr "Γλώσσες"
+
+msgid "Learn more"
+msgstr "Μάθετε Περισσότερα"
+
+msgid "Listing Options"
+msgstr "Επιλογές Λίστας"
+
+msgid "Listing items for sale on Discogs is <strong>always free</strong>."
+msgstr "Η καταλογογράφηση αντικειμένων στην ιστοσελίδα Discogs είναι πάντα <strong>δωρεάν</strong>"
+
+msgid "Lists"
+msgstr "Λίστες"
+
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+msgid "MP3 &amp; WAV"
+msgstr "MP3 &amp; WAV"
+
+msgid "MP3 &amp; WAV Downloads"
+msgstr "MP3 &amp; WAV Λήψεις"
+
+msgid "MP3/WAV"
+msgstr "Σε MP3/WAV"
+
+msgid "Make more money"
+msgstr "Κερδίστε περισσότερα χρήματα"
+
+msgid "Manage Inventory"
+msgstr "Διαχείριση Αποθεμάτων"
+
+msgid "Marketplace"
+msgstr "Αγορά"
+
+msgid "Marketplace Support"
+msgstr "Υποστήριξη Αγοράς"
+
+msgid "Mobile"
+msgstr "Κινητό"
+
+msgid "More From"
+msgstr "Περισσότερα από"
+
+msgid "More formats"
+msgstr "Περισσότερες μορφές"
+
+msgid "More genres"
+msgstr "Περισσότερα είδη μουσικής"
+
+msgid "More styles"
+msgstr "Περισσότερα Μουσικά Στυλ"
+
+msgid ""
+"More than <strong>4 million people</strong> look for music on Discogs every "
+"month."
+msgstr "Περισσότερα από 4 εκατομμύρια άνθρωποι ψάχνουν μουσική στην ιστοσελίδα Discogs κάθε μήνα"
+
+msgid "My Groups"
+msgstr "Οι Ομάδες Μου"
+
+msgid "My Items For Sale"
+msgstr "Τα Προϊόντα μου προς πώληση"
+
+msgid "My Orders"
+msgstr "Οι Παραγγελίες μου"
+
+msgid "My Purchases"
+msgstr "Οι Αγορές Μου"
+
+msgid "Needs Changes"
+msgstr "Χρειάζεται διορθώσεις"
+
+msgid "Needs Vote"
+msgstr "Χρειάζεται Ψήφο"
+
+msgid "New Releases"
+msgstr "Νέες Κυκλοφορίες"
+
+msgid "New Seller"
+msgstr "Νέος Πωλητής"
+
+msgid "New Styles"
+msgstr "Νέα Μουσικά Στυλ"
+
+msgid "New Wave"
+msgstr "New Wave"
+
+msgid "No need to type up detailed item descriptions."
+msgstr "Δεν χρειάζεται να πληκτρολογείτε τις λεπτομερείς περιγραφές των αντικειμένων"
+
+msgid "No orders"
+msgstr "Καμιά Παραγγελία"
+
+msgid "Notes"
+msgstr "Σημειώσεις"
+
+msgid "OR"
+msgstr "Ή"
+
+msgid "Official Blog"
+msgstr "Επίσημο Ιστολόγιο"
+
+msgid "Only 6&#37; in fees incur when your items sell"
+msgstr "Μόνο 6% επιβάρυνση εισφοράς κατά την πώληση των αντικειμένων σας"
+
+msgid "Only 8&#37; in fees incur when your items sell"
+msgstr "Μόνο 8% επιβάρυνση εισφοράς κατά την πώληση των αντικειμένων σας"
+
+msgid "Order Number"
+msgstr "Αριθμός Παραγγελίας"
+
+msgid "Other&nbsp;Stuff"
+msgstr "Άλλα"
+
+msgid "Payment Methods"
+msgstr "Τρόποι Πληρωμής"
+
+msgid "Pop"
+msgstr "Pop"
+
+msgid "Popular Formats"
+msgstr "Δημοφιλείς Μορφές"
+
+msgid "Price"
+msgstr "Τιμή"
+
+msgid "Privacy Policy"
+msgstr "Πολιτική Προστασίας Προσωπικών Δεδομένων"
+
+msgid "Product Search"
+msgstr "Αναζήτηση Προϊόντων"
+
+msgid "Profile"
+msgstr "Προφίλ"
+
+msgid "Punk"
+msgstr "Punk"
+
+msgid "Purchase Date"
+msgstr "Ημερομηνία Αγοράς"
+
+msgid "Reach more buyers"
+msgstr "Βρείτε περισσότερους αγοραστές"
+
+msgid "Read what other Discogs sellers have to say"
+msgstr "Δείτε τι λένε άλλοι πωλητές της Discogs"
+
+msgid "Recent Group Activity"
+msgstr "Πρόσφατη δραστηριότητα ομάδων"
+
+msgid "Recent Marketplace Sales"
+msgstr "Πρόσφατες Πωλήσεις στην Αγορά"
+
+msgid "Recommendations"
+msgstr "Προτάσεις"
+
+msgid "Recommendations For You"
+msgstr "Προτάσεις ειδικά για εσάς"
+
+msgid "Reggae"
+msgstr "Reggae"
+
+msgid "Released"
+msgstr "Κυκλοφόρησε"
+
+msgid "Releases"
+msgstr "Κυκλοφορίες"
+
+msgid "Reviews"
+msgstr "Κριτικές"
+
+msgid "Rock"
+msgstr "Ροκ"
+
+msgid "Sales History"
+msgstr "Ιστορικό Πωλήσεων"
+
+msgid "Saved Group Topics"
+msgstr "Αποθηκευμένα θέματα Ομάδας"
+
+msgid "Search for variations of"
+msgstr "Αναζητήστε παραλλαγές για"
+
+msgid "Search results"
+msgstr "Αναζήτηση Αποτελεσμάτων"
+
+msgid "Sell"
+msgstr "Πώληση"
+
+msgid "Selling here gets you instant exposure to our high traffic."
+msgstr "Πουλώντας εδώ αποκτάτε άμεση έκθεση στην υψηλή επισκεψιμότητά  μας"
+
+msgid "Selling vinyl records and CDs has never been easier."
+msgstr "Η πώληση δίσκων βινυλίου και CD ποτέ δεν ήταν ευκολότερη"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Shipping Policies"
+msgstr "Έξοδα Αποστολής"
+
+msgid "Shop"
+msgstr "Κατάστημα"
+
+msgid "Shopping Cart"
+msgstr "Καλάθι Αγορών"
+
+msgid "Show"
+msgstr "Προβολή"
+
+msgid "Showing"
+msgstr "Εμφανίζοντας"
+
+msgid "Sign Up"
+msgstr "Εγγραφή"
+
+msgid "Sorry, no downloads could be found."
+msgstr "Λυπούμαστε, δεν υπάρχουν διαθέσιμες λήψεις"
+
+msgid "Sort By"
+msgstr "Ταξινόμηση"
+
+msgid "Sort by"
+msgstr "Ταξινόμηση"
+
+msgid "Standard Listing"
+msgstr "Πρότυπο λίστας"
+
+msgid "Start Shopping"
+msgstr "Έναρξη Αγορών"
+
+msgid "Start getting recommendations by making a purchase in the marketplace."
+msgstr "Αρχίστε να δέχεστε προτάσεις, κάνοντας μία αγορά."
+
+msgid "Style"
+msgstr "Ρυθμός"
+
+msgid "Styles"
+msgstr "Ρυθμοί"
+
+msgid "Submissions"
+msgstr "Υποβολές"
+
+msgid "Subscribe to featured releases newsletter"
+msgstr "Εγγραφή στο ενημερωτικό δελτίο με προτεινόμενες κυκλοφορίες"
+
+msgid "Support Request"
+msgstr "Αίτημα Υποστήριξης"
+
+msgid "Techno"
+msgstr "Techno"
+
+msgid "Terms of Service"
+msgstr "Όροι Χρήσης"
+
+msgid "The Best Way to Sell Music"
+msgstr "Ο καλύτερος τρόπος να πουλήσεις Μουσική"
+
+msgid "The info is already here."
+msgstr "Οι πληροφορίες υπάρχουν ήδη"
+
+msgid "This label does not exist in Discogs."
+msgstr "Η Εταιρεία δεν υπάρχει στην Discogs"
+
+msgid "This label has no approved releases"
+msgstr "Η εταιρεία αυτή δεν έχει εγκεκριμένες κυκλοφορίες"
+
+msgid "Total"
+msgstr "Σύνολο"
+
+msgid "Track"
+msgstr "Τραγούδι"
+
+msgid "Tracklist"
+msgstr "Λίστα Τραγουδιών"
+
+msgid "Trance"
+msgstr "Trance"
+
+msgid "Videos"
+msgstr "Βίντεο"
+
+msgid "View Cart"
+msgstr "Δείτε το Καλάθι Αγορών"
+
+msgid "View all genres"
+msgstr "Δείτε όλα τα είδη μουσικής"
+
+msgid "Vinyl"
+msgstr "Βινύλιο"
+
+msgid "Wantlist"
+msgstr "Λίστα Επιθυμιών"
+
+msgid "Watch how it's done"
+msgstr "Δείτε πώς γίνεται"
+
+msgid "Year"
+msgstr "Έτος"
+
+msgid "You only pay a 6 - 8&#37; fee when your items sell."
+msgstr "Πληρώνεις μόνο 6-8% εισφορά κατά την πώληση των αντικειμένων σου."
+
+msgid "Your cart is empty"
+msgstr "Το Καλάθι Αγορών σας είναι κενό"
+
+msgid "Your search returned no results. Please try a different query."
+msgstr "Η αναζήτηση σας δεν είχε αποτέλεσμα. Παρακαλούμε, υποβάλλετε διαφορετικό ερώτημα "
+
+msgid "available in digital format"
+msgstr "διαθέσιμο σε ψηφιακή μορφή"
+
+msgid "browse all"
+msgstr "περιήγηση σε όλα"
+
+msgid "edit"
+msgstr "επεξεργασία"
+
+msgid "for sale"
+msgstr "προς πώληση"
+
+msgid "from my"
+msgstr "από το"
+
+msgid "genres"
+msgstr "είδη μουσικής"
+
+msgid "history"
+msgstr "Ιστορικό"
+
+msgid "in"
+msgstr "σε"
+
+msgid "in MP3/WAV"
+msgstr "σε MP3/WAV"
+
+msgid "item"
+msgid_plural "items"
+msgstr[0] "Αντικείμενο"
+msgstr[1] "Αντικείμενα"
+
+msgid "lists"
+msgstr "Λίστες"
+
+msgid "more"
+msgstr "περισσότερα"
+
+msgid "more genres"
+msgstr "περισσότερα είδη μουσικής"
+
+msgid "music in the world's biggest and best music marketplace"
+msgstr "μουσική στη μεγαλύτερη και καλύτερη αγορά του κόσμου"
+
+msgid "new and old music, connect with other music lovers"
+msgstr "νέα και παλιά μουσική, δικτυωθείτε μαζί με άλλους μουσικόφιλους"
+
+msgid "one per line"
+msgstr "ένα σε κάθε γραμμή"
+
+msgid "release"
+msgstr "Κυκλοφορία"
+
+msgid "remove"
+msgstr "αφαίρεση"
+
+msgid "results"
+msgstr "αποτελέσματα"
+
+msgid "reviews"
+msgstr "σχόλια"
+
+msgid "show more"
+msgstr "δείξε περισσότερα"
+
+msgid "showing"
+msgstr "εμφανίζοντας"
+
+msgid "sort"
+msgstr "ταξινόμηση"
+
+msgid "submission pending"
+msgid_plural "submissions pending"
+msgstr[0] "Υποβολή σε αναμονή"
+msgstr[1] "Υποβολή σε αναμονή"
+
+msgid "to the largest and most accurate music database"
+msgstr "στην μεγαλύτερη και ακριβέστερη βάση δεδομένων"
+
+msgid "track"
+msgstr "Κομμάτι"
+
+msgid "tracks"
+msgstr "Κομμάτια"
+
+msgid "view all"
+msgstr "εμφάνιση όλων"
+
+msgid "we recommend these releases"
+msgstr "σας προτείνουμε τις παρακάτω κυκλοφορίες"
+
+msgid "website"
+msgstr "ιστοσελίδα"
+
+msgid ""
+"your collection and wantlist, get notified when items you want are for sale"
+msgstr "Η συλλογή και η λίστα επιθυμιών σας ενημερώνεται, όταν προϊόντα που επιθυμείτε προσφέρονται προς πώληση"

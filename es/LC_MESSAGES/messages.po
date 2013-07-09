@@ -1,0 +1,697 @@
+# Spanish translations for Discogs.
+# Copyright (C) 2012 Discogs
+# This file is distributed under the same license as the Discogs project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+# #, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Discogs 0.1\n"
+"Report-Msgid-Bugs-To: language@discogs.com\n"
+"POT-Creation-Date: 2012-03-29 15:33-0700\n"
+"PO-Revision-Date: 2012-01-23 14:50-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+
+msgid "About Us"
+msgstr "Acerca de Nosotros"
+
+msgid "Add Release"
+msgstr "Añadir lanzamiento"
+
+msgid ""
+"Add stuff to your wantlist and we'll let you know when someone is selling"
+" it."
+msgstr ""
+"Añadir cosas a la wantlist y le dejaremos saber cuando alguien está "
+"vendiendo."
+
+msgid "Add to Cart"
+msgstr "Añadir a la Cesta"
+
+msgid "Add to List"
+msgstr "Agregar a la lista"
+
+msgid "All Genres"
+msgstr "Todos los géneros"
+
+msgid "Alternates"
+msgstr "Suplentes"
+
+msgid "Artists"
+msgstr "Artistas"
+
+msgid "Barcode and Other Identifiers"
+msgstr "Código de barras y otros identificadores"
+
+msgid "Based on the items in your Shopping Cart from seller"
+msgstr "Con base en los elementos de su cesta de compra del vendedor"
+
+msgid "Bestselling"
+msgstr "Lo más vendido"
+
+msgid "Bestselling MP3/WAV"
+msgstr "Lo más vendido MP3/WAV"
+
+msgid "Billing"
+msgstr "Facturación"
+
+msgid "Browse by Genre"
+msgstr "Buscar por Género"
+
+msgid "Buy"
+msgstr "Comprar"
+
+msgid "Buy Vinyl Records, CDs and More"
+msgstr "Comprar discos de vinilo, CDs y más"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "Cassette"
+msgstr "Casete"
+
+msgid "Change all formats to"
+msgstr "Cambiar todos los formatos a"
+
+msgid "Checkout"
+msgstr "Caja"
+
+msgid "Classical"
+msgstr "Clásico"
+
+msgid "Collection"
+msgstr "Colección"
+
+msgid "Companies etc"
+msgstr "Las empresas, etc"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Continue Shopping"
+msgstr "Seguir comprando"
+
+msgid "Contribute"
+msgstr "Contribuir"
+
+msgid "Contributor List"
+msgstr "Lista de contribuyentes"
+
+msgid "Copyright"
+msgstr "Derechos de autor"
+
+msgid "Country"
+msgstr "País"
+
+#, fuzzy
+msgid "Credits"
+msgstr "editar"
+
+msgid "Dancehall"
+msgstr "Dancehall"
+
+msgid "Decade"
+msgstr "Década"
+
+msgid "Developers&nbsp;API"
+msgstr "Los desarrolladores de la API"
+
+msgid "Digital"
+msgstr "Digital"
+
+msgid "Disco"
+msgstr "Discoteca"
+
+msgid "Discography"
+msgstr "Discografía"
+
+msgid ""
+"Discogs is the safe and easy way to buy and <a "
+"href=\"/marketplace\">sell</a> music."
+msgstr ""
+"Discogs es la manera fácil y segura de comprar y <a "
+"href=\"/marketplace\">vender</a> música."
+
+msgid "Discogs users are auto-notified when items they want are listed."
+msgstr ""
+"Discogs usuarios se auto-notificado cuando los artículos que desea se "
+"enumeran."
+
+msgid "Discover"
+msgstr "Descubrir"
+
+msgid "Do less work"
+msgstr "Hacer menos trabajo"
+
+msgid "Drafts"
+msgstr "Bocetos"
+
+msgid "Electronic"
+msgstr "Electrónico"
+
+msgid "Empty Cart"
+msgstr "Cesta vacía"
+
+msgid "Explore"
+msgstr "Explorar"
+
+msgid "Export Data"
+msgstr "Exportación de datos"
+
+msgid "Filter results by"
+msgstr "Filtrar los resultados por"
+
+msgid "Follow&nbsp;Us"
+msgstr "Siga con nosotros"
+
+msgid "For sellers that need to list their items in bulk"
+msgstr "Para los vendedores que necesitan a la lista de sus artículos al por mayor"
+
+msgid "For sellers with time to list items one-by-one"
+msgstr "Para los vendedores con el tiempo a la lista de los elementos uno por uno"
+
+msgid "Format"
+msgstr "Formato"
+
+msgid "Formats"
+msgstr "Formatos"
+
+msgid "Forums"
+msgstr "Foros"
+
+msgid "Friends"
+msgstr "Amigos"
+
+msgid "Funk / Soul"
+msgstr "Funk / Soul"
+
+msgid "Genre"
+msgstr "Género"
+
+msgid "Genres"
+msgstr "Géneros"
+
+msgid "Get Started"
+msgstr "Comenzar"
+
+msgid "Get Started Selling Now"
+msgstr "Empezar a vender ahora"
+
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Help Forums"
+msgstr "Foros de ayuda de"
+
+msgid "Help on search"
+msgstr "Ayuda en la búsqueda"
+
+msgid "Help&nbsp;Is&nbsp;Here"
+msgstr "La ayuda está aquí"
+
+msgid "Hip Hop"
+msgstr "Hip Hop"
+
+msgid "House"
+msgstr "Casa"
+
+msgid "If you would like us to add your testimonial, please contact"
+msgstr "Si nos gustaría añadir a su testimonio, gracias por ponerse en contacto"
+
+msgid "Indie Rock"
+msgstr "Indie Rock"
+
+msgid "Initial listings and all updates are handled with bulk uploads"
+msgstr ""
+"Listados iniciales y todas las actualizaciones son tratados con cargas "
+"masivas"
+
+msgid "Initial listings are one-by-one, but can be updated in bulk"
+msgstr "Listados iniciales son uno por uno, pero se puede actualizar a granel"
+
+msgid "Item"
+msgstr "Artículo"
+
+msgid "Items I Want"
+msgstr "Artículos que quiero"
+
+msgid "Items Ship From"
+msgstr "Elementos del buque de"
+
+msgid "Items are displayed in search results based on artist, title and format"
+msgstr ""
+"Los productos que se muestran en los resultados de búsqueda sobre la base"
+" de artista, título y formato"
+
+msgid "Items are displayed under the exact release you list them"
+msgstr "Los productos que se muestran en la versión exacta que les lista"
+
+msgid "Jazz"
+msgstr "Jazz"
+
+msgid "Jobs"
+msgstr "Puestos de trabajo"
+
+msgid "Join&nbsp;In"
+msgstr "Participar"
+
+msgid "Jump To"
+msgstr "Ir A"
+
+msgid "Label"
+msgstr "Sello"
+
+msgid "Labels"
+msgstr "Sellos"
+
+msgid "Languages"
+msgstr "Idiomas"
+
+msgid "Learn more"
+msgstr "Más información"
+
+msgid "Listing Options"
+msgstr "Opciones del Anuncio"
+
+msgid "Listing items for sale on Discogs is <strong>always free</strong>."
+msgstr ""
+"Lista de productos a la venta en Discogs <strong>siempre</strong> es "
+"<strong>gratis.</strong>"
+
+msgid "Lists"
+msgstr "Listas"
+
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+msgid "MP3 &amp; WAV"
+msgstr "MP3 y WAV"
+
+msgid "MP3 &amp; WAV Downloads"
+msgstr "MP3 y WAV Descargas"
+
+msgid "MP3/WAV"
+msgstr "MP3/WAV"
+
+msgid "Make more money"
+msgstr "Ganar más dinero"
+
+msgid "Manage Inventory"
+msgstr "Gestionar el inventario"
+
+msgid "Marketplace"
+msgstr "Mercado"
+
+msgid "Marketplace Support"
+msgstr "Mercado de Apoyo"
+
+msgid "Mobile"
+msgstr "Móvil"
+
+msgid "More From"
+msgstr "Más de"
+
+msgid "More formats"
+msgstr "Más formatos"
+
+msgid "More genres"
+msgstr "Géneros más"
+
+msgid "More styles"
+msgstr "Más estilos"
+
+msgid ""
+"More than <strong>4 million people</strong> look for music on Discogs "
+"every month."
+msgstr ""
+"Más de <strong>4 millones</strong> de <strong>personas buscan</strong> "
+"música Discogs cada mes."
+
+msgid "My Groups"
+msgstr "Mis Grupos"
+
+msgid "My Items For Sale"
+msgstr "Mis Artículos a la venta"
+
+msgid "My Orders"
+msgstr "Mis pedidos"
+
+msgid "My Purchases"
+msgstr "Mis Compras"
+
+msgid "Needs Changes"
+msgstr "Necesita cambios"
+
+msgid "Needs Vote"
+msgstr "Las necesidades de voto"
+
+msgid "New Releases"
+msgstr "Nuevos lanzamientos"
+
+msgid "New Seller"
+msgstr "Vendedor nueva"
+
+msgid "New Styles"
+msgstr "Nuevos estilos"
+
+msgid "New Wave"
+msgstr "New Wave"
+
+msgid "No need to type up detailed item descriptions."
+msgstr ""
+"No hay necesidad de escribir hasta detalladas descripciones de los "
+"artículos."
+
+msgid "No orders"
+msgstr "No hay pedidos"
+
+msgid "Notes"
+msgstr "Notas"
+
+msgid "OR"
+msgstr "O"
+
+msgid "Official Blog"
+msgstr "Blog Oficial"
+
+msgid "Only 6&#37; in fees incur when your items sell"
+msgstr "Sólo el 6&#37; en las tarifas incurren cuando los elementos de vender"
+
+msgid "Only 8&#37; in fees incur when your items sell"
+msgstr "Sólo el 8&#37; en las tarifas incurren cuando los elementos de vender"
+
+msgid "Order Number"
+msgstr "Número de pedido"
+
+msgid "Other&nbsp;Stuff"
+msgstr "Otros Artículos"
+
+msgid "Payment Methods"
+msgstr "Formas de Pago"
+
+msgid "Pop"
+msgstr "Popular"
+
+msgid "Popular Formats"
+msgstr "Formatos populares"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Privacy Policy"
+msgstr "Política de Privacidad"
+
+msgid "Product Search"
+msgstr "Buscar producto"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Punk"
+msgstr "Punk"
+
+msgid "Purchase Date"
+msgstr "Fecha de compra"
+
+msgid "Reach more buyers"
+msgstr "Llegar a más compradores"
+
+msgid "Read what other Discogs sellers have to say"
+msgstr "Lea lo que los vendedores Discogs otros tienen que decir"
+
+msgid "Recent Group Activity"
+msgstr "La actividad del Grupo recientes"
+
+msgid "Recent Marketplace Sales"
+msgstr "Ventas recientes mercado"
+
+msgid "Recommendations"
+msgstr "Recomendaciones"
+
+msgid "Recommendations For You"
+msgstr "Recomendaciones para usted"
+
+msgid "Reggae"
+msgstr "Reggae"
+
+#, fuzzy
+msgid "Released"
+msgstr "liberación"
+
+msgid "Releases"
+msgstr "Comunicados"
+
+msgid "Reviews"
+msgstr "Comentarios"
+
+msgid "Rock"
+msgstr "Roca"
+
+msgid "Sales History"
+msgstr "Historial de Ventas"
+
+msgid "Saved Group Topics"
+msgstr "Guardado Temas Grupo"
+
+msgid "Search for variations of"
+msgstr "Búsqueda de las variaciones de"
+
+msgid "Search results"
+msgstr "Resultados de la búsqueda"
+
+msgid "Sell"
+msgstr "Vender"
+
+msgid "Selling here gets you instant exposure to our high traffic."
+msgstr "La venta de aquí se exponga al instante a nuestro tráfico."
+
+msgid "Selling vinyl records and CDs has never been easier."
+msgstr "La venta de discos de vinilo y CD nunca ha sido tan fácil."
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "Shipping Policies"
+msgstr "Políticas de envío"
+
+msgid "Shop"
+msgstr "Tienda"
+
+msgid "Shopping Cart"
+msgstr "Compras"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Showing"
+msgstr "Mostrando"
+
+msgid "Sign Up"
+msgstr "Regístrate"
+
+msgid "Sorry, no downloads could be found."
+msgstr "Lo sentimos, no hay descargas se puede encontrar."
+
+msgid "Sort By"
+msgstr "Ordenar por"
+
+msgid "Sort by"
+msgstr "Ordenar por"
+
+msgid "Standard Listing"
+msgstr "Listado de estándar"
+
+msgid "Start Shopping"
+msgstr "Empieza a comprar"
+
+msgid "Start getting recommendations by making a purchase in the marketplace."
+msgstr "Comienza a recibir las recomendaciones de hacer una compra en el mercado."
+
+#, fuzzy
+msgid "Style"
+msgstr "Estilos"
+
+msgid "Styles"
+msgstr "Estilos"
+
+msgid "Submissions"
+msgstr "Presentaciones"
+
+msgid "Subscribe to featured releases newsletter"
+msgstr "Suscríbete al boletín de notas aparece"
+
+msgid "Support Request"
+msgstr "Solicitud de soporte"
+
+msgid "Techno"
+msgstr "Techno"
+
+msgid "Terms of Service"
+msgstr "Términos de Servicio"
+
+msgid "The Best Way to Sell Music"
+msgstr "La mejor manera de vender música"
+
+msgid "The info is already here."
+msgstr "La información ya está aquí."
+
+msgid "This label does not exist in Discogs."
+msgstr "Esta etiqueta no existe en Discogs."
+
+msgid "This label has no approved releases"
+msgstr "Esta etiqueta no tiene aprobado lanzamientos"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Track"
+msgstr "Pista"
+
+#, fuzzy
+msgid "Tracklist"
+msgstr "pistas"
+
+msgid "Trance"
+msgstr "Trance"
+
+msgid "Videos"
+msgstr "Videos"
+
+msgid "View Cart"
+msgstr "Ver el carro"
+
+msgid "View all genres"
+msgstr "Ver todos los géneros"
+
+msgid "Vinyl"
+msgstr "Vinilo"
+
+msgid "Wantlist"
+msgstr "Wantlist"
+
+msgid "Watch how it's done"
+msgstr "Mira cómo se hace"
+
+msgid "Year"
+msgstr "Año"
+
+msgid "You only pay a 6 - 8&#37; fee when your items sell."
+msgstr "Usted sólo paga un 6-8&#37; de tasa cuando los elementos de vender."
+
+msgid "Your cart is empty"
+msgstr "Su cesta está vacía"
+
+msgid "Your search returned no results. Please try a different query."
+msgstr ""
+"Su búsqueda no produjo resultados. Por favor, intente una consulta "
+"diferente."
+
+msgid "available in digital format"
+msgstr "disponibles en formato digital"
+
+msgid "browse all"
+msgstr "navegar por todos los"
+
+msgid "edit"
+msgstr "editar"
+
+msgid "for sale"
+msgstr "para la venta"
+
+msgid "from my"
+msgstr "de mi"
+
+msgid "genres"
+msgstr "géneros"
+
+msgid "history"
+msgstr "historia"
+
+msgid "in"
+msgstr "en"
+
+msgid "in MP3/WAV"
+msgstr "en MP3/WAV"
+
+msgid "item"
+msgid_plural "items"
+msgstr[0] "artículo"
+msgstr[1] "artículos"
+
+msgid "lists"
+msgstr "listas"
+
+msgid "more"
+msgstr "más"
+
+msgid "more genres"
+msgstr "géneros más"
+
+msgid "music in the world's biggest and best music marketplace"
+msgstr "música en el mercado mundial de música más grande y mejor"
+
+msgid "new and old music, connect with other music lovers"
+msgstr "música nueva y vieja, conecte con otros amantes de la música"
+
+msgid "one per line"
+msgstr "uno por línea"
+
+msgid "release"
+msgstr "liberación"
+
+msgid "remove"
+msgstr "eliminar"
+
+msgid "results"
+msgstr "resultados"
+
+msgid "reviews"
+msgstr "revisiones"
+
+msgid "show more"
+msgstr "mostrar más"
+
+msgid "showing"
+msgstr "mostrando"
+
+msgid "sort"
+msgstr "tipo"
+
+msgid "submission pending"
+msgid_plural "submissions pending"
+msgstr[0] "hasta que se presente"
+msgstr[1] "los envíos pendientes"
+
+msgid "to the largest and most accurate music database"
+msgstr "la base de datos de música más grande y precisa"
+
+msgid "track"
+msgstr "pista"
+
+msgid "tracks"
+msgstr "pistas"
+
+msgid "view all"
+msgstr "ver todos"
+
+msgid "we recommend these releases"
+msgstr "recomendamos estas liberaciones"
+
+msgid "website"
+msgstr "sitio web"
+
+msgid ""
+"your collection and wantlist, get notified when items you want are for "
+"sale"
+msgstr ""
+"su colección y wantlist, recibir una notificación cuando los elementos "
+"que desea están a la venta"
+
