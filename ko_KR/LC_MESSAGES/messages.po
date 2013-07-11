@@ -1,0 +1,671 @@
+# Translations template for Discogs.
+# Copyright (C) 2012 Discogs
+# This file is distributed under the same license as the Discogs project.
+# Translators:
+# Grant Kim <enpinion@gmail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: Discogs\n"
+"Report-Msgid-Bugs-To: language@discogs.com\n"
+"POT-Creation-Date: 2012-03-12 10:23-0700\n"
+"PO-Revision-Date: 2012-07-02 18:23+0000\n"
+"Last-Translator: Grant Kim <enpinion@gmail.com>\n"
+"Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/discogs/language/ko_KR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "About Us"
+msgstr "Discogs에 대해서"
+
+msgid "Add Release"
+msgstr "발매 정보 추가"
+
+msgid ""
+"Add stuff to your wantlist and we'll let you know when someone is selling "
+"it."
+msgstr "구매를 희망하는 물건을 찜 목록에 올려두시면 구매가 가능할 때 알려 드리겠습니다."
+
+msgid "Add to Cart"
+msgstr "장바구니에 넣기"
+
+msgid "Add to List"
+msgstr "리스트에 추가"
+
+msgid "All Genres"
+msgstr "장르 추가"
+
+msgid "Alternates"
+msgstr ""
+
+msgid "Artists"
+msgstr "아티스트"
+
+msgid "Barcode and Other Identifiers"
+msgstr "바코드 또는 다른 식별 방법"
+
+msgid "Based on the items in your Shopping Cart from seller"
+msgstr "장바구니의 데이터에 기반한 항목"
+
+msgid "Bestselling"
+msgstr "베스트셀링"
+
+msgid "Bestselling MP3/WAV"
+msgstr "베스트셀링 MP3 / WAV"
+
+msgid "Billing"
+msgstr "지불 방법"
+
+msgid "Browse by Genre"
+msgstr "장르로 탐색"
+
+msgid "Buy"
+msgstr "구입"
+
+msgid "Buy Vinyl Records, CDs and More"
+msgstr "바이닐과 CD등등 많은 것들을 구입하세요."
+
+msgid "CD"
+msgstr "CD"
+
+msgid "Cassette"
+msgstr "카세트 테이프"
+
+msgid "Change all formats to"
+msgstr "모든 포맷을 다음으로 변경:"
+
+msgid "Checkout"
+msgstr "체크아웃"
+
+msgid "Classical"
+msgstr "클래식"
+
+msgid "Collection"
+msgstr "모음"
+
+msgid "Companies etc"
+msgstr "회사 등"
+
+msgid "Contact"
+msgstr "연락처"
+
+msgid "Continue Shopping"
+msgstr "계속 쇼핑하기"
+
+msgid "Contribute"
+msgstr "기여"
+
+msgid "Contributor List"
+msgstr "기여자 목록"
+
+msgid "Copyright"
+msgstr "저작권"
+
+msgid "Country"
+msgstr "국가"
+
+msgid "Credits"
+msgstr "크레딧"
+
+msgid "Dancehall"
+msgstr "댄스홀"
+
+msgid "Decade"
+msgstr "10년간"
+
+msgid "Developers&nbsp;API"
+msgstr "개발자용 API"
+
+msgid "Digital"
+msgstr "디지털"
+
+msgid "Disco"
+msgstr "디스코"
+
+msgid "Discography"
+msgstr "디스코그래피"
+
+msgid ""
+"Discogs is the safe and easy way to buy and <a "
+"href=\"/marketplace\">sell</a> music."
+msgstr "Discogs는 음악을 구입하거나 <a href=\"/marketplace\">판매</a>하는 쉽고 안전한 방법입니다."
+
+msgid "Discogs users are auto-notified when items they want are listed."
+msgstr ""
+
+msgid "Discover"
+msgstr "발견"
+
+msgid "Do less work"
+msgstr "힘들지 않게"
+
+msgid "Drafts"
+msgstr "초안"
+
+msgid "Electronic"
+msgstr "일렉트로닉"
+
+msgid "Empty Cart"
+msgstr "장바구니가 비어있습니다."
+
+msgid "Explore"
+msgstr "탐색"
+
+msgid "Export Data"
+msgstr ""
+
+msgid "Filter results by"
+msgstr "자료 정렬"
+
+msgid "Follow&nbsp;Us"
+msgstr "팔로우 하세요"
+
+msgid "For sellers that need to list their items in bulk"
+msgstr ""
+
+msgid "For sellers with time to list items one-by-one"
+msgstr ""
+
+msgid "Format"
+msgstr "형태"
+
+msgid "Formats"
+msgstr "파일 포맷"
+
+msgid "Forums"
+msgstr "포럼"
+
+msgid "Friends"
+msgstr "친구"
+
+msgid "Funk / Soul"
+msgstr "펑크 / 소울"
+
+msgid "Genre"
+msgstr "장르"
+
+msgid "Genres"
+msgstr "장르"
+
+msgid "Get Started"
+msgstr "시작하기"
+
+msgid "Get Started Selling Now"
+msgstr "판매를 시작하세요"
+
+msgid "Getting Started"
+msgstr "시작하기"
+
+msgid "Help"
+msgstr "도움말"
+
+msgid "Help Forums"
+msgstr "포럼 질문"
+
+msgid "Help on search"
+msgstr "검색에 관한 도움말"
+
+msgid "Help&nbsp;Is&nbsp;Here"
+msgstr "도움말은 여기에"
+
+msgid "Hip Hop"
+msgstr "힙합"
+
+msgid "House"
+msgstr "하우스"
+
+msgid "If you would like us to add your testimonial, please contact"
+msgstr "저희에게 감사의 말을 하고 싶으시면 언제든지 연락해 주세요"
+
+msgid "Indie Rock"
+msgstr "인디 락"
+
+msgid "Initial listings and all updates are handled with bulk uploads"
+msgstr ""
+
+msgid "Initial listings are one-by-one, but can be updated in bulk"
+msgstr ""
+
+msgid "Item"
+msgstr "품목"
+
+msgid "Items I Want"
+msgstr "찜한 물품"
+
+msgid "Items Ship From"
+msgstr ""
+
+msgid ""
+"Items are displayed in search results based on artist, title and format"
+msgstr ""
+
+msgid "Items are displayed under the exact release you list them"
+msgstr ""
+
+msgid "Jazz"
+msgstr "재즈"
+
+msgid "Jobs"
+msgstr "구인"
+
+msgid "Join&nbsp;In"
+msgstr "가입"
+
+msgid "Jump To"
+msgstr "이동"
+
+msgid "Label"
+msgstr "레이블"
+
+msgid "Labels"
+msgstr "레이블"
+
+msgid "Languages"
+msgstr "언어"
+
+msgid "Learn more"
+msgstr "더 보기"
+
+msgid "Listing Options"
+msgstr "리스팅 옵션"
+
+msgid "Listing items for sale on Discogs is <strong>always free</strong>."
+msgstr ""
+
+msgid "Lists"
+msgstr "목록"
+
+msgid "Logout"
+msgstr "로그아웃"
+
+msgid "MP3 &amp; WAV"
+msgstr "MP3 &amp; WAV"
+
+msgid "MP3 &amp; WAV Downloads"
+msgstr "MP3 &amp; WAV 다운로드"
+
+msgid "MP3/WAV"
+msgstr "MP3/WAV"
+
+msgid "Make more money"
+msgstr "돈을 버세요"
+
+msgid "Manage Inventory"
+msgstr "인벤토리 관리"
+
+msgid "Marketplace"
+msgstr "마켓"
+
+msgid "Marketplace Support"
+msgstr "마켓 지원"
+
+msgid "Mobile"
+msgstr "모바일"
+
+msgid "More From"
+msgstr ""
+
+msgid "More formats"
+msgstr "더 많은 포맷"
+
+msgid "More genres"
+msgstr "더 많은 장르"
+
+msgid "More styles"
+msgstr "더 많은 스타일"
+
+msgid ""
+"More than <strong>4 million people</strong> look for music on Discogs every "
+"month."
+msgstr "매달 <strong>4백만 이상의</strong>사람들이 음악을 검색하기 위해 Discogs를 이용합니다."
+
+msgid "My Groups"
+msgstr "내 그룹"
+
+msgid "My Items For Sale"
+msgstr "내가 판매중인 물품"
+
+msgid "My Orders"
+msgstr "내 주문"
+
+msgid "My Purchases"
+msgstr "내 구매내역"
+
+msgid "Needs Changes"
+msgstr "수정 필요"
+
+msgid "Needs Vote"
+msgstr "투표 필요"
+
+msgid "New Releases"
+msgstr "새 릴리즈"
+
+msgid "New Seller"
+msgstr "새 판매자"
+
+msgid "New Styles"
+msgstr "새 스타일"
+
+msgid "New Wave"
+msgstr "뉴-웨이브"
+
+msgid "No need to type up detailed item descriptions."
+msgstr ""
+
+msgid "No orders"
+msgstr "주문 내역 없음"
+
+msgid "Notes"
+msgstr "비고"
+
+msgid "OR"
+msgstr "또는"
+
+msgid "Official Blog"
+msgstr "공식 블로그"
+
+msgid "Only 6&#37; in fees incur when your items sell"
+msgstr ""
+
+msgid "Only 8&#37; in fees incur when your items sell"
+msgstr ""
+
+msgid "Order Number"
+msgstr "주문 번호"
+
+msgid "Other&nbsp;Stuff"
+msgstr "기타&nbsp;물품"
+
+msgid "Payment Methods"
+msgstr "지불 방법"
+
+msgid "Pop"
+msgstr "팝"
+
+msgid "Popular Formats"
+msgstr "인기있는 "
+
+msgid "Price"
+msgstr "가격"
+
+msgid "Privacy Policy"
+msgstr "개인정보 보호 정책"
+
+msgid "Product Search"
+msgstr "상품 검색"
+
+msgid "Profile"
+msgstr "프로파일"
+
+msgid "Punk"
+msgstr "펑크"
+
+msgid "Purchase Date"
+msgstr "구매 날짜"
+
+msgid "Reach more buyers"
+msgstr "더 많은 판매자에게"
+
+msgid "Read what other Discogs sellers have to say"
+msgstr ""
+
+msgid "Recent Group Activity"
+msgstr "최근 활동 그룹"
+
+msgid "Recent Marketplace Sales"
+msgstr "최근 판매 물품"
+
+msgid "Recommendations"
+msgstr "추천"
+
+msgid "Recommendations For You"
+msgstr "추천"
+
+msgid "Reggae"
+msgstr "레게"
+
+msgid "Released"
+msgstr "릴리즈"
+
+msgid "Releases"
+msgstr "릴리즈"
+
+msgid "Reviews"
+msgstr "평가"
+
+msgid "Rock"
+msgstr "락"
+
+msgid "Sales History"
+msgstr "판매 이력"
+
+msgid "Saved Group Topics"
+msgstr ""
+
+msgid "Search for variations of"
+msgstr ""
+
+msgid "Search results"
+msgstr "검색 결과"
+
+msgid "Sell"
+msgstr "판매"
+
+msgid "Selling here gets you instant exposure to our high traffic."
+msgstr ""
+
+msgid "Selling vinyl records and CDs has never been easier."
+msgstr ""
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Shipping Policies"
+msgstr "배송 정책"
+
+msgid "Shop"
+msgstr "상점"
+
+msgid "Shopping Cart"
+msgstr "장바구니"
+
+msgid "Show"
+msgstr "보기"
+
+msgid "Showing"
+msgstr "보이기"
+
+msgid "Sign Up"
+msgstr "가입"
+
+msgid "Sorry, no downloads could be found."
+msgstr "죄송합니다. 검색한 내용으로는 다운로드 가능한 물품이 존재하지 않습니다."
+
+msgid "Sort By"
+msgstr "다음으로 정렬"
+
+msgid "Sort by"
+msgstr "다음으로 정렬"
+
+msgid "Standard Listing"
+msgstr ""
+
+msgid "Start Shopping"
+msgstr "쇼핑 "
+
+msgid "Start getting recommendations by making a purchase in the marketplace."
+msgstr ""
+
+msgid "Style"
+msgstr "형태"
+
+msgid "Styles"
+msgstr "스타일"
+
+msgid "Submissions"
+msgstr "제안"
+
+msgid "Subscribe to featured releases newsletter"
+msgstr ""
+
+msgid "Support Request"
+msgstr "지원 요청"
+
+msgid "Techno"
+msgstr "테크노"
+
+msgid "Terms of Service"
+msgstr "서비스 정책"
+
+msgid "The Best Way to Sell Music"
+msgstr "음악을 판매하는 최고의 방법"
+
+msgid "The info is already here."
+msgstr "정보가 이미 존재합니다."
+
+msgid "This label does not exist in Discogs."
+msgstr "이 레이블은 Discogs에 존재하지 않습니다."
+
+msgid "This label has no approved releases"
+msgstr ""
+
+msgid "Total"
+msgstr "합"
+
+msgid "Track"
+msgstr "트랙"
+
+msgid "Tracklist"
+msgstr "트랙 리스트"
+
+msgid "Trance"
+msgstr "트랜스"
+
+msgid "Videos"
+msgstr "동영상"
+
+msgid "View Cart"
+msgstr "장바구니 보"
+
+msgid "View all genres"
+msgstr "모든 장르 보기"
+
+msgid "Vinyl"
+msgstr "바이닐"
+
+msgid "Wantlist"
+msgstr "찜한 상품"
+
+msgid "Watch how it's done"
+msgstr ""
+
+msgid "Year"
+msgstr "년도"
+
+msgid "You only pay a 6 - 8&#37; fee when your items sell."
+msgstr ""
+
+msgid "Your cart is empty"
+msgstr "장바구니가 비어 있습니다."
+
+msgid "Your search returned no results. Please try a different query."
+msgstr "입력하신 내용에 대한 검색 결과가 없습니다. 다른 검색어를 입력해 주세요."
+
+msgid "available in digital format"
+msgstr "디지털 형식 사용 가능"
+
+msgid "browse all"
+msgstr "모두 보기"
+
+msgid "edit"
+msgstr "수정"
+
+msgid "for sale"
+msgstr "판매"
+
+msgid "from my"
+msgstr ""
+
+msgid "genres"
+msgstr "장르"
+
+msgid "history"
+msgstr "역사"
+
+msgid "in"
+msgstr "으로"
+
+msgid "in MP3/WAV"
+msgstr "MP3/WAV 로"
+
+msgid "item"
+msgid_plural "items"
+msgstr[0] "품목"
+
+msgid "lists"
+msgstr "리스트"
+
+msgid "more"
+msgstr "더"
+
+msgid "more genres"
+msgstr "더 많은 장르"
+
+msgid "music in the world's biggest and best music marketplace"
+msgstr "세계에서 가장 큰 시장에 있는 음악"
+
+msgid "new and old music, connect with other music lovers"
+msgstr "새로운 음악과 과거의 음악으로 다른 리스너들과 연결하세요"
+
+msgid "one per line"
+msgstr "줄당"
+
+msgid "release"
+msgstr "릴리즈"
+
+msgid "remove"
+msgstr "제거"
+
+msgid "results"
+msgstr "결과"
+
+msgid "reviews"
+msgstr "리뷰"
+
+msgid "show more"
+msgstr "더 보기"
+
+msgid "showing"
+msgstr "보기"
+
+msgid "sort"
+msgstr "정렬"
+
+msgid "submission pending"
+msgid_plural "submissions pending"
+msgstr[0] "수정 요청 보류"
+
+msgid "to the largest and most accurate music database"
+msgstr "거대하고 정확한 음악 데이터베이스"
+
+msgid "track"
+msgstr "트랙"
+
+msgid "tracks"
+msgstr "트랙"
+
+msgid "view all"
+msgstr "모두 보기"
+
+msgid "we recommend these releases"
+msgstr "이 릴리즈를 추천해 드립니다"
+
+msgid "website"
+msgstr "웹사이트"
+
+msgid ""
+"your collection and wantlist, get notified when items you want are for sale"
+msgstr "당신이 원하시는 물품은 구입이 가능한 물품이 있으면 알려 드리겠습니다."
