@@ -26,7 +26,7 @@ msgstr "Lisää julkaisu"
 msgid ""
 "Add stuff to your wantlist and we'll let you know when someone is selling "
 "it."
-msgstr "Lisää juttuja puutelistaasi niin lähetämme sinulle tiedon kun joku myy niitä."
+msgstr "Lisää tavaraa puutelistaasi niin lähetämme sinulle tiedon kun joku myy niitä."
 
 msgid "Add to Cart"
 msgstr "Lisää ostoskärryyn"
@@ -110,7 +110,7 @@ msgid "Credits"
 msgstr "Tekijät"
 
 msgid "Dancehall"
-msgstr ""
+msgstr "Dancehall"
 
 msgid "Decade"
 msgstr "Vuosikymmen"
@@ -136,16 +136,16 @@ msgid "Discogs users are auto-notified when items they want are listed."
 msgstr "Discogsin käyttäjille ilmoitetaan automaattisesti listaamasi myytävät."
 
 msgid "Discover"
-msgstr ""
+msgstr "Löydä"
 
 msgid "Do less work"
-msgstr ""
+msgstr "Tee vähemmän työtä"
 
 msgid "Drafts"
 msgstr "Vedokset"
 
 msgid "Electronic"
-msgstr ""
+msgstr "Elektroninen"
 
 msgid "Empty Cart"
 msgstr "Tyhjä ostoskärry"
@@ -217,7 +217,7 @@ msgid "House"
 msgstr "House"
 
 msgid "If you would like us to add your testimonial, please contact"
-msgstr ""
+msgstr "Jos haluavat meidän lisäävän suosituksesi, ota yhteyttä"
 
 msgid "Indie Rock"
 msgstr "Indierokki"
@@ -226,7 +226,7 @@ msgid "Initial listings and all updates are handled with bulk uploads"
 msgstr "Alun listaukset ja päivitykset tehdään isoissa erissä lataamalla"
 
 msgid "Initial listings are one-by-one, but can be updated in bulk"
-msgstr "Alun listaukset tehdään yksittäin mutta voidaan päivittää isoissa erissä"
+msgstr "Alun listaukset tehdään yksittäin, mutta voidaan päivittää isoissa erissä"
 
 msgid "Item"
 msgstr "Tuote"
@@ -239,7 +239,7 @@ msgstr "Tuotteet lähetetään maasta"
 
 msgid ""
 "Items are displayed in search results based on artist, title and format"
-msgstr ""
+msgstr "Tulokset näytetään hakutuloksissa artistin, nimen ja formaatin perusteella"
 
 msgid "Items are displayed under the exact release you list them"
 msgstr ""
@@ -257,10 +257,10 @@ msgid "Jump To"
 msgstr "Siirry"
 
 msgid "Label"
-msgstr ""
+msgstr "Levy-yhtiö"
 
 msgid "Labels"
-msgstr ""
+msgstr "Levy-yhtiöt"
 
 msgid "Languages"
 msgstr "Kielet"
@@ -290,16 +290,16 @@ msgid "MP3/WAV"
 msgstr "MP3 ja WAV"
 
 msgid "Make more money"
-msgstr ""
+msgstr "Tee enemmän rahaa"
 
 msgid "Manage Inventory"
-msgstr ""
+msgstr "Hallitse tavaraluetteloa"
 
 msgid "Marketplace"
 msgstr "Markkinapaikka"
 
 msgid "Marketplace Support"
-msgstr ""
+msgstr "Markkinapaikkatuki"
 
 msgid "Mobile"
 msgstr "Mobiili"
@@ -319,7 +319,7 @@ msgstr "Lisää tyylejä"
 msgid ""
 "More than <strong>4 million people</strong> look for music on Discogs every "
 "month."
-msgstr ""
+msgstr "Yli <strong>4 miljoonaa ihmistä</strong> etsivät musiikkia Discogsista joka kuukausi."
 
 msgid "My Groups"
 msgstr "Ryhmäni"
@@ -352,7 +352,7 @@ msgid "New Wave"
 msgstr ""
 
 msgid "No need to type up detailed item descriptions."
-msgstr ""
+msgstr "Ei tarvetta kirjoittaa yksityiskohtaisia kuvauksia."
 
 msgid "No orders"
 msgstr "Ei tilauksia"
@@ -367,10 +367,10 @@ msgid "Official Blog"
 msgstr "Virallinen blogi"
 
 msgid "Only 6&#37; in fees incur when your items sell"
-msgstr ""
+msgstr "Vain 6&#37; kulut kun myyntikohteesi menevät kaupaksi"
 
 msgid "Only 8&#37; in fees incur when your items sell"
-msgstr ""
+msgstr "Vain 8&#37; kulut kun myyntikohteesi menevät kaupaksi"
 
 msgid "Order Number"
 msgstr "Tilausnumero"
@@ -454,10 +454,10 @@ msgid "Sell"
 msgstr "Myy"
 
 msgid "Selling here gets you instant exposure to our high traffic."
-msgstr ""
+msgstr "Täällä myyminen altistaa sinut välittömästi valtavalle liikenteellemme."
 
 msgid "Selling vinyl records and CDs has never been easier."
-msgstr ""
+msgstr "Vinyyli- ja CD-levyjen myynti ei koskaan ole ollut helpompaa."
 
 msgid "Settings"
 msgstr "Asetukset"
@@ -526,10 +526,10 @@ msgid "The info is already here."
 msgstr "Tieto on jo täällä."
 
 msgid "This label does not exist in Discogs."
-msgstr ""
+msgstr "Tämä levy-yhtiö ei ole Discogsissa."
 
 msgid "This label has no approved releases"
-msgstr ""
+msgstr "Tällä levy-yhtiöllä ei ole hyväksyttyjä julkaisuja"
 
 msgid "Total"
 msgstr "Yhteensä"
@@ -565,7 +565,7 @@ msgid "Year"
 msgstr "Vuosi"
 
 msgid "You only pay a 6 - 8&#37; fee when your items sell."
-msgstr ""
+msgstr "Maksat vain 6 -8&#37; kulun myymistäsi tuotteista."
 
 msgid "Your cart is empty"
 msgstr "Ostoskärry on tyhjä"
@@ -598,7 +598,7 @@ msgid "in"
 msgstr ""
 
 msgid "in MP3/WAV"
-msgstr ""
+msgstr "MP3:ssa ja WAV:ssa"
 
 msgid "item"
 msgid_plural "items"
@@ -615,10 +615,10 @@ msgid "more genres"
 msgstr "lisää genrejä"
 
 msgid "music in the world's biggest and best music marketplace"
-msgstr ""
+msgstr "musiikia maailman suurimmalla ja parhaalla musiikkimarketilla"
 
 msgid "new and old music, connect with other music lovers"
-msgstr ""
+msgstr "uutta ja vanhaa musiikkia, ole yhteydessä toisiin musiikinrakastajiin"
 
 msgid "one per line"
 msgstr "yksi per rivi"
@@ -650,7 +650,7 @@ msgstr[0] "lisäys odottaa"
 msgstr[1] "lisäystä odottaa"
 
 msgid "to the largest and most accurate music database"
-msgstr ""
+msgstr "suurimpaan ja tarkimpaan musiikkitietokantaan"
 
 msgid "track"
 msgstr "raita"
@@ -669,4 +669,4 @@ msgstr "verkkosivusto"
 
 msgid ""
 "your collection and wantlist, get notified when items you want are for sale"
-msgstr ""
+msgstr "kokoelmasi ja puutelistasi, saat viestin kun sinulta puuttuvia tuotteita tulee myyntiin"
