@@ -2,14 +2,14 @@
 # Copyright (C) 2012 Discogs
 # This file is distributed under the same license as the Discogs project.
 # Translators:
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
-#   <joao.lnsa@netcabo.pt>, 2012.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+# pingo.mister <joao.lnsa@netcabo.pt>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Discogs\n"
 "Report-Msgid-Bugs-To: language@discogs.com\n"
 "POT-Creation-Date: 2012-03-12 10:23-0700\n"
-"PO-Revision-Date: 2012-06-25 22:43+0000\n"
+"PO-Revision-Date: 2012-11-04 15:15+0000\n"
 "Last-Translator: pingo.mister <joao.lnsa@netcabo.pt>\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/discogs/language/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
 "Language: pt\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "About Us"
 msgstr "Quem Somos"
@@ -225,10 +225,10 @@ msgid "Indie Rock"
 msgstr "Indie Rock"
 
 msgid "Initial listings and all updates are handled with bulk uploads"
-msgstr "Listagens iniciais e todas as atualizações são tratadas com envios a granel"
+msgstr "Listagens iniciais e todas as actualizações são tratadas com envios a granel"
 
 msgid "Initial listings are one-by-one, but can be updated in bulk"
-msgstr "Listagens iniciais em modo um por um, mas podem ser atualizadas a granel"
+msgstr "Listagens iniciais em modo um-por-um, mas podem ser atualizadas a granel"
 
 msgid "Item"
 msgstr "Item"
@@ -262,7 +262,7 @@ msgid "Label"
 msgstr "Editora"
 
 msgid "Labels"
-msgstr "Rótulos"
+msgstr "Editoras"
 
 msgid "Languages"
 msgstr "Idiomas"
@@ -378,7 +378,7 @@ msgid "Order Number"
 msgstr "Número de Encomenda"
 
 msgid "Other&nbsp;Stuff"
-msgstr "Outras Coisas"
+msgstr "Mais Coisas"
 
 msgid "Payment Methods"
 msgstr "Modos de pagamento"
