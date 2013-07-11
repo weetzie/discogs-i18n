@@ -17,29 +17,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
 
-#: controllers/digital.py:228 controllers/jd.py:280 controllers/m.py:1789
-#: controllers/m.py:1876
 msgid "Shopping Cart"
 msgstr "Shopping Basket"
 
-#: jviews/digital/cart.html:9
 msgid "Empty Cart"
 msgstr "Empty Basket"
 
-#: jviews/digital/cart.html:115 jviews/digital/checkout.html:59
 msgid "Your cart is empty"
 msgstr "Your basket is empty"
 
-#: jviews/m/_macro.html:716
 msgid "Add to Cart"
 msgstr "Add to Basket"
 
-#: jviews/m/cartrecs.html:7 jviews/m/cartrecs.html:37 jviews/m/item.html:130
-#: jviews/m/list.html:82 jviews/m/seller.html:9
 msgid "View Cart"
 msgstr "View Basket"
 
-#: jviews/m/cartrecs.html:9
 msgid "Based on the items in your Shopping Cart from seller"
 msgstr "Based on the items in your Shopping Basket from seller"
-

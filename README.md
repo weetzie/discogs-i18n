@@ -11,4 +11,4 @@ Translations for the Discogs website
 4. Save your changes by committing
 5. Create a pull request
 
-More detailed description to come...
+(Link to blog post here)
