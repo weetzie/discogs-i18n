@@ -1,0 +1,673 @@
+# Translations template for Discogs.
+# Copyright (C) 2012 Discogs
+# This file is distributed under the same license as the Discogs project.
+# Translators:
+# Ru Dee <wareband@gmail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: Discogs\n"
+"Report-Msgid-Bugs-To: language@discogs.com\n"
+"POT-Creation-Date: 2012-03-12 10:23-0700\n"
+"PO-Revision-Date: 2012-07-02 19:28+0000\n"
+"Last-Translator: Ru Dee <wareband@gmail.com>\n"
+"Language-Team: Bulgarian (http://www.transifex.com/projects/p/discogs/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "About Us"
+msgstr "За Нас"
+
+msgid "Add Release"
+msgstr "Добави Издание"
+
+msgid ""
+"Add stuff to your wantlist and we'll let you know when someone is selling "
+"it."
+msgstr "Добави неща във вашият списък с желани неща и ние ще Ви уведомим, когато някой го продава."
+
+msgid "Add to Cart"
+msgstr "Добави в Кошница"
+
+msgid "Add to List"
+msgstr "Добави в Списък"
+
+msgid "All Genres"
+msgstr "Всички Жанрове"
+
+msgid "Alternates"
+msgstr ""
+
+msgid "Artists"
+msgstr "Артисти"
+
+msgid "Barcode and Other Identifiers"
+msgstr "Баркод и други идентификатори"
+
+msgid "Based on the items in your Shopping Cart from seller"
+msgstr "Въз основа на артикули във Вашата кошница от продавача"
+
+msgid "Bestselling"
+msgstr "Най-продавани"
+
+msgid "Bestselling MP3/WAV"
+msgstr "Най-продавани MP3/WAV"
+
+msgid "Billing"
+msgstr "Фактуриране"
+
+msgid "Browse by Genre"
+msgstr "Разлистване по Жанр"
+
+msgid "Buy"
+msgstr "Купи"
+
+msgid "Buy Vinyl Records, CDs and More"
+msgstr "Купи Винилови Плочи, Компакт Дискове и още"
+
+msgid "CD"
+msgstr "Компакт Диск"
+
+msgid "Cassette"
+msgstr "Касетка"
+
+msgid "Change all formats to"
+msgstr "Промяна на формати към"
+
+msgid "Checkout"
+msgstr "Към Касата"
+
+msgid "Classical"
+msgstr "Класическа"
+
+msgid "Collection"
+msgstr "Колекция"
+
+msgid "Companies etc"
+msgstr "Фирми и др."
+
+msgid "Contact"
+msgstr "За Контакти"
+
+msgid "Continue Shopping"
+msgstr "Продължи пазаруването"
+
+msgid "Contribute"
+msgstr "Сътрудник"
+
+msgid "Contributor List"
+msgstr "Списък на сътрдуници"
+
+msgid "Copyright"
+msgstr "Авторско право"
+
+msgid "Country"
+msgstr "Държава"
+
+msgid "Credits"
+msgstr ""
+
+msgid "Dancehall"
+msgstr "Dancehall"
+
+msgid "Decade"
+msgstr "Десетилетие"
+
+msgid "Developers&nbsp;API"
+msgstr "Разработчици: API"
+
+msgid "Digital"
+msgstr "Дигитален"
+
+msgid "Disco"
+msgstr "Disco"
+
+msgid "Discography"
+msgstr "Дискография"
+
+msgid ""
+"Discogs is the safe and easy way to buy and <a "
+"href=\"/marketplace\">sell</a> music."
+msgstr "Discogs е безопасен и лесен начин да пазаруваш и продаваш музика"
+
+msgid "Discogs users are auto-notified when items they want are listed."
+msgstr "Discogs потребителите са автоматично уведомени, когато искани от тях артикули са поставени в списък."
+
+msgid "Discover"
+msgstr "Открий"
+
+msgid "Do less work"
+msgstr "Правете по-малко работа"
+
+msgid "Drafts"
+msgstr "Чернови"
+
+msgid "Electronic"
+msgstr "Electronic"
+
+msgid "Empty Cart"
+msgstr "Празна Кошница"
+
+msgid "Explore"
+msgstr "Проучи"
+
+msgid "Export Data"
+msgstr "Експортиране на данни"
+
+msgid "Filter results by"
+msgstr "Филтрирай резултатите"
+
+msgid "Follow&nbsp;Us"
+msgstr "Последвайте ни"
+
+msgid "For sellers that need to list their items in bulk"
+msgstr "За търговци, които искат тяхните артикули да са в един общ каталог "
+
+msgid "For sellers with time to list items one-by-one"
+msgstr "За търговци, които имат време да си направят списък от артикули "
+
+msgid "Format"
+msgstr "Формат"
+
+msgid "Formats"
+msgstr "Формати"
+
+msgid "Forums"
+msgstr "Форуми"
+
+msgid "Friends"
+msgstr "Приятели"
+
+msgid "Funk / Soul"
+msgstr "Funk / Soul"
+
+msgid "Genre"
+msgstr "Жанр"
+
+msgid "Genres"
+msgstr "Жанрове"
+
+msgid "Get Started"
+msgstr "Първи Стъпки"
+
+msgid "Get Started Selling Now"
+msgstr "Първи Стъпки в Продажбите"
+
+msgid "Getting Started"
+msgstr "Първи Стъпки"
+
+msgid "Help"
+msgstr "Помощ"
+
+msgid "Help Forums"
+msgstr "Форум за Помощ"
+
+msgid "Help on search"
+msgstr "Помощ при Търсене"
+
+msgid "Help&nbsp;Is&nbsp;Here"
+msgstr "Помощ Тук"
+
+msgid "Hip Hop"
+msgstr "Hip Hop"
+
+msgid "House"
+msgstr "House"
+
+msgid "If you would like us to add your testimonial, please contact"
+msgstr "Ако желаете да добавите препоръка, моля свържете се с нас"
+
+msgid "Indie Rock"
+msgstr "Indie Rock"
+
+msgid "Initial listings and all updates are handled with bulk uploads"
+msgstr ""
+
+msgid "Initial listings are one-by-one, but can be updated in bulk"
+msgstr ""
+
+msgid "Item"
+msgstr "Артикул"
+
+msgid "Items I Want"
+msgstr "Артикули Които Искам"
+
+msgid "Items Ship From"
+msgstr ""
+
+msgid ""
+"Items are displayed in search results based on artist, title and format"
+msgstr ""
+
+msgid "Items are displayed under the exact release you list them"
+msgstr ""
+
+msgid "Jazz"
+msgstr "Jazz"
+
+msgid "Jobs"
+msgstr "Работа"
+
+msgid "Join&nbsp;In"
+msgstr "Присъедини Се"
+
+msgid "Jump To"
+msgstr "Прескочи Към"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Labels"
+msgstr "Labels"
+
+msgid "Languages"
+msgstr "Езици"
+
+msgid "Learn more"
+msgstr "Научете Повече"
+
+msgid "Listing Options"
+msgstr "Опции за Списъци"
+
+msgid "Listing items for sale on Discogs is <strong>always free</strong>."
+msgstr ""
+
+msgid "Lists"
+msgstr "Списъци"
+
+msgid "Logout"
+msgstr "Излез"
+
+msgid "MP3 &amp; WAV"
+msgstr "MP3 и WAV"
+
+msgid "MP3 &amp; WAV Downloads"
+msgstr "MP3 и WAV downloads"
+
+msgid "MP3/WAV"
+msgstr "MP3/WAV"
+
+msgid "Make more money"
+msgstr "Направете повече пари"
+
+msgid "Manage Inventory"
+msgstr "Управление на Инвентаризация"
+
+msgid "Marketplace"
+msgstr "Пазар"
+
+msgid "Marketplace Support"
+msgstr "Поддръжка Пазара"
+
+msgid "Mobile"
+msgstr ""
+
+msgid "More From"
+msgstr "Още От"
+
+msgid "More formats"
+msgstr "Още Формати"
+
+msgid "More genres"
+msgstr "Още Жанрове"
+
+msgid "More styles"
+msgstr "Още Стилове"
+
+msgid ""
+"More than <strong>4 million people</strong> look for music on Discogs every "
+"month."
+msgstr "Повече от 4 милиона хора  на месец търсят музика в Discogs."
+
+msgid "My Groups"
+msgstr "Моите Групи"
+
+msgid "My Items For Sale"
+msgstr "Мои Артикули За Продан"
+
+msgid "My Orders"
+msgstr "Моите Поръчки"
+
+msgid "My Purchases"
+msgstr "Моите Покупки"
+
+msgid "Needs Changes"
+msgstr "Нужда От Промени"
+
+msgid "Needs Vote"
+msgstr "Нужда от Гласове"
+
+msgid "New Releases"
+msgstr "Нови Издания"
+
+msgid "New Seller"
+msgstr "Нови Търговци"
+
+msgid "New Styles"
+msgstr "Нови Стилове"
+
+msgid "New Wave"
+msgstr "New Wave"
+
+msgid "No need to type up detailed item descriptions."
+msgstr "Няма нужда от попълване на детайлна описание за артикул."
+
+msgid "No orders"
+msgstr "Няма поръчки"
+
+msgid "Notes"
+msgstr "Бележки"
+
+msgid "OR"
+msgstr "ИЛИ"
+
+msgid "Official Blog"
+msgstr "Официален Блог"
+
+msgid "Only 6&#37; in fees incur when your items sell"
+msgstr ""
+
+msgid "Only 8&#37; in fees incur when your items sell"
+msgstr ""
+
+msgid "Order Number"
+msgstr "Номер на Поръчка"
+
+msgid "Other&nbsp;Stuff"
+msgstr "Други Неща"
+
+msgid "Payment Methods"
+msgstr "Видове Плащане"
+
+msgid "Pop"
+msgstr "Pop"
+
+msgid "Popular Formats"
+msgstr "Популярни Формати"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Privacy Policy"
+msgstr "Декларация за Поверителност"
+
+msgid "Product Search"
+msgstr "Търсене на Продукти"
+
+msgid "Profile"
+msgstr "Профил"
+
+msgid "Punk"
+msgstr "Punk"
+
+msgid "Purchase Date"
+msgstr "Дата на Закупуване"
+
+msgid "Reach more buyers"
+msgstr "Достигане до повече копувачи"
+
+msgid "Read what other Discogs sellers have to say"
+msgstr "Прочетете, какво имат да кажат други търговци."
+
+msgid "Recent Group Activity"
+msgstr "Последна Дейност на Групата"
+
+msgid "Recent Marketplace Sales"
+msgstr "Последни Продажби на Пазара"
+
+msgid "Recommendations"
+msgstr "Препоръки"
+
+msgid "Recommendations For You"
+msgstr "Пропоръки за Вас"
+
+msgid "Reggae"
+msgstr "Reggae"
+
+msgid "Released"
+msgstr "Издаден"
+
+msgid "Releases"
+msgstr "Издания"
+
+msgid "Reviews"
+msgstr "Ревюта"
+
+msgid "Rock"
+msgstr "Rock"
+
+msgid "Sales History"
+msgstr "История на Продажбите"
+
+msgid "Saved Group Topics"
+msgstr "Запазени Теми в Групата"
+
+msgid "Search for variations of"
+msgstr "Търсене за Промени в"
+
+msgid "Search results"
+msgstr "Резултати от Търсене"
+
+msgid "Sell"
+msgstr "Продажба"
+
+msgid "Selling here gets you instant exposure to our high traffic."
+msgstr "С продажбата тук, Вие незабавно сте осветен от нашият висок трафик."
+
+msgid "Selling vinyl records and CDs has never been easier."
+msgstr "Продажбата на Винилови Записи и Компакт Дискове никога не е била по-лесна"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Shipping Policies"
+msgstr "Политики за Доставка"
+
+msgid "Shop"
+msgstr "Магазин"
+
+msgid "Shopping Cart"
+msgstr "Кошница"
+
+msgid "Show"
+msgstr "Покажи"
+
+msgid "Showing"
+msgstr "Показва"
+
+msgid "Sign Up"
+msgstr "Регистрирайте се"
+
+msgid "Sorry, no downloads could be found."
+msgstr ""
+
+msgid "Sort By"
+msgstr "Подреди по"
+
+msgid "Sort by"
+msgstr "Подреди по"
+
+msgid "Standard Listing"
+msgstr "Стандартен Списък"
+
+msgid "Start Shopping"
+msgstr ""
+
+msgid "Start getting recommendations by making a purchase in the marketplace."
+msgstr ""
+
+msgid "Style"
+msgstr "Стил"
+
+msgid "Styles"
+msgstr "Стилове"
+
+msgid "Submissions"
+msgstr ""
+
+msgid "Subscribe to featured releases newsletter"
+msgstr ""
+
+msgid "Support Request"
+msgstr ""
+
+msgid "Techno"
+msgstr "Techno"
+
+msgid "Terms of Service"
+msgstr "Условие за Ползване"
+
+msgid "The Best Way to Sell Music"
+msgstr "Най-добрият начин за продаване на музика"
+
+msgid "The info is already here."
+msgstr "Информацията е вече тук"
+
+msgid "This label does not exist in Discogs."
+msgstr "Този издател не съществува в Discogs"
+
+msgid "This label has no approved releases"
+msgstr "Този издател няма одобрени издания"
+
+msgid "Total"
+msgstr "Обща Сума"
+
+msgid "Track"
+msgstr "Песен"
+
+msgid "Tracklist"
+msgstr "Tracklist"
+
+msgid "Trance"
+msgstr "Trance"
+
+msgid "Videos"
+msgstr "Видео"
+
+msgid "View Cart"
+msgstr "Прегледай Кошницата"
+
+msgid "View all genres"
+msgstr "Виж всички жанрове"
+
+msgid "Vinyl"
+msgstr "Винил"
+
+msgid "Wantlist"
+msgstr ""
+
+msgid "Watch how it's done"
+msgstr "Вижте как се прави"
+
+msgid "Year"
+msgstr "Година"
+
+msgid "You only pay a 6 - 8&#37; fee when your items sell."
+msgstr ""
+
+msgid "Your cart is empty"
+msgstr "Вашата кошница е празна"
+
+msgid "Your search returned no results. Please try a different query."
+msgstr "Вашето търсене не върна резултати. Моля, опитайте с разлина фраза."
+
+msgid "available in digital format"
+msgstr "Достъпно в дигитален формат"
+
+msgid "browse all"
+msgstr ""
+
+msgid "edit"
+msgstr "редактирай"
+
+msgid "for sale"
+msgstr "за продан"
+
+msgid "from my"
+msgstr ""
+
+msgid "genres"
+msgstr "жанрове"
+
+msgid "history"
+msgstr "история"
+
+msgid "in"
+msgstr "в"
+
+msgid "in MP3/WAV"
+msgstr "в MP3/WAV"
+
+msgid "item"
+msgid_plural "items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "lists"
+msgstr "Списъци"
+
+msgid "more"
+msgstr "Още"
+
+msgid "more genres"
+msgstr "още жанрове"
+
+msgid "music in the world's biggest and best music marketplace"
+msgstr "музика в най-големия и най-добрия музикален пазар в света"
+
+msgid "new and old music, connect with other music lovers"
+msgstr "нова и стара музика, свържете се със други любители на музиката"
+
+msgid "one per line"
+msgstr ""
+
+msgid "release"
+msgstr "издание"
+
+msgid "remove"
+msgstr "премахни"
+
+msgid "results"
+msgstr "резултати"
+
+msgid "reviews"
+msgstr "ревюта"
+
+msgid "show more"
+msgstr "покажи още"
+
+msgid "showing"
+msgstr "показва"
+
+msgid "sort"
+msgstr "сортирай"
+
+msgid "submission pending"
+msgid_plural "submissions pending"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "to the largest and most accurate music database"
+msgstr "най-голямата и най-точната музикална база данни"
+
+msgid "track"
+msgstr "песен"
+
+msgid "tracks"
+msgstr "песни"
+
+msgid "view all"
+msgstr "покажи всички"
+
+msgid "we recommend these releases"
+msgstr "ние Ви препоръчваме следните издания"
+
+msgid "website"
+msgstr "уебсайт"
+
+msgid ""
+"your collection and wantlist, get notified when items you want are for sale"
+msgstr ""
