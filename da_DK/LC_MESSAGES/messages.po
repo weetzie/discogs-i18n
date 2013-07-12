@@ -2,54 +2,53 @@
 # Copyright (C) 2012 Discogs
 # This file is distributed under the same license as the Discogs project.
 # Translators:
-# DominikMatus <email@dominikmatus.cz>, 2012
-# Lukáš Kabíček <lukaskabicek@gmail.com>, 2012
+# stffn <post@stffn.dk>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Discogs\n"
 "Report-Msgid-Bugs-To: language@discogs.com\n"
 "POT-Creation-Date: 2012-03-12 10:23-0700\n"
-"PO-Revision-Date: 2012-07-20 17:55+0000\n"
-"Last-Translator: DominikMatus <email@dominikmatus.cz>\n"
-"Language-Team: Czech (http://www.transifex.com/projects/p/discogs/language/cs/)\n"
+"PO-Revision-Date: 2012-06-05 13:11+0000\n"
+"Last-Translator: stffn <post@stffn.dk>\n"
+"Language-Team: Danish (Denmark) (http://www.transifex.com/projects/p/discogs/language/da_DK/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
-"Language: cs\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "About Us"
-msgstr "O nás"
+msgstr "Om os"
 
 msgid "Add Release"
-msgstr ""
+msgstr "Tilføj udgivelse"
 
 msgid ""
 "Add stuff to your wantlist and we'll let you know when someone is selling "
 "it."
-msgstr ""
+msgstr "Tilføj ting til din ønskeliste, og vi giver dig besked når nogen sætter det til salg"
 
 msgid "Add to Cart"
-msgstr "Do košíku"
+msgstr "Tilføj til indkøbskurv"
 
 msgid "Add to List"
-msgstr "Vložit do seznamu"
+msgstr "Tilføj til liste"
 
 msgid "All Genres"
-msgstr "Všechny žánry"
+msgstr "Alle genrer"
 
 msgid "Alternates"
-msgstr ""
+msgstr "Suppleanter"
 
 msgid "Artists"
-msgstr "Umělci"
+msgstr "Kunstnere"
 
 msgid "Barcode and Other Identifiers"
-msgstr ""
+msgstr "Stregkoder og andre identifikatorer"
 
 msgid "Based on the items in your Shopping Cart from seller"
-msgstr ""
+msgstr "Baseret på emner i din indkøbskurv fra samme sælger"
 
 msgid "Bestselling"
 msgstr ""
@@ -58,111 +57,111 @@ msgid "Bestselling MP3/WAV"
 msgstr ""
 
 msgid "Billing"
-msgstr ""
+msgstr "Fakturering"
 
 msgid "Browse by Genre"
 msgstr ""
 
 msgid "Buy"
-msgstr "Koupit"
+msgstr "Køb"
 
 msgid "Buy Vinyl Records, CDs and More"
-msgstr ""
+msgstr "Køb vinylplader, CD'er mm."
 
 msgid "CD"
 msgstr "CD"
 
 msgid "Cassette"
-msgstr "Kazeta"
+msgstr "Kassette"
 
 msgid "Change all formats to"
-msgstr "Změnit všechny formáty na"
+msgstr "Ændr alle formater til"
 
 msgid "Checkout"
-msgstr ""
+msgstr "Gå til betaling"
 
 msgid "Classical"
-msgstr ""
+msgstr "Klassisk"
 
 msgid "Collection"
-msgstr "Kolekce"
+msgstr "Samling"
 
 msgid "Companies etc"
-msgstr ""
+msgstr "Firmaet osv."
 
 msgid "Contact"
-msgstr "Kontakty"
+msgstr "Kontakt"
 
 msgid "Continue Shopping"
-msgstr "Pokračovat v nákupu"
+msgstr "Fortsæt dit indkøb"
 
 msgid "Contribute"
-msgstr ""
+msgstr "Bidrag"
 
 msgid "Contributor List"
-msgstr ""
+msgstr "Bidragsydere"
 
 msgid "Copyright"
-msgstr ""
+msgstr "Ophavsret"
 
 msgid "Country"
-msgstr "Země"
+msgstr "Land"
 
 msgid "Credits"
 msgstr ""
 
 msgid "Dancehall"
-msgstr ""
+msgstr "Dancehall"
 
 msgid "Decade"
-msgstr "Dekáda"
+msgstr "Årti"
 
 msgid "Developers&nbsp;API"
-msgstr ""
+msgstr "Udvikler&nbsp;API"
 
 msgid "Digital"
-msgstr "Digitální"
+msgstr "Digital"
 
 msgid "Disco"
-msgstr ""
+msgstr "Disko"
 
 msgid "Discography"
-msgstr "Diskografie"
+msgstr "Diskografi"
 
 msgid ""
 "Discogs is the safe and easy way to buy and <a "
 "href=\"/marketplace\">sell</a> music."
-msgstr ""
+msgstr "Discogs er en sikker og nem måde at købe og <a href=\"/marketplace\">sælge</a> musik."
 
 msgid "Discogs users are auto-notified when items they want are listed."
-msgstr ""
+msgstr "Discogs brugere bliver automatisk gjort opmærksom når ting de ønsker bliver listet"
 
 msgid "Discover"
-msgstr ""
+msgstr "Opdag"
 
 msgid "Do less work"
 msgstr ""
 
 msgid "Drafts"
-msgstr ""
+msgstr "Klader"
 
 msgid "Electronic"
 msgstr ""
 
 msgid "Empty Cart"
-msgstr ""
+msgstr "Tøm indkøbskurv"
 
 msgid "Explore"
 msgstr ""
 
 msgid "Export Data"
-msgstr ""
+msgstr "Eksporter data"
 
 msgid "Filter results by"
-msgstr ""
+msgstr "Sorter resultat efter"
 
 msgid "Follow&nbsp;Us"
-msgstr ""
+msgstr "Følg&nbsp;os"
 
 msgid "For sellers that need to list their items in bulk"
 msgstr ""
@@ -171,58 +170,58 @@ msgid "For sellers with time to list items one-by-one"
 msgstr ""
 
 msgid "Format"
-msgstr "Formát"
+msgstr "Format"
 
 msgid "Formats"
-msgstr "Formáty"
+msgstr "Formater"
 
 msgid "Forums"
-msgstr ""
+msgstr "Fora"
 
 msgid "Friends"
-msgstr "Přátelé"
+msgstr "Venner"
 
 msgid "Funk / Soul"
-msgstr ""
+msgstr "Funk / Soul"
 
 msgid "Genre"
-msgstr "Žánr"
+msgstr "Genre"
 
 msgid "Genres"
-msgstr "Žánry"
+msgstr "Genrer"
 
 msgid "Get Started"
-msgstr ""
+msgstr "Kom i gang"
 
 msgid "Get Started Selling Now"
-msgstr ""
+msgstr "Kom i gang med at sælge nu"
 
 msgid "Getting Started"
-msgstr ""
+msgstr "Kom i gang"
 
 msgid "Help"
-msgstr "Nápověda"
+msgstr "Hjælp"
 
 msgid "Help Forums"
-msgstr ""
+msgstr "Hjælpefora"
 
 msgid "Help on search"
-msgstr ""
+msgstr "Hjælp til søgning"
 
 msgid "Help&nbsp;Is&nbsp;Here"
 msgstr ""
 
 msgid "Hip Hop"
-msgstr ""
+msgstr "Hip Hop"
 
 msgid "House"
-msgstr ""
+msgstr "House"
 
 msgid "If you would like us to add your testimonial, please contact"
 msgstr ""
 
 msgid "Indie Rock"
-msgstr ""
+msgstr "Indie Rock"
 
 msgid "Initial listings and all updates are handled with bulk uploads"
 msgstr ""
@@ -231,10 +230,10 @@ msgid "Initial listings are one-by-one, but can be updated in bulk"
 msgstr ""
 
 msgid "Item"
-msgstr ""
+msgstr "Emne"
 
 msgid "Items I Want"
-msgstr ""
+msgstr "Ønskeliste"
 
 msgid "Items Ship From"
 msgstr ""
@@ -247,28 +246,28 @@ msgid "Items are displayed under the exact release you list them"
 msgstr ""
 
 msgid "Jazz"
-msgstr ""
+msgstr "Jazz"
 
 msgid "Jobs"
-msgstr ""
+msgstr "Stillinger"
 
 msgid "Join&nbsp;In"
 msgstr ""
 
 msgid "Jump To"
-msgstr "Přejít na"
+msgstr "Gå til"
 
 msgid "Label"
-msgstr "Vydavatel"
+msgstr "Selskab"
 
 msgid "Labels"
-msgstr "Vydavatelé"
+msgstr "Selskaber"
 
 msgid "Languages"
-msgstr ""
+msgstr "Sprog"
 
 msgid "Learn more"
-msgstr ""
+msgstr "Få mere at vide"
 
 msgid "Listing Options"
 msgstr ""
@@ -277,63 +276,63 @@ msgid "Listing items for sale on Discogs is <strong>always free</strong>."
 msgstr ""
 
 msgid "Lists"
-msgstr ""
+msgstr "Lister"
 
 msgid "Logout"
-msgstr ""
+msgstr "Log ud"
 
 msgid "MP3 &amp; WAV"
-msgstr ""
+msgstr "MP3 &amp; WAV"
 
 msgid "MP3 &amp; WAV Downloads"
-msgstr ""
+msgstr "MP3 &amp; WAV Downloads"
 
 msgid "MP3/WAV"
-msgstr ""
+msgstr "MP3/WAV"
 
 msgid "Make more money"
-msgstr ""
+msgstr "Tjen flere penge"
 
 msgid "Manage Inventory"
 msgstr ""
 
 msgid "Marketplace"
-msgstr ""
+msgstr "Handelsplads"
 
 msgid "Marketplace Support"
 msgstr ""
 
 msgid "Mobile"
-msgstr ""
+msgstr "Mobil"
 
 msgid "More From"
-msgstr ""
+msgstr "Mere fra"
 
 msgid "More formats"
-msgstr ""
+msgstr "Flere formater"
 
 msgid "More genres"
-msgstr ""
+msgstr "Flere genrer"
 
 msgid "More styles"
-msgstr ""
+msgstr "Flere stilarter"
 
 msgid ""
 "More than <strong>4 million people</strong> look for music on Discogs every "
 "month."
-msgstr ""
+msgstr "Mere end <strong>4 milioner personer</strong> leder efter musik på Discogs hver måned."
 
 msgid "My Groups"
-msgstr ""
+msgstr "Mine grupper"
 
 msgid "My Items For Sale"
 msgstr ""
 
 msgid "My Orders"
-msgstr ""
+msgstr "Mine ordrer"
 
 msgid "My Purchases"
-msgstr ""
+msgstr "Mine køb"
 
 msgid "Needs Changes"
 msgstr ""
@@ -342,25 +341,25 @@ msgid "Needs Vote"
 msgstr ""
 
 msgid "New Releases"
-msgstr ""
+msgstr "Nye udgivelser"
 
 msgid "New Seller"
-msgstr ""
+msgstr "Ny sælger"
 
 msgid "New Styles"
-msgstr ""
+msgstr "Nye stilarter"
 
 msgid "New Wave"
-msgstr ""
+msgstr "New Wave"
 
 msgid "No need to type up detailed item descriptions."
 msgstr ""
 
 msgid "No orders"
-msgstr ""
+msgstr "Ingen ordrer"
 
 msgid "Notes"
-msgstr ""
+msgstr "Noter"
 
 msgid "OR"
 msgstr ""
@@ -375,85 +374,85 @@ msgid "Only 8&#37; in fees incur when your items sell"
 msgstr ""
 
 msgid "Order Number"
-msgstr ""
+msgstr "Ordrenummer"
 
 msgid "Other&nbsp;Stuff"
-msgstr ""
+msgstr "Andet"
 
 msgid "Payment Methods"
-msgstr ""
+msgstr "Betalingsmuligheder"
 
 msgid "Pop"
-msgstr ""
+msgstr "Pop"
 
 msgid "Popular Formats"
-msgstr ""
+msgstr "Populære formater"
 
 msgid "Price"
-msgstr ""
+msgstr "Pris"
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Privatlivspolitik"
 
 msgid "Product Search"
-msgstr ""
+msgstr "Produktsøgning"
 
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 msgid "Punk"
-msgstr ""
+msgstr "Punk"
 
 msgid "Purchase Date"
-msgstr ""
+msgstr "Købsdato"
 
 msgid "Reach more buyers"
-msgstr ""
+msgstr "Nå ud til flere købere"
 
 msgid "Read what other Discogs sellers have to say"
-msgstr ""
+msgstr "Læs hvad andre Discogs sælgere har at sige"
 
 msgid "Recent Group Activity"
-msgstr ""
+msgstr "Seneste gruppeaktivitet"
 
 msgid "Recent Marketplace Sales"
 msgstr ""
 
 msgid "Recommendations"
-msgstr ""
+msgstr "Anbefalinger"
 
 msgid "Recommendations For You"
-msgstr ""
+msgstr "Anbefalinger til dig"
 
 msgid "Reggae"
-msgstr ""
+msgstr "Reggae"
 
 msgid "Released"
-msgstr ""
+msgstr "Udgivet"
 
 msgid "Releases"
-msgstr ""
+msgstr "Udgivelser"
 
 msgid "Reviews"
-msgstr ""
+msgstr "Anmeldelser"
 
 msgid "Rock"
-msgstr ""
+msgstr "Rock"
 
 msgid "Sales History"
-msgstr ""
+msgstr "Salgshistorik"
 
 msgid "Saved Group Topics"
 msgstr ""
 
 msgid "Search for variations of"
-msgstr ""
+msgstr "Søg efter variationer af"
 
 msgid "Search results"
-msgstr ""
+msgstr "Søgeresultat"
 
 msgid "Sell"
-msgstr ""
+msgstr "Sælg"
 
 msgid "Selling here gets you instant exposure to our high traffic."
 msgstr ""
@@ -462,7 +461,7 @@ msgid "Selling vinyl records and CDs has never been easier."
 msgstr ""
 
 msgid "Settings"
-msgstr ""
+msgstr "Indstillinger"
 
 msgid "Shipping Policies"
 msgstr ""
@@ -471,28 +470,28 @@ msgid "Shop"
 msgstr ""
 
 msgid "Shopping Cart"
-msgstr ""
+msgstr "Indkøbskurv"
 
 msgid "Show"
-msgstr ""
+msgstr "Vis"
 
 msgid "Showing"
-msgstr ""
+msgstr "Viser"
 
 msgid "Sign Up"
 msgstr ""
 
 msgid "Sorry, no downloads could be found."
-msgstr ""
+msgstr "Beklager, ingen downloads fundet"
 
 msgid "Sort By"
-msgstr ""
+msgstr "Sorter efter"
 
 msgid "Sort by"
-msgstr ""
+msgstr "Sorter efter"
 
 msgid "Standard Listing"
-msgstr ""
+msgstr "Standard listning"
 
 msgid "Start Shopping"
 msgstr ""
@@ -501,13 +500,13 @@ msgid "Start getting recommendations by making a purchase in the marketplace."
 msgstr ""
 
 msgid "Style"
-msgstr ""
+msgstr "Stilart"
 
 msgid "Styles"
-msgstr ""
+msgstr "Stilarter"
 
 msgid "Submissions"
-msgstr ""
+msgstr "Tilføjelser"
 
 msgid "Subscribe to featured releases newsletter"
 msgstr ""
@@ -516,25 +515,25 @@ msgid "Support Request"
 msgstr ""
 
 msgid "Techno"
-msgstr ""
+msgstr "Techno"
 
 msgid "Terms of Service"
-msgstr ""
+msgstr "Handelsbetingelser"
 
 msgid "The Best Way to Sell Music"
-msgstr ""
+msgstr "Den bedste måde at sælge musik"
 
 msgid "The info is already here."
-msgstr ""
+msgstr "Informationen er her allerede"
 
 msgid "This label does not exist in Discogs."
-msgstr ""
+msgstr "Dette selskab eksistsrer ikke på Discogs"
 
 msgid "This label has no approved releases"
-msgstr ""
+msgstr "Dette selskab har ikke nogle godkendte udgivelser"
 
 msgid "Total"
-msgstr ""
+msgstr "I alt"
 
 msgid "Track"
 msgstr ""
@@ -543,7 +542,7 @@ msgid "Tracklist"
 msgstr ""
 
 msgid "Trance"
-msgstr ""
+msgstr "Trance"
 
 msgid "Videos"
 msgstr ""
@@ -555,22 +554,22 @@ msgid "View all genres"
 msgstr ""
 
 msgid "Vinyl"
-msgstr ""
+msgstr "Vinyl"
 
 msgid "Wantlist"
-msgstr ""
+msgstr "Ønskeliste"
 
 msgid "Watch how it's done"
 msgstr ""
 
 msgid "Year"
-msgstr ""
+msgstr "År"
 
 msgid "You only pay a 6 - 8&#37; fee when your items sell."
 msgstr ""
 
 msgid "Your cart is empty"
-msgstr ""
+msgstr "Din indkøbskurv er tom"
 
 msgid "Your search returned no results. Please try a different query."
 msgstr ""
@@ -582,40 +581,39 @@ msgid "browse all"
 msgstr ""
 
 msgid "edit"
-msgstr ""
+msgstr "ændr"
 
 msgid "for sale"
-msgstr ""
+msgstr "til salg"
 
 msgid "from my"
-msgstr ""
+msgstr "fra min"
 
 msgid "genres"
-msgstr ""
+msgstr "genrer"
 
 msgid "history"
-msgstr ""
+msgstr "historik"
 
 msgid "in"
-msgstr ""
+msgstr "i"
 
 msgid "in MP3/WAV"
-msgstr ""
+msgstr "i MP3/WAV"
 
 msgid "item"
 msgid_plural "items"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 msgid "lists"
-msgstr ""
+msgstr "lister"
 
 msgid "more"
-msgstr ""
+msgstr "mere/flere"
 
 msgid "more genres"
-msgstr ""
+msgstr "flere genrer"
 
 msgid "music in the world's biggest and best music marketplace"
 msgstr ""
@@ -627,31 +625,30 @@ msgid "one per line"
 msgstr ""
 
 msgid "release"
-msgstr ""
+msgstr "udgivelser"
 
 msgid "remove"
-msgstr ""
+msgstr "fjern"
 
 msgid "results"
-msgstr ""
+msgstr "resultater"
 
 msgid "reviews"
-msgstr ""
+msgstr "anmeldelser"
 
 msgid "show more"
-msgstr ""
+msgstr "vis mere/vis flere"
 
 msgid "showing"
-msgstr ""
+msgstr "viser"
 
 msgid "sort"
-msgstr ""
+msgstr "sortér"
 
 msgid "submission pending"
 msgid_plural "submissions pending"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 msgid "to the largest and most accurate music database"
 msgstr ""
@@ -663,13 +660,13 @@ msgid "tracks"
 msgstr ""
 
 msgid "view all"
-msgstr ""
+msgstr "se alle"
 
 msgid "we recommend these releases"
-msgstr ""
+msgstr "vi anbefaler disse udgivelser"
 
 msgid "website"
-msgstr ""
+msgstr "hjemmeside"
 
 msgid ""
 "your collection and wantlist, get notified when items you want are for sale"

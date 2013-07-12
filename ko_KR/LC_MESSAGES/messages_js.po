@@ -1,49 +1,47 @@
-# Translations template for Discogs.
+# Korean (South Korea) translations for Discogs.
 # Copyright (C) 2012 Discogs
 # This file is distributed under the same license as the Discogs project.
-# Translators:
-# DominikMatus <email@dominikmatus.cz>, 2012
-# Lukáš Kabíček <lukaskabicek@gmail.com>, 2012
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+# #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Discogs\n"
+"Project-Id-Version: Discogs 0.1\n"
 "Report-Msgid-Bugs-To: language@discogs.com\n"
-"POT-Creation-Date: 2012-03-12 10:23-0700\n"
-"PO-Revision-Date: 2012-07-20 17:55+0000\n"
-"Last-Translator: DominikMatus <email@dominikmatus.cz>\n"
-"Language-Team: Czech (http://www.transifex.com/projects/p/discogs/language/cs/)\n"
+"POT-Creation-Date: 2012-03-29 15:33-0700\n"
+"PO-Revision-Date: 2013-07-11 16:45-0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ko_KR <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
-"Language: cs\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 msgid "About Us"
-msgstr "O nás"
+msgstr ""
 
 msgid "Add Release"
 msgstr ""
 
 msgid ""
-"Add stuff to your wantlist and we'll let you know when someone is selling "
-"it."
+"Add stuff to your wantlist and we'll let you know when someone is selling"
+" it."
 msgstr ""
 
 msgid "Add to Cart"
-msgstr "Do košíku"
+msgstr ""
 
 msgid "Add to List"
-msgstr "Vložit do seznamu"
+msgstr ""
 
 msgid "All Genres"
-msgstr "Všechny žánry"
+msgstr ""
 
 msgid "Alternates"
 msgstr ""
 
 msgid "Artists"
-msgstr "Umělci"
+msgstr ""
 
 msgid "Barcode and Other Identifiers"
 msgstr ""
@@ -64,19 +62,19 @@ msgid "Browse by Genre"
 msgstr ""
 
 msgid "Buy"
-msgstr "Koupit"
+msgstr ""
 
 msgid "Buy Vinyl Records, CDs and More"
 msgstr ""
 
 msgid "CD"
-msgstr "CD"
+msgstr ""
 
 msgid "Cassette"
-msgstr "Kazeta"
+msgstr ""
 
 msgid "Change all formats to"
-msgstr "Změnit všechny formáty na"
+msgstr ""
 
 msgid "Checkout"
 msgstr ""
@@ -85,16 +83,16 @@ msgid "Classical"
 msgstr ""
 
 msgid "Collection"
-msgstr "Kolekce"
+msgstr ""
 
 msgid "Companies etc"
 msgstr ""
 
 msgid "Contact"
-msgstr "Kontakty"
+msgstr ""
 
 msgid "Continue Shopping"
-msgstr "Pokračovat v nákupu"
+msgstr ""
 
 msgid "Contribute"
 msgstr ""
@@ -106,7 +104,7 @@ msgid "Copyright"
 msgstr ""
 
 msgid "Country"
-msgstr "Země"
+msgstr ""
 
 msgid "Credits"
 msgstr ""
@@ -115,19 +113,19 @@ msgid "Dancehall"
 msgstr ""
 
 msgid "Decade"
-msgstr "Dekáda"
+msgstr ""
 
 msgid "Developers&nbsp;API"
 msgstr ""
 
 msgid "Digital"
-msgstr "Digitální"
+msgstr ""
 
 msgid "Disco"
 msgstr ""
 
 msgid "Discography"
-msgstr "Diskografie"
+msgstr ""
 
 msgid ""
 "Discogs is the safe and easy way to buy and <a "
@@ -171,25 +169,25 @@ msgid "For sellers with time to list items one-by-one"
 msgstr ""
 
 msgid "Format"
-msgstr "Formát"
+msgstr ""
 
 msgid "Formats"
-msgstr "Formáty"
+msgstr ""
 
 msgid "Forums"
 msgstr ""
 
 msgid "Friends"
-msgstr "Přátelé"
+msgstr ""
 
 msgid "Funk / Soul"
 msgstr ""
 
 msgid "Genre"
-msgstr "Žánr"
+msgstr ""
 
 msgid "Genres"
-msgstr "Žánry"
+msgstr ""
 
 msgid "Get Started"
 msgstr ""
@@ -201,7 +199,7 @@ msgid "Getting Started"
 msgstr ""
 
 msgid "Help"
-msgstr "Nápověda"
+msgstr ""
 
 msgid "Help Forums"
 msgstr ""
@@ -239,8 +237,7 @@ msgstr ""
 msgid "Items Ship From"
 msgstr ""
 
-msgid ""
-"Items are displayed in search results based on artist, title and format"
+msgid "Items are displayed in search results based on artist, title and format"
 msgstr ""
 
 msgid "Items are displayed under the exact release you list them"
@@ -256,13 +253,13 @@ msgid "Join&nbsp;In"
 msgstr ""
 
 msgid "Jump To"
-msgstr "Přejít na"
+msgstr ""
 
 msgid "Label"
-msgstr "Vydavatel"
+msgstr ""
 
 msgid "Labels"
-msgstr "Vydavatelé"
+msgstr ""
 
 msgid "Languages"
 msgstr ""
@@ -319,8 +316,8 @@ msgid "More styles"
 msgstr ""
 
 msgid ""
-"More than <strong>4 million people</strong> look for music on Discogs every "
-"month."
+"More than <strong>4 million people</strong> look for music on Discogs "
+"every month."
 msgstr ""
 
 msgid "My Groups"
@@ -605,8 +602,6 @@ msgstr ""
 msgid "item"
 msgid_plural "items"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 msgid "lists"
 msgstr ""
@@ -650,8 +645,6 @@ msgstr ""
 msgid "submission pending"
 msgid_plural "submissions pending"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 msgid "to the largest and most accurate music database"
 msgstr ""
@@ -672,5 +665,7 @@ msgid "website"
 msgstr ""
 
 msgid ""
-"your collection and wantlist, get notified when items you want are for sale"
+"your collection and wantlist, get notified when items you want are for "
+"sale"
 msgstr ""
+

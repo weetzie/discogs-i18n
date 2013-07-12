@@ -2,16 +2,17 @@
 # Copyright (C) 2012 Discogs
 # This file is distributed under the same license as the Discogs project.
 # Translators:
-#   <arek.sojka@gmail.com>, 2012.
-#   <desper@onet.pl>, 2012.
-#   <gizmex777@gmail.com>, 2012.
-#   <transifex.net@behemot.33m.co>, 2012.
+# camber <arek.sojka@gmail.com>, 2012
+# Desper <desper@onet.pl>, 2012
+# DMC FAN <transifex.net@behemot.33m.co>, 2013
+# Gizmex <gizmex777@gmail.com>, 2012
+# DMC FAN <transifex.net@behemot.33m.co>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Discogs\n"
 "Report-Msgid-Bugs-To: language@discogs.com\n"
 "POT-Creation-Date: 2012-03-12 10:23-0700\n"
-"PO-Revision-Date: 2012-06-27 15:22+0000\n"
+"PO-Revision-Date: 2013-04-01 23:47+0000\n"
 "Last-Translator: DMC FAN <transifex.net@behemot.33m.co>\n"
 "Language-Team: Polish (http://www.transifex.com/projects/p/discogs/language/pl/)\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
 "Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "About Us"
 msgstr "O nas"
@@ -143,7 +144,7 @@ msgid "Discover"
 msgstr "Odkryj"
 
 msgid "Do less work"
-msgstr "Zaoszczędź swój czas"
+msgstr "Wykonaj mniej pracy"
 
 msgid "Drafts"
 msgstr "Szkice"
@@ -197,10 +198,10 @@ msgid "Get Started"
 msgstr "Start"
 
 msgid "Get Started Selling Now"
-msgstr "Zacznij sprzedawać"
+msgstr "Rozpocznij sprzedaż"
 
 msgid "Getting Started"
-msgstr "Zacznij"
+msgstr "Rozpocznij"
 
 msgid "Help"
 msgstr "Pomoc"
@@ -644,7 +645,7 @@ msgid "show more"
 msgstr "Pokaż więcej"
 
 msgid "showing"
-msgstr "pokaż"
+msgstr "Pokaż"
 
 msgid "sort"
 msgstr "Sortuj"

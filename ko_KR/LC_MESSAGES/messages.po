@@ -2,167 +2,166 @@
 # Copyright (C) 2012 Discogs
 # This file is distributed under the same license as the Discogs project.
 # Translators:
-# DominikMatus <email@dominikmatus.cz>, 2012
-# Lukáš Kabíček <lukaskabicek@gmail.com>, 2012
+# Grant Kim <enpinion@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Discogs\n"
 "Report-Msgid-Bugs-To: language@discogs.com\n"
 "POT-Creation-Date: 2012-03-12 10:23-0700\n"
-"PO-Revision-Date: 2012-07-20 17:55+0000\n"
-"Last-Translator: DominikMatus <email@dominikmatus.cz>\n"
-"Language-Team: Czech (http://www.transifex.com/projects/p/discogs/language/cs/)\n"
+"PO-Revision-Date: 2012-07-02 18:23+0000\n"
+"Last-Translator: Grant Kim <enpinion@gmail.com>\n"
+"Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/discogs/language/ko_KR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
-"Language: cs\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "About Us"
-msgstr "O nás"
+msgstr "Discogs에 대해서"
 
 msgid "Add Release"
-msgstr ""
+msgstr "발매 정보 추가"
 
 msgid ""
 "Add stuff to your wantlist and we'll let you know when someone is selling "
 "it."
-msgstr ""
+msgstr "구매를 희망하는 물건을 찜 목록에 올려두시면 구매가 가능할 때 알려 드리겠습니다."
 
 msgid "Add to Cart"
-msgstr "Do košíku"
+msgstr "장바구니에 넣기"
 
 msgid "Add to List"
-msgstr "Vložit do seznamu"
+msgstr "리스트에 추가"
 
 msgid "All Genres"
-msgstr "Všechny žánry"
+msgstr "장르 추가"
 
 msgid "Alternates"
 msgstr ""
 
 msgid "Artists"
-msgstr "Umělci"
+msgstr "아티스트"
 
 msgid "Barcode and Other Identifiers"
-msgstr ""
+msgstr "바코드 또는 다른 식별 방법"
 
 msgid "Based on the items in your Shopping Cart from seller"
-msgstr ""
+msgstr "장바구니의 데이터에 기반한 항목"
 
 msgid "Bestselling"
-msgstr ""
+msgstr "베스트셀링"
 
 msgid "Bestselling MP3/WAV"
-msgstr ""
+msgstr "베스트셀링 MP3 / WAV"
 
 msgid "Billing"
-msgstr ""
+msgstr "지불 방법"
 
 msgid "Browse by Genre"
-msgstr ""
+msgstr "장르로 탐색"
 
 msgid "Buy"
-msgstr "Koupit"
+msgstr "구입"
 
 msgid "Buy Vinyl Records, CDs and More"
-msgstr ""
+msgstr "바이닐과 CD등등 많은 것들을 구입하세요."
 
 msgid "CD"
 msgstr "CD"
 
 msgid "Cassette"
-msgstr "Kazeta"
+msgstr "카세트 테이프"
 
 msgid "Change all formats to"
-msgstr "Změnit všechny formáty na"
+msgstr "모든 포맷을 다음으로 변경:"
 
 msgid "Checkout"
-msgstr ""
+msgstr "체크아웃"
 
 msgid "Classical"
-msgstr ""
+msgstr "클래식"
 
 msgid "Collection"
-msgstr "Kolekce"
+msgstr "모음"
 
 msgid "Companies etc"
-msgstr ""
+msgstr "회사 등"
 
 msgid "Contact"
-msgstr "Kontakty"
+msgstr "연락처"
 
 msgid "Continue Shopping"
-msgstr "Pokračovat v nákupu"
+msgstr "계속 쇼핑하기"
 
 msgid "Contribute"
-msgstr ""
+msgstr "기여"
 
 msgid "Contributor List"
-msgstr ""
+msgstr "기여자 목록"
 
 msgid "Copyright"
-msgstr ""
+msgstr "저작권"
 
 msgid "Country"
-msgstr "Země"
+msgstr "국가"
 
 msgid "Credits"
-msgstr ""
+msgstr "크레딧"
 
 msgid "Dancehall"
-msgstr ""
+msgstr "댄스홀"
 
 msgid "Decade"
-msgstr "Dekáda"
+msgstr "10년간"
 
 msgid "Developers&nbsp;API"
-msgstr ""
+msgstr "개발자용 API"
 
 msgid "Digital"
-msgstr "Digitální"
+msgstr "디지털"
 
 msgid "Disco"
-msgstr ""
+msgstr "디스코"
 
 msgid "Discography"
-msgstr "Diskografie"
+msgstr "디스코그래피"
 
 msgid ""
 "Discogs is the safe and easy way to buy and <a "
 "href=\"/marketplace\">sell</a> music."
-msgstr ""
+msgstr "Discogs는 음악을 구입하거나 <a href=\"/marketplace\">판매</a>하는 쉽고 안전한 방법입니다."
 
 msgid "Discogs users are auto-notified when items they want are listed."
 msgstr ""
 
 msgid "Discover"
-msgstr ""
+msgstr "발견"
 
 msgid "Do less work"
-msgstr ""
+msgstr "힘들지 않게"
 
 msgid "Drafts"
-msgstr ""
+msgstr "초안"
 
 msgid "Electronic"
-msgstr ""
+msgstr "일렉트로닉"
 
 msgid "Empty Cart"
-msgstr ""
+msgstr "장바구니가 비어있습니다."
 
 msgid "Explore"
-msgstr ""
+msgstr "탐색"
 
 msgid "Export Data"
 msgstr ""
 
 msgid "Filter results by"
-msgstr ""
+msgstr "자료 정렬"
 
 msgid "Follow&nbsp;Us"
-msgstr ""
+msgstr "팔로우 하세요"
 
 msgid "For sellers that need to list their items in bulk"
 msgstr ""
@@ -171,58 +170,58 @@ msgid "For sellers with time to list items one-by-one"
 msgstr ""
 
 msgid "Format"
-msgstr "Formát"
+msgstr "형태"
 
 msgid "Formats"
-msgstr "Formáty"
+msgstr "파일 포맷"
 
 msgid "Forums"
-msgstr ""
+msgstr "포럼"
 
 msgid "Friends"
-msgstr "Přátelé"
+msgstr "친구"
 
 msgid "Funk / Soul"
-msgstr ""
+msgstr "펑크 / 소울"
 
 msgid "Genre"
-msgstr "Žánr"
+msgstr "장르"
 
 msgid "Genres"
-msgstr "Žánry"
+msgstr "장르"
 
 msgid "Get Started"
-msgstr ""
+msgstr "시작하기"
 
 msgid "Get Started Selling Now"
-msgstr ""
+msgstr "판매를 시작하세요"
 
 msgid "Getting Started"
-msgstr ""
+msgstr "시작하기"
 
 msgid "Help"
-msgstr "Nápověda"
+msgstr "도움말"
 
 msgid "Help Forums"
-msgstr ""
+msgstr "포럼 질문"
 
 msgid "Help on search"
-msgstr ""
+msgstr "검색에 관한 도움말"
 
 msgid "Help&nbsp;Is&nbsp;Here"
-msgstr ""
+msgstr "도움말은 여기에"
 
 msgid "Hip Hop"
-msgstr ""
+msgstr "힙합"
 
 msgid "House"
-msgstr ""
+msgstr "하우스"
 
 msgid "If you would like us to add your testimonial, please contact"
-msgstr ""
+msgstr "저희에게 감사의 말을 하고 싶으시면 언제든지 연락해 주세요"
 
 msgid "Indie Rock"
-msgstr ""
+msgstr "인디 락"
 
 msgid "Initial listings and all updates are handled with bulk uploads"
 msgstr ""
@@ -231,10 +230,10 @@ msgid "Initial listings are one-by-one, but can be updated in bulk"
 msgstr ""
 
 msgid "Item"
-msgstr ""
+msgstr "품목"
 
 msgid "Items I Want"
-msgstr ""
+msgstr "찜한 물품"
 
 msgid "Items Ship From"
 msgstr ""
@@ -247,126 +246,126 @@ msgid "Items are displayed under the exact release you list them"
 msgstr ""
 
 msgid "Jazz"
-msgstr ""
+msgstr "재즈"
 
 msgid "Jobs"
-msgstr ""
+msgstr "구인"
 
 msgid "Join&nbsp;In"
-msgstr ""
+msgstr "가입"
 
 msgid "Jump To"
-msgstr "Přejít na"
+msgstr "이동"
 
 msgid "Label"
-msgstr "Vydavatel"
+msgstr "레이블"
 
 msgid "Labels"
-msgstr "Vydavatelé"
+msgstr "레이블"
 
 msgid "Languages"
-msgstr ""
+msgstr "언어"
 
 msgid "Learn more"
-msgstr ""
+msgstr "더 보기"
 
 msgid "Listing Options"
-msgstr ""
+msgstr "리스팅 옵션"
 
 msgid "Listing items for sale on Discogs is <strong>always free</strong>."
 msgstr ""
 
 msgid "Lists"
-msgstr ""
+msgstr "목록"
 
 msgid "Logout"
-msgstr ""
+msgstr "로그아웃"
 
 msgid "MP3 &amp; WAV"
-msgstr ""
+msgstr "MP3 &amp; WAV"
 
 msgid "MP3 &amp; WAV Downloads"
-msgstr ""
+msgstr "MP3 &amp; WAV 다운로드"
 
 msgid "MP3/WAV"
-msgstr ""
+msgstr "MP3/WAV"
 
 msgid "Make more money"
-msgstr ""
+msgstr "돈을 버세요"
 
 msgid "Manage Inventory"
-msgstr ""
+msgstr "인벤토리 관리"
 
 msgid "Marketplace"
-msgstr ""
+msgstr "마켓"
 
 msgid "Marketplace Support"
-msgstr ""
+msgstr "마켓 지원"
 
 msgid "Mobile"
-msgstr ""
+msgstr "모바일"
 
 msgid "More From"
 msgstr ""
 
 msgid "More formats"
-msgstr ""
+msgstr "더 많은 포맷"
 
 msgid "More genres"
-msgstr ""
+msgstr "더 많은 장르"
 
 msgid "More styles"
-msgstr ""
+msgstr "더 많은 스타일"
 
 msgid ""
 "More than <strong>4 million people</strong> look for music on Discogs every "
 "month."
-msgstr ""
+msgstr "매달 <strong>4백만 이상의</strong>사람들이 음악을 검색하기 위해 Discogs를 이용합니다."
 
 msgid "My Groups"
-msgstr ""
+msgstr "내 그룹"
 
 msgid "My Items For Sale"
-msgstr ""
+msgstr "내가 판매중인 물품"
 
 msgid "My Orders"
-msgstr ""
+msgstr "내 주문"
 
 msgid "My Purchases"
-msgstr ""
+msgstr "내 구매내역"
 
 msgid "Needs Changes"
-msgstr ""
+msgstr "수정 필요"
 
 msgid "Needs Vote"
-msgstr ""
+msgstr "투표 필요"
 
 msgid "New Releases"
-msgstr ""
+msgstr "새 릴리즈"
 
 msgid "New Seller"
-msgstr ""
+msgstr "새 판매자"
 
 msgid "New Styles"
-msgstr ""
+msgstr "새 스타일"
 
 msgid "New Wave"
-msgstr ""
+msgstr "뉴-웨이브"
 
 msgid "No need to type up detailed item descriptions."
 msgstr ""
 
 msgid "No orders"
-msgstr ""
+msgstr "주문 내역 없음"
 
 msgid "Notes"
-msgstr ""
+msgstr "비고"
 
 msgid "OR"
-msgstr ""
+msgstr "또는"
 
 msgid "Official Blog"
-msgstr ""
+msgstr "공식 블로그"
 
 msgid "Only 6&#37; in fees incur when your items sell"
 msgstr ""
@@ -375,73 +374,73 @@ msgid "Only 8&#37; in fees incur when your items sell"
 msgstr ""
 
 msgid "Order Number"
-msgstr ""
+msgstr "주문 번호"
 
 msgid "Other&nbsp;Stuff"
-msgstr ""
+msgstr "기타&nbsp;물품"
 
 msgid "Payment Methods"
-msgstr ""
+msgstr "지불 방법"
 
 msgid "Pop"
-msgstr ""
+msgstr "팝"
 
 msgid "Popular Formats"
-msgstr ""
+msgstr "인기있는 "
 
 msgid "Price"
-msgstr ""
+msgstr "가격"
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "개인정보 보호 정책"
 
 msgid "Product Search"
-msgstr ""
+msgstr "상품 검색"
 
 msgid "Profile"
-msgstr ""
+msgstr "프로파일"
 
 msgid "Punk"
-msgstr ""
+msgstr "펑크"
 
 msgid "Purchase Date"
-msgstr ""
+msgstr "구매 날짜"
 
 msgid "Reach more buyers"
-msgstr ""
+msgstr "더 많은 판매자에게"
 
 msgid "Read what other Discogs sellers have to say"
 msgstr ""
 
 msgid "Recent Group Activity"
-msgstr ""
+msgstr "최근 활동 그룹"
 
 msgid "Recent Marketplace Sales"
-msgstr ""
+msgstr "최근 판매 물품"
 
 msgid "Recommendations"
-msgstr ""
+msgstr "추천"
 
 msgid "Recommendations For You"
-msgstr ""
+msgstr "추천"
 
 msgid "Reggae"
-msgstr ""
+msgstr "레게"
 
 msgid "Released"
-msgstr ""
+msgstr "릴리즈"
 
 msgid "Releases"
-msgstr ""
+msgstr "릴리즈"
 
 msgid "Reviews"
-msgstr ""
+msgstr "평가"
 
 msgid "Rock"
-msgstr ""
+msgstr "락"
 
 msgid "Sales History"
-msgstr ""
+msgstr "판매 이력"
 
 msgid "Saved Group Topics"
 msgstr ""
@@ -450,10 +449,10 @@ msgid "Search for variations of"
 msgstr ""
 
 msgid "Search results"
-msgstr ""
+msgstr "검색 결과"
 
 msgid "Sell"
-msgstr ""
+msgstr "판매"
 
 msgid "Selling here gets you instant exposure to our high traffic."
 msgstr ""
@@ -462,215 +461,211 @@ msgid "Selling vinyl records and CDs has never been easier."
 msgstr ""
 
 msgid "Settings"
-msgstr ""
+msgstr "설정"
 
 msgid "Shipping Policies"
-msgstr ""
+msgstr "배송 정책"
 
 msgid "Shop"
-msgstr ""
+msgstr "상점"
 
 msgid "Shopping Cart"
-msgstr ""
+msgstr "장바구니"
 
 msgid "Show"
-msgstr ""
+msgstr "보기"
 
 msgid "Showing"
-msgstr ""
+msgstr "보이기"
 
 msgid "Sign Up"
-msgstr ""
+msgstr "가입"
 
 msgid "Sorry, no downloads could be found."
-msgstr ""
+msgstr "죄송합니다. 검색한 내용으로는 다운로드 가능한 물품이 존재하지 않습니다."
 
 msgid "Sort By"
-msgstr ""
+msgstr "다음으로 정렬"
 
 msgid "Sort by"
-msgstr ""
+msgstr "다음으로 정렬"
 
 msgid "Standard Listing"
 msgstr ""
 
 msgid "Start Shopping"
-msgstr ""
+msgstr "쇼핑 "
 
 msgid "Start getting recommendations by making a purchase in the marketplace."
 msgstr ""
 
 msgid "Style"
-msgstr ""
+msgstr "형태"
 
 msgid "Styles"
-msgstr ""
+msgstr "스타일"
 
 msgid "Submissions"
-msgstr ""
+msgstr "제안"
 
 msgid "Subscribe to featured releases newsletter"
 msgstr ""
 
 msgid "Support Request"
-msgstr ""
+msgstr "지원 요청"
 
 msgid "Techno"
-msgstr ""
+msgstr "테크노"
 
 msgid "Terms of Service"
-msgstr ""
+msgstr "서비스 정책"
 
 msgid "The Best Way to Sell Music"
-msgstr ""
+msgstr "음악을 판매하는 최고의 방법"
 
 msgid "The info is already here."
-msgstr ""
+msgstr "정보가 이미 존재합니다."
 
 msgid "This label does not exist in Discogs."
-msgstr ""
+msgstr "이 레이블은 Discogs에 존재하지 않습니다."
 
 msgid "This label has no approved releases"
 msgstr ""
 
 msgid "Total"
-msgstr ""
+msgstr "합"
 
 msgid "Track"
-msgstr ""
+msgstr "트랙"
 
 msgid "Tracklist"
-msgstr ""
+msgstr "트랙 리스트"
 
 msgid "Trance"
-msgstr ""
+msgstr "트랜스"
 
 msgid "Videos"
-msgstr ""
+msgstr "동영상"
 
 msgid "View Cart"
-msgstr ""
+msgstr "장바구니 보"
 
 msgid "View all genres"
-msgstr ""
+msgstr "모든 장르 보기"
 
 msgid "Vinyl"
-msgstr ""
+msgstr "바이닐"
 
 msgid "Wantlist"
-msgstr ""
+msgstr "찜한 상품"
 
 msgid "Watch how it's done"
 msgstr ""
 
 msgid "Year"
-msgstr ""
+msgstr "년도"
 
 msgid "You only pay a 6 - 8&#37; fee when your items sell."
 msgstr ""
 
 msgid "Your cart is empty"
-msgstr ""
+msgstr "장바구니가 비어 있습니다."
 
 msgid "Your search returned no results. Please try a different query."
-msgstr ""
+msgstr "입력하신 내용에 대한 검색 결과가 없습니다. 다른 검색어를 입력해 주세요."
 
 msgid "available in digital format"
-msgstr ""
+msgstr "디지털 형식 사용 가능"
 
 msgid "browse all"
-msgstr ""
+msgstr "모두 보기"
 
 msgid "edit"
-msgstr ""
+msgstr "수정"
 
 msgid "for sale"
-msgstr ""
+msgstr "판매"
 
 msgid "from my"
 msgstr ""
 
 msgid "genres"
-msgstr ""
+msgstr "장르"
 
 msgid "history"
-msgstr ""
+msgstr "역사"
 
 msgid "in"
-msgstr ""
+msgstr "으로"
 
 msgid "in MP3/WAV"
-msgstr ""
+msgstr "MP3/WAV 로"
 
 msgid "item"
 msgid_plural "items"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "품목"
 
 msgid "lists"
-msgstr ""
+msgstr "리스트"
 
 msgid "more"
-msgstr ""
+msgstr "더"
 
 msgid "more genres"
-msgstr ""
+msgstr "더 많은 장르"
 
 msgid "music in the world's biggest and best music marketplace"
-msgstr ""
+msgstr "세계에서 가장 큰 시장에 있는 음악"
 
 msgid "new and old music, connect with other music lovers"
-msgstr ""
+msgstr "새로운 음악과 과거의 음악으로 다른 리스너들과 연결하세요"
 
 msgid "one per line"
-msgstr ""
+msgstr "줄당"
 
 msgid "release"
-msgstr ""
+msgstr "릴리즈"
 
 msgid "remove"
-msgstr ""
+msgstr "제거"
 
 msgid "results"
-msgstr ""
+msgstr "결과"
 
 msgid "reviews"
-msgstr ""
+msgstr "리뷰"
 
 msgid "show more"
-msgstr ""
+msgstr "더 보기"
 
 msgid "showing"
-msgstr ""
+msgstr "보기"
 
 msgid "sort"
-msgstr ""
+msgstr "정렬"
 
 msgid "submission pending"
 msgid_plural "submissions pending"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "수정 요청 보류"
 
 msgid "to the largest and most accurate music database"
-msgstr ""
+msgstr "거대하고 정확한 음악 데이터베이스"
 
 msgid "track"
-msgstr ""
+msgstr "트랙"
 
 msgid "tracks"
-msgstr ""
+msgstr "트랙"
 
 msgid "view all"
-msgstr ""
+msgstr "모두 보기"
 
 msgid "we recommend these releases"
-msgstr ""
+msgstr "이 릴리즈를 추천해 드립니다"
 
 msgid "website"
-msgstr ""
+msgstr "웹사이트"
 
 msgid ""
 "your collection and wantlist, get notified when items you want are for sale"
-msgstr ""
+msgstr "당신이 원하시는 물품은 구입이 가능한 물품이 있으면 알려 드리겠습니다."
