@@ -244,7 +244,7 @@ msgid ""
 msgstr "Artikel werden in den Suchergebnissen basierend auf Künstler, Titel und Format angezeigt"
 
 msgid "Items are displayed under the exact release you list them"
-msgstr "Artikel werden genau unter der Veröffentlichung anzegeigt, unter der Du sie einstellst"
+msgstr "Artikel werden genau unter der Veröffentlichung angezeigt, unter der Du sie einstellst"
 
 msgid "Jazz"
 msgstr "Jazz"
