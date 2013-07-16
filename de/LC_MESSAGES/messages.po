@@ -28,13 +28,13 @@ msgstr "Veröffentlichung hinzufügen"
 msgid ""
 "Add stuff to your wantlist and we'll let you know when someone is selling "
 "it."
-msgstr "Setze Sachen auf Deine Wunschliste und wir werden Dich benachrichtigen, wenn jemand sie verkauft."
+msgstr "Erweitere Deine Wunschliste und wir benachrichtigen Dich, wenn jemand etwas davon verkauft."
 
 msgid "Add to Cart"
-msgstr "In den Einkaufswagen"
+msgstr "In den Warenkorb"
 
 msgid "Add to List"
-msgstr "Zur Liste hinzufügen"
+msgstr "Zu Liste hinzufügen"
 
 msgid "All Genres"
 msgstr "Alle Genres"
@@ -124,7 +124,7 @@ msgid "Digital"
 msgstr "Digital"
 
 msgid "Disco"
-msgstr "Disko"
+msgstr "Disco"
 
 msgid "Discography"
 msgstr "Diskografie"
@@ -150,7 +150,7 @@ msgid "Electronic"
 msgstr "Elektronisch"
 
 msgid "Empty Cart"
-msgstr "Einkaufswagen leeren"
+msgstr "Warenkorb leeren"
 
 msgid "Explore"
 msgstr "Erkunden"
@@ -192,7 +192,7 @@ msgid "Genres"
 msgstr "Genres"
 
 msgid "Get Started"
-msgstr "Los"
+msgstr "Jetzt loslegen"
 
 msgid "Get Started Selling Now"
 msgstr "Beginne jetzt mit dem Verkauf"
@@ -244,7 +244,7 @@ msgid ""
 msgstr "Artikel werden in den Suchergebnissen basierend auf Künstler, Titel und Format angezeigt"
 
 msgid "Items are displayed under the exact release you list them"
-msgstr "Artikel werden genau unter dem Release anzegeigt, unter dem Du sie einstellst"
+msgstr "Artikel werden genau unter der Veröffentlichung angezeigt, unter der Du sie einstellst"
 
 msgid "Jazz"
 msgstr "Jazz"
@@ -336,10 +336,10 @@ msgid "My Purchases"
 msgstr "Meine Einkäufe"
 
 msgid "Needs Changes"
-msgstr "Erfordert Änderungen"
+msgstr "Änderungen erforderlich"
 
 msgid "Needs Vote"
-msgstr "Benötigt Abstimmung"
+msgstr "Votum erforderlich"
 
 msgid "New Releases"
 msgstr "Neue Veröffentlichungen"
@@ -471,7 +471,7 @@ msgid "Shop"
 msgstr "Shop"
 
 msgid "Shopping Cart"
-msgstr "Einkaufswagen"
+msgstr "Warenkorb"
 
 msgid "Show"
 msgstr "Zeige"
@@ -549,7 +549,7 @@ msgid "Videos"
 msgstr "Videos"
 
 msgid "View Cart"
-msgstr "Einkaufswagen"
+msgstr "Warenkorb einsehen"
 
 msgid "View all genres"
 msgstr "Alle Genres"
@@ -561,7 +561,7 @@ msgid "Wantlist"
 msgstr "Wunschliste"
 
 msgid "Watch how it's done"
-msgstr "Schau, wie es gemacht wird"
+msgstr "Ansehen, wie es gemacht wird"
 
 msgid "Year"
 msgstr "Jahr"
@@ -570,7 +570,7 @@ msgid "You only pay a 6 - 8&#37; fee when your items sell."
 msgstr "Du zahlst nur 6 - 8&#37; Gebühren, wenn Deine Artikel verkauft werden."
 
 msgid "Your cart is empty"
-msgstr "Dein Einkaufswagen ist leer"
+msgstr "Dein Warenkorb ist leer"
 
 msgid "Your search returned no results. Please try a different query."
 msgstr "Deine Suche ergab keine Treffer. Bitte probiere eine andere Suchanfrage."
