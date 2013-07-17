@@ -67,7 +67,7 @@ msgid "Buy"
 msgstr "Comprar"
 
 msgid "Buy Vinyl Records, CDs and More"
-msgstr "Comprar discos de vinilo, CDs y más"
+msgstr "Comprar vinilos, CDs y más"
 
 msgid "CD"
 msgstr "CD"
@@ -110,7 +110,7 @@ msgstr "País"
 
 #, fuzzy
 msgid "Credits"
-msgstr "editar"
+msgstr "Créditos"
 
 msgid "Dancehall"
 msgstr "Dancehall"
@@ -139,8 +139,8 @@ msgstr ""
 
 msgid "Discogs users are auto-notified when items they want are listed."
 msgstr ""
-"Discogs usuarios se auto-notificado cuando los artículos que desea se "
-"enumeran."
+"Los usuarios de Discogs son notificados automáticamente cuando los artículos que desean se "
+"ponen a la venta"
 
 msgid "Discover"
 msgstr "Descubrir"
@@ -170,10 +170,10 @@ msgid "Follow&nbsp;Us"
 msgstr "Siga con nosotros"
 
 msgid "For sellers that need to list their items in bulk"
-msgstr "Para los vendedores que necesitan a la lista de sus artículos al por mayor"
+msgstr "Para vendedores que necesitan listar sus artículos al por mayor"
 
 msgid "For sellers with time to list items one-by-one"
-msgstr "Para los vendedores con el tiempo a la lista de los elementos uno por uno"
+msgstr "Para vendedores con el tiempo para listar artículos uno por uno"
 
 msgid "Format"
 msgstr "Formato"
@@ -209,7 +209,7 @@ msgid "Help"
 msgstr "Ayuda"
 
 msgid "Help Forums"
-msgstr "Foros de ayuda de"
+msgstr "Foros de ayuda"
 
 msgid "Help on search"
 msgstr "Ayuda en la búsqueda"
@@ -221,21 +221,21 @@ msgid "Hip Hop"
 msgstr "Hip Hop"
 
 msgid "House"
-msgstr "Casa"
+msgstr "House"
 
 msgid "If you would like us to add your testimonial, please contact"
-msgstr "Si nos gustaría añadir a su testimonio, gracias por ponerse en contacto"
+msgstr "Si desea que agreguemos su testimonio, por favor contáctese con nosotros"
 
 msgid "Indie Rock"
 msgstr "Indie Rock"
 
 msgid "Initial listings and all updates are handled with bulk uploads"
 msgstr ""
-"Listados iniciales y todas las actualizaciones son tratados con cargas "
+"Listados iniciales y todas las actualizaciones son realizadas con cargas "
 "masivas"
 
 msgid "Initial listings are one-by-one, but can be updated in bulk"
-msgstr "Listados iniciales son uno por uno, pero se puede actualizar a granel"
+msgstr "Listados iniciales son uno por uno, pero se puede actualizar masivamente"
 
 msgid "Item"
 msgstr "Artículo"
@@ -244,15 +244,15 @@ msgid "Items I Want"
 msgstr "Artículos que quiero"
 
 msgid "Items Ship From"
-msgstr "Elementos del buque de"
+msgstr "Artículos despachados"
 
 msgid "Items are displayed in search results based on artist, title and format"
 msgstr ""
-"Los productos que se muestran en los resultados de búsqueda sobre la base"
-" de artista, título y formato"
+"Los artículos que se muestran en los resultados de la búsqueda basada en"
+"artista, título y formato"
 
 msgid "Items are displayed under the exact release you list them"
-msgstr "Los productos que se muestran en la versión exacta que les lista"
+msgstr "Los artículos se muestran en la versión exacta que les lista"
 
 msgid "Jazz"
 msgstr "Jazz"
@@ -279,11 +279,11 @@ msgid "Learn more"
 msgstr "Más información"
 
 msgid "Listing Options"
-msgstr "Opciones del Anuncio"
+msgstr "Opciones de publicación"
 
 msgid "Listing items for sale on Discogs is <strong>always free</strong>."
 msgstr ""
-"Lista de productos a la venta en Discogs <strong>siempre</strong> es "
+"Publicar artículos a la venta en Discogs <strong>siempre</strong> es "
 "<strong>gratis.</strong>"
 
 msgid "Lists"
@@ -323,7 +323,7 @@ msgid "More formats"
 msgstr "Más formatos"
 
 msgid "More genres"
-msgstr "Géneros más"
+msgstr "Más géneros"
 
 msgid "More styles"
 msgstr "Más estilos"
@@ -333,7 +333,7 @@ msgid ""
 "every month."
 msgstr ""
 "Más de <strong>4 millones</strong> de <strong>personas buscan</strong> "
-"música Discogs cada mes."
+"música en Discogs cada mes."
 
 msgid "My Groups"
 msgstr "Mis Grupos"
@@ -633,10 +633,10 @@ msgid "more"
 msgstr "más"
 
 msgid "more genres"
-msgstr "géneros más"
+msgstr "más géneros"
 
 msgid "music in the world's biggest and best music marketplace"
-msgstr "música en el mercado mundial de música más grande y mejor"
+msgstr "música en el mayor y mejor mercado musical"
 
 msgid "new and old music, connect with other music lovers"
 msgstr "música nueva y vieja, conecte con otros amantes de la música"
@@ -680,7 +680,7 @@ msgid "tracks"
 msgstr "pistas"
 
 msgid "view all"
-msgstr "ver todos"
+msgstr "ver todo"
 
 msgid "we recommend these releases"
 msgstr "recomendamos estas liberaciones"
