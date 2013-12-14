@@ -30,7 +30,7 @@ msgstr "Ajouter un enregistrement"
 msgid ""
 "Add stuff to your wantlist and we'll let you know when someone is selling "
 "it."
-msgstr "Ajoutez quelque chose à votre wantlist et nous vous previendront lorsqu'un exemplaire sera mis en vente."
+msgstr "Ajoutez quelque chose à votre wantlist et nous vous previendrons lorsqu'un exemplaire sera mis en vente."
 
 msgid "Add to Cart"
 msgstr "Ajouter au panier"
