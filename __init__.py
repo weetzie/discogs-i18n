@@ -157,7 +157,7 @@ def __country_to_locales_map():
     e.g. {'us': ['en', 'es'], ...}
     """
     country_to_locales_map = {}
-    for locale in babel.localedata.list():
+    for locale in babel.localedata.locale_identifiers():
         if not '_' in locale:
             continue
         language, country = locale.split('_', 1)
