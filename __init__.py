@@ -156,8 +156,15 @@ def __country_to_locales_map():
     Returns a dictionary mapping countries to locales.
     e.g. {'us': ['en', 'es'], ...}
     """
+    # TODO: change to make compatible with babel 0.9.6 and 1.3
+    locales = (
+        babel.localedata.locale_identifiers()
+        if babel.__version__ == '1.3' else
+        babel.localedata.list()
+    )
+
     country_to_locales_map = {}
-    for locale in babel.localedata.list():
+    for locale in locales:
         if not '_' in locale:
             continue
         language, country = locale.split('_', 1)
