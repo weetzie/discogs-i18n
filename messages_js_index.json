@@ -1,0 +1,12 @@
+{
+  "sections/cart.js": [
+    "Save Changes", 
+    "Save and Continue", 
+    "You must agree to the order terms to continue", 
+    "Placing order...", 
+    "Discogs Alert", 
+    "Delivery in <%= label %>", 
+    "Place order and pay now", 
+    "Place order"
+  ]
+}
