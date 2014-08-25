@@ -5241,7 +5241,7 @@ msgstr "O nás"
 
 #, fuzzy, python-format
 msgid "about %s"
-msgstr "O nás"
+msgstr ""
 
 #, python-format
 msgid "about %s total"

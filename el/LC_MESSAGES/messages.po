@@ -161,7 +161,7 @@ msgstr ""
 
 #, fuzzy, python-format
 msgid "%s's Wantlist"
-msgstr "Λίστα Επιθυμιών"
+msgstr ""
 
 msgid "1. General Rules"
 msgstr ""
@@ -2281,7 +2281,7 @@ msgstr ""
 
 #, fuzzy, python-format
 msgid "More than %s"
-msgstr "περισσότερα είδη μουσικής"
+msgstr ""
 
 msgid "Most Collected"
 msgstr ""
@@ -5400,11 +5400,11 @@ msgstr "Σχετικά με Εμας"
 
 #, fuzzy, python-format
 msgid "about %s"
-msgstr "Σχετικά με Εμας"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "about %s total"
-msgstr "Σχετικά με Εμας"
+msgstr ""
 
 #, python-format
 msgid "added %(release)s to collection."

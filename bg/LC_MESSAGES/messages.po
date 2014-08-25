@@ -2268,7 +2268,7 @@ msgstr ""
 
 #, fuzzy, python-format
 msgid "More than %s"
-msgstr "още жанрове"
+msgstr ""
 
 msgid "Most Collected"
 msgstr ""
@@ -5377,11 +5377,11 @@ msgstr "За Нас"
 
 #, fuzzy, python-format
 msgid "about %s"
-msgstr "За Нас"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "about %s total"
-msgstr "За Нас"
+msgstr ""
 
 #, python-format
 msgid "added %(release)s to collection."

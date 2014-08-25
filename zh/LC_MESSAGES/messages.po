@@ -161,7 +161,7 @@ msgstr ""
 
 #, fuzzy, python-format
 msgid "%s's Wantlist"
-msgstr "心愿单"
+msgstr ""
 
 msgid "1. General Rules"
 msgstr ""
@@ -2281,7 +2281,7 @@ msgstr ""
 
 #, fuzzy, python-format
 msgid "More than %s"
-msgstr "更多流派"
+msgstr ""
 
 msgid "Most Collected"
 msgstr ""
@@ -5400,11 +5400,11 @@ msgstr "关于我们"
 
 #, fuzzy, python-format
 msgid "about %s"
-msgstr "关于我们"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "about %s total"
-msgstr "关于我们"
+msgstr ""
 
 #, python-format
 msgid "added %(release)s to collection."

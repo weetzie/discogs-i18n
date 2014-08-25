@@ -151,7 +151,7 @@ msgstr ""
 
 #, fuzzy, python-format
 msgid "%s's Wantlist"
-msgstr "Kívánságlista"
+msgstr ""
 
 msgid "1. General Rules"
 msgstr ""
@@ -2264,7 +2264,7 @@ msgstr ""
 
 #, fuzzy, python-format
 msgid "More than %s"
-msgstr "több stílus"
+msgstr ""
 
 msgid "Most Collected"
 msgstr ""
@@ -5368,11 +5368,11 @@ msgstr "Rólunk"
 
 #, fuzzy, python-format
 msgid "about %s"
-msgstr "Rólunk"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "about %s total"
-msgstr "Rólunk"
+msgstr ""
 
 #, python-format
 msgid "added %(release)s to collection."

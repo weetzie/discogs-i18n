@@ -161,7 +161,7 @@ msgstr ""
 
 #, fuzzy, python-format
 msgid "%s's Wantlist"
-msgstr "Puutelista"
+msgstr ""
 
 msgid "1. General Rules"
 msgstr ""
@@ -2279,7 +2279,7 @@ msgstr ""
 
 #, fuzzy, python-format
 msgid "More than %s"
-msgstr "lisää genrejä"
+msgstr ""
 
 msgid "Most Collected"
 msgstr ""
@@ -5398,11 +5398,11 @@ msgstr "Lisätietoja meistä"
 
 #, fuzzy, python-format
 msgid "about %s"
-msgstr "Lisätietoja meistä"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "about %s total"
-msgstr "Lisätietoja meistä"
+msgstr ""
 
 #, python-format
 msgid "added %(release)s to collection."
