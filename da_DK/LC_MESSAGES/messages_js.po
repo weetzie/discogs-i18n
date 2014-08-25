@@ -1,673 +1,474 @@
-# Danish (Denmark) translations for Discogs.
-# Copyright (C) 2012 Discogs
-# This file is distributed under the same license as the Discogs project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
-# #, fuzzy
 msgid ""
-msgstr ""
-"Project-Id-Version: Discogs 0.1\n"
-"Report-Msgid-Bugs-To: language@discogs.com\n"
-"POT-Creation-Date: 2012-03-29 15:33-0700\n"
-"PO-Revision-Date: 2013-07-11 16:47-0700\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: da_DK <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 0.9.6\n"
-
-msgid "About Us"
+"<%= filename %> is an unsupported format. Please upload a .jpg, .png, "
+".gif, or .bmp."
 msgstr ""
 
-msgid "Add Release"
+msgid "<%= releaseId %> is invalid. Release IDs should only contain numbers."
+msgstr ""
+
+msgid "A nearly perfect record. The record should show no obvious signs of wear."
 msgstr ""
 
 msgid ""
-"Add stuff to your wantlist and we'll let you know when someone is selling"
-" it."
+"Absolutely perfect in every way. Certainly never been played. Should be "
+"used sparingly as a grade, If at all."
 msgstr ""
 
-msgid "Add to Cart"
+msgid "Accepted Fields"
 msgstr ""
 
-msgid "Add to List"
+msgid "Add Sub-Track"
 msgstr ""
 
-msgid "All Genres"
+msgid "Add artist"
 msgstr ""
 
-msgid "Alternates"
+msgid "Add barcode or identifier"
 msgstr ""
 
-msgid "Artists"
+msgid "Add credit"
 msgstr ""
 
-msgid "Barcode and Other Identifiers"
+msgid "Add format"
 msgstr ""
 
-msgid "Based on the items in your Shopping Cart from seller"
+msgid "Add label or entity"
 msgstr ""
 
-msgid "Bestselling"
+msgid "Add row"
 msgstr ""
 
-msgid "Bestselling MP3/WAV"
+msgid "Add style"
 msgstr ""
 
-msgid "Billing"
+msgid "Added <%= preview.title %> to your collection."
 msgstr ""
 
-msgid "Browse by Genre"
+msgid "Added <%= preview.title %> to your wantlist."
 msgstr ""
 
-msgid "Buy"
+msgid "Alert"
 msgstr ""
 
-msgid "Buy Vinyl Records, CDs and More"
+msgid "All shipping methods must define at least one range"
 msgstr ""
 
-msgid "CD"
-msgstr ""
-
-msgid "Cassette"
-msgstr ""
-
-msgid "Change all formats to"
-msgstr ""
-
-msgid "Checkout"
-msgstr ""
-
-msgid "Classical"
-msgstr ""
-
-msgid "Collection"
-msgstr ""
-
-msgid "Companies etc"
-msgstr ""
-
-msgid "Contact"
-msgstr ""
-
-msgid "Continue Shopping"
-msgstr ""
-
-msgid "Contribute"
-msgstr ""
-
-msgid "Contributor List"
-msgstr ""
-
-msgid "Copyright"
-msgstr ""
-
-msgid "Country"
-msgstr ""
-
-msgid "Credits"
-msgstr ""
-
-msgid "Dancehall"
-msgstr ""
-
-msgid "Decade"
-msgstr ""
-
-msgid "Developers&nbsp;API"
-msgstr ""
-
-msgid "Digital"
-msgstr ""
-
-msgid "Disco"
-msgstr ""
-
-msgid "Discography"
+msgid "An unknown error occurred (code <%= status %>)"
 msgstr ""
 
 msgid ""
-"Discogs is the safe and easy way to buy and <a "
-"href=\"/marketplace\">sell</a> music."
+"Are you certain you wish to change the format? Any descriptions in the "
+"row will be removed."
 msgstr ""
 
-msgid "Discogs users are auto-notified when items they want are listed."
+msgid "Are you certain you would like to delete this review?"
 msgstr ""
 
-msgid "Discover"
+msgid "Are you sure you want to DELETE the items?"
 msgstr ""
 
-msgid "Do less work"
+msgid "Are you sure you want to delete this list?"
 msgstr ""
 
-msgid "Drafts"
+msgid "Are you sure you want to remove <%= text %>?"
 msgstr ""
 
-msgid "Electronic"
+msgid "Are you sure you want to remove these items?"
 msgstr ""
 
-msgid "Empty Cart"
+msgid "Are you sure you want to remove this item?"
 msgstr ""
 
-msgid "Explore"
+msgid "Are you sure you want to un-share this?"
 msgstr ""
 
-msgid "Export Data"
+msgid "Are you sure?"
 msgstr ""
 
-msgid "Filter results by"
+msgid "Audio not found"
 msgstr ""
 
-msgid "Follow&nbsp;Us"
-msgstr ""
-
-msgid "For sellers that need to list their items in bulk"
-msgstr ""
-
-msgid "For sellers with time to list items one-by-one"
-msgstr ""
-
-msgid "Format"
-msgstr ""
-
-msgid "Formats"
-msgstr ""
-
-msgid "Forums"
-msgstr ""
-
-msgid "Friends"
-msgstr ""
-
-msgid "Funk / Soul"
-msgstr ""
-
-msgid "Genre"
-msgstr ""
-
-msgid "Genres"
-msgstr ""
-
-msgid "Get Started"
-msgstr ""
-
-msgid "Get Started Selling Now"
-msgstr ""
-
-msgid "Getting Started"
-msgstr ""
-
-msgid "Help"
-msgstr ""
-
-msgid "Help Forums"
-msgstr ""
-
-msgid "Help on search"
-msgstr ""
-
-msgid "Help&nbsp;Is&nbsp;Here"
-msgstr ""
-
-msgid "Hip Hop"
-msgstr ""
-
-msgid "House"
-msgstr ""
-
-msgid "If you would like us to add your testimonial, please contact"
-msgstr ""
-
-msgid "Indie Rock"
-msgstr ""
-
-msgid "Initial listings and all updates are handled with bulk uploads"
-msgstr ""
-
-msgid "Initial listings are one-by-one, but can be updated in bulk"
-msgstr ""
-
-msgid "Item"
-msgstr ""
-
-msgid "Items I Want"
-msgstr ""
-
-msgid "Items Ship From"
-msgstr ""
-
-msgid "Items are displayed in search results based on artist, title and format"
-msgstr ""
-
-msgid "Items are displayed under the exact release you list them"
-msgstr ""
-
-msgid "Jazz"
-msgstr ""
-
-msgid "Jobs"
-msgstr ""
-
-msgid "Join&nbsp;In"
-msgstr ""
-
-msgid "Jump To"
-msgstr ""
-
-msgid "Label"
-msgstr ""
-
-msgid "Labels"
-msgstr ""
-
-msgid "Languages"
-msgstr ""
-
-msgid "Learn more"
-msgstr ""
-
-msgid "Listing Options"
-msgstr ""
-
-msgid "Listing items for sale on Discogs is <strong>always free</strong>."
-msgstr ""
-
-msgid "Lists"
-msgstr ""
-
-msgid "Logout"
-msgstr ""
-
-msgid "MP3 &amp; WAV"
-msgstr ""
-
-msgid "MP3 &amp; WAV Downloads"
-msgstr ""
-
-msgid "MP3/WAV"
-msgstr ""
-
-msgid "Make more money"
-msgstr ""
-
-msgid "Manage Inventory"
-msgstr ""
-
-msgid "Marketplace"
-msgstr ""
-
-msgid "Marketplace Support"
-msgstr ""
-
-msgid "Mobile"
-msgstr ""
-
-msgid "More From"
-msgstr ""
-
-msgid "More formats"
-msgstr ""
-
-msgid "More genres"
-msgstr ""
-
-msgid "More styles"
+msgid "Auto-saved draft <%= link %> at <%= time %>"
 msgstr ""
 
 msgid ""
-"More than <strong>4 million people</strong> look for music on Discogs "
-"every month."
+"Can be put onto a turntable and will play through without skipping. "
+"Significant surface noise, scratches and visible groove wear."
 msgstr ""
 
-msgid "My Groups"
+msgid "Cancel"
 msgstr ""
 
-msgid "My Items For Sale"
+msgid "Cancel Order"
 msgstr ""
 
-msgid "My Orders"
+msgid "Checking"
 msgstr ""
 
-msgid "My Purchases"
+msgid "Click <%= saveButton => again to save anyway."
 msgstr ""
 
-msgid "Needs Changes"
+msgid "Close"
 msgstr ""
 
-msgid "Needs Vote"
+msgid "Confirm"
 msgstr ""
 
-msgid "New Releases"
+msgid "Create"
 msgstr ""
 
-msgid "New Seller"
+msgid "Create Master Release"
 msgstr ""
 
-msgid "New Styles"
+msgid "Created draft <%= link %> at <%= time %>"
 msgstr ""
 
-msgid "New Wave"
+msgid "Deleting"
 msgstr ""
 
-msgid "No need to type up detailed item descriptions."
+msgid "Delivery in <%= label %>"
 msgstr ""
 
-msgid "No orders"
+msgid "Discogs Alert"
 msgstr ""
 
-msgid "Notes"
+msgid "Does not exist: <%= id %>"
 msgstr ""
 
-msgid "OR"
+msgid "Edit Master Release"
 msgstr ""
 
-msgid "Official Blog"
+msgid "Error"
 msgstr ""
 
-msgid "Only 6&#37; in fees incur when your items sell"
+msgid "European Union"
 msgstr ""
 
-msgid "Only 8&#37; in fees incur when your items sell"
+msgid "Failed to generate preview."
 msgstr ""
 
-msgid "Order Number"
+msgid "Failed to save draft."
 msgstr ""
 
-msgid "Other&nbsp;Stuff"
+msgid "Feedback Sent"
 msgstr ""
 
-msgid "Payment Methods"
+msgid "Generating Preview"
 msgstr ""
 
-msgid "Pop"
+msgid "Hide Credits"
 msgstr ""
 
-msgid "Popular Formats"
+msgid "Hide actions"
 msgstr ""
 
-msgid "Price"
+msgid "Insert Heading"
 msgstr ""
 
-msgid "Privacy Policy"
+msgid "Insert Index Track"
 msgstr ""
 
-msgid "Product Search"
+msgid "Insert Sub-Track"
 msgstr ""
 
-msgid "Profile"
+msgid "Insert Track"
 msgstr ""
 
-msgid "Punk"
+msgid "Items added to your collection"
 msgstr ""
 
-msgid "Purchase Date"
+msgid "Keyboard Shortcuts Help"
 msgstr ""
 
-msgid "Reach more buyers"
+msgid "Less"
 msgstr ""
 
-msgid "Read what other Discogs sellers have to say"
+msgid "Load next"
 msgstr ""
 
-msgid "Recent Group Activity"
+msgid "Make End of Index Track"
 msgstr ""
 
-msgid "Recent Marketplace Sales"
-msgstr ""
-
-msgid "Recommendations"
-msgstr ""
-
-msgid "Recommendations For You"
-msgstr ""
-
-msgid "Reggae"
-msgstr ""
-
-msgid "Released"
-msgstr ""
-
-msgid "Releases"
-msgstr ""
-
-msgid "Reviews"
-msgstr ""
-
-msgid "Rock"
-msgstr ""
-
-msgid "Sales History"
-msgstr ""
-
-msgid "Saved Group Topics"
-msgstr ""
-
-msgid "Search for variations of"
-msgstr ""
-
-msgid "Search results"
-msgstr ""
-
-msgid "Sell"
-msgstr ""
-
-msgid "Selling here gets you instant exposure to our high traffic."
-msgstr ""
-
-msgid "Selling vinyl records and CDs has never been easier."
-msgstr ""
-
-msgid "Settings"
-msgstr ""
-
-msgid "Shipping Policies"
-msgstr ""
-
-msgid "Shop"
-msgstr ""
-
-msgid "Shopping Cart"
-msgstr ""
-
-msgid "Show"
-msgstr ""
-
-msgid "Showing"
-msgstr ""
-
-msgid "Sign Up"
-msgstr ""
-
-msgid "Sorry, no downloads could be found."
-msgstr ""
-
-msgid "Sort By"
-msgstr ""
-
-msgid "Sort by"
-msgstr ""
-
-msgid "Standard Listing"
-msgstr ""
-
-msgid "Start Shopping"
-msgstr ""
-
-msgid "Start getting recommendations by making a purchase in the marketplace."
-msgstr ""
-
-msgid "Style"
-msgstr ""
-
-msgid "Styles"
-msgstr ""
-
-msgid "Submissions"
-msgstr ""
-
-msgid "Subscribe to featured releases newsletter"
-msgstr ""
-
-msgid "Support Request"
-msgstr ""
-
-msgid "Techno"
-msgstr ""
-
-msgid "Terms of Service"
-msgstr ""
-
-msgid "The Best Way to Sell Music"
-msgstr ""
-
-msgid "The info is already here."
-msgstr ""
-
-msgid "This label does not exist in Discogs."
-msgstr ""
-
-msgid "This label has no approved releases"
-msgstr ""
-
-msgid "Total"
-msgstr ""
-
-msgid "Track"
-msgstr ""
-
-msgid "Tracklist"
-msgstr ""
-
-msgid "Trance"
-msgstr ""
-
-msgid "Videos"
-msgstr ""
-
-msgid "View Cart"
-msgstr ""
-
-msgid "View all genres"
-msgstr ""
-
-msgid "Vinyl"
-msgstr ""
-
-msgid "Wantlist"
-msgstr ""
-
-msgid "Watch how it's done"
-msgstr ""
-
-msgid "Year"
-msgstr ""
-
-msgid "You only pay a 6 - 8&#37; fee when your items sell."
-msgstr ""
-
-msgid "Your cart is empty"
-msgstr ""
-
-msgid "Your search returned no results. Please try a different query."
-msgstr ""
-
-msgid "available in digital format"
-msgstr ""
-
-msgid "browse all"
-msgstr ""
-
-msgid "edit"
-msgstr ""
-
-msgid "for sale"
-msgstr ""
-
-msgid "from my"
-msgstr ""
-
-msgid "genres"
-msgstr ""
-
-msgid "history"
-msgstr ""
-
-msgid "in"
-msgstr ""
-
-msgid "in MP3/WAV"
-msgstr ""
-
-msgid "item"
-msgid_plural "items"
-msgstr[0] ""
-msgstr[1] ""
-
-msgid "lists"
-msgstr ""
-
-msgid "more"
-msgstr ""
-
-msgid "more genres"
-msgstr ""
-
-msgid "music in the world's biggest and best music marketplace"
-msgstr ""
-
-msgid "new and old music, connect with other music lovers"
-msgstr ""
-
-msgid "one per line"
-msgstr ""
-
-msgid "release"
-msgstr ""
-
-msgid "remove"
-msgstr ""
-
-msgid "results"
-msgstr ""
-
-msgid "reviews"
-msgstr ""
-
-msgid "show more"
-msgstr ""
-
-msgid "showing"
-msgstr ""
-
-msgid "sort"
-msgstr ""
-
-msgid "submission pending"
-msgid_plural "submissions pending"
-msgstr[0] ""
-msgstr[1] ""
-
-msgid "to the largest and most accurate music database"
-msgstr ""
-
-msgid "track"
-msgstr ""
-
-msgid "tracks"
-msgstr ""
-
-msgid "view all"
-msgstr ""
-
-msgid "we recommend these releases"
-msgstr ""
-
-msgid "website"
+msgid "Make an Offer"
 msgstr ""
 
 msgid ""
-"your collection and wantlist, get notified when items you want are for "
-"sale"
+"Master release saved successfully and will be processed soon. Please "
+"refresh the page in a minute to see the updated discography."
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "Move"
+msgstr ""
+
+msgid "Move Item to:"
+msgstr ""
+
+msgid "No more than <%= n %> items may be present on your dashboard at one time"
+msgstr ""
+
+msgid "No results found."
+msgstr ""
+
+msgid "Okay"
+msgstr ""
+
+msgid "Place order"
+msgstr ""
+
+msgid "Place order and pay now"
+msgstr ""
+
+msgid "Placing order..."
+msgstr ""
+
+msgid "Please choose a file to upload"
+msgstr ""
+
+msgid "Please enter <%= n %> unique Release IDs."
+msgstr ""
+
+msgid "Please enter <%= n %> valid Release IDs."
+msgstr ""
+
+msgid "Please enter a Key Release ID"
+msgstr ""
+
+msgid "Please enter a title."
+msgstr ""
+
+msgid "Please enter at least one Release ID in addition to the Key Release ID."
+msgstr ""
+
+msgid "Please enter your Release IDs. Be sure to include the Key Release ID."
+msgstr ""
+
+msgid "Please indicate which Release ID has accurate data."
+msgstr ""
+
+msgid "Please provide a detailed reason for the merge."
+msgstr ""
+
+msgid "Please select a key release."
+msgstr ""
+
+msgid "Please select an existing list."
+msgstr ""
+
+msgid "Please select an item to remove"
+msgstr ""
+
+msgid "Popular Destinations"
+msgstr ""
+
+msgid "Post Comment"
+msgstr ""
+
+msgid "Posting"
+msgstr ""
+
+msgid ""
+"Press OK to report that this list contravenes the <a "
+"href=\"http://www.discogs.com/help/lists.html\">Discogs List "
+"guidelines</a>."
+msgstr ""
+
+msgid "Preview Loading"
+msgstr ""
+
+msgid "Previewing..."
+msgstr ""
+
+msgid "Problem Sending Feedback"
+msgstr ""
+
+msgid "Processing"
+msgstr ""
+
+msgid "Ranges overlap or are ordered incorrectly"
+msgstr ""
+
+msgid ""
+"Record is cracked, badly warped, or won't play through without skipping "
+"or repeating."
+msgstr ""
+
+msgid "Release not found. Please try another Release ID."
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove <%= username %> from your friends list?"
+msgstr ""
+
+msgid "Remove this shipping method?"
+msgstr ""
+
+msgid "Remove this shipping policy?"
+msgstr ""
+
+msgid "Replying"
+msgstr ""
+
+msgid "Reported"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Save and Continue"
+msgstr ""
+
+msgid "Saved draft <%= link %> at <%= time %>"
+msgstr ""
+
+msgid "Saving"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search by Exact Match"
+msgstr ""
+
+msgid "Search for"
+msgstr ""
+
+msgid "Search in New Window"
+msgstr ""
+
+msgid "Send Feedback"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Shared on your profile"
+msgstr ""
+
+msgid "Sharing Settings"
+msgstr ""
+
+msgid "Sharing..."
+msgstr ""
+
+msgid "Shipping and Payment Terms"
+msgstr ""
+
+msgid "Show Credits"
+msgstr ""
+
+msgid "Show actions"
+msgstr ""
+
+msgid ""
+"Some mobile devices will not allow playback until you first activate the "
+"YouTube player by tapping on it. If the video is not loading, refresh the"
+" page, then tap on the player."
+msgstr ""
+
+msgid "Strict"
+msgstr ""
+
+msgid "Submission notes are required"
+msgstr ""
+
+msgid ""
+"Surface noise will be evident upon playing... but will not overpower the "
+"music. Groove wear will start to be noticeable, as will light scratches."
+msgstr ""
+
+msgid "The following errors preventing this item from being listed"
+msgstr ""
+
+msgid ""
+"There was a problem sending your feedback. Please try again in a few "
+"moments."
+msgstr ""
+
+msgid ""
+"This operation will overwrite all track positions with 1, 2, 3, etc. Are "
+"you sure you want to do this?"
+msgstr ""
+
+msgid "Unable to estimate from release data"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Unsharing..."
+msgstr ""
+
+msgid "Update Order"
+msgstr ""
+
+msgid "View Image"
+msgstr ""
+
+msgid "Vote and Post Comment"
+msgstr ""
+
+msgid "WARNING: You have made changes since loading this page."
+msgstr ""
+
+msgid "WARNING: You have unsaved changes."
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Warning: for large tracklists this may significantly hinder performance"
+msgstr ""
+
+msgid ""
+"Will show some signs that it was played and otherwise handled by a "
+"previous owner who took good care of it."
+msgstr ""
+
+msgid ""
+"You can't have more than one <%= shippingMethod %> shipping method in the"
+" same policy"
+msgstr ""
+
+msgid "You did not choose a rating."
+msgstr ""
+
+msgid "You did not enter a comment."
+msgstr ""
+
+msgid "You must add at least one shipping method"
+msgstr ""
+
+msgid "You must agree to the order terms to continue"
+msgstr ""
+
+msgid "You must post a comment with this type of vote"
+msgstr ""
+
+msgid "You must provide a reason for removing this release."
+msgstr ""
+
+msgid "You must select at least one destination"
+msgstr ""
+
+msgid "Your changes couldn't be saved. Please try again."
+msgstr ""
+
+msgid ""
+"Your feedback was sent successfully. Thank you for helping improve "
+"Discogs!"
+msgstr ""
+
+msgid "about"
+msgstr ""
+
+msgid "generating preview..."
 msgstr ""
 
