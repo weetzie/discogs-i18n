@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-08-25 12:13-0700\n"
+"POT-Creation-Date: 2014-08-27 12:39-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: fi <LL@li.org>\n"
@@ -18,21 +18,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
+msgid " Notify me"
+msgstr ""
+
+msgid " Stop notifying"
+msgstr ""
+
 #, python-format
 msgid "\"%s\" is available."
 msgstr ""
 
-#, fuzzy
 msgid "# in Collection"
-msgstr "Kokoelma"
+msgstr ""
 
-#, fuzzy
 msgid "# in Inventory"
-msgstr "Hallitse tavaraluetteloa"
+msgstr ""
 
-#, fuzzy
 msgid "# in Wantlist"
-msgstr "Puutelista"
+msgstr ""
 
 msgid "# of Versions"
 msgstr ""
@@ -159,16 +162,15 @@ msgstr ""
 msgid "%s's Contributions"
 msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "%s's Wantlist"
 msgstr ""
 
 msgid "1. General Rules"
 msgstr ""
 
-#, fuzzy
 msgid "10. Credits"
-msgstr "Tekijät"
+msgstr ""
 
 msgid "11. Release Notes"
 msgstr ""
@@ -176,16 +178,14 @@ msgstr ""
 msgid "12 Months"
 msgstr ""
 
-#, fuzzy
 msgid "12. Tracklisting"
-msgstr "Raidat"
+msgstr ""
 
 msgid "13. Images"
 msgstr ""
 
-#, fuzzy
 msgid "2. Artist"
-msgstr "Artistit"
+msgstr ""
 
 msgid "3 Months"
 msgstr ""
@@ -196,24 +196,20 @@ msgstr ""
 msgid "4. Label/Catalog"
 msgstr ""
 
-#, fuzzy
 msgid "5. Barcodes &amp; Identifiers"
-msgstr "Viivakoodi ja muut tunnisteet"
+msgstr ""
 
 msgid "6 Months"
 msgstr ""
 
-#, fuzzy
 msgid "6. Format"
-msgstr "Lisää formaatteja"
+msgstr ""
 
-#, fuzzy
 msgid "7. Country"
-msgstr "Maa"
+msgstr ""
 
-#, fuzzy
 msgid "8. Release Date"
-msgstr "julkaisu"
+msgstr ""
 
 msgid "9. Genres/Styles"
 msgstr ""
@@ -282,9 +278,8 @@ msgstr ""
 msgid "Abbr"
 msgstr ""
 
-#, fuzzy
 msgid "About"
-msgstr "Lisätietoja meistä"
+msgstr ""
 
 msgid "About Discogs"
 msgstr ""
@@ -349,9 +344,6 @@ msgstr ""
 msgid "Add Credit Per Track"
 msgstr ""
 
-msgid "Add Description"
-msgstr ""
-
 msgid "Add Folder"
 msgstr ""
 
@@ -370,24 +362,20 @@ msgstr ""
 msgid "Add Release"
 msgstr "Lisää julkaisu"
 
-#, fuzzy
 msgid "Add Track"
-msgstr "raita"
+msgstr ""
 
-#, fuzzy
 msgid "Add Tracks"
-msgstr "raidat"
+msgstr ""
 
 msgid "Add a Field"
 msgstr ""
 
-#, fuzzy
 msgid "Add a Release"
-msgstr "Lisää julkaisu"
+msgstr ""
 
-#, fuzzy
 msgid "Add a release"
-msgstr "Lisää julkaisu"
+msgstr ""
 
 msgid "Add an audio clip"
 msgstr ""
@@ -401,17 +389,14 @@ msgstr ""
 msgid "Add some images to the key release."
 msgstr ""
 
-#, fuzzy
 msgid "Add to Collection"
-msgstr "Kokoelma"
+msgstr ""
 
-#, fuzzy
 msgid "Add to Inventory"
-msgstr "Hallitse tavaraluetteloa"
+msgstr ""
 
-#, fuzzy
 msgid "Add to Wantlist"
-msgstr "Lisää listalle"
+msgstr ""
 
 msgid "Add to your Saved Submissions"
 msgstr ""
@@ -448,9 +433,8 @@ msgstr ""
 msgid "Admin"
 msgstr ""
 
-#, fuzzy
 msgid "Aliases"
-msgstr "listat"
+msgstr ""
 
 msgid "All"
 msgstr ""
@@ -458,17 +442,14 @@ msgstr ""
 msgid "All Discogs"
 msgstr ""
 
-#, fuzzy
 msgid "All Groups"
-msgstr "Ryhmäni"
+msgstr ""
 
-#, fuzzy
 msgid "All Items"
-msgstr "tuote"
+msgstr ""
 
-#, fuzzy
 msgid "All Marketplace"
-msgstr "Markkinapaikka"
+msgstr ""
 
 msgid "All Topics"
 msgstr ""
@@ -507,9 +488,8 @@ msgstr ""
 msgid "Always share"
 msgstr ""
 
-#, fuzzy
 msgid "Amount"
-msgstr "Maa"
+msgstr ""
 
 msgid "An error occurred. Please try again."
 msgstr ""
@@ -558,9 +538,8 @@ msgstr ""
 msgid "Are you sure you would like to copy this to your drafts?"
 msgstr ""
 
-#, fuzzy
 msgid "Artist"
-msgstr "Artistit"
+msgstr ""
 
 #, python-format
 msgid "Artist %s has already been indexed"
@@ -582,17 +561,14 @@ msgstr ""
 msgid "Ask me first"
 msgstr ""
 
-#, fuzzy
 msgid "Assigned Support Request"
-msgstr "Tukipyyntö"
+msgstr ""
 
-#, fuzzy
 msgid "Assigned Support Requests"
-msgstr "Tukipyyntö"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Sample"
-msgstr "myytävänä"
+msgstr ""
 
 msgid "Authentication Error"
 msgstr ""
@@ -627,9 +603,8 @@ msgstr ""
 msgid "Back to Discuss overview"
 msgstr ""
 
-#, fuzzy
 msgid "Back to release"
-msgstr "julkaisu"
+msgstr ""
 
 msgid "Ban user and delete all their groups"
 msgstr ""
@@ -661,9 +636,8 @@ msgstr ""
 msgid "Billing"
 msgstr "Laskutus"
 
-#, fuzzy
 msgid "Block"
-msgstr "Rokki"
+msgstr ""
 
 msgid "Block Sender"
 msgstr ""
@@ -687,28 +661,24 @@ msgstr ""
 msgid "Blog"
 msgstr ""
 
-#, fuzzy
 msgid "Bought by"
-msgstr "Järjestä"
+msgstr ""
 
-#, fuzzy
 msgid "Browse"
-msgstr "selaa kaikki"
+msgstr ""
 
 #, python-format
 msgid "Browse %(mode)s Groups"
 msgstr ""
 
-#, fuzzy
 msgid "Browse Groups"
-msgstr "selaa kaikki"
+msgstr ""
 
 msgid "Browse Groups By Tag"
 msgstr ""
 
-#, fuzzy
 msgid "Browsing options"
-msgstr "Listausasetukset"
+msgstr ""
 
 msgid "Building something cool? Check out our API!"
 msgstr ""
@@ -771,9 +741,8 @@ msgstr ""
 msgid "Can't find a group for you?"
 msgstr ""
 
-#, fuzzy
 msgid "Cancel"
-msgstr "Trance"
+msgstr ""
 
 #, python-format
 msgid "Cannot %s yourself."
@@ -872,9 +841,11 @@ msgstr ""
 msgid "Click once and wait"
 msgstr ""
 
-#, fuzzy
 msgid "Close"
-msgstr "House"
+msgstr ""
+
+msgid "Collapse"
+msgstr ""
 
 msgid "Collection"
 msgstr "Kokoelma"
@@ -888,9 +859,8 @@ msgstr ""
 msgid "Collection item not found"
 msgstr ""
 
-#, fuzzy
 msgid "Comments"
-msgstr "Suositukset"
+msgstr ""
 
 #, python-format
 msgid "Comments about your item (limited to %(limit)s characters)."
@@ -899,9 +869,8 @@ msgstr ""
 msgid "Comments on this item"
 msgstr ""
 
-#, fuzzy
 msgid "Community"
-msgstr "Maa"
+msgstr ""
 
 msgid "Company Core Values"
 msgstr ""
@@ -912,9 +881,8 @@ msgstr ""
 msgid "Compose New Message"
 msgstr ""
 
-#, fuzzy
 msgid "Condition"
-msgstr "Suositukset"
+msgstr ""
 
 msgid "Confirm Account"
 msgstr ""
@@ -943,13 +911,11 @@ msgstr ""
 msgid "Contact"
 msgstr "Yhteystiedot"
 
-#, fuzzy
 msgid "Contact Info"
-msgstr "Yhteystiedot"
+msgstr ""
 
-#, fuzzy
 msgid "Contained Releases"
-msgstr "Uudet julkaisut"
+msgstr ""
 
 msgid "Continuous Improvement"
 msgstr ""
@@ -957,9 +923,8 @@ msgstr ""
 msgid "Contribute"
 msgstr "Lahjoita"
 
-#, fuzzy
 msgid "Contributions"
-msgstr "Lahjoita"
+msgstr ""
 
 msgid "Contributor List"
 msgstr "Lahjoittajat"
@@ -984,9 +949,8 @@ msgstr ""
 msgid "Correct"
 msgstr ""
 
-#, fuzzy
 msgid "Count"
-msgstr "Maa"
+msgstr ""
 
 msgid "Country"
 msgstr "Maa"
@@ -1055,9 +1019,8 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#, fuzzy
 msgid "Credit"
-msgstr "muokkaa"
+msgstr ""
 
 msgid "Credit Card Information"
 msgstr ""
@@ -1083,9 +1046,8 @@ msgstr ""
 msgid "Credits"
 msgstr "Tekijät"
 
-#, fuzzy
 msgid "Credits List"
-msgstr "Tekijät"
+msgstr ""
 
 msgid "Currency"
 msgstr ""
@@ -1116,9 +1078,8 @@ msgstr ""
 msgid "Default"
 msgstr ""
 
-#, fuzzy
 msgid "Delete"
-msgstr "julkaisu"
+msgstr ""
 
 msgid "Delete Folder"
 msgstr ""
@@ -1129,9 +1090,8 @@ msgstr ""
 msgid "Delete this image permanently?"
 msgstr ""
 
-#, fuzzy
 msgid "Deleted"
-msgstr "Julkaistu"
+msgstr ""
 
 msgid "Deleted Folder"
 msgstr ""
@@ -1192,9 +1152,8 @@ msgstr ""
 msgid "Discogs Inbox"
 msgstr ""
 
-#, fuzzy
 msgid "Discogs Marketplace"
-msgstr "Markkinapaikka"
+msgstr ""
 
 msgid "Discogs Marketplace invoice"
 msgstr ""
@@ -1257,13 +1216,11 @@ msgid ""
 "to appear."
 msgstr ""
 
-#, fuzzy
 msgid "Edit"
-msgstr "muokkaa"
+msgstr ""
 
-#, fuzzy
 msgid "Edit "
-msgstr "muokkaa"
+msgstr ""
 
 #, python-format
 msgid "Edit %(app_name)s Application"
@@ -1275,21 +1232,17 @@ msgstr ""
 msgid "Edit Images"
 msgstr ""
 
-#, fuzzy
 msgid "Edit Item"
-msgstr "tuote"
+msgstr ""
 
-#, fuzzy
 msgid "Edit Post"
-msgstr "Tekijät"
+msgstr ""
 
-#, fuzzy
 msgid "Edit Settings"
-msgstr "Asetukset"
+msgstr ""
 
-#, fuzzy
 msgid "Edit a support question"
-msgstr "Tukipyyntö"
+msgstr ""
 
 msgid "Edit all Track Artists/Credits"
 msgstr ""
@@ -1362,9 +1315,8 @@ msgstr ""
 msgid "Existing List"
 msgstr ""
 
-#, fuzzy
 msgid "Expected integer release_id"
-msgstr "suosittelemme näitä julkaisuja"
+msgstr ""
 
 msgid "Expiration Date"
 msgstr ""
@@ -1378,9 +1330,8 @@ msgstr ""
 msgid "Fee"
 msgstr ""
 
-#, fuzzy
 msgid "Fee after sale"
-msgstr "myytävänä"
+msgstr ""
 
 msgid "Feedback"
 msgstr ""
@@ -1400,9 +1351,8 @@ msgstr ""
 msgid "File format releases are not allowed to be sold"
 msgstr ""
 
-#, fuzzy
 msgid "Filter by"
-msgstr "Suodata"
+msgstr ""
 
 msgid "Find your group on Discogs."
 msgstr ""
@@ -1410,9 +1360,8 @@ msgstr ""
 msgid "First Name"
 msgstr ""
 
-#, fuzzy
 msgid "Focus on Search"
-msgstr "Hakuohje"
+msgstr ""
 
 msgid "Folder"
 msgstr ""
@@ -1444,13 +1393,11 @@ msgstr ""
 msgid "Format: YYYY-MM-DD or YYYY-MM-00 or YYYY"
 msgstr ""
 
-#, fuzzy
 msgid "Formats List"
-msgstr "Formaatit"
+msgstr ""
 
-#, fuzzy
 msgid "Forum"
-msgstr "Foorumit"
+msgstr ""
 
 msgid "Forum Topics"
 msgstr ""
@@ -1482,20 +1429,17 @@ msgstr "Kaverit"
 msgid "Friends' Activity"
 msgstr ""
 
-#, fuzzy
 msgid "Friends' Submissions"
-msgstr "Lisäykset"
+msgstr ""
 
-#, fuzzy
 msgid "From"
-msgstr "omasta"
+msgstr ""
 
 msgid "General settings"
 msgstr ""
 
-#, fuzzy
 msgid "Generic"
-msgstr "genret"
+msgstr ""
 
 msgid "Genre"
 msgstr "Genre"
@@ -1515,13 +1459,11 @@ msgstr ""
 msgid "Get password"
 msgstr ""
 
-#, fuzzy
 msgid "Get started"
-msgstr "Aloita"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Collection"
-msgstr "Kokoelma"
+msgstr ""
 
 msgid "Go to Dashboard"
 msgstr ""
@@ -1538,28 +1480,23 @@ msgstr ""
 msgid "Go to Groups"
 msgstr ""
 
-#, fuzzy
 msgid "Go to Inventory"
-msgstr "Hallitse tavaraluetteloa"
+msgstr ""
 
 msgid "Go to Messages"
 msgstr ""
 
-#, fuzzy
 msgid "Go to Orders"
-msgstr "Ei tilauksia"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Profile"
-msgstr "Profiili"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Submissions"
-msgstr "Lisäykset"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Wantlist"
-msgstr "Puutelista"
+msgstr ""
 
 msgid "Go to the Selection"
 msgstr ""
@@ -1567,16 +1504,14 @@ msgstr ""
 msgid "Got a really tough question? Our staff can help!"
 msgstr ""
 
-#, fuzzy
 msgid "Granted"
-msgstr "Trance"
+msgstr ""
 
 msgid "Group"
 msgstr ""
 
-#, fuzzy
 msgid "Group Activity"
-msgstr "Viimeisimmät ryhmän tapahtumat"
+msgstr ""
 
 msgid "Group Admins"
 msgstr ""
@@ -1587,9 +1522,8 @@ msgstr ""
 msgid "Group Discussion Topics"
 msgstr ""
 
-#, fuzzy
 msgid "Group Search"
-msgstr "Tuotehaku"
+msgstr ""
 
 msgid "Group was created successfully"
 msgstr ""
@@ -1597,9 +1531,8 @@ msgstr ""
 msgid "Group was created successfully."
 msgstr ""
 
-#, fuzzy
 msgid "Groups"
-msgstr "Ryhmäni"
+msgstr ""
 
 msgid "Guess based on my location"
 msgstr ""
@@ -1629,9 +1562,8 @@ msgstr ""
 msgid "Help"
 msgstr "Ohje"
 
-#, fuzzy
 msgid "Help Forum Bans"
-msgstr "Ohjefoorumit"
+msgstr ""
 
 msgid "Help Is Here"
 msgstr ""
@@ -1642,16 +1574,14 @@ msgstr ""
 msgid "Help on Making Offers"
 msgstr ""
 
-#, fuzzy
 msgid "Hide"
-msgstr "Videot"
+msgstr ""
 
 msgid "Highest"
 msgstr ""
 
-#, fuzzy
 msgid "History"
-msgstr "historia"
+msgstr ""
 
 msgid "Home Page"
 msgstr ""
@@ -1768,9 +1698,8 @@ msgstr ""
 msgid "Images for"
 msgstr ""
 
-#, fuzzy
 msgid "In Groups"
-msgstr "Ryhmäni"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -1851,9 +1780,8 @@ msgstr ""
 msgid "Invalid verification code"
 msgstr ""
 
-#, fuzzy
 msgid "Inventory"
-msgstr "Hallitse tavaraluetteloa"
+msgstr ""
 
 msgid "Invitation only"
 msgstr ""
@@ -1903,16 +1831,14 @@ msgstr "Tuote"
 msgid "Item Container"
 msgstr ""
 
-#, fuzzy
 msgid "Item Edit"
-msgstr "tuote"
+msgstr ""
 
 msgid "Item Location"
 msgstr ""
 
-#, fuzzy
 msgid "Item View"
-msgstr "arvostelut"
+msgstr ""
 
 msgid "Item condition comments"
 msgstr ""
@@ -1933,9 +1859,8 @@ msgstr ""
 msgid "Items I Want"
 msgstr "Haluamani tuotteet"
 
-#, fuzzy
 msgid "Items I'm selling"
-msgstr "Eniten myydyt"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -1990,9 +1915,8 @@ msgstr ""
 msgid "Last Post"
 msgstr ""
 
-#, fuzzy
 msgid "Latest"
-msgstr "Vaihtoehdot"
+msgstr ""
 
 msgid "Latest Additions"
 msgstr ""
@@ -2003,9 +1927,8 @@ msgstr ""
 msgid "Latest Post"
 msgstr ""
 
-#, fuzzy
 msgid "Latest Reviews:"
-msgstr "arvostelut"
+msgstr ""
 
 msgid "Leave Group"
 msgstr ""
@@ -2024,38 +1947,32 @@ msgstr ""
 msgid "Let us know."
 msgstr ""
 
-#, fuzzy
 msgid "Lines"
-msgstr "listat"
+msgstr ""
 
-#, fuzzy
 msgid "List"
-msgstr "listat"
+msgstr ""
 
 msgid "List Activity"
 msgstr ""
 
-#, fuzzy
 msgid "List For Sale"
-msgstr "myytävänä"
+msgstr ""
 
-#, fuzzy
 msgid "List Item For Sale"
-msgstr "Myytäväni"
+msgstr ""
 
 msgid "List already in use"
 msgstr ""
 
-#, fuzzy
 msgid "List does not exist"
-msgstr "Tämä levy-yhtiö ei ole Discogsissa."
+msgstr ""
 
 msgid "Listed below are copies of the release available from other sellers."
 msgstr ""
 
-#, fuzzy
 msgid "Listing Violations"
-msgstr "Listausasetukset"
+msgstr ""
 
 msgid "Listings that are in Violation status can only be deleted."
 msgstr ""
@@ -2069,9 +1986,8 @@ msgstr ""
 msgid "Locate the final 3 or 4 digit number on the back of your card."
 msgstr ""
 
-#, fuzzy
 msgid "Location"
-msgstr "Kokoelma"
+msgstr ""
 
 msgid "Locked topic"
 msgstr ""
@@ -2079,9 +1995,8 @@ msgstr ""
 msgid "Log In"
 msgstr ""
 
-#, fuzzy
 msgid "Log Out"
-msgstr "Kirjaudu ulos"
+msgstr ""
 
 msgid "Logged in as"
 msgstr ""
@@ -2098,9 +2013,8 @@ msgstr ""
 msgid "Lookup"
 msgstr ""
 
-#, fuzzy
 msgid "Lowest"
-msgstr "verkkosivusto"
+msgstr ""
 
 msgid "Main Navigation"
 msgstr ""
@@ -2125,9 +2039,8 @@ msgstr ""
 msgid "Manage your applications and API keys here."
 msgstr ""
 
-#, fuzzy
 msgid "Manage your inventory"
-msgstr "Hallitse tavaraluetteloa"
+msgstr ""
 
 msgid "Mark as Read"
 msgstr ""
@@ -2158,35 +2071,29 @@ msgstr[1] ""
 msgid "Marketplace"
 msgstr "Markkinapaikka"
 
-#, fuzzy
 msgid "Marketplace Inventory"
-msgstr "Markkinapaikkatuki"
+msgstr ""
 
 msgid "Marketplace Notifications"
 msgstr ""
 
-#, fuzzy
 msgid "Marketplace Order Items"
-msgstr "Markkinapaikkatuki"
+msgstr ""
 
-#, fuzzy
 msgid "Marketplace Orders"
-msgstr "Markkinapaikkatuki"
+msgstr ""
 
-#, fuzzy
 msgid "Marketplace Preferences"
-msgstr "Markkinapaikkatuki"
+msgstr ""
 
-#, fuzzy
 msgid "Marketplace Sales History"
-msgstr "Viimeisimmät markkinapaikan myynnit"
+msgstr ""
 
 msgid "Master ID"
 msgstr ""
 
-#, fuzzy
 msgid "Master Release"
-msgstr "julkaisu"
+msgstr ""
 
 msgid "Max"
 msgstr ""
@@ -2197,20 +2104,17 @@ msgstr ""
 msgid "Med"
 msgstr ""
 
-#, fuzzy
 msgid "Media"
-msgstr "muokkaa"
+msgstr ""
 
-#, fuzzy
 msgid "Media Condition"
-msgstr "Suositukset"
+msgstr ""
 
 msgid "Media condition is missing"
 msgstr ""
 
-#, fuzzy
 msgid "Median"
-msgstr "muokkaa"
+msgstr ""
 
 msgid "Members"
 msgstr ""
@@ -2221,13 +2125,11 @@ msgstr ""
 msgid "Members of"
 msgstr ""
 
-#, fuzzy
 msgid "Merge Release"
-msgstr "julkaisu"
+msgstr ""
 
-#, fuzzy
 msgid "Merge this release?"
-msgstr "suosittelemme näitä julkaisuja"
+msgstr ""
 
 #, python-format
 msgid "Merged orders %s into order %s"
@@ -2277,16 +2179,15 @@ msgstr ""
 msgid "More items to sell?"
 msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "More than %s"
 msgstr ""
 
 msgid "Most Collected"
 msgstr ""
 
-#, fuzzy
 msgid "Most Popular Topics"
-msgstr "Suositut formaatit"
+msgstr ""
 
 msgid "Most Wanted"
 msgstr ""
@@ -2341,9 +2242,8 @@ msgstr ""
 msgid "My Activity (Shared)"
 msgstr ""
 
-#, fuzzy
 msgid "My Contributions"
-msgstr "Lahjoittajat"
+msgstr ""
 
 msgid "My Discogs"
 msgstr ""
@@ -2351,32 +2251,26 @@ msgstr ""
 msgid "My Groups"
 msgstr "Ryhmäni"
 
-#, fuzzy
 msgid "My Lists"
-msgstr "listat"
+msgstr ""
 
-#, fuzzy
 msgid "My Lists:"
-msgstr "listat"
+msgstr ""
 
-#, fuzzy
 msgid "My Profile"
-msgstr "Profiili"
+msgstr ""
 
-#, fuzzy
 msgid "My Store"
-msgstr "lisää"
+msgstr ""
 
-#, fuzzy
 msgid "My Submissions"
-msgstr "Lisäykset"
+msgstr ""
 
 msgid "My Uploads"
 msgstr ""
 
-#, fuzzy
 msgid "My Wantlist"
-msgstr "Puutelista"
+msgstr ""
 
 msgid "My comment is a review"
 msgstr ""
@@ -2399,13 +2293,11 @@ msgstr ""
 msgid "Need help?"
 msgstr ""
 
-#, fuzzy
 msgid "Needs Major Changes"
-msgstr "Tarvitsee muutoksia"
+msgstr ""
 
-#, fuzzy
 msgid "Needs Minor Changes"
-msgstr "Tarvitsee muutoksia"
+msgstr ""
 
 msgid "Never share"
 msgstr ""
@@ -2414,9 +2306,8 @@ msgstr ""
 msgid "New (rev: %(curr_rev)s)"
 msgstr ""
 
-#, fuzzy
 msgid "New List"
-msgstr "Puutelista"
+msgstr ""
 
 msgid "New Releases"
 msgstr "Uudet julkaisut"
@@ -2427,9 +2318,8 @@ msgstr "Uusi myyjä"
 msgid "New Styles"
 msgstr "Uudet tyylit"
 
-#, fuzzy
 msgid "New Support Request"
-msgstr "Tukipyyntö"
+msgstr ""
 
 msgid "New folder name"
 msgstr ""
@@ -2440,16 +2330,14 @@ msgstr ""
 msgid "New submissions related to my lists"
 msgstr ""
 
-#, fuzzy
 msgid "Newest"
-msgstr "verkkosivusto"
+msgstr ""
 
 msgid "Newest Groups"
 msgstr ""
 
-#, fuzzy
 msgid "No Cover"
-msgstr "Löydä"
+msgstr ""
 
 msgid "No Feedback"
 msgstr ""
@@ -2483,13 +2371,11 @@ msgstr ""
 msgid "No images have been uploaded."
 msgstr ""
 
-#, fuzzy
 msgid "No items"
-msgstr "tuote"
+msgstr ""
 
-#, fuzzy
 msgid "No items for sale found"
-msgstr "Myytäväni"
+msgstr ""
 
 msgid "No items found."
 msgstr ""
@@ -2542,13 +2428,11 @@ msgstr[1] ""
 msgid "No previous revision"
 msgstr ""
 
-#, fuzzy
 msgid "No recent activity?"
-msgstr "Viimeisimmät ryhmän tapahtumat"
+msgstr ""
 
-#, fuzzy
 msgid "No results for"
-msgstr "tulokset"
+msgstr ""
 
 msgid "No results found for"
 msgstr ""
@@ -2572,9 +2456,8 @@ msgstr ""
 msgid "Not rated yet"
 msgstr ""
 
-#, fuzzy
 msgid "Note"
-msgstr "Merkinnät"
+msgstr ""
 
 msgid "Note: You can only pay one invoice at a time."
 msgstr ""
@@ -2626,13 +2509,11 @@ msgid ""
 "field."
 msgstr ""
 
-#, fuzzy
 msgid "One per line"
-msgstr "yksi per rivi"
+msgstr ""
 
-#, fuzzy
 msgid "Only search CD"
-msgstr "Hakuohje"
+msgstr ""
 
 msgid "Only search Vinyl"
 msgstr ""
@@ -2668,9 +2549,8 @@ msgstr ""
 msgid "Or <a href=\"%(link)s\">upload a CSV</a>."
 msgstr ""
 
-#, fuzzy
 msgid "Order"
-msgstr "Ei tilauksia"
+msgstr ""
 
 msgid "Order Date"
 msgstr ""
@@ -2678,13 +2558,11 @@ msgstr ""
 msgid "Order ID"
 msgstr ""
 
-#, fuzzy
 msgid "Order Information"
-msgstr "Lisää formaatteja"
+msgstr ""
 
-#, fuzzy
 msgid "Orders"
-msgstr "Ei tilauksia"
+msgstr ""
 
 msgid "Orders by Day"
 msgstr ""
@@ -2695,13 +2573,11 @@ msgid ""
 "recordings."
 msgstr ""
 
-#, fuzzy
 msgid "Other"
-msgstr "Merkinnät"
+msgstr ""
 
-#, fuzzy
 msgid "Other Tracks"
-msgstr "raidat"
+msgstr ""
 
 msgid "Other Versions"
 msgstr ""
@@ -2721,9 +2597,8 @@ msgstr ""
 msgid "Paid On"
 msgstr ""
 
-#, fuzzy
 msgid "Parent Label"
-msgstr "Markkinapaikka"
+msgstr ""
 
 msgid "Passion for Music"
 msgstr ""
@@ -2778,9 +2653,8 @@ msgstr ""
 msgid "Payment Methods"
 msgstr "Maksutavat"
 
-#, fuzzy
 msgid "Payment Options"
-msgstr "Maksutavat"
+msgstr ""
 
 msgid "Payment Received?"
 msgstr ""
@@ -2930,9 +2804,8 @@ msgstr ""
 msgid "Please use <a href=\"%(link)s\" target=\"_blank\"> %(name)s</a> instead."
 msgstr ""
 
-#, fuzzy
 msgid "Popular Groups"
-msgstr "Suositut formaatit"
+msgstr ""
 
 msgid "Pos"
 msgstr ""
@@ -2959,29 +2832,23 @@ msgstr ""
 msgid "Posted"
 msgstr ""
 
-#, fuzzy
 msgid "Posted Review"
-msgstr "arvostelut"
+msgstr ""
 
-#, fuzzy
 msgid "Preview"
-msgstr "arvostelut"
+msgstr ""
 
-#, fuzzy
 msgid "Preview / Submit"
-msgstr "arvostelut"
+msgstr ""
 
-#, fuzzy
 msgid "Preview for"
-msgstr "arvostelut"
+msgstr ""
 
-#, fuzzy
 msgid "Preview message"
-msgstr "arvostelut"
+msgstr ""
 
-#, fuzzy
 msgid "Preview reply"
-msgstr "arvostelut"
+msgstr ""
 
 msgid "Previous State of Images"
 msgstr ""
@@ -2992,9 +2859,8 @@ msgstr ""
 msgid "Price"
 msgstr "Hinta"
 
-#, fuzzy
 msgid "Price History"
-msgstr "historia"
+msgstr ""
 
 msgid "Price Range"
 msgstr ""
@@ -3021,9 +2887,8 @@ msgstr ""
 msgid "Primary Image"
 msgstr ""
 
-#, fuzzy
 msgid "Primary Tracklist"
-msgstr "Raidat"
+msgstr ""
 
 msgid "Print View"
 msgstr ""
@@ -3068,9 +2933,8 @@ msgstr ""
 msgid "Public"
 msgstr ""
 
-#, fuzzy
 msgid "Purchases"
-msgstr "Ostoni"
+msgstr ""
 
 msgid "Qty"
 msgstr ""
@@ -3089,16 +2953,14 @@ msgstr ""
 msgid "Quick Start Guide"
 msgstr ""
 
-#, fuzzy
 msgid "Quicklist!"
-msgstr "Raidat"
+msgstr ""
 
 msgid "Quote Previous"
 msgstr ""
 
-#, fuzzy
 msgid "Range"
-msgstr "Trance"
+msgstr ""
 
 #, python-format
 msgid "Rated %(span)s%(rating)s%(span_close)s of %(num)s votes"
@@ -3110,9 +2972,8 @@ msgstr ""
 msgid "Rating Distribution"
 msgstr ""
 
-#, fuzzy
 msgid "Ratings"
-msgstr "Asetukset"
+msgstr ""
 
 #, python-format
 msgid "Ratings (average: %s)"
@@ -3133,9 +2994,8 @@ msgstr ""
 msgid "Really drop the banhammer on this user?"
 msgstr ""
 
-#, fuzzy
 msgid "Reason"
-msgstr "julkaisu"
+msgstr ""
 
 msgid "Received"
 msgstr ""
@@ -3143,20 +3003,17 @@ msgstr ""
 msgid "Recent"
 msgstr ""
 
-#, fuzzy
 msgid "Recent Activity"
-msgstr "Viimeisimmät ryhmän tapahtumat"
+msgstr ""
 
 msgid "Recent Changes made"
 msgstr ""
 
-#, fuzzy
 msgid "Recent Lists"
-msgstr "Artistit"
+msgstr ""
 
-#, fuzzy
 msgid "Recent ratings"
-msgstr "Asetukset"
+msgstr ""
 
 msgid "Recipient"
 msgstr ""
@@ -3170,13 +3027,11 @@ msgstr ""
 msgid "Register"
 msgstr ""
 
-#, fuzzy
 msgid "Release"
-msgstr "julkaisu"
+msgstr ""
 
-#, fuzzy
 msgid "Release ID"
-msgstr "julkaisu"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -3196,13 +3051,11 @@ msgid ""
 "never been submitted."
 msgstr ""
 
-#, fuzzy
 msgid "Release Notes"
-msgstr "julkaisu"
+msgstr ""
 
-#, fuzzy
 msgid "Release date."
-msgstr "julkaisu"
+msgstr ""
 
 msgid "Release not found"
 msgstr ""
@@ -3223,45 +3076,36 @@ msgstr ""
 msgid "Releases Recently Removed"
 msgstr ""
 
-#, fuzzy
 msgid "Relevance"
-msgstr "julkaisu"
+msgstr ""
 
-#, fuzzy
 msgid "Remove"
-msgstr "poista"
+msgstr ""
 
 #, python-format
 msgid "Remove %(thing)s"
 msgstr ""
 
-#, fuzzy
 msgid "Remove Image"
-msgstr "poista"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Item"
-msgstr "poista"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Release"
-msgstr "julkaisu"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Topic"
-msgstr "poista"
+msgstr ""
 
-#, fuzzy
 msgid "Remove filters"
-msgstr "poista"
+msgstr ""
 
-#, fuzzy
 msgid "Remove this"
-msgstr "poista"
+msgstr ""
 
-#, fuzzy
 msgid "Remove this release?"
-msgstr "suosittelemme näitä julkaisuja"
+msgstr ""
 
 #, python-format
 msgid "Removed %(start_bold)s%(num)d%(end_bold)s friends from your friends list."
@@ -3287,16 +3131,14 @@ msgstr ""
 msgid "Removed %s's items from your cart."
 msgstr ""
 
-#, fuzzy
 msgid "Removed Ban"
-msgstr "poista"
+msgstr ""
 
 msgid "Removed all items from your cart."
 msgstr ""
 
-#, fuzzy
 msgid "Removed ban."
-msgstr "poista"
+msgstr ""
 
 msgid "Removed from old version"
 msgstr ""
@@ -3312,9 +3154,8 @@ msgstr ""
 msgid "Removed item(s) from this order. Emailed buyer."
 msgstr ""
 
-#, fuzzy
 msgid "Removed item."
-msgstr "poista"
+msgstr ""
 
 msgid "Removed topic from saved list."
 msgstr ""
@@ -3335,9 +3176,8 @@ msgstr ""
 msgid "Replied to feedback on %s orders."
 msgstr ""
 
-#, fuzzy
 msgid "Replies"
-msgstr "arvostelut"
+msgstr ""
 
 msgid "Reply"
 msgstr ""
@@ -3351,9 +3191,8 @@ msgstr ""
 msgid "Reply to message"
 msgstr ""
 
-#, fuzzy
 msgid "Report"
-msgstr "järjestä"
+msgstr ""
 
 msgid "Report Abuse"
 msgstr ""
@@ -3406,9 +3245,8 @@ msgstr ""
 msgid "Reviews & Discussion"
 msgstr ""
 
-#, fuzzy
 msgid "Revoke"
-msgstr "poista"
+msgstr ""
 
 msgid "Revoke access"
 msgstr ""
@@ -3416,9 +3254,8 @@ msgstr ""
 msgid "Revoke this application's access to your Discogs account?"
 msgstr ""
 
-#, fuzzy
 msgid "Role"
-msgstr "Profiili"
+msgstr ""
 
 msgid "Sales History"
 msgstr "Myyntihistoria"
@@ -3426,9 +3263,8 @@ msgstr "Myyntihistoria"
 msgid "Save"
 msgstr ""
 
-#, fuzzy
 msgid "Save Changes"
-msgstr "Tarvitsee muutoksia"
+msgstr ""
 
 msgid "Save Draft"
 msgstr ""
@@ -3436,9 +3272,8 @@ msgstr ""
 msgid "Save Fields"
 msgstr ""
 
-#, fuzzy
 msgid "Save Item"
-msgstr "tuote"
+msgstr ""
 
 msgid "Save Notification Settings"
 msgstr ""
@@ -3446,27 +3281,23 @@ msgstr ""
 msgid "Save all Track Artists/Credits"
 msgstr ""
 
-#, fuzzy
 msgid "Save changes"
-msgstr "Tarvitsee muutoksia"
+msgstr ""
 
 msgid "Save my privacy settings"
 msgstr ""
 
-#, fuzzy
 msgid "Save settings"
-msgstr "Asetukset"
+msgstr ""
 
 msgid "Saved"
 msgstr ""
 
-#, fuzzy
 msgid "Saved Changes"
-msgstr "Tarvitsee muutoksia"
+msgstr ""
 
-#, fuzzy
 msgid "Saved Changes."
-msgstr "Tarvitsee muutoksia"
+msgstr ""
 
 msgid "Saved Group Topics"
 msgstr "Tallennetut puheenaiheet"
@@ -3474,13 +3305,11 @@ msgstr "Tallennetut puheenaiheet"
 msgid "Saved Labs Preferences"
 msgstr ""
 
-#, fuzzy
 msgid "Saved Submissions"
-msgstr "Lisäykset"
+msgstr ""
 
-#, fuzzy
 msgid "Saved Topics"
-msgstr "Tallennetut puheenaiheet"
+msgstr ""
 
 #, python-format
 msgid "Saved changes to <a href=\"%s\">listing %s</a>"
@@ -3489,9 +3318,8 @@ msgstr ""
 msgid "Saved changes to your marketplace settings."
 msgstr ""
 
-#, fuzzy
 msgid "Saved changes."
-msgstr "Tarvitsee muutoksia"
+msgstr ""
 
 msgid "Saved notification preferences."
 msgstr ""
@@ -3499,9 +3327,8 @@ msgstr ""
 msgid "Saved your changes."
 msgstr ""
 
-#, fuzzy
 msgid "Search"
-msgstr "Vuosi"
+msgstr ""
 
 msgid "Search Discogs"
 msgstr ""
@@ -3512,17 +3339,14 @@ msgstr ""
 msgid "Search Help Docs..."
 msgstr ""
 
-#, fuzzy
 msgid "Search Marketplace"
-msgstr "Markkinapaikka"
+msgstr ""
 
-#, fuzzy
 msgid "Search Results"
-msgstr "Hakutulokset"
+msgstr ""
 
-#, fuzzy
 msgid "Search Submissions"
-msgstr "Lisäykset"
+msgstr ""
 
 msgid "Search all excluding Vinyl and CD"
 msgstr ""
@@ -3536,9 +3360,8 @@ msgstr ""
 msgid "Search by specific fields"
 msgstr ""
 
-#, fuzzy
 msgid "Search for an item to sell"
-msgstr "Etsi vaihtoehtoja kohteelle"
+msgstr ""
 
 msgid "Search the database using these fields"
 msgstr ""
@@ -3568,18 +3391,16 @@ msgstr ""
 msgid "Select"
 msgstr ""
 
-#, fuzzy
 msgid "Select All"
-msgstr "selaa kaikki"
+msgstr ""
 
 msgid ""
 "Select which events you would like to be notified about and how Discogs "
 "should notify you."
 msgstr ""
 
-#, fuzzy
 msgid "Sell Item"
-msgstr "tuote"
+msgstr ""
 
 msgid "Sell Music"
 msgstr ""
@@ -3590,9 +3411,8 @@ msgstr ""
 msgid "Sell-Blocked Releases"
 msgstr ""
 
-#, fuzzy
 msgid "Seller"
-msgstr "Uusi myyjä"
+msgstr ""
 
 msgid "Seller Information"
 msgstr ""
@@ -3652,9 +3472,8 @@ msgstr "Asetukset"
 msgid "Sharing settings"
 msgstr ""
 
-#, fuzzy
 msgid "Shipping"
-msgstr "näytetään"
+msgstr ""
 
 msgid "Shipping &amp; Payments"
 msgstr ""
@@ -3672,9 +3491,8 @@ msgstr ""
 msgid "Shipping via %(method)s"
 msgstr ""
 
-#, fuzzy
 msgid "Ships From"
-msgstr "Tuotteet lähetetään maasta"
+msgstr ""
 
 msgid "Ships from {}"
 msgstr ""
@@ -3790,13 +3608,11 @@ msgstr ""
 msgid "Start over"
 msgstr ""
 
-#, fuzzy
 msgid "Start selling now!"
-msgstr "Aloita myyminen"
+msgstr ""
 
-#, fuzzy
 msgid "Start shopping now!"
-msgstr "Aloita ostaminen"
+msgstr ""
 
 msgid "State/Province"
 msgstr ""
@@ -3833,20 +3649,17 @@ msgstr ""
 msgid "Subject"
 msgstr ""
 
-#, fuzzy
 msgid "Submission Guidelines"
-msgstr "lisäys odottaa"
+msgstr ""
 
-#, fuzzy
 msgid "Submission Notes"
-msgstr "Lisäykset"
+msgstr ""
 
 msgid "Submissions"
 msgstr "Lisäykset"
 
-#, fuzzy
 msgid "Submissions for"
-msgstr "Lisäykset"
+msgstr ""
 
 #, python-format
 msgid "Submissions for artist %s"
@@ -3859,9 +3672,8 @@ msgstr ""
 msgid "Submissions from List (past 90 days):"
 msgstr ""
 
-#, fuzzy
 msgid "Submissions from user"
-msgstr "Lisäykset"
+msgstr ""
 
 #, python-format
 msgid "Submissions from user %s"
@@ -3876,9 +3688,8 @@ msgstr ""
 msgid "Submit Changes to Label Page"
 msgstr ""
 
-#, fuzzy
 msgid "Subtotal"
-msgstr "Yhteensä"
+msgstr ""
 
 msgid "Successfully Acted Upon Report(s)."
 msgstr ""
@@ -3920,9 +3731,8 @@ msgstr ""
 msgid "Tag"
 msgstr ""
 
-#, fuzzy
 msgid "Tags"
-msgstr "raidat"
+msgstr ""
 
 msgid ""
 "Tags are keywords used to describe your group so it can be easily found "
@@ -4026,13 +3836,11 @@ msgstr ""
 msgid "The Format Field"
 msgstr ""
 
-#, fuzzy
 msgid "The Marketplace"
-msgstr "Markkinapaikka"
+msgstr ""
 
-#, fuzzy
 msgid "The Story"
-msgstr "historia"
+msgstr ""
 
 msgid "The application has been deleted."
 msgstr ""
@@ -4123,9 +3931,8 @@ msgstr ""
 msgid "The study and cataloguing of phonograph records."
 msgstr ""
 
-#, fuzzy
 msgid "The title of the release."
-msgstr "suosittelemme näitä julkaisuja"
+msgstr ""
 
 msgid ""
 "The user account you are trying to activate was not found. If you "
@@ -4302,9 +4109,8 @@ msgstr ""
 msgid "This version of the API was shut down on 15 January 2012."
 msgstr ""
 
-#, fuzzy
 msgid "Threads"
-msgstr "raidat"
+msgstr ""
 
 msgid "Time Zone"
 msgstr ""
@@ -4312,9 +4118,8 @@ msgstr ""
 msgid "Times in CIP"
 msgstr ""
 
-#, fuzzy
 msgid "Title"
-msgstr "tuote"
+msgstr ""
 
 msgid "Title, A-Z"
 msgstr ""
@@ -4322,9 +4127,8 @@ msgstr ""
 msgid "Title, Z-A"
 msgstr ""
 
-#, fuzzy
 msgid "Title/Credits"
-msgstr "Tekijät"
+msgstr ""
 
 msgid "To"
 msgstr ""
@@ -4404,9 +4208,8 @@ msgstr ""
 msgid "Track Position(s)"
 msgstr ""
 
-#, fuzzy
 msgid "Track Title"
-msgstr "raita"
+msgstr ""
 
 msgid "Tracklist"
 msgstr "Raidat"
@@ -4432,9 +4235,8 @@ msgstr ""
 msgid "Turned sticky on"
 msgstr ""
 
-#, fuzzy
 msgid "Type"
-msgstr "Tyyli"
+msgstr ""
 
 msgid "URLs"
 msgstr ""
@@ -4464,9 +4266,8 @@ msgstr[1] ""
 msgid "Unfollowed user."
 msgstr ""
 
-#, fuzzy
 msgid "Unfriend"
-msgstr "Kaverit"
+msgstr ""
 
 msgid "Unignore"
 msgstr ""
@@ -4603,13 +4404,11 @@ msgstr ""
 msgid "View <a href=\"%(link)s\" class=\"new_window\"> formatting options</a>."
 msgstr ""
 
-#, fuzzy
 msgid "View Help"
-msgstr "näytä kaikki"
+msgstr ""
 
-#, fuzzy
 msgid "View Message"
-msgstr "näytä kaikki"
+msgstr ""
 
 msgid "View My Recent Changes By:"
 msgstr ""
@@ -4620,9 +4419,8 @@ msgstr ""
 msgid "View additional popular groups"
 msgstr ""
 
-#, fuzzy
 msgid "View all in "
-msgstr "näytä kaikki"
+msgstr ""
 
 msgid "View complete sales history"
 msgstr ""
@@ -4636,28 +4434,23 @@ msgstr ""
 msgid "View feedback on seller"
 msgstr ""
 
-#, fuzzy
 msgid "View formatting options"
-msgstr "Listausasetukset"
+msgstr ""
 
-#, fuzzy
 msgid "View group activity"
-msgstr "Viimeisimmät ryhmän tapahtumat"
+msgstr ""
 
-#, fuzzy
 msgid "View items for sale"
-msgstr "Myytäväni"
+msgstr ""
 
-#, fuzzy
 msgid "View list"
-msgstr "näytä kaikki"
+msgstr ""
 
 msgid "View more artists"
 msgstr ""
 
-#, fuzzy
 msgid "View more labels"
-msgstr "Tavoita enemmän ostajia"
+msgstr ""
 
 msgid "View more new releases"
 msgstr ""
@@ -4665,13 +4458,11 @@ msgstr ""
 msgid "View more newest groups"
 msgstr ""
 
-#, fuzzy
 msgid "View more releases"
-msgstr "Uudet julkaisut"
+msgstr ""
 
-#, fuzzy
 msgid "View more sales history"
-msgstr "Myyntihistoria"
+msgstr ""
 
 msgid "View my Ratings"
 msgstr ""
@@ -4679,16 +4470,14 @@ msgstr ""
 msgid "View my lists"
 msgstr ""
 
-#, fuzzy
 msgid "View my orders"
-msgstr "Ei tilauksia"
+msgstr ""
 
 msgid "View my profile"
 msgstr ""
 
-#, fuzzy
 msgid "View my purchases"
-msgstr "Ostoni"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -4706,9 +4495,8 @@ msgstr ""
 msgid "View this list"
 msgstr ""
 
-#, fuzzy
 msgid "View your collection"
-msgstr "Kokoelma"
+msgstr ""
 
 msgid "View your inventory"
 msgstr ""
@@ -4723,17 +4511,14 @@ msgstr ""
 msgid "Visit the Forum"
 msgstr ""
 
-#, fuzzy
 msgid "Voted"
-msgstr "Merkinnät"
+msgstr ""
 
-#, fuzzy
 msgid "Voting"
-msgstr "näytetään"
+msgstr ""
 
-#, fuzzy
 msgid "Voting Trends"
-msgstr "Aloittaminen"
+msgstr ""
 
 msgid "Wantlist"
 msgstr "Puutelista"
@@ -5392,15 +5177,14 @@ msgstr ""
 msgid "_%0.2f to _%0.2f"
 msgstr ""
 
-#, fuzzy
 msgid "about"
-msgstr "Lisätietoja meistä"
+msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "about %s"
 msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "about %s total"
 msgstr ""
 
@@ -5441,9 +5225,8 @@ msgstr ""
 msgid "click here"
 msgstr ""
 
-#, fuzzy
 msgid "close"
-msgstr "House"
+msgstr ""
 
 msgid "contact seller"
 msgstr ""
@@ -5463,9 +5246,8 @@ msgstr ""
 msgid "e.g. Upper Stacks - Aisle 5 Row 4"
 msgstr ""
 
-#, fuzzy
 msgid "edited"
-msgstr "muokkaa"
+msgstr ""
 
 msgid "error code"
 msgstr ""
@@ -5489,16 +5271,14 @@ msgstr ""
 msgid "for sale"
 msgstr "myytävänä"
 
-#, fuzzy
 msgid "from"
-msgstr "omasta"
+msgstr ""
 
 msgid "grams"
 msgstr ""
 
-#, fuzzy
 msgid "granted"
-msgstr "Trance"
+msgstr ""
 
 msgid "has"
 msgstr ""
@@ -5509,13 +5289,11 @@ msgstr ""
 msgid "have"
 msgstr ""
 
-#, fuzzy
 msgid "here"
-msgstr "Genre"
+msgstr ""
 
-#, fuzzy
 msgid "in Cart"
-msgstr "Näytä ostoskärry"
+msgstr ""
 
 #, python-format
 msgid "is selling %(n)d item I want"
@@ -5528,13 +5306,11 @@ msgid_plural "items"
 msgstr[0] "tuote"
 msgstr[1] "tuotetta"
 
-#, fuzzy
 msgid "items"
-msgstr "tuote"
+msgstr ""
 
-#, fuzzy
 msgid "jobs"
-msgstr "Töitä"
+msgstr ""
 
 msgid "listed for sale in my inventory"
 msgstr ""
@@ -5584,9 +5360,8 @@ msgstr ""
 msgid "on"
 msgstr ""
 
-#, fuzzy
 msgid "optional"
-msgstr "Yhteensä"
+msgstr ""
 
 msgid "overall rating"
 msgstr ""
@@ -5609,9 +5384,8 @@ msgstr ""
 msgid "remove"
 msgstr "poista"
 
-#, fuzzy
 msgid "replies"
-msgstr "arvostelut"
+msgstr ""
 
 msgid "rows"
 msgstr ""
@@ -5637,9 +5411,8 @@ msgstr ""
 msgid "submitted"
 msgstr ""
 
-#, fuzzy
 msgid "team"
-msgstr "tuote"
+msgstr ""
 
 msgid "that has since been deleted"
 msgstr ""
@@ -5663,27 +5436,23 @@ msgstr ""
 msgid "uploaded"
 msgstr ""
 
-#, fuzzy
 msgid "user"
 msgid_plural "users"
-msgstr[0] "House"
+msgstr[0] ""
 msgstr[1] ""
 
 msgid "values"
 msgstr ""
 
-#, fuzzy
 msgid "view terms"
-msgstr "Uudet tyylit"
+msgstr ""
 
-#, fuzzy
 msgid "vote"
-msgstr "Merkinnät"
+msgstr ""
 
 msgid "want"
 msgstr ""
 
-#, fuzzy
 msgid "wants"
-msgstr "Puutelista"
+msgstr ""
 

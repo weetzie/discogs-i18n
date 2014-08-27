@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-08-25 12:13-0700\n"
+"POT-Creation-Date: 2014-08-27 12:38-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: hu <LL@li.org>\n"
@@ -18,21 +18,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
+msgid " Notify me"
+msgstr ""
+
+msgid " Stop notifying"
+msgstr ""
+
 #, python-format
 msgid "\"%s\" is available."
 msgstr ""
 
-#, fuzzy
 msgid "# in Collection"
-msgstr "Gyűjtemény"
+msgstr ""
 
-#, fuzzy
 msgid "# in Inventory"
-msgstr "Eladó tételek kezelése"
+msgstr ""
 
-#, fuzzy
 msgid "# in Wantlist"
-msgstr "Kívánságlista"
+msgstr ""
 
 msgid "# of Versions"
 msgstr ""
@@ -149,16 +152,15 @@ msgstr ""
 msgid "%s's Contributions"
 msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "%s's Wantlist"
 msgstr ""
 
 msgid "1. General Rules"
 msgstr ""
 
-#, fuzzy
 msgid "10. Credits"
-msgstr "Megjegyzések"
+msgstr ""
 
 msgid "11. Release Notes"
 msgstr ""
@@ -166,16 +168,14 @@ msgstr ""
 msgid "12 Months"
 msgstr ""
 
-#, fuzzy
 msgid "12. Tracklisting"
-msgstr "Számlista"
+msgstr ""
 
 msgid "13. Images"
 msgstr ""
 
-#, fuzzy
 msgid "2. Artist"
-msgstr "Előadó"
+msgstr ""
 
 msgid "3 Months"
 msgstr ""
@@ -186,24 +186,20 @@ msgstr ""
 msgid "4. Label/Catalog"
 msgstr ""
 
-#, fuzzy
 msgid "5. Barcodes &amp; Identifiers"
-msgstr "Vonalkód, és egyéb azonosítók"
+msgstr ""
 
 msgid "6 Months"
 msgstr ""
 
-#, fuzzy
 msgid "6. Format"
-msgstr "Több formátum"
+msgstr ""
 
-#, fuzzy
 msgid "7. Country"
-msgstr "Ország"
+msgstr ""
 
-#, fuzzy
 msgid "8. Release Date"
-msgstr "kiadvány"
+msgstr ""
 
 msgid "9. Genres/Styles"
 msgstr ""
@@ -272,9 +268,8 @@ msgstr ""
 msgid "Abbr"
 msgstr ""
 
-#, fuzzy
 msgid "About"
-msgstr "Rólunk"
+msgstr ""
 
 msgid "About Discogs"
 msgstr ""
@@ -339,9 +334,6 @@ msgstr ""
 msgid "Add Credit Per Track"
 msgstr ""
 
-msgid "Add Description"
-msgstr ""
-
 msgid "Add Folder"
 msgstr ""
 
@@ -360,24 +352,20 @@ msgstr ""
 msgid "Add Release"
 msgstr "Kiadvány hozzáadása"
 
-#, fuzzy
 msgid "Add Track"
-msgstr "szám"
+msgstr ""
 
-#, fuzzy
 msgid "Add Tracks"
-msgstr "számok"
+msgstr ""
 
 msgid "Add a Field"
 msgstr ""
 
-#, fuzzy
 msgid "Add a Release"
-msgstr "Kiadvány hozzáadása"
+msgstr ""
 
-#, fuzzy
 msgid "Add a release"
-msgstr "Kiadvány hozzáadása"
+msgstr ""
 
 msgid "Add an audio clip"
 msgstr ""
@@ -391,17 +379,14 @@ msgstr ""
 msgid "Add some images to the key release."
 msgstr ""
 
-#, fuzzy
 msgid "Add to Collection"
-msgstr "Gyűjtemény"
+msgstr ""
 
-#, fuzzy
 msgid "Add to Inventory"
-msgstr "Eladó tételek kezelése"
+msgstr ""
 
-#, fuzzy
 msgid "Add to Wantlist"
-msgstr "Listához ad"
+msgstr ""
 
 msgid "Add to your Saved Submissions"
 msgstr ""
@@ -438,9 +423,8 @@ msgstr ""
 msgid "Admin"
 msgstr ""
 
-#, fuzzy
 msgid "Aliases"
-msgstr "listák"
+msgstr ""
 
 msgid "All"
 msgstr ""
@@ -448,17 +432,14 @@ msgstr ""
 msgid "All Discogs"
 msgstr ""
 
-#, fuzzy
 msgid "All Groups"
-msgstr "Csoportjaim"
+msgstr ""
 
-#, fuzzy
 msgid "All Items"
-msgstr "tétel"
+msgstr ""
 
-#, fuzzy
 msgid "All Marketplace"
-msgstr "Piactér"
+msgstr ""
 
 msgid "All Topics"
 msgstr ""
@@ -497,9 +478,8 @@ msgstr ""
 msgid "Always share"
 msgstr ""
 
-#, fuzzy
 msgid "Amount"
-msgstr "Ország"
+msgstr ""
 
 msgid "An error occurred. Please try again."
 msgstr ""
@@ -548,9 +528,8 @@ msgstr ""
 msgid "Are you sure you would like to copy this to your drafts?"
 msgstr ""
 
-#, fuzzy
 msgid "Artist"
-msgstr "Előadó"
+msgstr ""
 
 #, python-format
 msgid "Artist %s has already been indexed"
@@ -572,17 +551,14 @@ msgstr ""
 msgid "Ask me first"
 msgstr ""
 
-#, fuzzy
 msgid "Assigned Support Request"
-msgstr "Támogatás"
+msgstr ""
 
-#, fuzzy
 msgid "Assigned Support Requests"
-msgstr "Támogatás"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Sample"
-msgstr "eladó"
+msgstr ""
 
 msgid "Authentication Error"
 msgstr ""
@@ -617,9 +593,8 @@ msgstr ""
 msgid "Back to Discuss overview"
 msgstr ""
 
-#, fuzzy
 msgid "Back to release"
-msgstr "kiadvány"
+msgstr ""
 
 msgid "Ban user and delete all their groups"
 msgstr ""
@@ -651,9 +626,8 @@ msgstr ""
 msgid "Billing"
 msgstr "Számlázás"
 
-#, fuzzy
 msgid "Block"
-msgstr "Rock"
+msgstr ""
 
 msgid "Block Sender"
 msgstr ""
@@ -677,28 +651,24 @@ msgstr ""
 msgid "Blog"
 msgstr ""
 
-#, fuzzy
 msgid "Bought by"
-msgstr "Rendezés"
+msgstr ""
 
-#, fuzzy
 msgid "Browse"
-msgstr "keresés mindenhol"
+msgstr ""
 
 #, python-format
 msgid "Browse %(mode)s Groups"
 msgstr ""
 
-#, fuzzy
 msgid "Browse Groups"
-msgstr "keresés mindenhol"
+msgstr ""
 
 msgid "Browse Groups By Tag"
 msgstr ""
 
-#, fuzzy
 msgid "Browsing options"
-msgstr "Listázási lehetőségek"
+msgstr ""
 
 msgid "Building something cool? Check out our API!"
 msgstr ""
@@ -761,9 +731,8 @@ msgstr ""
 msgid "Can't find a group for you?"
 msgstr ""
 
-#, fuzzy
 msgid "Cancel"
-msgstr "Trance"
+msgstr ""
 
 #, python-format
 msgid "Cannot %s yourself."
@@ -862,9 +831,11 @@ msgstr ""
 msgid "Click once and wait"
 msgstr ""
 
-#, fuzzy
 msgid "Close"
-msgstr "House"
+msgstr ""
+
+msgid "Collapse"
+msgstr ""
 
 msgid "Collection"
 msgstr "Gyűjtemény"
@@ -878,9 +849,8 @@ msgstr ""
 msgid "Collection item not found"
 msgstr ""
 
-#, fuzzy
 msgid "Comments"
-msgstr "Javaslatok"
+msgstr ""
 
 #, python-format
 msgid "Comments about your item (limited to %(limit)s characters)."
@@ -889,9 +859,8 @@ msgstr ""
 msgid "Comments on this item"
 msgstr ""
 
-#, fuzzy
 msgid "Community"
-msgstr "Ország"
+msgstr ""
 
 msgid "Company Core Values"
 msgstr ""
@@ -902,9 +871,8 @@ msgstr ""
 msgid "Compose New Message"
 msgstr ""
 
-#, fuzzy
 msgid "Condition"
-msgstr "Javaslatok"
+msgstr ""
 
 msgid "Confirm Account"
 msgstr ""
@@ -933,13 +901,11 @@ msgstr ""
 msgid "Contact"
 msgstr "Kapcsolat"
 
-#, fuzzy
 msgid "Contact Info"
-msgstr "Kapcsolat"
+msgstr ""
 
-#, fuzzy
 msgid "Contained Releases"
-msgstr "Új megjelenések"
+msgstr ""
 
 msgid "Continuous Improvement"
 msgstr ""
@@ -947,9 +913,8 @@ msgstr ""
 msgid "Contribute"
 msgstr "Közreműködés"
 
-#, fuzzy
 msgid "Contributions"
-msgstr "Közreműködés"
+msgstr ""
 
 msgid "Contributor List"
 msgstr "Közreműködők listája"
@@ -974,9 +939,8 @@ msgstr ""
 msgid "Correct"
 msgstr ""
 
-#, fuzzy
 msgid "Count"
-msgstr "Ország"
+msgstr ""
 
 msgid "Country"
 msgstr "Ország"
@@ -1045,9 +1009,8 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#, fuzzy
 msgid "Credit"
-msgstr "szerkesztés"
+msgstr ""
 
 msgid "Credit Card Information"
 msgstr ""
@@ -1073,9 +1036,8 @@ msgstr ""
 msgid "Credits"
 msgstr "Megjegyzések"
 
-#, fuzzy
 msgid "Credits List"
-msgstr "Megjegyzések"
+msgstr ""
 
 msgid "Currency"
 msgstr ""
@@ -1106,9 +1068,8 @@ msgstr ""
 msgid "Default"
 msgstr ""
 
-#, fuzzy
 msgid "Delete"
-msgstr "kiadvány"
+msgstr ""
 
 msgid "Delete Folder"
 msgstr ""
@@ -1119,9 +1080,8 @@ msgstr ""
 msgid "Delete this image permanently?"
 msgstr ""
 
-#, fuzzy
 msgid "Deleted"
-msgstr "Megjelenés"
+msgstr ""
 
 msgid "Deleted Folder"
 msgstr ""
@@ -1181,9 +1141,8 @@ msgstr ""
 msgid "Discogs Inbox"
 msgstr ""
 
-#, fuzzy
 msgid "Discogs Marketplace"
-msgstr "Piactér"
+msgstr ""
 
 msgid "Discogs Marketplace invoice"
 msgstr ""
@@ -1246,13 +1205,11 @@ msgid ""
 "to appear."
 msgstr ""
 
-#, fuzzy
 msgid "Edit"
-msgstr "szerkesztés"
+msgstr ""
 
-#, fuzzy
 msgid "Edit "
-msgstr "szerkesztés"
+msgstr ""
 
 #, python-format
 msgid "Edit %(app_name)s Application"
@@ -1264,21 +1221,17 @@ msgstr ""
 msgid "Edit Images"
 msgstr ""
 
-#, fuzzy
 msgid "Edit Item"
-msgstr "tétel"
+msgstr ""
 
-#, fuzzy
 msgid "Edit Post"
-msgstr "Megjegyzések"
+msgstr ""
 
-#, fuzzy
 msgid "Edit Settings"
-msgstr "Beállítások"
+msgstr ""
 
-#, fuzzy
 msgid "Edit a support question"
-msgstr "Támogatás"
+msgstr ""
 
 msgid "Edit all Track Artists/Credits"
 msgstr ""
@@ -1351,9 +1304,8 @@ msgstr ""
 msgid "Existing List"
 msgstr ""
 
-#, fuzzy
 msgid "Expected integer release_id"
-msgstr "ajánljuk ezeket a kiadványokat"
+msgstr ""
 
 msgid "Expiration Date"
 msgstr ""
@@ -1367,9 +1319,8 @@ msgstr ""
 msgid "Fee"
 msgstr ""
 
-#, fuzzy
 msgid "Fee after sale"
-msgstr "eladó"
+msgstr ""
 
 msgid "Feedback"
 msgstr ""
@@ -1389,9 +1340,8 @@ msgstr ""
 msgid "File format releases are not allowed to be sold"
 msgstr ""
 
-#, fuzzy
 msgid "Filter by"
-msgstr "Eredmények szürése"
+msgstr ""
 
 msgid "Find your group on Discogs."
 msgstr ""
@@ -1399,9 +1349,8 @@ msgstr ""
 msgid "First Name"
 msgstr ""
 
-#, fuzzy
 msgid "Focus on Search"
-msgstr "Segítség a kereséshez"
+msgstr ""
 
 msgid "Folder"
 msgstr ""
@@ -1433,13 +1382,11 @@ msgstr ""
 msgid "Format: YYYY-MM-DD or YYYY-MM-00 or YYYY"
 msgstr ""
 
-#, fuzzy
 msgid "Formats List"
-msgstr "Formátumok"
+msgstr ""
 
-#, fuzzy
 msgid "Forum"
-msgstr "Fórumok"
+msgstr ""
 
 msgid "Forum Topics"
 msgstr ""
@@ -1468,20 +1415,17 @@ msgstr "Barátok"
 msgid "Friends' Activity"
 msgstr ""
 
-#, fuzzy
 msgid "Friends' Submissions"
-msgstr "Sub-ok"
+msgstr ""
 
-#, fuzzy
 msgid "From"
-msgstr "az én"
+msgstr ""
 
 msgid "General settings"
 msgstr ""
 
-#, fuzzy
 msgid "Generic"
-msgstr "stílusok"
+msgstr ""
 
 msgid "Genre"
 msgstr "Műfaj"
@@ -1501,13 +1445,11 @@ msgstr ""
 msgid "Get password"
 msgstr ""
 
-#, fuzzy
 msgid "Get started"
-msgstr "Elkezdem"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Collection"
-msgstr "Gyűjtemény"
+msgstr ""
 
 msgid "Go to Dashboard"
 msgstr ""
@@ -1524,28 +1466,23 @@ msgstr ""
 msgid "Go to Groups"
 msgstr ""
 
-#, fuzzy
 msgid "Go to Inventory"
-msgstr "Eladó tételek kezelése"
+msgstr ""
 
 msgid "Go to Messages"
 msgstr ""
 
-#, fuzzy
 msgid "Go to Orders"
-msgstr "Nincsenek megrendelések"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Profile"
-msgstr "Profil"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Submissions"
-msgstr "Sub-ok"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Wantlist"
-msgstr "Kívánságlista"
+msgstr ""
 
 msgid "Go to the Selection"
 msgstr ""
@@ -1553,16 +1490,14 @@ msgstr ""
 msgid "Got a really tough question? Our staff can help!"
 msgstr ""
 
-#, fuzzy
 msgid "Granted"
-msgstr "Trance"
+msgstr ""
 
 msgid "Group"
 msgstr ""
 
-#, fuzzy
 msgid "Group Activity"
-msgstr "Legutóbbi csoport tevékenységek"
+msgstr ""
 
 msgid "Group Admins"
 msgstr ""
@@ -1573,9 +1508,8 @@ msgstr ""
 msgid "Group Discussion Topics"
 msgstr ""
 
-#, fuzzy
 msgid "Group Search"
-msgstr "Termék kereséses"
+msgstr ""
 
 msgid "Group was created successfully"
 msgstr ""
@@ -1583,9 +1517,8 @@ msgstr ""
 msgid "Group was created successfully."
 msgstr ""
 
-#, fuzzy
 msgid "Groups"
-msgstr "Csoportjaim"
+msgstr ""
 
 msgid "Guess based on my location"
 msgstr ""
@@ -1615,9 +1548,8 @@ msgstr ""
 msgid "Help"
 msgstr "Segítség"
 
-#, fuzzy
 msgid "Help Forum Bans"
-msgstr "Segítség fórum"
+msgstr ""
 
 msgid "Help Is Here"
 msgstr ""
@@ -1628,16 +1560,14 @@ msgstr ""
 msgid "Help on Making Offers"
 msgstr ""
 
-#, fuzzy
 msgid "Hide"
-msgstr "Videók"
+msgstr ""
 
 msgid "Highest"
 msgstr ""
 
-#, fuzzy
 msgid "History"
-msgstr "előzmények"
+msgstr ""
 
 msgid "Home Page"
 msgstr ""
@@ -1754,9 +1684,8 @@ msgstr ""
 msgid "Images for"
 msgstr ""
 
-#, fuzzy
 msgid "In Groups"
-msgstr "Csoportjaim"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -1837,9 +1766,8 @@ msgstr ""
 msgid "Invalid verification code"
 msgstr ""
 
-#, fuzzy
 msgid "Inventory"
-msgstr "Eladó tételek kezelése"
+msgstr ""
 
 msgid "Invitation only"
 msgstr ""
@@ -1889,16 +1817,14 @@ msgstr "Tétel"
 msgid "Item Container"
 msgstr ""
 
-#, fuzzy
 msgid "Item Edit"
-msgstr "tétel"
+msgstr ""
 
 msgid "Item Location"
 msgstr ""
 
-#, fuzzy
 msgid "Item View"
-msgstr "vélemények"
+msgstr ""
 
 msgid "Item condition comments"
 msgstr ""
@@ -1919,9 +1845,8 @@ msgstr ""
 msgid "Items I Want"
 msgstr "Eladó tételek a kívánságlistádról"
 
-#, fuzzy
 msgid "Items I'm selling"
-msgstr "Legtöbbet eladott"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -1933,9 +1858,8 @@ msgstr ""
 msgid "Jobs"
 msgstr "Állások"
 
-#, fuzzy
 msgid "Join"
-msgstr "in"
+msgstr ""
 
 msgid "Join Group"
 msgstr ""
@@ -1977,9 +1901,8 @@ msgstr ""
 msgid "Last Post"
 msgstr ""
 
-#, fuzzy
 msgid "Latest"
-msgstr "Helyettesitők"
+msgstr ""
 
 msgid "Latest Additions"
 msgstr ""
@@ -1990,9 +1913,8 @@ msgstr ""
 msgid "Latest Post"
 msgstr ""
 
-#, fuzzy
 msgid "Latest Reviews:"
-msgstr "vélemények"
+msgstr ""
 
 msgid "Leave Group"
 msgstr ""
@@ -2011,38 +1933,32 @@ msgstr ""
 msgid "Let us know."
 msgstr ""
 
-#, fuzzy
 msgid "Lines"
-msgstr "listák"
+msgstr ""
 
-#, fuzzy
 msgid "List"
-msgstr "listák"
+msgstr ""
 
 msgid "List Activity"
 msgstr ""
 
-#, fuzzy
 msgid "List For Sale"
-msgstr "eladó"
+msgstr ""
 
-#, fuzzy
 msgid "List Item For Sale"
-msgstr "Eladó tételeim"
+msgstr ""
 
 msgid "List already in use"
 msgstr ""
 
-#, fuzzy
 msgid "List does not exist"
-msgstr "A kiadó nem található a Discogs-on"
+msgstr ""
 
 msgid "Listed below are copies of the release available from other sellers."
 msgstr ""
 
-#, fuzzy
 msgid "Listing Violations"
-msgstr "Listázási lehetőségek"
+msgstr ""
 
 msgid "Listings that are in Violation status can only be deleted."
 msgstr ""
@@ -2056,9 +1972,8 @@ msgstr ""
 msgid "Locate the final 3 or 4 digit number on the back of your card."
 msgstr ""
 
-#, fuzzy
 msgid "Location"
-msgstr "Gyűjtemény"
+msgstr ""
 
 msgid "Locked topic"
 msgstr ""
@@ -2066,9 +1981,8 @@ msgstr ""
 msgid "Log In"
 msgstr ""
 
-#, fuzzy
 msgid "Log Out"
-msgstr "Kijelentkezés"
+msgstr ""
 
 msgid "Logged in as"
 msgstr ""
@@ -2085,9 +1999,8 @@ msgstr ""
 msgid "Lookup"
 msgstr ""
 
-#, fuzzy
 msgid "Lowest"
-msgstr "weboldal"
+msgstr ""
 
 msgid "Main Navigation"
 msgstr ""
@@ -2112,9 +2025,8 @@ msgstr ""
 msgid "Manage your applications and API keys here."
 msgstr ""
 
-#, fuzzy
 msgid "Manage your inventory"
-msgstr "Eladó tételek kezelése"
+msgstr ""
 
 msgid "Mark as Read"
 msgstr ""
@@ -2142,35 +2054,29 @@ msgstr[0] ""
 msgid "Marketplace"
 msgstr "Piactér"
 
-#, fuzzy
 msgid "Marketplace Inventory"
-msgstr "Piactér Támogatás"
+msgstr ""
 
 msgid "Marketplace Notifications"
 msgstr ""
 
-#, fuzzy
 msgid "Marketplace Order Items"
-msgstr "Piactér Támogatás"
+msgstr ""
 
-#, fuzzy
 msgid "Marketplace Orders"
-msgstr "Piactér Támogatás"
+msgstr ""
 
-#, fuzzy
 msgid "Marketplace Preferences"
-msgstr "Piactér Támogatás"
+msgstr ""
 
-#, fuzzy
 msgid "Marketplace Sales History"
-msgstr "A piactér legutóbbi eladásai"
+msgstr ""
 
 msgid "Master ID"
 msgstr ""
 
-#, fuzzy
 msgid "Master Release"
-msgstr "kiadvány"
+msgstr ""
 
 msgid "Max"
 msgstr ""
@@ -2181,20 +2087,17 @@ msgstr ""
 msgid "Med"
 msgstr ""
 
-#, fuzzy
 msgid "Media"
-msgstr "szerkesztés"
+msgstr ""
 
-#, fuzzy
 msgid "Media Condition"
-msgstr "Javaslatok"
+msgstr ""
 
 msgid "Media condition is missing"
 msgstr ""
 
-#, fuzzy
 msgid "Median"
-msgstr "szerkesztés"
+msgstr ""
 
 msgid "Members"
 msgstr ""
@@ -2205,13 +2108,11 @@ msgstr ""
 msgid "Members of"
 msgstr ""
 
-#, fuzzy
 msgid "Merge Release"
-msgstr "kiadvány"
+msgstr ""
 
-#, fuzzy
 msgid "Merge this release?"
-msgstr "ajánljuk ezeket a kiadványokat"
+msgstr ""
 
 #, python-format
 msgid "Merged orders %s into order %s"
@@ -2231,9 +2132,8 @@ msgstr ""
 msgid "Messages will be permanently removed after one week."
 msgstr ""
 
-#, fuzzy
 msgid "Min"
-msgstr "in"
+msgstr ""
 
 msgid "Minimum"
 msgstr ""
@@ -2262,16 +2162,15 @@ msgstr ""
 msgid "More items to sell?"
 msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "More than %s"
 msgstr ""
 
 msgid "Most Collected"
 msgstr ""
 
-#, fuzzy
 msgid "Most Popular Topics"
-msgstr "Népszerű formátuok"
+msgstr ""
 
 msgid "Most Wanted"
 msgstr ""
@@ -2323,9 +2222,8 @@ msgstr ""
 msgid "My Activity (Shared)"
 msgstr ""
 
-#, fuzzy
 msgid "My Contributions"
-msgstr "Közreműködők listája"
+msgstr ""
 
 msgid "My Discogs"
 msgstr ""
@@ -2333,32 +2231,26 @@ msgstr ""
 msgid "My Groups"
 msgstr "Csoportjaim"
 
-#, fuzzy
 msgid "My Lists"
-msgstr "listák"
+msgstr ""
 
-#, fuzzy
 msgid "My Lists:"
-msgstr "listák"
+msgstr ""
 
-#, fuzzy
 msgid "My Profile"
-msgstr "Profil"
+msgstr ""
 
-#, fuzzy
 msgid "My Store"
-msgstr "több"
+msgstr ""
 
-#, fuzzy
 msgid "My Submissions"
-msgstr "Sub-ok"
+msgstr ""
 
 msgid "My Uploads"
 msgstr ""
 
-#, fuzzy
 msgid "My Wantlist"
-msgstr "Kívánságlista"
+msgstr ""
 
 msgid "My comment is a review"
 msgstr ""
@@ -2381,13 +2273,11 @@ msgstr ""
 msgid "Need help?"
 msgstr ""
 
-#, fuzzy
 msgid "Needs Major Changes"
-msgstr "Változtatás szükséges"
+msgstr ""
 
-#, fuzzy
 msgid "Needs Minor Changes"
-msgstr "Változtatás szükséges"
+msgstr ""
 
 msgid "Never share"
 msgstr ""
@@ -2396,9 +2286,8 @@ msgstr ""
 msgid "New (rev: %(curr_rev)s)"
 msgstr ""
 
-#, fuzzy
 msgid "New List"
-msgstr "Kívánságlista"
+msgstr ""
 
 msgid "New Releases"
 msgstr "Új megjelenések"
@@ -2409,9 +2298,8 @@ msgstr "Új eladó"
 msgid "New Styles"
 msgstr "Új stílusok"
 
-#, fuzzy
 msgid "New Support Request"
-msgstr "Támogatás"
+msgstr ""
 
 msgid "New folder name"
 msgstr ""
@@ -2422,16 +2310,14 @@ msgstr ""
 msgid "New submissions related to my lists"
 msgstr ""
 
-#, fuzzy
 msgid "Newest"
-msgstr "weboldal"
+msgstr ""
 
 msgid "Newest Groups"
 msgstr ""
 
-#, fuzzy
 msgid "No Cover"
-msgstr "Felfedezés"
+msgstr ""
 
 msgid "No Feedback"
 msgstr ""
@@ -2465,13 +2351,11 @@ msgstr ""
 msgid "No images have been uploaded."
 msgstr ""
 
-#, fuzzy
 msgid "No items"
-msgstr "tétel"
+msgstr ""
 
-#, fuzzy
 msgid "No items for sale found"
-msgstr "Eladó tételeim"
+msgstr ""
 
 msgid "No items found."
 msgstr ""
@@ -2519,13 +2403,11 @@ msgstr[0] ""
 msgid "No previous revision"
 msgstr ""
 
-#, fuzzy
 msgid "No recent activity?"
-msgstr "Legutóbbi csoport tevékenységek"
+msgstr ""
 
-#, fuzzy
 msgid "No results for"
-msgstr "eredmények"
+msgstr ""
 
 msgid "No results found for"
 msgstr ""
@@ -2549,9 +2431,8 @@ msgstr ""
 msgid "Not rated yet"
 msgstr ""
 
-#, fuzzy
 msgid "Note"
-msgstr "Jegyzetek"
+msgstr ""
 
 msgid "Note: You can only pay one invoice at a time."
 msgstr ""
@@ -2603,13 +2484,11 @@ msgid ""
 "field."
 msgstr ""
 
-#, fuzzy
 msgid "One per line"
-msgstr "soronként egy"
+msgstr ""
 
-#, fuzzy
 msgid "Only search CD"
-msgstr "Segítség a kereséshez"
+msgstr ""
 
 msgid "Only search Vinyl"
 msgstr ""
@@ -2645,9 +2524,8 @@ msgstr ""
 msgid "Or <a href=\"%(link)s\">upload a CSV</a>."
 msgstr ""
 
-#, fuzzy
 msgid "Order"
-msgstr "Nincsenek megrendelések"
+msgstr ""
 
 msgid "Order Date"
 msgstr ""
@@ -2655,13 +2533,11 @@ msgstr ""
 msgid "Order ID"
 msgstr ""
 
-#, fuzzy
 msgid "Order Information"
-msgstr "Több formátum"
+msgstr ""
 
-#, fuzzy
 msgid "Orders"
-msgstr "Nincsenek megrendelések"
+msgstr ""
 
 msgid "Orders by Day"
 msgstr ""
@@ -2672,13 +2548,11 @@ msgid ""
 "recordings."
 msgstr ""
 
-#, fuzzy
 msgid "Other"
-msgstr "Jegyzetek"
+msgstr ""
 
-#, fuzzy
 msgid "Other Tracks"
-msgstr "számok"
+msgstr ""
 
 msgid "Other Versions"
 msgstr ""
@@ -2698,9 +2572,8 @@ msgstr ""
 msgid "Paid On"
 msgstr ""
 
-#, fuzzy
 msgid "Parent Label"
-msgstr "Piactér"
+msgstr ""
 
 msgid "Passion for Music"
 msgstr ""
@@ -2755,9 +2628,8 @@ msgstr ""
 msgid "Payment Methods"
 msgstr "Fizetési módok"
 
-#, fuzzy
 msgid "Payment Options"
-msgstr "Fizetési módok"
+msgstr ""
 
 msgid "Payment Received?"
 msgstr ""
@@ -2907,9 +2779,8 @@ msgstr ""
 msgid "Please use <a href=\"%(link)s\" target=\"_blank\"> %(name)s</a> instead."
 msgstr ""
 
-#, fuzzy
 msgid "Popular Groups"
-msgstr "Népszerű formátuok"
+msgstr ""
 
 msgid "Pos"
 msgstr ""
@@ -2936,29 +2807,23 @@ msgstr ""
 msgid "Posted"
 msgstr ""
 
-#, fuzzy
 msgid "Posted Review"
-msgstr "vélemények"
+msgstr ""
 
-#, fuzzy
 msgid "Preview"
-msgstr "vélemények"
+msgstr ""
 
-#, fuzzy
 msgid "Preview / Submit"
-msgstr "vélemények"
+msgstr ""
 
-#, fuzzy
 msgid "Preview for"
-msgstr "vélemények"
+msgstr ""
 
-#, fuzzy
 msgid "Preview message"
-msgstr "vélemények"
+msgstr ""
 
-#, fuzzy
 msgid "Preview reply"
-msgstr "vélemények"
+msgstr ""
 
 msgid "Previous State of Images"
 msgstr ""
@@ -2969,9 +2834,8 @@ msgstr ""
 msgid "Price"
 msgstr "Ár"
 
-#, fuzzy
 msgid "Price History"
-msgstr "előzmények"
+msgstr ""
 
 msgid "Price Range"
 msgstr ""
@@ -2998,9 +2862,8 @@ msgstr ""
 msgid "Primary Image"
 msgstr ""
 
-#, fuzzy
 msgid "Primary Tracklist"
-msgstr "Számlista"
+msgstr ""
 
 msgid "Print View"
 msgstr ""
@@ -3045,9 +2908,8 @@ msgstr ""
 msgid "Public"
 msgstr ""
 
-#, fuzzy
 msgid "Purchases"
-msgstr "Vásárlásaim"
+msgstr ""
 
 msgid "Qty"
 msgstr ""
@@ -3066,16 +2928,14 @@ msgstr ""
 msgid "Quick Start Guide"
 msgstr ""
 
-#, fuzzy
 msgid "Quicklist!"
-msgstr "Számlista"
+msgstr ""
 
 msgid "Quote Previous"
 msgstr ""
 
-#, fuzzy
 msgid "Range"
-msgstr "Trance"
+msgstr ""
 
 #, python-format
 msgid "Rated %(span)s%(rating)s%(span_close)s of %(num)s votes"
@@ -3087,9 +2947,8 @@ msgstr ""
 msgid "Rating Distribution"
 msgstr ""
 
-#, fuzzy
 msgid "Ratings"
-msgstr "Beállítások"
+msgstr ""
 
 #, python-format
 msgid "Ratings (average: %s)"
@@ -3110,9 +2969,8 @@ msgstr ""
 msgid "Really drop the banhammer on this user?"
 msgstr ""
 
-#, fuzzy
 msgid "Reason"
-msgstr "kiadvány"
+msgstr ""
 
 msgid "Received"
 msgstr ""
@@ -3120,20 +2978,17 @@ msgstr ""
 msgid "Recent"
 msgstr ""
 
-#, fuzzy
 msgid "Recent Activity"
-msgstr "Legutóbbi csoport tevékenységek"
+msgstr ""
 
 msgid "Recent Changes made"
 msgstr ""
 
-#, fuzzy
 msgid "Recent Lists"
-msgstr "Előadó"
+msgstr ""
 
-#, fuzzy
 msgid "Recent ratings"
-msgstr "Beállítások"
+msgstr ""
 
 msgid "Recipient"
 msgstr ""
@@ -3147,13 +3002,11 @@ msgstr ""
 msgid "Register"
 msgstr ""
 
-#, fuzzy
 msgid "Release"
-msgstr "kiadvány"
+msgstr ""
 
-#, fuzzy
 msgid "Release ID"
-msgstr "kiadvány"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -3173,13 +3026,11 @@ msgid ""
 "never been submitted."
 msgstr ""
 
-#, fuzzy
 msgid "Release Notes"
-msgstr "kiadvány"
+msgstr ""
 
-#, fuzzy
 msgid "Release date."
-msgstr "kiadvány"
+msgstr ""
 
 msgid "Release not found"
 msgstr ""
@@ -3200,45 +3051,36 @@ msgstr ""
 msgid "Releases Recently Removed"
 msgstr ""
 
-#, fuzzy
 msgid "Relevance"
-msgstr "kiadvány"
+msgstr ""
 
-#, fuzzy
 msgid "Remove"
-msgstr "eltávolítás"
+msgstr ""
 
 #, python-format
 msgid "Remove %(thing)s"
 msgstr ""
 
-#, fuzzy
 msgid "Remove Image"
-msgstr "eltávolítás"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Item"
-msgstr "eltávolítás"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Release"
-msgstr "kiadvány"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Topic"
-msgstr "eltávolítás"
+msgstr ""
 
-#, fuzzy
 msgid "Remove filters"
-msgstr "eltávolítás"
+msgstr ""
 
-#, fuzzy
 msgid "Remove this"
-msgstr "eltávolítás"
+msgstr ""
 
-#, fuzzy
 msgid "Remove this release?"
-msgstr "ajánljuk ezeket a kiadványokat"
+msgstr ""
 
 #, python-format
 msgid "Removed %(start_bold)s%(num)d%(end_bold)s friends from your friends list."
@@ -3262,16 +3104,14 @@ msgstr ""
 msgid "Removed %s's items from your cart."
 msgstr ""
 
-#, fuzzy
 msgid "Removed Ban"
-msgstr "eltávolítás"
+msgstr ""
 
 msgid "Removed all items from your cart."
 msgstr ""
 
-#, fuzzy
 msgid "Removed ban."
-msgstr "eltávolítás"
+msgstr ""
 
 msgid "Removed from old version"
 msgstr ""
@@ -3286,9 +3126,8 @@ msgstr ""
 msgid "Removed item(s) from this order. Emailed buyer."
 msgstr ""
 
-#, fuzzy
 msgid "Removed item."
-msgstr "eltávolítás"
+msgstr ""
 
 msgid "Removed topic from saved list."
 msgstr ""
@@ -3309,9 +3148,8 @@ msgstr ""
 msgid "Replied to feedback on %s orders."
 msgstr ""
 
-#, fuzzy
 msgid "Replies"
-msgstr "vélemények"
+msgstr ""
 
 msgid "Reply"
 msgstr ""
@@ -3325,9 +3163,8 @@ msgstr ""
 msgid "Reply to message"
 msgstr ""
 
-#, fuzzy
 msgid "Report"
-msgstr "rendezés"
+msgstr ""
 
 msgid "Report Abuse"
 msgstr ""
@@ -3380,9 +3217,8 @@ msgstr ""
 msgid "Reviews & Discussion"
 msgstr ""
 
-#, fuzzy
 msgid "Revoke"
-msgstr "eltávolítás"
+msgstr ""
 
 msgid "Revoke access"
 msgstr ""
@@ -3390,9 +3226,8 @@ msgstr ""
 msgid "Revoke this application's access to your Discogs account?"
 msgstr ""
 
-#, fuzzy
 msgid "Role"
-msgstr "Profil"
+msgstr ""
 
 msgid "Sales History"
 msgstr "Korábban eladott példányok"
@@ -3400,9 +3235,8 @@ msgstr "Korábban eladott példányok"
 msgid "Save"
 msgstr ""
 
-#, fuzzy
 msgid "Save Changes"
-msgstr "Változtatás szükséges"
+msgstr ""
 
 msgid "Save Draft"
 msgstr ""
@@ -3410,9 +3244,8 @@ msgstr ""
 msgid "Save Fields"
 msgstr ""
 
-#, fuzzy
 msgid "Save Item"
-msgstr "tétel"
+msgstr ""
 
 msgid "Save Notification Settings"
 msgstr ""
@@ -3420,27 +3253,23 @@ msgstr ""
 msgid "Save all Track Artists/Credits"
 msgstr ""
 
-#, fuzzy
 msgid "Save changes"
-msgstr "Változtatás szükséges"
+msgstr ""
 
 msgid "Save my privacy settings"
 msgstr ""
 
-#, fuzzy
 msgid "Save settings"
-msgstr "Beállítások"
+msgstr ""
 
 msgid "Saved"
 msgstr ""
 
-#, fuzzy
 msgid "Saved Changes"
-msgstr "Változtatás szükséges"
+msgstr ""
 
-#, fuzzy
 msgid "Saved Changes."
-msgstr "Változtatás szükséges"
+msgstr ""
 
 msgid "Saved Group Topics"
 msgstr "Mentett témák"
@@ -3448,13 +3277,11 @@ msgstr "Mentett témák"
 msgid "Saved Labs Preferences"
 msgstr ""
 
-#, fuzzy
 msgid "Saved Submissions"
-msgstr "Sub-ok"
+msgstr ""
 
-#, fuzzy
 msgid "Saved Topics"
-msgstr "Mentett témák"
+msgstr ""
 
 #, python-format
 msgid "Saved changes to <a href=\"%s\">listing %s</a>"
@@ -3463,9 +3290,8 @@ msgstr ""
 msgid "Saved changes to your marketplace settings."
 msgstr ""
 
-#, fuzzy
 msgid "Saved changes."
-msgstr "Változtatás szükséges"
+msgstr ""
 
 msgid "Saved notification preferences."
 msgstr ""
@@ -3473,9 +3299,8 @@ msgstr ""
 msgid "Saved your changes."
 msgstr ""
 
-#, fuzzy
 msgid "Search"
-msgstr "Év"
+msgstr ""
 
 msgid "Search Discogs"
 msgstr ""
@@ -3486,17 +3311,14 @@ msgstr ""
 msgid "Search Help Docs..."
 msgstr ""
 
-#, fuzzy
 msgid "Search Marketplace"
-msgstr "Piactér"
+msgstr ""
 
-#, fuzzy
 msgid "Search Results"
-msgstr "Keresési eredmények"
+msgstr ""
 
-#, fuzzy
 msgid "Search Submissions"
-msgstr "Sub-ok"
+msgstr ""
 
 msgid "Search all excluding Vinyl and CD"
 msgstr ""
@@ -3510,9 +3332,8 @@ msgstr ""
 msgid "Search by specific fields"
 msgstr ""
 
-#, fuzzy
 msgid "Search for an item to sell"
-msgstr "Keresés a következő variációi között:"
+msgstr ""
 
 msgid "Search the database using these fields"
 msgstr ""
@@ -3541,18 +3362,16 @@ msgstr ""
 msgid "Select"
 msgstr ""
 
-#, fuzzy
 msgid "Select All"
-msgstr "keresés mindenhol"
+msgstr ""
 
 msgid ""
 "Select which events you would like to be notified about and how Discogs "
 "should notify you."
 msgstr ""
 
-#, fuzzy
 msgid "Sell Item"
-msgstr "tétel"
+msgstr ""
 
 msgid "Sell Music"
 msgstr ""
@@ -3563,9 +3382,8 @@ msgstr ""
 msgid "Sell-Blocked Releases"
 msgstr ""
 
-#, fuzzy
 msgid "Seller"
-msgstr "Új eladó"
+msgstr ""
 
 msgid "Seller Information"
 msgstr ""
@@ -3625,9 +3443,8 @@ msgstr "Beállítások"
 msgid "Sharing settings"
 msgstr ""
 
-#, fuzzy
 msgid "Shipping"
-msgstr "mutatás"
+msgstr ""
 
 msgid "Shipping &amp; Payments"
 msgstr ""
@@ -3645,9 +3462,8 @@ msgstr ""
 msgid "Shipping via %(method)s"
 msgstr ""
 
-#, fuzzy
 msgid "Ships From"
-msgstr "Szállítás a következő országból:"
+msgstr ""
 
 msgid "Ships from {}"
 msgstr ""
@@ -3763,13 +3579,11 @@ msgstr ""
 msgid "Start over"
 msgstr ""
 
-#, fuzzy
 msgid "Start selling now!"
-msgstr "Elkezdem "
+msgstr ""
 
-#, fuzzy
 msgid "Start shopping now!"
-msgstr "Vásárlás"
+msgstr ""
 
 msgid "State/Province"
 msgstr ""
@@ -3806,20 +3620,17 @@ msgstr ""
 msgid "Subject"
 msgstr ""
 
-#, fuzzy
 msgid "Submission Guidelines"
-msgstr "sub várakozik"
+msgstr ""
 
-#, fuzzy
 msgid "Submission Notes"
-msgstr "Sub-ok"
+msgstr ""
 
 msgid "Submissions"
 msgstr "Sub-ok"
 
-#, fuzzy
 msgid "Submissions for"
-msgstr "Sub-ok"
+msgstr ""
 
 #, python-format
 msgid "Submissions for artist %s"
@@ -3832,9 +3643,8 @@ msgstr ""
 msgid "Submissions from List (past 90 days):"
 msgstr ""
 
-#, fuzzy
 msgid "Submissions from user"
-msgstr "Sub-ok"
+msgstr ""
 
 #, python-format
 msgid "Submissions from user %s"
@@ -3849,9 +3659,8 @@ msgstr ""
 msgid "Submit Changes to Label Page"
 msgstr ""
 
-#, fuzzy
 msgid "Subtotal"
-msgstr "Összesen"
+msgstr ""
 
 msgid "Successfully Acted Upon Report(s)."
 msgstr ""
@@ -3893,9 +3702,8 @@ msgstr ""
 msgid "Tag"
 msgstr ""
 
-#, fuzzy
 msgid "Tags"
-msgstr "számok"
+msgstr ""
 
 msgid ""
 "Tags are keywords used to describe your group so it can be easily found "
@@ -3999,13 +3807,11 @@ msgstr ""
 msgid "The Format Field"
 msgstr ""
 
-#, fuzzy
 msgid "The Marketplace"
-msgstr "Piactér"
+msgstr ""
 
-#, fuzzy
 msgid "The Story"
-msgstr "előzmények"
+msgstr ""
 
 msgid "The application has been deleted."
 msgstr ""
@@ -4096,9 +3902,8 @@ msgstr ""
 msgid "The study and cataloguing of phonograph records."
 msgstr ""
 
-#, fuzzy
 msgid "The title of the release."
-msgstr "ajánljuk ezeket a kiadványokat"
+msgstr ""
 
 msgid ""
 "The user account you are trying to activate was not found. If you "
@@ -4275,9 +4080,8 @@ msgstr ""
 msgid "This version of the API was shut down on 15 January 2012."
 msgstr ""
 
-#, fuzzy
 msgid "Threads"
-msgstr "számok"
+msgstr ""
 
 msgid "Time Zone"
 msgstr ""
@@ -4285,9 +4089,8 @@ msgstr ""
 msgid "Times in CIP"
 msgstr ""
 
-#, fuzzy
 msgid "Title"
-msgstr "tétel"
+msgstr ""
 
 msgid "Title, A-Z"
 msgstr ""
@@ -4295,9 +4098,8 @@ msgstr ""
 msgid "Title, Z-A"
 msgstr ""
 
-#, fuzzy
 msgid "Title/Credits"
-msgstr "Megjegyzések"
+msgstr ""
 
 msgid "To"
 msgstr ""
@@ -4377,9 +4179,8 @@ msgstr ""
 msgid "Track Position(s)"
 msgstr ""
 
-#, fuzzy
 msgid "Track Title"
-msgstr "szám"
+msgstr ""
 
 msgid "Tracklist"
 msgstr "Számlista"
@@ -4405,9 +4206,8 @@ msgstr ""
 msgid "Turned sticky on"
 msgstr ""
 
-#, fuzzy
 msgid "Type"
-msgstr "Stílus"
+msgstr ""
 
 msgid "URLs"
 msgstr ""
@@ -4436,9 +4236,8 @@ msgstr[0] ""
 msgid "Unfollowed user."
 msgstr ""
 
-#, fuzzy
 msgid "Unfriend"
-msgstr "Barátok"
+msgstr ""
 
 msgid "Unignore"
 msgstr ""
@@ -4574,13 +4373,11 @@ msgstr ""
 msgid "View <a href=\"%(link)s\" class=\"new_window\"> formatting options</a>."
 msgstr ""
 
-#, fuzzy
 msgid "View Help"
-msgstr "mindet mutat"
+msgstr ""
 
-#, fuzzy
 msgid "View Message"
-msgstr "mindet mutat"
+msgstr ""
 
 msgid "View My Recent Changes By:"
 msgstr ""
@@ -4591,9 +4388,8 @@ msgstr ""
 msgid "View additional popular groups"
 msgstr ""
 
-#, fuzzy
 msgid "View all in "
-msgstr "mindet mutat"
+msgstr ""
 
 msgid "View complete sales history"
 msgstr ""
@@ -4607,28 +4403,23 @@ msgstr ""
 msgid "View feedback on seller"
 msgstr ""
 
-#, fuzzy
 msgid "View formatting options"
-msgstr "Listázási lehetőségek"
+msgstr ""
 
-#, fuzzy
 msgid "View group activity"
-msgstr "Legutóbbi csoport tevékenységek"
+msgstr ""
 
-#, fuzzy
 msgid "View items for sale"
-msgstr "Eladó tételeim"
+msgstr ""
 
-#, fuzzy
 msgid "View list"
-msgstr "mindet mutat"
+msgstr ""
 
 msgid "View more artists"
 msgstr ""
 
-#, fuzzy
 msgid "View more labels"
-msgstr "Érj el több vásárlót"
+msgstr ""
 
 msgid "View more new releases"
 msgstr ""
@@ -4636,13 +4427,11 @@ msgstr ""
 msgid "View more newest groups"
 msgstr ""
 
-#, fuzzy
 msgid "View more releases"
-msgstr "Új megjelenések"
+msgstr ""
 
-#, fuzzy
 msgid "View more sales history"
-msgstr "Korábban eladott példányok"
+msgstr ""
 
 msgid "View my Ratings"
 msgstr ""
@@ -4650,16 +4439,14 @@ msgstr ""
 msgid "View my lists"
 msgstr ""
 
-#, fuzzy
 msgid "View my orders"
-msgstr "Nincsenek megrendelések"
+msgstr ""
 
 msgid "View my profile"
 msgstr ""
 
-#, fuzzy
 msgid "View my purchases"
-msgstr "Vásárlásaim"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -4677,9 +4464,8 @@ msgstr ""
 msgid "View this list"
 msgstr ""
 
-#, fuzzy
 msgid "View your collection"
-msgstr "Gyűjtemény"
+msgstr ""
 
 msgid "View your inventory"
 msgstr ""
@@ -4694,17 +4480,14 @@ msgstr ""
 msgid "Visit the Forum"
 msgstr ""
 
-#, fuzzy
 msgid "Voted"
-msgstr "Jegyzetek"
+msgstr ""
 
-#, fuzzy
 msgid "Voting"
-msgstr "mutatás"
+msgstr ""
 
-#, fuzzy
 msgid "Voting Trends"
-msgstr "Az első lépések"
+msgstr ""
 
 msgid "Wantlist"
 msgstr "Kívánságlista"
@@ -5362,15 +5145,14 @@ msgstr ""
 msgid "_%0.2f to _%0.2f"
 msgstr ""
 
-#, fuzzy
 msgid "about"
-msgstr "Rólunk"
+msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "about %s"
 msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "about %s total"
 msgstr ""
 
@@ -5411,9 +5193,8 @@ msgstr ""
 msgid "click here"
 msgstr ""
 
-#, fuzzy
 msgid "close"
-msgstr "House"
+msgstr ""
 
 msgid "contact seller"
 msgstr ""
@@ -5433,9 +5214,8 @@ msgstr ""
 msgid "e.g. Upper Stacks - Aisle 5 Row 4"
 msgstr ""
 
-#, fuzzy
 msgid "edited"
-msgstr "szerkesztés"
+msgstr ""
 
 msgid "error code"
 msgstr ""
@@ -5459,16 +5239,14 @@ msgstr ""
 msgid "for sale"
 msgstr "eladó"
 
-#, fuzzy
 msgid "from"
-msgstr "az én"
+msgstr ""
 
 msgid "grams"
 msgstr ""
 
-#, fuzzy
 msgid "granted"
-msgstr "Trance"
+msgstr ""
 
 msgid "has"
 msgstr ""
@@ -5479,13 +5257,11 @@ msgstr ""
 msgid "have"
 msgstr ""
 
-#, fuzzy
 msgid "here"
-msgstr "Műfaj"
+msgstr ""
 
-#, fuzzy
 msgid "in Cart"
-msgstr "Kosár"
+msgstr ""
 
 #, python-format
 msgid "is selling %(n)d item I want"
@@ -5496,13 +5272,11 @@ msgid "item"
 msgid_plural "items"
 msgstr[0] "tétel"
 
-#, fuzzy
 msgid "items"
-msgstr "tétel"
+msgstr ""
 
-#, fuzzy
 msgid "jobs"
-msgstr "Állások"
+msgstr ""
 
 msgid "listed for sale in my inventory"
 msgstr ""
@@ -5552,9 +5326,8 @@ msgstr ""
 msgid "on"
 msgstr ""
 
-#, fuzzy
 msgid "optional"
-msgstr "Összesen"
+msgstr ""
 
 msgid "overall rating"
 msgstr ""
@@ -5577,9 +5350,8 @@ msgstr ""
 msgid "remove"
 msgstr "eltávolítás"
 
-#, fuzzy
 msgid "replies"
-msgstr "vélemények"
+msgstr ""
 
 msgid "rows"
 msgstr ""
@@ -5605,9 +5377,8 @@ msgstr ""
 msgid "submitted"
 msgstr ""
 
-#, fuzzy
 msgid "team"
-msgstr "tétel"
+msgstr ""
 
 msgid "that has since been deleted"
 msgstr ""
@@ -5631,26 +5402,22 @@ msgstr ""
 msgid "uploaded"
 msgstr ""
 
-#, fuzzy
 msgid "user"
 msgid_plural "users"
-msgstr[0] "House"
+msgstr[0] ""
 
 msgid "values"
 msgstr ""
 
-#, fuzzy
 msgid "view terms"
-msgstr "Új stílusok"
+msgstr ""
 
-#, fuzzy
 msgid "vote"
-msgstr "Jegyzetek"
+msgstr ""
 
 msgid "want"
 msgstr ""
 
-#, fuzzy
 msgid "wants"
-msgstr "Kívánságlista"
+msgstr ""
 

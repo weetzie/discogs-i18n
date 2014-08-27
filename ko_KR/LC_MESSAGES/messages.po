@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-08-25 12:13-0700\n"
+"POT-Creation-Date: 2014-08-27 12:38-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ko_KR <LL@li.org>\n"
@@ -18,21 +18,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
+msgid " Notify me"
+msgstr ""
+
+msgid " Stop notifying"
+msgstr ""
+
 #, python-format
 msgid "\"%s\" is available."
 msgstr ""
 
-#, fuzzy
 msgid "# in Collection"
-msgstr "모음"
+msgstr ""
 
-#, fuzzy
 msgid "# in Inventory"
-msgstr "인벤토리 관리"
+msgstr ""
 
-#, fuzzy
 msgid "# in Wantlist"
-msgstr "찜한 상품"
+msgstr ""
 
 msgid "# of Versions"
 msgstr ""
@@ -149,16 +152,15 @@ msgstr ""
 msgid "%s's Contributions"
 msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "%s's Wantlist"
 msgstr ""
 
 msgid "1. General Rules"
 msgstr ""
 
-#, fuzzy
 msgid "10. Credits"
-msgstr "크레딧"
+msgstr ""
 
 msgid "11. Release Notes"
 msgstr ""
@@ -166,16 +168,14 @@ msgstr ""
 msgid "12 Months"
 msgstr ""
 
-#, fuzzy
 msgid "12. Tracklisting"
-msgstr "트랙 리스트"
+msgstr ""
 
 msgid "13. Images"
 msgstr ""
 
-#, fuzzy
 msgid "2. Artist"
-msgstr "아티스트"
+msgstr ""
 
 msgid "3 Months"
 msgstr ""
@@ -186,24 +186,20 @@ msgstr ""
 msgid "4. Label/Catalog"
 msgstr ""
 
-#, fuzzy
 msgid "5. Barcodes &amp; Identifiers"
-msgstr "바코드 또는 다른 식별 방법"
+msgstr ""
 
 msgid "6 Months"
 msgstr ""
 
-#, fuzzy
 msgid "6. Format"
-msgstr "더 많은 포맷"
+msgstr ""
 
-#, fuzzy
 msgid "7. Country"
-msgstr "국가"
+msgstr ""
 
-#, fuzzy
 msgid "8. Release Date"
-msgstr "릴리즈"
+msgstr ""
 
 msgid "9. Genres/Styles"
 msgstr ""
@@ -272,9 +268,8 @@ msgstr ""
 msgid "Abbr"
 msgstr ""
 
-#, fuzzy
 msgid "About"
-msgstr "Discogs에 대해서"
+msgstr ""
 
 msgid "About Discogs"
 msgstr ""
@@ -339,9 +334,6 @@ msgstr ""
 msgid "Add Credit Per Track"
 msgstr ""
 
-msgid "Add Description"
-msgstr ""
-
 msgid "Add Folder"
 msgstr ""
 
@@ -360,24 +352,20 @@ msgstr ""
 msgid "Add Release"
 msgstr "발매 정보 추가"
 
-#, fuzzy
 msgid "Add Track"
-msgstr "트랙"
+msgstr ""
 
-#, fuzzy
 msgid "Add Tracks"
-msgstr "트랙"
+msgstr ""
 
 msgid "Add a Field"
 msgstr ""
 
-#, fuzzy
 msgid "Add a Release"
-msgstr "발매 정보 추가"
+msgstr ""
 
-#, fuzzy
 msgid "Add a release"
-msgstr "발매 정보 추가"
+msgstr ""
 
 msgid "Add an audio clip"
 msgstr ""
@@ -391,17 +379,14 @@ msgstr ""
 msgid "Add some images to the key release."
 msgstr ""
 
-#, fuzzy
 msgid "Add to Collection"
-msgstr "모음"
+msgstr ""
 
-#, fuzzy
 msgid "Add to Inventory"
-msgstr "인벤토리 관리"
+msgstr ""
 
-#, fuzzy
 msgid "Add to Wantlist"
-msgstr "리스트에 추가"
+msgstr ""
 
 msgid "Add to your Saved Submissions"
 msgstr ""
@@ -438,9 +423,8 @@ msgstr ""
 msgid "Admin"
 msgstr ""
 
-#, fuzzy
 msgid "Aliases"
-msgstr "리스트"
+msgstr ""
 
 msgid "All"
 msgstr ""
@@ -448,17 +432,14 @@ msgstr ""
 msgid "All Discogs"
 msgstr ""
 
-#, fuzzy
 msgid "All Groups"
-msgstr "내 그룹"
+msgstr ""
 
-#, fuzzy
 msgid "All Items"
-msgstr "품목"
+msgstr ""
 
-#, fuzzy
 msgid "All Marketplace"
-msgstr "마켓"
+msgstr ""
 
 msgid "All Topics"
 msgstr ""
@@ -497,9 +478,8 @@ msgstr ""
 msgid "Always share"
 msgstr ""
 
-#, fuzzy
 msgid "Amount"
-msgstr "국가"
+msgstr ""
 
 msgid "An error occurred. Please try again."
 msgstr ""
@@ -548,9 +528,8 @@ msgstr ""
 msgid "Are you sure you would like to copy this to your drafts?"
 msgstr ""
 
-#, fuzzy
 msgid "Artist"
-msgstr "아티스트"
+msgstr ""
 
 #, python-format
 msgid "Artist %s has already been indexed"
@@ -572,17 +551,14 @@ msgstr ""
 msgid "Ask me first"
 msgstr ""
 
-#, fuzzy
 msgid "Assigned Support Request"
-msgstr "지원 요청"
+msgstr ""
 
-#, fuzzy
 msgid "Assigned Support Requests"
-msgstr "지원 요청"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Sample"
-msgstr "판매"
+msgstr ""
 
 msgid "Authentication Error"
 msgstr ""
@@ -617,9 +593,8 @@ msgstr ""
 msgid "Back to Discuss overview"
 msgstr ""
 
-#, fuzzy
 msgid "Back to release"
-msgstr "릴리즈"
+msgstr ""
 
 msgid "Ban user and delete all their groups"
 msgstr ""
@@ -651,9 +626,8 @@ msgstr ""
 msgid "Billing"
 msgstr "지불 방법"
 
-#, fuzzy
 msgid "Block"
-msgstr "락"
+msgstr ""
 
 msgid "Block Sender"
 msgstr ""
@@ -677,28 +651,24 @@ msgstr ""
 msgid "Blog"
 msgstr ""
 
-#, fuzzy
 msgid "Bought by"
-msgstr "다음으로 정렬"
+msgstr ""
 
-#, fuzzy
 msgid "Browse"
-msgstr "모두 보기"
+msgstr ""
 
 #, python-format
 msgid "Browse %(mode)s Groups"
 msgstr ""
 
-#, fuzzy
 msgid "Browse Groups"
-msgstr "모두 보기"
+msgstr ""
 
 msgid "Browse Groups By Tag"
 msgstr ""
 
-#, fuzzy
 msgid "Browsing options"
-msgstr "리스팅 옵션"
+msgstr ""
 
 msgid "Building something cool? Check out our API!"
 msgstr ""
@@ -761,9 +731,8 @@ msgstr ""
 msgid "Can't find a group for you?"
 msgstr ""
 
-#, fuzzy
 msgid "Cancel"
-msgstr "트랜스"
+msgstr ""
 
 #, python-format
 msgid "Cannot %s yourself."
@@ -862,9 +831,11 @@ msgstr ""
 msgid "Click once and wait"
 msgstr ""
 
-#, fuzzy
 msgid "Close"
-msgstr "하우스"
+msgstr ""
+
+msgid "Collapse"
+msgstr ""
 
 msgid "Collection"
 msgstr "모음"
@@ -878,9 +849,8 @@ msgstr ""
 msgid "Collection item not found"
 msgstr ""
 
-#, fuzzy
 msgid "Comments"
-msgstr "추천"
+msgstr ""
 
 #, python-format
 msgid "Comments about your item (limited to %(limit)s characters)."
@@ -889,9 +859,8 @@ msgstr ""
 msgid "Comments on this item"
 msgstr ""
 
-#, fuzzy
 msgid "Community"
-msgstr "국가"
+msgstr ""
 
 msgid "Company Core Values"
 msgstr ""
@@ -902,9 +871,8 @@ msgstr ""
 msgid "Compose New Message"
 msgstr ""
 
-#, fuzzy
 msgid "Condition"
-msgstr "추천"
+msgstr ""
 
 msgid "Confirm Account"
 msgstr ""
@@ -933,13 +901,11 @@ msgstr ""
 msgid "Contact"
 msgstr "연락처"
 
-#, fuzzy
 msgid "Contact Info"
-msgstr "연락처"
+msgstr ""
 
-#, fuzzy
 msgid "Contained Releases"
-msgstr "새 릴리즈"
+msgstr ""
 
 msgid "Continuous Improvement"
 msgstr ""
@@ -947,9 +913,8 @@ msgstr ""
 msgid "Contribute"
 msgstr "기여"
 
-#, fuzzy
 msgid "Contributions"
-msgstr "기여"
+msgstr ""
 
 msgid "Contributor List"
 msgstr "기여자 목록"
@@ -974,9 +939,8 @@ msgstr ""
 msgid "Correct"
 msgstr ""
 
-#, fuzzy
 msgid "Count"
-msgstr "국가"
+msgstr ""
 
 msgid "Country"
 msgstr "국가"
@@ -1045,9 +1009,8 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#, fuzzy
 msgid "Credit"
-msgstr "수정"
+msgstr ""
 
 msgid "Credit Card Information"
 msgstr ""
@@ -1073,9 +1036,8 @@ msgstr ""
 msgid "Credits"
 msgstr "크레딧"
 
-#, fuzzy
 msgid "Credits List"
-msgstr "크레딧"
+msgstr ""
 
 msgid "Currency"
 msgstr ""
@@ -1106,9 +1068,8 @@ msgstr ""
 msgid "Default"
 msgstr ""
 
-#, fuzzy
 msgid "Delete"
-msgstr "릴리즈"
+msgstr ""
 
 msgid "Delete Folder"
 msgstr ""
@@ -1119,9 +1080,8 @@ msgstr ""
 msgid "Delete this image permanently?"
 msgstr ""
 
-#, fuzzy
 msgid "Deleted"
-msgstr "릴리즈"
+msgstr ""
 
 msgid "Deleted Folder"
 msgstr ""
@@ -1181,9 +1141,8 @@ msgstr ""
 msgid "Discogs Inbox"
 msgstr ""
 
-#, fuzzy
 msgid "Discogs Marketplace"
-msgstr "마켓"
+msgstr ""
 
 msgid "Discogs Marketplace invoice"
 msgstr ""
@@ -1246,13 +1205,11 @@ msgid ""
 "to appear."
 msgstr ""
 
-#, fuzzy
 msgid "Edit"
-msgstr "수정"
+msgstr ""
 
-#, fuzzy
 msgid "Edit "
-msgstr "수정"
+msgstr ""
 
 #, python-format
 msgid "Edit %(app_name)s Application"
@@ -1264,21 +1221,17 @@ msgstr ""
 msgid "Edit Images"
 msgstr ""
 
-#, fuzzy
 msgid "Edit Item"
-msgstr "품목"
+msgstr ""
 
-#, fuzzy
 msgid "Edit Post"
-msgstr "크레딧"
+msgstr ""
 
-#, fuzzy
 msgid "Edit Settings"
-msgstr "설정"
+msgstr ""
 
-#, fuzzy
 msgid "Edit a support question"
-msgstr "지원 요청"
+msgstr ""
 
 msgid "Edit all Track Artists/Credits"
 msgstr ""
@@ -1351,9 +1304,8 @@ msgstr ""
 msgid "Existing List"
 msgstr ""
 
-#, fuzzy
 msgid "Expected integer release_id"
-msgstr "이 릴리즈를 추천해 드립니다"
+msgstr ""
 
 msgid "Expiration Date"
 msgstr ""
@@ -1367,9 +1319,8 @@ msgstr ""
 msgid "Fee"
 msgstr ""
 
-#, fuzzy
 msgid "Fee after sale"
-msgstr "판매"
+msgstr ""
 
 msgid "Feedback"
 msgstr ""
@@ -1389,9 +1340,8 @@ msgstr ""
 msgid "File format releases are not allowed to be sold"
 msgstr ""
 
-#, fuzzy
 msgid "Filter by"
-msgstr "자료 정렬"
+msgstr ""
 
 msgid "Find your group on Discogs."
 msgstr ""
@@ -1399,9 +1349,8 @@ msgstr ""
 msgid "First Name"
 msgstr ""
 
-#, fuzzy
 msgid "Focus on Search"
-msgstr "검색에 관한 도움말"
+msgstr ""
 
 msgid "Folder"
 msgstr ""
@@ -1433,13 +1382,11 @@ msgstr ""
 msgid "Format: YYYY-MM-DD or YYYY-MM-00 or YYYY"
 msgstr ""
 
-#, fuzzy
 msgid "Formats List"
-msgstr "파일 포맷"
+msgstr ""
 
-#, fuzzy
 msgid "Forum"
-msgstr "포럼"
+msgstr ""
 
 msgid "Forum Topics"
 msgstr ""
@@ -1468,9 +1415,8 @@ msgstr "친구"
 msgid "Friends' Activity"
 msgstr ""
 
-#, fuzzy
 msgid "Friends' Submissions"
-msgstr "제안"
+msgstr ""
 
 msgid "From"
 msgstr ""
@@ -1478,9 +1424,8 @@ msgstr ""
 msgid "General settings"
 msgstr ""
 
-#, fuzzy
 msgid "Generic"
-msgstr "장르"
+msgstr ""
 
 msgid "Genre"
 msgstr "장르"
@@ -1500,13 +1445,11 @@ msgstr ""
 msgid "Get password"
 msgstr ""
 
-#, fuzzy
 msgid "Get started"
-msgstr "시작하기"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Collection"
-msgstr "모음"
+msgstr ""
 
 msgid "Go to Dashboard"
 msgstr ""
@@ -1523,28 +1466,23 @@ msgstr ""
 msgid "Go to Groups"
 msgstr ""
 
-#, fuzzy
 msgid "Go to Inventory"
-msgstr "인벤토리 관리"
+msgstr ""
 
 msgid "Go to Messages"
 msgstr ""
 
-#, fuzzy
 msgid "Go to Orders"
-msgstr "주문 내역 없음"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Profile"
-msgstr "프로파일"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Submissions"
-msgstr "제안"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Wantlist"
-msgstr "찜한 상품"
+msgstr ""
 
 msgid "Go to the Selection"
 msgstr ""
@@ -1552,16 +1490,14 @@ msgstr ""
 msgid "Got a really tough question? Our staff can help!"
 msgstr ""
 
-#, fuzzy
 msgid "Granted"
-msgstr "트랜스"
+msgstr ""
 
 msgid "Group"
 msgstr ""
 
-#, fuzzy
 msgid "Group Activity"
-msgstr "최근 활동 그룹"
+msgstr ""
 
 msgid "Group Admins"
 msgstr ""
@@ -1572,9 +1508,8 @@ msgstr ""
 msgid "Group Discussion Topics"
 msgstr ""
 
-#, fuzzy
 msgid "Group Search"
-msgstr "상품 검색"
+msgstr ""
 
 msgid "Group was created successfully"
 msgstr ""
@@ -1582,9 +1517,8 @@ msgstr ""
 msgid "Group was created successfully."
 msgstr ""
 
-#, fuzzy
 msgid "Groups"
-msgstr "내 그룹"
+msgstr ""
 
 msgid "Guess based on my location"
 msgstr ""
@@ -1614,9 +1548,8 @@ msgstr ""
 msgid "Help"
 msgstr "도움말"
 
-#, fuzzy
 msgid "Help Forum Bans"
-msgstr "포럼 질문"
+msgstr ""
 
 msgid "Help Is Here"
 msgstr ""
@@ -1627,16 +1560,14 @@ msgstr ""
 msgid "Help on Making Offers"
 msgstr ""
 
-#, fuzzy
 msgid "Hide"
-msgstr "동영상"
+msgstr ""
 
 msgid "Highest"
 msgstr ""
 
-#, fuzzy
 msgid "History"
-msgstr "역사"
+msgstr ""
 
 msgid "Home Page"
 msgstr ""
@@ -1753,9 +1684,8 @@ msgstr ""
 msgid "Images for"
 msgstr ""
 
-#, fuzzy
 msgid "In Groups"
-msgstr "내 그룹"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -1836,9 +1766,8 @@ msgstr ""
 msgid "Invalid verification code"
 msgstr ""
 
-#, fuzzy
 msgid "Inventory"
-msgstr "인벤토리 관리"
+msgstr ""
 
 msgid "Invitation only"
 msgstr ""
@@ -1888,16 +1817,14 @@ msgstr "품목"
 msgid "Item Container"
 msgstr ""
 
-#, fuzzy
 msgid "Item Edit"
-msgstr "품목"
+msgstr ""
 
 msgid "Item Location"
 msgstr ""
 
-#, fuzzy
 msgid "Item View"
-msgstr "리뷰"
+msgstr ""
 
 msgid "Item condition comments"
 msgstr ""
@@ -1918,9 +1845,8 @@ msgstr ""
 msgid "Items I Want"
 msgstr "찜한 물품"
 
-#, fuzzy
 msgid "Items I'm selling"
-msgstr "베스트셀링"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -1932,9 +1858,8 @@ msgstr ""
 msgid "Jobs"
 msgstr "구인"
 
-#, fuzzy
 msgid "Join"
-msgstr "으로"
+msgstr ""
 
 msgid "Join Group"
 msgstr ""
@@ -1988,9 +1913,8 @@ msgstr ""
 msgid "Latest Post"
 msgstr ""
 
-#, fuzzy
 msgid "Latest Reviews:"
-msgstr "리뷰"
+msgstr ""
 
 msgid "Leave Group"
 msgstr ""
@@ -2009,38 +1933,32 @@ msgstr ""
 msgid "Let us know."
 msgstr ""
 
-#, fuzzy
 msgid "Lines"
-msgstr "리스트"
+msgstr ""
 
-#, fuzzy
 msgid "List"
-msgstr "리스트"
+msgstr ""
 
 msgid "List Activity"
 msgstr ""
 
-#, fuzzy
 msgid "List For Sale"
-msgstr "판매"
+msgstr ""
 
-#, fuzzy
 msgid "List Item For Sale"
-msgstr "내가 판매중인 물품"
+msgstr ""
 
 msgid "List already in use"
 msgstr ""
 
-#, fuzzy
 msgid "List does not exist"
-msgstr "이 레이블은 Discogs에 존재하지 않습니다."
+msgstr ""
 
 msgid "Listed below are copies of the release available from other sellers."
 msgstr ""
 
-#, fuzzy
 msgid "Listing Violations"
-msgstr "리스팅 옵션"
+msgstr ""
 
 msgid "Listings that are in Violation status can only be deleted."
 msgstr ""
@@ -2054,9 +1972,8 @@ msgstr ""
 msgid "Locate the final 3 or 4 digit number on the back of your card."
 msgstr ""
 
-#, fuzzy
 msgid "Location"
-msgstr "모음"
+msgstr ""
 
 msgid "Locked topic"
 msgstr ""
@@ -2064,9 +1981,8 @@ msgstr ""
 msgid "Log In"
 msgstr ""
 
-#, fuzzy
 msgid "Log Out"
-msgstr "로그아웃"
+msgstr ""
 
 msgid "Logged in as"
 msgstr ""
@@ -2083,9 +1999,8 @@ msgstr ""
 msgid "Lookup"
 msgstr ""
 
-#, fuzzy
 msgid "Lowest"
-msgstr "웹사이트"
+msgstr ""
 
 msgid "Main Navigation"
 msgstr ""
@@ -2110,9 +2025,8 @@ msgstr ""
 msgid "Manage your applications and API keys here."
 msgstr ""
 
-#, fuzzy
 msgid "Manage your inventory"
-msgstr "인벤토리 관리"
+msgstr ""
 
 msgid "Mark as Read"
 msgstr ""
@@ -2140,35 +2054,29 @@ msgstr[0] ""
 msgid "Marketplace"
 msgstr "마켓"
 
-#, fuzzy
 msgid "Marketplace Inventory"
-msgstr "마켓 지원"
+msgstr ""
 
 msgid "Marketplace Notifications"
 msgstr ""
 
-#, fuzzy
 msgid "Marketplace Order Items"
-msgstr "마켓 지원"
+msgstr ""
 
-#, fuzzy
 msgid "Marketplace Orders"
-msgstr "마켓 지원"
+msgstr ""
 
-#, fuzzy
 msgid "Marketplace Preferences"
-msgstr "마켓 지원"
+msgstr ""
 
-#, fuzzy
 msgid "Marketplace Sales History"
-msgstr "최근 판매 물품"
+msgstr ""
 
 msgid "Master ID"
 msgstr ""
 
-#, fuzzy
 msgid "Master Release"
-msgstr "릴리즈"
+msgstr ""
 
 msgid "Max"
 msgstr ""
@@ -2179,20 +2087,17 @@ msgstr ""
 msgid "Med"
 msgstr ""
 
-#, fuzzy
 msgid "Media"
-msgstr "수정"
+msgstr ""
 
-#, fuzzy
 msgid "Media Condition"
-msgstr "추천"
+msgstr ""
 
 msgid "Media condition is missing"
 msgstr ""
 
-#, fuzzy
 msgid "Median"
-msgstr "수정"
+msgstr ""
 
 msgid "Members"
 msgstr ""
@@ -2203,13 +2108,11 @@ msgstr ""
 msgid "Members of"
 msgstr ""
 
-#, fuzzy
 msgid "Merge Release"
-msgstr "릴리즈"
+msgstr ""
 
-#, fuzzy
 msgid "Merge this release?"
-msgstr "이 릴리즈를 추천해 드립니다"
+msgstr ""
 
 #, python-format
 msgid "Merged orders %s into order %s"
@@ -2229,9 +2132,8 @@ msgstr ""
 msgid "Messages will be permanently removed after one week."
 msgstr ""
 
-#, fuzzy
 msgid "Min"
-msgstr "으로"
+msgstr ""
 
 msgid "Minimum"
 msgstr ""
@@ -2260,16 +2162,15 @@ msgstr ""
 msgid "More items to sell?"
 msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "More than %s"
 msgstr ""
 
 msgid "Most Collected"
 msgstr ""
 
-#, fuzzy
 msgid "Most Popular Topics"
-msgstr "인기있는 "
+msgstr ""
 
 msgid "Most Wanted"
 msgstr ""
@@ -2321,9 +2222,8 @@ msgstr ""
 msgid "My Activity (Shared)"
 msgstr ""
 
-#, fuzzy
 msgid "My Contributions"
-msgstr "기여자 목록"
+msgstr ""
 
 msgid "My Discogs"
 msgstr ""
@@ -2331,32 +2231,26 @@ msgstr ""
 msgid "My Groups"
 msgstr "내 그룹"
 
-#, fuzzy
 msgid "My Lists"
-msgstr "리스트"
+msgstr ""
 
-#, fuzzy
 msgid "My Lists:"
-msgstr "리스트"
+msgstr ""
 
-#, fuzzy
 msgid "My Profile"
-msgstr "프로파일"
+msgstr ""
 
-#, fuzzy
 msgid "My Store"
-msgstr "더"
+msgstr ""
 
-#, fuzzy
 msgid "My Submissions"
-msgstr "제안"
+msgstr ""
 
 msgid "My Uploads"
 msgstr ""
 
-#, fuzzy
 msgid "My Wantlist"
-msgstr "찜한 상품"
+msgstr ""
 
 msgid "My comment is a review"
 msgstr ""
@@ -2379,13 +2273,11 @@ msgstr ""
 msgid "Need help?"
 msgstr ""
 
-#, fuzzy
 msgid "Needs Major Changes"
-msgstr "수정 필요"
+msgstr ""
 
-#, fuzzy
 msgid "Needs Minor Changes"
-msgstr "수정 필요"
+msgstr ""
 
 msgid "Never share"
 msgstr ""
@@ -2394,9 +2286,8 @@ msgstr ""
 msgid "New (rev: %(curr_rev)s)"
 msgstr ""
 
-#, fuzzy
 msgid "New List"
-msgstr "찜한 상품"
+msgstr ""
 
 msgid "New Releases"
 msgstr "새 릴리즈"
@@ -2407,9 +2298,8 @@ msgstr "새 판매자"
 msgid "New Styles"
 msgstr "새 스타일"
 
-#, fuzzy
 msgid "New Support Request"
-msgstr "지원 요청"
+msgstr ""
 
 msgid "New folder name"
 msgstr ""
@@ -2420,16 +2310,14 @@ msgstr ""
 msgid "New submissions related to my lists"
 msgstr ""
 
-#, fuzzy
 msgid "Newest"
-msgstr "웹사이트"
+msgstr ""
 
 msgid "Newest Groups"
 msgstr ""
 
-#, fuzzy
 msgid "No Cover"
-msgstr "발견"
+msgstr ""
 
 msgid "No Feedback"
 msgstr ""
@@ -2463,13 +2351,11 @@ msgstr ""
 msgid "No images have been uploaded."
 msgstr ""
 
-#, fuzzy
 msgid "No items"
-msgstr "품목"
+msgstr ""
 
-#, fuzzy
 msgid "No items for sale found"
-msgstr "내가 판매중인 물품"
+msgstr ""
 
 msgid "No items found."
 msgstr ""
@@ -2517,13 +2403,11 @@ msgstr[0] ""
 msgid "No previous revision"
 msgstr ""
 
-#, fuzzy
 msgid "No recent activity?"
-msgstr "최근 활동 그룹"
+msgstr ""
 
-#, fuzzy
 msgid "No results for"
-msgstr "결과"
+msgstr ""
 
 msgid "No results found for"
 msgstr ""
@@ -2547,9 +2431,8 @@ msgstr ""
 msgid "Not rated yet"
 msgstr ""
 
-#, fuzzy
 msgid "Note"
-msgstr "비고"
+msgstr ""
 
 msgid "Note: You can only pay one invoice at a time."
 msgstr ""
@@ -2601,13 +2484,11 @@ msgid ""
 "field."
 msgstr ""
 
-#, fuzzy
 msgid "One per line"
-msgstr "줄당"
+msgstr ""
 
-#, fuzzy
 msgid "Only search CD"
-msgstr "검색에 관한 도움말"
+msgstr ""
 
 msgid "Only search Vinyl"
 msgstr ""
@@ -2643,9 +2524,8 @@ msgstr ""
 msgid "Or <a href=\"%(link)s\">upload a CSV</a>."
 msgstr ""
 
-#, fuzzy
 msgid "Order"
-msgstr "주문 내역 없음"
+msgstr ""
 
 msgid "Order Date"
 msgstr ""
@@ -2653,13 +2533,11 @@ msgstr ""
 msgid "Order ID"
 msgstr ""
 
-#, fuzzy
 msgid "Order Information"
-msgstr "더 많은 포맷"
+msgstr ""
 
-#, fuzzy
 msgid "Orders"
-msgstr "주문 내역 없음"
+msgstr ""
 
 msgid "Orders by Day"
 msgstr ""
@@ -2670,13 +2548,11 @@ msgid ""
 "recordings."
 msgstr ""
 
-#, fuzzy
 msgid "Other"
-msgstr "비고"
+msgstr ""
 
-#, fuzzy
 msgid "Other Tracks"
-msgstr "트랙"
+msgstr ""
 
 msgid "Other Versions"
 msgstr ""
@@ -2696,9 +2572,8 @@ msgstr ""
 msgid "Paid On"
 msgstr ""
 
-#, fuzzy
 msgid "Parent Label"
-msgstr "마켓"
+msgstr ""
 
 msgid "Passion for Music"
 msgstr ""
@@ -2753,9 +2628,8 @@ msgstr ""
 msgid "Payment Methods"
 msgstr "지불 방법"
 
-#, fuzzy
 msgid "Payment Options"
-msgstr "지불 방법"
+msgstr ""
 
 msgid "Payment Received?"
 msgstr ""
@@ -2905,9 +2779,8 @@ msgstr ""
 msgid "Please use <a href=\"%(link)s\" target=\"_blank\"> %(name)s</a> instead."
 msgstr ""
 
-#, fuzzy
 msgid "Popular Groups"
-msgstr "인기있는 "
+msgstr ""
 
 msgid "Pos"
 msgstr ""
@@ -2934,29 +2807,23 @@ msgstr ""
 msgid "Posted"
 msgstr ""
 
-#, fuzzy
 msgid "Posted Review"
-msgstr "리뷰"
+msgstr ""
 
-#, fuzzy
 msgid "Preview"
-msgstr "리뷰"
+msgstr ""
 
-#, fuzzy
 msgid "Preview / Submit"
-msgstr "리뷰"
+msgstr ""
 
-#, fuzzy
 msgid "Preview for"
-msgstr "리뷰"
+msgstr ""
 
-#, fuzzy
 msgid "Preview message"
-msgstr "리뷰"
+msgstr ""
 
-#, fuzzy
 msgid "Preview reply"
-msgstr "리뷰"
+msgstr ""
 
 msgid "Previous State of Images"
 msgstr ""
@@ -2967,9 +2834,8 @@ msgstr ""
 msgid "Price"
 msgstr "가격"
 
-#, fuzzy
 msgid "Price History"
-msgstr "역사"
+msgstr ""
 
 msgid "Price Range"
 msgstr ""
@@ -2996,9 +2862,8 @@ msgstr ""
 msgid "Primary Image"
 msgstr ""
 
-#, fuzzy
 msgid "Primary Tracklist"
-msgstr "트랙 리스트"
+msgstr ""
 
 msgid "Print View"
 msgstr ""
@@ -3043,9 +2908,8 @@ msgstr ""
 msgid "Public"
 msgstr ""
 
-#, fuzzy
 msgid "Purchases"
-msgstr "내 구매내역"
+msgstr ""
 
 msgid "Qty"
 msgstr ""
@@ -3064,16 +2928,14 @@ msgstr ""
 msgid "Quick Start Guide"
 msgstr ""
 
-#, fuzzy
 msgid "Quicklist!"
-msgstr "트랙 리스트"
+msgstr ""
 
 msgid "Quote Previous"
 msgstr ""
 
-#, fuzzy
 msgid "Range"
-msgstr "트랜스"
+msgstr ""
 
 #, python-format
 msgid "Rated %(span)s%(rating)s%(span_close)s of %(num)s votes"
@@ -3085,9 +2947,8 @@ msgstr ""
 msgid "Rating Distribution"
 msgstr ""
 
-#, fuzzy
 msgid "Ratings"
-msgstr "설정"
+msgstr ""
 
 #, python-format
 msgid "Ratings (average: %s)"
@@ -3108,9 +2969,8 @@ msgstr ""
 msgid "Really drop the banhammer on this user?"
 msgstr ""
 
-#, fuzzy
 msgid "Reason"
-msgstr "릴리즈"
+msgstr ""
 
 msgid "Received"
 msgstr ""
@@ -3118,20 +2978,17 @@ msgstr ""
 msgid "Recent"
 msgstr ""
 
-#, fuzzy
 msgid "Recent Activity"
-msgstr "최근 활동 그룹"
+msgstr ""
 
 msgid "Recent Changes made"
 msgstr ""
 
-#, fuzzy
 msgid "Recent Lists"
-msgstr "아티스트"
+msgstr ""
 
-#, fuzzy
 msgid "Recent ratings"
-msgstr "설정"
+msgstr ""
 
 msgid "Recipient"
 msgstr ""
@@ -3145,13 +3002,11 @@ msgstr ""
 msgid "Register"
 msgstr ""
 
-#, fuzzy
 msgid "Release"
-msgstr "릴리즈"
+msgstr ""
 
-#, fuzzy
 msgid "Release ID"
-msgstr "릴리즈"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -3171,13 +3026,11 @@ msgid ""
 "never been submitted."
 msgstr ""
 
-#, fuzzy
 msgid "Release Notes"
-msgstr "릴리즈"
+msgstr ""
 
-#, fuzzy
 msgid "Release date."
-msgstr "릴리즈"
+msgstr ""
 
 msgid "Release not found"
 msgstr ""
@@ -3198,45 +3051,36 @@ msgstr ""
 msgid "Releases Recently Removed"
 msgstr ""
 
-#, fuzzy
 msgid "Relevance"
-msgstr "릴리즈"
+msgstr ""
 
-#, fuzzy
 msgid "Remove"
-msgstr "제거"
+msgstr ""
 
 #, python-format
 msgid "Remove %(thing)s"
 msgstr ""
 
-#, fuzzy
 msgid "Remove Image"
-msgstr "제거"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Item"
-msgstr "제거"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Release"
-msgstr "릴리즈"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Topic"
-msgstr "제거"
+msgstr ""
 
-#, fuzzy
 msgid "Remove filters"
-msgstr "제거"
+msgstr ""
 
-#, fuzzy
 msgid "Remove this"
-msgstr "제거"
+msgstr ""
 
-#, fuzzy
 msgid "Remove this release?"
-msgstr "이 릴리즈를 추천해 드립니다"
+msgstr ""
 
 #, python-format
 msgid "Removed %(start_bold)s%(num)d%(end_bold)s friends from your friends list."
@@ -3260,16 +3104,14 @@ msgstr ""
 msgid "Removed %s's items from your cart."
 msgstr ""
 
-#, fuzzy
 msgid "Removed Ban"
-msgstr "제거"
+msgstr ""
 
 msgid "Removed all items from your cart."
 msgstr ""
 
-#, fuzzy
 msgid "Removed ban."
-msgstr "제거"
+msgstr ""
 
 msgid "Removed from old version"
 msgstr ""
@@ -3284,9 +3126,8 @@ msgstr ""
 msgid "Removed item(s) from this order. Emailed buyer."
 msgstr ""
 
-#, fuzzy
 msgid "Removed item."
-msgstr "제거"
+msgstr ""
 
 msgid "Removed topic from saved list."
 msgstr ""
@@ -3307,9 +3148,8 @@ msgstr ""
 msgid "Replied to feedback on %s orders."
 msgstr ""
 
-#, fuzzy
 msgid "Replies"
-msgstr "리뷰"
+msgstr ""
 
 msgid "Reply"
 msgstr ""
@@ -3323,9 +3163,8 @@ msgstr ""
 msgid "Reply to message"
 msgstr ""
 
-#, fuzzy
 msgid "Report"
-msgstr "정렬"
+msgstr ""
 
 msgid "Report Abuse"
 msgstr ""
@@ -3378,9 +3217,8 @@ msgstr ""
 msgid "Reviews & Discussion"
 msgstr ""
 
-#, fuzzy
 msgid "Revoke"
-msgstr "제거"
+msgstr ""
 
 msgid "Revoke access"
 msgstr ""
@@ -3388,9 +3226,8 @@ msgstr ""
 msgid "Revoke this application's access to your Discogs account?"
 msgstr ""
 
-#, fuzzy
 msgid "Role"
-msgstr "프로파일"
+msgstr ""
 
 msgid "Sales History"
 msgstr "판매 이력"
@@ -3398,9 +3235,8 @@ msgstr "판매 이력"
 msgid "Save"
 msgstr ""
 
-#, fuzzy
 msgid "Save Changes"
-msgstr "수정 필요"
+msgstr ""
 
 msgid "Save Draft"
 msgstr ""
@@ -3408,9 +3244,8 @@ msgstr ""
 msgid "Save Fields"
 msgstr ""
 
-#, fuzzy
 msgid "Save Item"
-msgstr "품목"
+msgstr ""
 
 msgid "Save Notification Settings"
 msgstr ""
@@ -3418,27 +3253,23 @@ msgstr ""
 msgid "Save all Track Artists/Credits"
 msgstr ""
 
-#, fuzzy
 msgid "Save changes"
-msgstr "수정 필요"
+msgstr ""
 
 msgid "Save my privacy settings"
 msgstr ""
 
-#, fuzzy
 msgid "Save settings"
-msgstr "설정"
+msgstr ""
 
 msgid "Saved"
 msgstr ""
 
-#, fuzzy
 msgid "Saved Changes"
-msgstr "수정 필요"
+msgstr ""
 
-#, fuzzy
 msgid "Saved Changes."
-msgstr "수정 필요"
+msgstr ""
 
 msgid "Saved Group Topics"
 msgstr ""
@@ -3446,9 +3277,8 @@ msgstr ""
 msgid "Saved Labs Preferences"
 msgstr ""
 
-#, fuzzy
 msgid "Saved Submissions"
-msgstr "제안"
+msgstr ""
 
 msgid "Saved Topics"
 msgstr ""
@@ -3460,9 +3290,8 @@ msgstr ""
 msgid "Saved changes to your marketplace settings."
 msgstr ""
 
-#, fuzzy
 msgid "Saved changes."
-msgstr "수정 필요"
+msgstr ""
 
 msgid "Saved notification preferences."
 msgstr ""
@@ -3470,9 +3299,8 @@ msgstr ""
 msgid "Saved your changes."
 msgstr ""
 
-#, fuzzy
 msgid "Search"
-msgstr "년도"
+msgstr ""
 
 msgid "Search Discogs"
 msgstr ""
@@ -3483,17 +3311,14 @@ msgstr ""
 msgid "Search Help Docs..."
 msgstr ""
 
-#, fuzzy
 msgid "Search Marketplace"
-msgstr "마켓"
+msgstr ""
 
-#, fuzzy
 msgid "Search Results"
-msgstr "검색 결과"
+msgstr ""
 
-#, fuzzy
 msgid "Search Submissions"
-msgstr "제안"
+msgstr ""
 
 msgid "Search all excluding Vinyl and CD"
 msgstr ""
@@ -3537,18 +3362,16 @@ msgstr ""
 msgid "Select"
 msgstr ""
 
-#, fuzzy
 msgid "Select All"
-msgstr "모두 보기"
+msgstr ""
 
 msgid ""
 "Select which events you would like to be notified about and how Discogs "
 "should notify you."
 msgstr ""
 
-#, fuzzy
 msgid "Sell Item"
-msgstr "품목"
+msgstr ""
 
 msgid "Sell Music"
 msgstr ""
@@ -3559,9 +3382,8 @@ msgstr ""
 msgid "Sell-Blocked Releases"
 msgstr ""
 
-#, fuzzy
 msgid "Seller"
-msgstr "새 판매자"
+msgstr ""
 
 msgid "Seller Information"
 msgstr ""
@@ -3621,9 +3443,8 @@ msgstr "설정"
 msgid "Sharing settings"
 msgstr ""
 
-#, fuzzy
 msgid "Shipping"
-msgstr "보기"
+msgstr ""
 
 msgid "Shipping &amp; Payments"
 msgstr ""
@@ -3758,13 +3579,11 @@ msgstr ""
 msgid "Start over"
 msgstr ""
 
-#, fuzzy
 msgid "Start selling now!"
-msgstr "판매를 시작하세요"
+msgstr ""
 
-#, fuzzy
 msgid "Start shopping now!"
-msgstr "쇼핑 "
+msgstr ""
 
 msgid "State/Province"
 msgstr ""
@@ -3801,20 +3620,17 @@ msgstr ""
 msgid "Subject"
 msgstr ""
 
-#, fuzzy
 msgid "Submission Guidelines"
-msgstr "수정 요청 보류"
+msgstr ""
 
-#, fuzzy
 msgid "Submission Notes"
-msgstr "제안"
+msgstr ""
 
 msgid "Submissions"
 msgstr "제안"
 
-#, fuzzy
 msgid "Submissions for"
-msgstr "제안"
+msgstr ""
 
 #, python-format
 msgid "Submissions for artist %s"
@@ -3827,9 +3643,8 @@ msgstr ""
 msgid "Submissions from List (past 90 days):"
 msgstr ""
 
-#, fuzzy
 msgid "Submissions from user"
-msgstr "제안"
+msgstr ""
 
 #, python-format
 msgid "Submissions from user %s"
@@ -3844,9 +3659,8 @@ msgstr ""
 msgid "Submit Changes to Label Page"
 msgstr ""
 
-#, fuzzy
 msgid "Subtotal"
-msgstr "합"
+msgstr ""
 
 msgid "Successfully Acted Upon Report(s)."
 msgstr ""
@@ -3888,9 +3702,8 @@ msgstr ""
 msgid "Tag"
 msgstr ""
 
-#, fuzzy
 msgid "Tags"
-msgstr "트랙"
+msgstr ""
 
 msgid ""
 "Tags are keywords used to describe your group so it can be easily found "
@@ -3994,13 +3807,11 @@ msgstr ""
 msgid "The Format Field"
 msgstr ""
 
-#, fuzzy
 msgid "The Marketplace"
-msgstr "마켓"
+msgstr ""
 
-#, fuzzy
 msgid "The Story"
-msgstr "역사"
+msgstr ""
 
 msgid "The application has been deleted."
 msgstr ""
@@ -4091,9 +3902,8 @@ msgstr ""
 msgid "The study and cataloguing of phonograph records."
 msgstr ""
 
-#, fuzzy
 msgid "The title of the release."
-msgstr "이 릴리즈를 추천해 드립니다"
+msgstr ""
 
 msgid ""
 "The user account you are trying to activate was not found. If you "
@@ -4270,9 +4080,8 @@ msgstr ""
 msgid "This version of the API was shut down on 15 January 2012."
 msgstr ""
 
-#, fuzzy
 msgid "Threads"
-msgstr "트랙"
+msgstr ""
 
 msgid "Time Zone"
 msgstr ""
@@ -4280,9 +4089,8 @@ msgstr ""
 msgid "Times in CIP"
 msgstr ""
 
-#, fuzzy
 msgid "Title"
-msgstr "품목"
+msgstr ""
 
 msgid "Title, A-Z"
 msgstr ""
@@ -4290,9 +4098,8 @@ msgstr ""
 msgid "Title, Z-A"
 msgstr ""
 
-#, fuzzy
 msgid "Title/Credits"
-msgstr "크레딧"
+msgstr ""
 
 msgid "To"
 msgstr ""
@@ -4372,9 +4179,8 @@ msgstr ""
 msgid "Track Position(s)"
 msgstr ""
 
-#, fuzzy
 msgid "Track Title"
-msgstr "트랙"
+msgstr ""
 
 msgid "Tracklist"
 msgstr "트랙 리스트"
@@ -4400,9 +4206,8 @@ msgstr ""
 msgid "Turned sticky on"
 msgstr ""
 
-#, fuzzy
 msgid "Type"
-msgstr "형태"
+msgstr ""
 
 msgid "URLs"
 msgstr ""
@@ -4431,9 +4236,8 @@ msgstr[0] ""
 msgid "Unfollowed user."
 msgstr ""
 
-#, fuzzy
 msgid "Unfriend"
-msgstr "친구"
+msgstr ""
 
 msgid "Unignore"
 msgstr ""
@@ -4569,13 +4373,11 @@ msgstr ""
 msgid "View <a href=\"%(link)s\" class=\"new_window\"> formatting options</a>."
 msgstr ""
 
-#, fuzzy
 msgid "View Help"
-msgstr "모두 보기"
+msgstr ""
 
-#, fuzzy
 msgid "View Message"
-msgstr "모두 보기"
+msgstr ""
 
 msgid "View My Recent Changes By:"
 msgstr ""
@@ -4586,9 +4388,8 @@ msgstr ""
 msgid "View additional popular groups"
 msgstr ""
 
-#, fuzzy
 msgid "View all in "
-msgstr "모두 보기"
+msgstr ""
 
 msgid "View complete sales history"
 msgstr ""
@@ -4602,28 +4403,23 @@ msgstr ""
 msgid "View feedback on seller"
 msgstr ""
 
-#, fuzzy
 msgid "View formatting options"
-msgstr "리스팅 옵션"
+msgstr ""
 
-#, fuzzy
 msgid "View group activity"
-msgstr "최근 활동 그룹"
+msgstr ""
 
-#, fuzzy
 msgid "View items for sale"
-msgstr "내가 판매중인 물품"
+msgstr ""
 
-#, fuzzy
 msgid "View list"
-msgstr "모두 보기"
+msgstr ""
 
 msgid "View more artists"
 msgstr ""
 
-#, fuzzy
 msgid "View more labels"
-msgstr "더 많은 판매자에게"
+msgstr ""
 
 msgid "View more new releases"
 msgstr ""
@@ -4631,13 +4427,11 @@ msgstr ""
 msgid "View more newest groups"
 msgstr ""
 
-#, fuzzy
 msgid "View more releases"
-msgstr "새 릴리즈"
+msgstr ""
 
-#, fuzzy
 msgid "View more sales history"
-msgstr "판매 이력"
+msgstr ""
 
 msgid "View my Ratings"
 msgstr ""
@@ -4645,16 +4439,14 @@ msgstr ""
 msgid "View my lists"
 msgstr ""
 
-#, fuzzy
 msgid "View my orders"
-msgstr "주문 내역 없음"
+msgstr ""
 
 msgid "View my profile"
 msgstr ""
 
-#, fuzzy
 msgid "View my purchases"
-msgstr "내 구매내역"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -4672,9 +4464,8 @@ msgstr ""
 msgid "View this list"
 msgstr ""
 
-#, fuzzy
 msgid "View your collection"
-msgstr "모음"
+msgstr ""
 
 msgid "View your inventory"
 msgstr ""
@@ -4689,17 +4480,14 @@ msgstr ""
 msgid "Visit the Forum"
 msgstr ""
 
-#, fuzzy
 msgid "Voted"
-msgstr "비고"
+msgstr ""
 
-#, fuzzy
 msgid "Voting"
-msgstr "보기"
+msgstr ""
 
-#, fuzzy
 msgid "Voting Trends"
-msgstr "시작하기"
+msgstr ""
 
 msgid "Wantlist"
 msgstr "찜한 상품"
@@ -5357,15 +5145,14 @@ msgstr ""
 msgid "_%0.2f to _%0.2f"
 msgstr ""
 
-#, fuzzy
 msgid "about"
-msgstr "Discogs에 대해서"
+msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "about %s"
 msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "about %s total"
 msgstr ""
 
@@ -5406,9 +5193,8 @@ msgstr ""
 msgid "click here"
 msgstr ""
 
-#, fuzzy
 msgid "close"
-msgstr "하우스"
+msgstr ""
 
 msgid "contact seller"
 msgstr ""
@@ -5428,9 +5214,8 @@ msgstr ""
 msgid "e.g. Upper Stacks - Aisle 5 Row 4"
 msgstr ""
 
-#, fuzzy
 msgid "edited"
-msgstr "수정"
+msgstr ""
 
 msgid "error code"
 msgstr ""
@@ -5460,9 +5245,8 @@ msgstr ""
 msgid "grams"
 msgstr ""
 
-#, fuzzy
 msgid "granted"
-msgstr "트랜스"
+msgstr ""
 
 msgid "has"
 msgstr ""
@@ -5473,13 +5257,11 @@ msgstr ""
 msgid "have"
 msgstr ""
 
-#, fuzzy
 msgid "here"
-msgstr "장르"
+msgstr ""
 
-#, fuzzy
 msgid "in Cart"
-msgstr "장바구니 보"
+msgstr ""
 
 #, python-format
 msgid "is selling %(n)d item I want"
@@ -5490,13 +5272,11 @@ msgid "item"
 msgid_plural "items"
 msgstr[0] "품목"
 
-#, fuzzy
 msgid "items"
-msgstr "품목"
+msgstr ""
 
-#, fuzzy
 msgid "jobs"
-msgstr "구인"
+msgstr ""
 
 msgid "listed for sale in my inventory"
 msgstr ""
@@ -5546,9 +5326,8 @@ msgstr ""
 msgid "on"
 msgstr ""
 
-#, fuzzy
 msgid "optional"
-msgstr "합"
+msgstr ""
 
 msgid "overall rating"
 msgstr ""
@@ -5571,9 +5350,8 @@ msgstr ""
 msgid "remove"
 msgstr "제거"
 
-#, fuzzy
 msgid "replies"
-msgstr "리뷰"
+msgstr ""
 
 msgid "rows"
 msgstr ""
@@ -5599,9 +5377,8 @@ msgstr ""
 msgid "submitted"
 msgstr ""
 
-#, fuzzy
 msgid "team"
-msgstr "품목"
+msgstr ""
 
 msgid "that has since been deleted"
 msgstr ""
@@ -5625,26 +5402,22 @@ msgstr ""
 msgid "uploaded"
 msgstr ""
 
-#, fuzzy
 msgid "user"
 msgid_plural "users"
-msgstr[0] "하우스"
+msgstr[0] ""
 
 msgid "values"
 msgstr ""
 
-#, fuzzy
 msgid "view terms"
-msgstr "새 스타일"
+msgstr ""
 
-#, fuzzy
 msgid "vote"
-msgstr "비고"
+msgstr ""
 
 msgid "want"
 msgstr ""
 
-#, fuzzy
 msgid "wants"
-msgstr "찜한 상품"
+msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-08-25 12:13-0700\n"
+"POT-Creation-Date: 2014-08-27 12:39-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: da_DK <LL@li.org>\n"
@@ -18,20 +18,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
+msgid " Notify me"
+msgstr ""
+
+msgid " Stop notifying"
+msgstr ""
+
 #, python-format
 msgid "\"%s\" is available."
 msgstr ""
 
-#, fuzzy
 msgid "# in Collection"
-msgstr "Samling"
+msgstr ""
 
 msgid "# in Inventory"
 msgstr ""
 
-#, fuzzy
 msgid "# in Wantlist"
-msgstr "Ønskeliste"
+msgstr ""
 
 msgid "# of Versions"
 msgstr ""
@@ -158,7 +162,7 @@ msgstr ""
 msgid "%s's Contributions"
 msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "%s's Wantlist"
 msgstr ""
 
@@ -180,9 +184,8 @@ msgstr ""
 msgid "13. Images"
 msgstr ""
 
-#, fuzzy
 msgid "2. Artist"
-msgstr "Kunstnere"
+msgstr ""
 
 msgid "3 Months"
 msgstr ""
@@ -193,24 +196,20 @@ msgstr ""
 msgid "4. Label/Catalog"
 msgstr ""
 
-#, fuzzy
 msgid "5. Barcodes &amp; Identifiers"
-msgstr "Stregkoder og andre identifikatorer"
+msgstr ""
 
 msgid "6 Months"
 msgstr ""
 
-#, fuzzy
 msgid "6. Format"
-msgstr "Flere formater"
+msgstr ""
 
-#, fuzzy
 msgid "7. Country"
-msgstr "Land"
+msgstr ""
 
-#, fuzzy
 msgid "8. Release Date"
-msgstr "udgivelser"
+msgstr ""
 
 msgid "9. Genres/Styles"
 msgstr ""
@@ -279,9 +278,8 @@ msgstr ""
 msgid "Abbr"
 msgstr ""
 
-#, fuzzy
 msgid "About"
-msgstr "Om os"
+msgstr ""
 
 msgid "About Discogs"
 msgstr ""
@@ -346,9 +344,6 @@ msgstr ""
 msgid "Add Credit Per Track"
 msgstr ""
 
-msgid "Add Description"
-msgstr ""
-
 msgid "Add Folder"
 msgstr ""
 
@@ -376,13 +371,11 @@ msgstr ""
 msgid "Add a Field"
 msgstr ""
 
-#, fuzzy
 msgid "Add a Release"
-msgstr "Tilføj udgivelse"
+msgstr ""
 
-#, fuzzy
 msgid "Add a release"
-msgstr "Tilføj udgivelse"
+msgstr ""
 
 msgid "Add an audio clip"
 msgstr ""
@@ -396,16 +389,14 @@ msgstr ""
 msgid "Add some images to the key release."
 msgstr ""
 
-#, fuzzy
 msgid "Add to Collection"
-msgstr "Samling"
+msgstr ""
 
 msgid "Add to Inventory"
 msgstr ""
 
-#, fuzzy
 msgid "Add to Wantlist"
-msgstr "Tilføj til liste"
+msgstr ""
 
 msgid "Add to your Saved Submissions"
 msgstr ""
@@ -442,9 +433,8 @@ msgstr ""
 msgid "Admin"
 msgstr ""
 
-#, fuzzy
 msgid "Aliases"
-msgstr "lister"
+msgstr ""
 
 msgid "All"
 msgstr ""
@@ -452,17 +442,14 @@ msgstr ""
 msgid "All Discogs"
 msgstr ""
 
-#, fuzzy
 msgid "All Groups"
-msgstr "Mine grupper"
+msgstr ""
 
-#, fuzzy
 msgid "All Items"
 msgstr ""
 
-#, fuzzy
 msgid "All Marketplace"
-msgstr "Handelsplads"
+msgstr ""
 
 msgid "All Topics"
 msgstr ""
@@ -501,9 +488,8 @@ msgstr ""
 msgid "Always share"
 msgstr ""
 
-#, fuzzy
 msgid "Amount"
-msgstr "Land"
+msgstr ""
 
 msgid "An error occurred. Please try again."
 msgstr ""
@@ -552,9 +538,8 @@ msgstr ""
 msgid "Are you sure you would like to copy this to your drafts?"
 msgstr ""
 
-#, fuzzy
 msgid "Artist"
-msgstr "Kunstnere"
+msgstr ""
 
 #, python-format
 msgid "Artist %s has already been indexed"
@@ -582,9 +567,8 @@ msgstr ""
 msgid "Assigned Support Requests"
 msgstr ""
 
-#, fuzzy
 msgid "Audio Sample"
-msgstr "til salg"
+msgstr ""
 
 msgid "Authentication Error"
 msgstr ""
@@ -619,9 +603,8 @@ msgstr ""
 msgid "Back to Discuss overview"
 msgstr ""
 
-#, fuzzy
 msgid "Back to release"
-msgstr "udgivelser"
+msgstr ""
 
 msgid "Ban user and delete all their groups"
 msgstr ""
@@ -653,9 +636,8 @@ msgstr ""
 msgid "Billing"
 msgstr "Fakturering"
 
-#, fuzzy
 msgid "Block"
-msgstr "Rock"
+msgstr ""
 
 msgid "Block Sender"
 msgstr ""
@@ -679,9 +661,8 @@ msgstr ""
 msgid "Blog"
 msgstr ""
 
-#, fuzzy
 msgid "Bought by"
-msgstr "Sorter efter"
+msgstr ""
 
 msgid "Browse"
 msgstr ""
@@ -760,9 +741,8 @@ msgstr ""
 msgid "Can't find a group for you?"
 msgstr ""
 
-#, fuzzy
 msgid "Cancel"
-msgstr "Trance"
+msgstr ""
 
 #, python-format
 msgid "Cannot %s yourself."
@@ -861,9 +841,11 @@ msgstr ""
 msgid "Click once and wait"
 msgstr ""
 
-#, fuzzy
 msgid "Close"
-msgstr "House"
+msgstr ""
+
+msgid "Collapse"
+msgstr ""
 
 msgid "Collection"
 msgstr "Samling"
@@ -877,9 +859,8 @@ msgstr ""
 msgid "Collection item not found"
 msgstr ""
 
-#, fuzzy
 msgid "Comments"
-msgstr "Anbefalinger"
+msgstr ""
 
 #, python-format
 msgid "Comments about your item (limited to %(limit)s characters)."
@@ -888,9 +869,8 @@ msgstr ""
 msgid "Comments on this item"
 msgstr ""
 
-#, fuzzy
 msgid "Community"
-msgstr "Land"
+msgstr ""
 
 msgid "Company Core Values"
 msgstr ""
@@ -901,9 +881,8 @@ msgstr ""
 msgid "Compose New Message"
 msgstr ""
 
-#, fuzzy
 msgid "Condition"
-msgstr "Anbefalinger"
+msgstr ""
 
 msgid "Confirm Account"
 msgstr ""
@@ -932,13 +911,11 @@ msgstr ""
 msgid "Contact"
 msgstr "Kontakt"
 
-#, fuzzy
 msgid "Contact Info"
-msgstr "Kontakt"
+msgstr ""
 
-#, fuzzy
 msgid "Contained Releases"
-msgstr "Nye udgivelser"
+msgstr ""
 
 msgid "Continuous Improvement"
 msgstr ""
@@ -946,9 +923,8 @@ msgstr ""
 msgid "Contribute"
 msgstr "Bidrag"
 
-#, fuzzy
 msgid "Contributions"
-msgstr "Bidrag"
+msgstr ""
 
 msgid "Contributor List"
 msgstr "Bidragsydere"
@@ -973,9 +949,8 @@ msgstr ""
 msgid "Correct"
 msgstr ""
 
-#, fuzzy
 msgid "Count"
-msgstr "Land"
+msgstr ""
 
 msgid "Country"
 msgstr "Land"
@@ -1044,9 +1019,8 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#, fuzzy
 msgid "Credit"
-msgstr "ændr"
+msgstr ""
 
 msgid "Credit Card Information"
 msgstr ""
@@ -1104,9 +1078,8 @@ msgstr ""
 msgid "Default"
 msgstr ""
 
-#, fuzzy
 msgid "Delete"
-msgstr "udgivelser"
+msgstr ""
 
 msgid "Delete Folder"
 msgstr ""
@@ -1117,9 +1090,8 @@ msgstr ""
 msgid "Delete this image permanently?"
 msgstr ""
 
-#, fuzzy
 msgid "Deleted"
-msgstr "Udgivet"
+msgstr ""
 
 msgid "Deleted Folder"
 msgstr ""
@@ -1180,9 +1152,8 @@ msgstr ""
 msgid "Discogs Inbox"
 msgstr ""
 
-#, fuzzy
 msgid "Discogs Marketplace"
-msgstr "Handelsplads"
+msgstr ""
 
 msgid "Discogs Marketplace invoice"
 msgstr ""
@@ -1245,13 +1216,11 @@ msgid ""
 "to appear."
 msgstr ""
 
-#, fuzzy
 msgid "Edit"
-msgstr "ændr"
+msgstr ""
 
-#, fuzzy
 msgid "Edit "
-msgstr "ændr"
+msgstr ""
 
 #, python-format
 msgid "Edit %(app_name)s Application"
@@ -1263,17 +1232,14 @@ msgstr ""
 msgid "Edit Images"
 msgstr ""
 
-#, fuzzy
 msgid "Edit Item"
 msgstr ""
 
-#, fuzzy
 msgid "Edit Post"
-msgstr "ændr"
+msgstr ""
 
-#, fuzzy
 msgid "Edit Settings"
-msgstr "Indstillinger"
+msgstr ""
 
 msgid "Edit a support question"
 msgstr ""
@@ -1349,9 +1315,8 @@ msgstr ""
 msgid "Existing List"
 msgstr ""
 
-#, fuzzy
 msgid "Expected integer release_id"
-msgstr "vi anbefaler disse udgivelser"
+msgstr ""
 
 msgid "Expiration Date"
 msgstr ""
@@ -1365,9 +1330,8 @@ msgstr ""
 msgid "Fee"
 msgstr ""
 
-#, fuzzy
 msgid "Fee after sale"
-msgstr "til salg"
+msgstr ""
 
 msgid "Feedback"
 msgstr ""
@@ -1387,9 +1351,8 @@ msgstr ""
 msgid "File format releases are not allowed to be sold"
 msgstr ""
 
-#, fuzzy
 msgid "Filter by"
-msgstr "Sorter resultat efter"
+msgstr ""
 
 msgid "Find your group on Discogs."
 msgstr ""
@@ -1397,9 +1360,8 @@ msgstr ""
 msgid "First Name"
 msgstr ""
 
-#, fuzzy
 msgid "Focus on Search"
-msgstr "Hjælp til søgning"
+msgstr ""
 
 msgid "Folder"
 msgstr ""
@@ -1431,13 +1393,11 @@ msgstr ""
 msgid "Format: YYYY-MM-DD or YYYY-MM-00 or YYYY"
 msgstr ""
 
-#, fuzzy
 msgid "Formats List"
-msgstr "Formater"
+msgstr ""
 
-#, fuzzy
 msgid "Forum"
-msgstr "Fora"
+msgstr ""
 
 msgid "Forum Topics"
 msgstr ""
@@ -1469,20 +1429,17 @@ msgstr "Venner"
 msgid "Friends' Activity"
 msgstr ""
 
-#, fuzzy
 msgid "Friends' Submissions"
-msgstr "Tilføjelser"
+msgstr ""
 
-#, fuzzy
 msgid "From"
-msgstr "fra min"
+msgstr ""
 
 msgid "General settings"
 msgstr ""
 
-#, fuzzy
 msgid "Generic"
-msgstr "genrer"
+msgstr ""
 
 msgid "Genre"
 msgstr "Genre"
@@ -1502,13 +1459,11 @@ msgstr ""
 msgid "Get password"
 msgstr ""
 
-#, fuzzy
 msgid "Get started"
-msgstr "Kom i gang"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Collection"
-msgstr "Samling"
+msgstr ""
 
 msgid "Go to Dashboard"
 msgstr ""
@@ -1531,21 +1486,17 @@ msgstr ""
 msgid "Go to Messages"
 msgstr ""
 
-#, fuzzy
 msgid "Go to Orders"
-msgstr "Ingen ordrer"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Profile"
-msgstr "Profil"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Submissions"
-msgstr "Tilføjelser"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Wantlist"
-msgstr "Ønskeliste"
+msgstr ""
 
 msgid "Go to the Selection"
 msgstr ""
@@ -1553,16 +1504,14 @@ msgstr ""
 msgid "Got a really tough question? Our staff can help!"
 msgstr ""
 
-#, fuzzy
 msgid "Granted"
-msgstr "Trance"
+msgstr ""
 
 msgid "Group"
 msgstr ""
 
-#, fuzzy
 msgid "Group Activity"
-msgstr "Seneste gruppeaktivitet"
+msgstr ""
 
 msgid "Group Admins"
 msgstr ""
@@ -1573,9 +1522,8 @@ msgstr ""
 msgid "Group Discussion Topics"
 msgstr ""
 
-#, fuzzy
 msgid "Group Search"
-msgstr "Produktsøgning"
+msgstr ""
 
 msgid "Group was created successfully"
 msgstr ""
@@ -1583,9 +1531,8 @@ msgstr ""
 msgid "Group was created successfully."
 msgstr ""
 
-#, fuzzy
 msgid "Groups"
-msgstr "Mine grupper"
+msgstr ""
 
 msgid "Guess based on my location"
 msgstr ""
@@ -1615,9 +1562,8 @@ msgstr ""
 msgid "Help"
 msgstr "Hjælp"
 
-#, fuzzy
 msgid "Help Forum Bans"
-msgstr "Hjælpefora"
+msgstr ""
 
 msgid "Help Is Here"
 msgstr ""
@@ -1634,9 +1580,8 @@ msgstr ""
 msgid "Highest"
 msgstr ""
 
-#, fuzzy
 msgid "History"
-msgstr "historik"
+msgstr ""
 
 msgid "Home Page"
 msgstr ""
@@ -1753,9 +1698,8 @@ msgstr ""
 msgid "Images for"
 msgstr ""
 
-#, fuzzy
 msgid "In Groups"
-msgstr "Mine grupper"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -1836,9 +1780,8 @@ msgstr ""
 msgid "Invalid verification code"
 msgstr ""
 
-#, fuzzy
 msgid "Inventory"
-msgstr "historik"
+msgstr ""
 
 msgid "Invitation only"
 msgstr ""
@@ -1888,16 +1831,14 @@ msgstr "Emne"
 msgid "Item Container"
 msgstr ""
 
-#, fuzzy
 msgid "Item Edit"
 msgstr ""
 
 msgid "Item Location"
 msgstr ""
 
-#, fuzzy
 msgid "Item View"
-msgstr "anmeldelser"
+msgstr ""
 
 msgid "Item condition comments"
 msgstr ""
@@ -1931,9 +1872,8 @@ msgstr ""
 msgid "Jobs"
 msgstr "Stillinger"
 
-#, fuzzy
 msgid "Join"
-msgstr "i"
+msgstr ""
 
 msgid "Join Group"
 msgstr ""
@@ -1975,9 +1915,8 @@ msgstr ""
 msgid "Last Post"
 msgstr ""
 
-#, fuzzy
 msgid "Latest"
-msgstr "Suppleanter"
+msgstr ""
 
 msgid "Latest Additions"
 msgstr ""
@@ -1988,9 +1927,8 @@ msgstr ""
 msgid "Latest Post"
 msgstr ""
 
-#, fuzzy
 msgid "Latest Reviews:"
-msgstr "anmeldelser"
+msgstr ""
 
 msgid "Leave Group"
 msgstr ""
@@ -2009,31 +1947,26 @@ msgstr ""
 msgid "Let us know."
 msgstr ""
 
-#, fuzzy
 msgid "Lines"
-msgstr "lister"
+msgstr ""
 
-#, fuzzy
 msgid "List"
-msgstr "lister"
+msgstr ""
 
 msgid "List Activity"
 msgstr ""
 
-#, fuzzy
 msgid "List For Sale"
-msgstr "til salg"
+msgstr ""
 
-#, fuzzy
 msgid "List Item For Sale"
-msgstr "til salg"
+msgstr ""
 
 msgid "List already in use"
 msgstr ""
 
-#, fuzzy
 msgid "List does not exist"
-msgstr "Dette selskab eksistsrer ikke på Discogs"
+msgstr ""
 
 msgid "Listed below are copies of the release available from other sellers."
 msgstr ""
@@ -2053,9 +1986,8 @@ msgstr ""
 msgid "Locate the final 3 or 4 digit number on the back of your card."
 msgstr ""
 
-#, fuzzy
 msgid "Location"
-msgstr "Samling"
+msgstr ""
 
 msgid "Locked topic"
 msgstr ""
@@ -2063,9 +1995,8 @@ msgstr ""
 msgid "Log In"
 msgstr ""
 
-#, fuzzy
 msgid "Log Out"
-msgstr "Log ud"
+msgstr ""
 
 msgid "Logged in as"
 msgstr ""
@@ -2082,9 +2013,8 @@ msgstr ""
 msgid "Lookup"
 msgstr ""
 
-#, fuzzy
 msgid "Lowest"
-msgstr "hjemmeside"
+msgstr ""
 
 msgid "Main Navigation"
 msgstr ""
@@ -2141,9 +2071,8 @@ msgstr[1] ""
 msgid "Marketplace"
 msgstr "Handelsplads"
 
-#, fuzzy
 msgid "Marketplace Inventory"
-msgstr "Handelsplads"
+msgstr ""
 
 msgid "Marketplace Notifications"
 msgstr ""
@@ -2151,9 +2080,8 @@ msgstr ""
 msgid "Marketplace Order Items"
 msgstr ""
 
-#, fuzzy
 msgid "Marketplace Orders"
-msgstr "Handelsplads"
+msgstr ""
 
 msgid "Marketplace Preferences"
 msgstr ""
@@ -2164,9 +2092,8 @@ msgstr ""
 msgid "Master ID"
 msgstr ""
 
-#, fuzzy
 msgid "Master Release"
-msgstr "udgivelser"
+msgstr ""
 
 msgid "Max"
 msgstr ""
@@ -2177,20 +2104,17 @@ msgstr ""
 msgid "Med"
 msgstr ""
 
-#, fuzzy
 msgid "Media"
-msgstr "ændr"
+msgstr ""
 
-#, fuzzy
 msgid "Media Condition"
-msgstr "Anbefalinger"
+msgstr ""
 
 msgid "Media condition is missing"
 msgstr ""
 
-#, fuzzy
 msgid "Median"
-msgstr "ændr"
+msgstr ""
 
 msgid "Members"
 msgstr ""
@@ -2201,13 +2125,11 @@ msgstr ""
 msgid "Members of"
 msgstr ""
 
-#, fuzzy
 msgid "Merge Release"
-msgstr "udgivelser"
+msgstr ""
 
-#, fuzzy
 msgid "Merge this release?"
-msgstr "vi anbefaler disse udgivelser"
+msgstr ""
 
 #, python-format
 msgid "Merged orders %s into order %s"
@@ -2227,9 +2149,8 @@ msgstr ""
 msgid "Messages will be permanently removed after one week."
 msgstr ""
 
-#, fuzzy
 msgid "Min"
-msgstr "i"
+msgstr ""
 
 msgid "Minimum"
 msgstr ""
@@ -2258,16 +2179,15 @@ msgstr ""
 msgid "More items to sell?"
 msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "More than %s"
 msgstr ""
 
 msgid "Most Collected"
 msgstr ""
 
-#, fuzzy
 msgid "Most Popular Topics"
-msgstr "Populære formater"
+msgstr ""
 
 msgid "Most Wanted"
 msgstr ""
@@ -2322,9 +2242,8 @@ msgstr ""
 msgid "My Activity (Shared)"
 msgstr ""
 
-#, fuzzy
 msgid "My Contributions"
-msgstr "Bidragsydere"
+msgstr ""
 
 msgid "My Discogs"
 msgstr ""
@@ -2332,32 +2251,26 @@ msgstr ""
 msgid "My Groups"
 msgstr "Mine grupper"
 
-#, fuzzy
 msgid "My Lists"
-msgstr "lister"
+msgstr ""
 
-#, fuzzy
 msgid "My Lists:"
-msgstr "lister"
+msgstr ""
 
-#, fuzzy
 msgid "My Profile"
-msgstr "Profil"
+msgstr ""
 
-#, fuzzy
 msgid "My Store"
-msgstr "mere/flere"
+msgstr ""
 
-#, fuzzy
 msgid "My Submissions"
-msgstr "Tilføjelser"
+msgstr ""
 
 msgid "My Uploads"
 msgstr ""
 
-#, fuzzy
 msgid "My Wantlist"
-msgstr "Ønskeliste"
+msgstr ""
 
 msgid "My comment is a review"
 msgstr ""
@@ -2393,9 +2306,8 @@ msgstr ""
 msgid "New (rev: %(curr_rev)s)"
 msgstr ""
 
-#, fuzzy
 msgid "New List"
-msgstr "Ønskeliste"
+msgstr ""
 
 msgid "New Releases"
 msgstr "Nye udgivelser"
@@ -2418,16 +2330,14 @@ msgstr ""
 msgid "New submissions related to my lists"
 msgstr ""
 
-#, fuzzy
 msgid "Newest"
-msgstr "hjemmeside"
+msgstr ""
 
 msgid "Newest Groups"
 msgstr ""
 
-#, fuzzy
 msgid "No Cover"
-msgstr "Opdag"
+msgstr ""
 
 msgid "No Feedback"
 msgstr ""
@@ -2461,7 +2371,6 @@ msgstr ""
 msgid "No images have been uploaded."
 msgstr ""
 
-#, fuzzy
 msgid "No items"
 msgstr ""
 
@@ -2519,13 +2428,11 @@ msgstr[1] ""
 msgid "No previous revision"
 msgstr ""
 
-#, fuzzy
 msgid "No recent activity?"
-msgstr "Seneste gruppeaktivitet"
+msgstr ""
 
-#, fuzzy
 msgid "No results for"
-msgstr "resultater"
+msgstr ""
 
 msgid "No results found for"
 msgstr ""
@@ -2549,9 +2456,8 @@ msgstr ""
 msgid "Not rated yet"
 msgstr ""
 
-#, fuzzy
 msgid "Note"
-msgstr "Noter"
+msgstr ""
 
 msgid "Note: You can only pay one invoice at a time."
 msgstr ""
@@ -2606,9 +2512,8 @@ msgstr ""
 msgid "One per line"
 msgstr ""
 
-#, fuzzy
 msgid "Only search CD"
-msgstr "Hjælp til søgning"
+msgstr ""
 
 msgid "Only search Vinyl"
 msgstr ""
@@ -2644,9 +2549,8 @@ msgstr ""
 msgid "Or <a href=\"%(link)s\">upload a CSV</a>."
 msgstr ""
 
-#, fuzzy
 msgid "Order"
-msgstr "Ingen ordrer"
+msgstr ""
 
 msgid "Order Date"
 msgstr ""
@@ -2654,13 +2558,11 @@ msgstr ""
 msgid "Order ID"
 msgstr ""
 
-#, fuzzy
 msgid "Order Information"
-msgstr "Flere formater"
+msgstr ""
 
-#, fuzzy
 msgid "Orders"
-msgstr "Ingen ordrer"
+msgstr ""
 
 msgid "Orders by Day"
 msgstr ""
@@ -2671,9 +2573,8 @@ msgid ""
 "recordings."
 msgstr ""
 
-#, fuzzy
 msgid "Other"
-msgstr "Noter"
+msgstr ""
 
 msgid "Other Tracks"
 msgstr ""
@@ -2696,9 +2597,8 @@ msgstr ""
 msgid "Paid On"
 msgstr ""
 
-#, fuzzy
 msgid "Parent Label"
-msgstr "Handelsplads"
+msgstr ""
 
 msgid "Passion for Music"
 msgstr ""
@@ -2753,9 +2653,8 @@ msgstr ""
 msgid "Payment Methods"
 msgstr "Betalingsmuligheder"
 
-#, fuzzy
 msgid "Payment Options"
-msgstr "Betalingsmuligheder"
+msgstr ""
 
 msgid "Payment Received?"
 msgstr ""
@@ -2905,9 +2804,8 @@ msgstr ""
 msgid "Please use <a href=\"%(link)s\" target=\"_blank\"> %(name)s</a> instead."
 msgstr ""
 
-#, fuzzy
 msgid "Popular Groups"
-msgstr "Populære formater"
+msgstr ""
 
 msgid "Pos"
 msgstr ""
@@ -2934,29 +2832,23 @@ msgstr ""
 msgid "Posted"
 msgstr ""
 
-#, fuzzy
 msgid "Posted Review"
-msgstr "anmeldelser"
+msgstr ""
 
-#, fuzzy
 msgid "Preview"
-msgstr "anmeldelser"
+msgstr ""
 
-#, fuzzy
 msgid "Preview / Submit"
-msgstr "anmeldelser"
+msgstr ""
 
-#, fuzzy
 msgid "Preview for"
-msgstr "anmeldelser"
+msgstr ""
 
-#, fuzzy
 msgid "Preview message"
-msgstr "anmeldelser"
+msgstr ""
 
-#, fuzzy
 msgid "Preview reply"
-msgstr "anmeldelser"
+msgstr ""
 
 msgid "Previous State of Images"
 msgstr ""
@@ -2967,9 +2859,8 @@ msgstr ""
 msgid "Price"
 msgstr "Pris"
 
-#, fuzzy
 msgid "Price History"
-msgstr "historik"
+msgstr ""
 
 msgid "Price Range"
 msgstr ""
@@ -3042,9 +2933,8 @@ msgstr ""
 msgid "Public"
 msgstr ""
 
-#, fuzzy
 msgid "Purchases"
-msgstr "Mine køb"
+msgstr ""
 
 msgid "Qty"
 msgstr ""
@@ -3069,9 +2959,8 @@ msgstr ""
 msgid "Quote Previous"
 msgstr ""
 
-#, fuzzy
 msgid "Range"
-msgstr "Trance"
+msgstr ""
 
 #, python-format
 msgid "Rated %(span)s%(rating)s%(span_close)s of %(num)s votes"
@@ -3083,9 +2972,8 @@ msgstr ""
 msgid "Rating Distribution"
 msgstr ""
 
-#, fuzzy
 msgid "Ratings"
-msgstr "Indstillinger"
+msgstr ""
 
 #, python-format
 msgid "Ratings (average: %s)"
@@ -3106,9 +2994,8 @@ msgstr ""
 msgid "Really drop the banhammer on this user?"
 msgstr ""
 
-#, fuzzy
 msgid "Reason"
-msgstr "udgivelser"
+msgstr ""
 
 msgid "Received"
 msgstr ""
@@ -3116,20 +3003,17 @@ msgstr ""
 msgid "Recent"
 msgstr ""
 
-#, fuzzy
 msgid "Recent Activity"
-msgstr "Seneste gruppeaktivitet"
+msgstr ""
 
 msgid "Recent Changes made"
 msgstr ""
 
-#, fuzzy
 msgid "Recent Lists"
-msgstr "Kunstnere"
+msgstr ""
 
-#, fuzzy
 msgid "Recent ratings"
-msgstr "Indstillinger"
+msgstr ""
 
 msgid "Recipient"
 msgstr ""
@@ -3143,13 +3027,11 @@ msgstr ""
 msgid "Register"
 msgstr ""
 
-#, fuzzy
 msgid "Release"
-msgstr "udgivelser"
+msgstr ""
 
-#, fuzzy
 msgid "Release ID"
-msgstr "udgivelser"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -3169,13 +3051,11 @@ msgid ""
 "never been submitted."
 msgstr ""
 
-#, fuzzy
 msgid "Release Notes"
-msgstr "udgivelser"
+msgstr ""
 
-#, fuzzy
 msgid "Release date."
-msgstr "udgivelser"
+msgstr ""
 
 msgid "Release not found"
 msgstr ""
@@ -3196,45 +3076,36 @@ msgstr ""
 msgid "Releases Recently Removed"
 msgstr ""
 
-#, fuzzy
 msgid "Relevance"
-msgstr "udgivelser"
+msgstr ""
 
-#, fuzzy
 msgid "Remove"
-msgstr "fjern"
+msgstr ""
 
 #, python-format
 msgid "Remove %(thing)s"
 msgstr ""
 
-#, fuzzy
 msgid "Remove Image"
-msgstr "fjern"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Item"
-msgstr "fjern"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Release"
-msgstr "udgivelser"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Topic"
-msgstr "fjern"
+msgstr ""
 
-#, fuzzy
 msgid "Remove filters"
-msgstr "fjern"
+msgstr ""
 
-#, fuzzy
 msgid "Remove this"
-msgstr "fjern"
+msgstr ""
 
-#, fuzzy
 msgid "Remove this release?"
-msgstr "vi anbefaler disse udgivelser"
+msgstr ""
 
 #, python-format
 msgid "Removed %(start_bold)s%(num)d%(end_bold)s friends from your friends list."
@@ -3260,16 +3131,14 @@ msgstr ""
 msgid "Removed %s's items from your cart."
 msgstr ""
 
-#, fuzzy
 msgid "Removed Ban"
-msgstr "fjern"
+msgstr ""
 
 msgid "Removed all items from your cart."
 msgstr ""
 
-#, fuzzy
 msgid "Removed ban."
-msgstr "fjern"
+msgstr ""
 
 msgid "Removed from old version"
 msgstr ""
@@ -3285,9 +3154,8 @@ msgstr ""
 msgid "Removed item(s) from this order. Emailed buyer."
 msgstr ""
 
-#, fuzzy
 msgid "Removed item."
-msgstr "fjern"
+msgstr ""
 
 msgid "Removed topic from saved list."
 msgstr ""
@@ -3308,9 +3176,8 @@ msgstr ""
 msgid "Replied to feedback on %s orders."
 msgstr ""
 
-#, fuzzy
 msgid "Replies"
-msgstr "anmeldelser"
+msgstr ""
 
 msgid "Reply"
 msgstr ""
@@ -3324,9 +3191,8 @@ msgstr ""
 msgid "Reply to message"
 msgstr ""
 
-#, fuzzy
 msgid "Report"
-msgstr "sortér"
+msgstr ""
 
 msgid "Report Abuse"
 msgstr ""
@@ -3379,9 +3245,8 @@ msgstr ""
 msgid "Reviews & Discussion"
 msgstr ""
 
-#, fuzzy
 msgid "Revoke"
-msgstr "fjern"
+msgstr ""
 
 msgid "Revoke access"
 msgstr ""
@@ -3389,9 +3254,8 @@ msgstr ""
 msgid "Revoke this application's access to your Discogs account?"
 msgstr ""
 
-#, fuzzy
 msgid "Role"
-msgstr "Profil"
+msgstr ""
 
 msgid "Sales History"
 msgstr "Salgshistorik"
@@ -3408,7 +3272,6 @@ msgstr ""
 msgid "Save Fields"
 msgstr ""
 
-#, fuzzy
 msgid "Save Item"
 msgstr ""
 
@@ -3424,9 +3287,8 @@ msgstr ""
 msgid "Save my privacy settings"
 msgstr ""
 
-#, fuzzy
 msgid "Save settings"
-msgstr "Indstillinger"
+msgstr ""
 
 msgid "Saved"
 msgstr ""
@@ -3443,9 +3305,8 @@ msgstr ""
 msgid "Saved Labs Preferences"
 msgstr ""
 
-#, fuzzy
 msgid "Saved Submissions"
-msgstr "Tilføjelser"
+msgstr ""
 
 msgid "Saved Topics"
 msgstr ""
@@ -3466,9 +3327,8 @@ msgstr ""
 msgid "Saved your changes."
 msgstr ""
 
-#, fuzzy
 msgid "Search"
-msgstr "År"
+msgstr ""
 
 msgid "Search Discogs"
 msgstr ""
@@ -3479,17 +3339,14 @@ msgstr ""
 msgid "Search Help Docs..."
 msgstr ""
 
-#, fuzzy
 msgid "Search Marketplace"
-msgstr "Handelsplads"
+msgstr ""
 
-#, fuzzy
 msgid "Search Results"
-msgstr "Søgeresultat"
+msgstr ""
 
-#, fuzzy
 msgid "Search Submissions"
-msgstr "Tilføjelser"
+msgstr ""
 
 msgid "Search all excluding Vinyl and CD"
 msgstr ""
@@ -3503,9 +3360,8 @@ msgstr ""
 msgid "Search by specific fields"
 msgstr ""
 
-#, fuzzy
 msgid "Search for an item to sell"
-msgstr "Søg efter variationer af"
+msgstr ""
 
 msgid "Search the database using these fields"
 msgstr ""
@@ -3543,7 +3399,6 @@ msgid ""
 "should notify you."
 msgstr ""
 
-#, fuzzy
 msgid "Sell Item"
 msgstr ""
 
@@ -3556,9 +3411,8 @@ msgstr ""
 msgid "Sell-Blocked Releases"
 msgstr ""
 
-#, fuzzy
 msgid "Seller"
-msgstr "Ny sælger"
+msgstr ""
 
 msgid "Seller Information"
 msgstr ""
@@ -3618,9 +3472,8 @@ msgstr "Indstillinger"
 msgid "Sharing settings"
 msgstr ""
 
-#, fuzzy
 msgid "Shipping"
-msgstr "viser"
+msgstr ""
 
 msgid "Shipping &amp; Payments"
 msgstr ""
@@ -3755,9 +3608,8 @@ msgstr ""
 msgid "Start over"
 msgstr ""
 
-#, fuzzy
 msgid "Start selling now!"
-msgstr "Kom i gang med at sælge nu"
+msgstr ""
 
 msgid "Start shopping now!"
 msgstr ""
@@ -3797,20 +3649,17 @@ msgstr ""
 msgid "Subject"
 msgstr ""
 
-#, fuzzy
 msgid "Submission Guidelines"
 msgstr ""
 
-#, fuzzy
 msgid "Submission Notes"
-msgstr "Tilføjelser"
+msgstr ""
 
 msgid "Submissions"
 msgstr "Tilføjelser"
 
-#, fuzzy
 msgid "Submissions for"
-msgstr "Tilføjelser"
+msgstr ""
 
 #, python-format
 msgid "Submissions for artist %s"
@@ -3823,9 +3672,8 @@ msgstr ""
 msgid "Submissions from List (past 90 days):"
 msgstr ""
 
-#, fuzzy
 msgid "Submissions from user"
-msgstr "Tilføjelser"
+msgstr ""
 
 #, python-format
 msgid "Submissions from user %s"
@@ -3840,9 +3688,8 @@ msgstr ""
 msgid "Submit Changes to Label Page"
 msgstr ""
 
-#, fuzzy
 msgid "Subtotal"
-msgstr "I alt"
+msgstr ""
 
 msgid "Successfully Acted Upon Report(s)."
 msgstr ""
@@ -3989,13 +3836,11 @@ msgstr ""
 msgid "The Format Field"
 msgstr ""
 
-#, fuzzy
 msgid "The Marketplace"
-msgstr "Handelsplads"
+msgstr ""
 
-#, fuzzy
 msgid "The Story"
-msgstr "historik"
+msgstr ""
 
 msgid "The application has been deleted."
 msgstr ""
@@ -4086,9 +3931,8 @@ msgstr ""
 msgid "The study and cataloguing of phonograph records."
 msgstr ""
 
-#, fuzzy
 msgid "The title of the release."
-msgstr "vi anbefaler disse udgivelser"
+msgstr ""
 
 msgid ""
 "The user account you are trying to activate was not found. If you "
@@ -4274,7 +4118,6 @@ msgstr ""
 msgid "Times in CIP"
 msgstr ""
 
-#, fuzzy
 msgid "Title"
 msgstr ""
 
@@ -4392,9 +4235,8 @@ msgstr ""
 msgid "Turned sticky on"
 msgstr ""
 
-#, fuzzy
 msgid "Type"
-msgstr "Stilart"
+msgstr ""
 
 msgid "URLs"
 msgstr ""
@@ -4424,9 +4266,8 @@ msgstr[1] ""
 msgid "Unfollowed user."
 msgstr ""
 
-#, fuzzy
 msgid "Unfriend"
-msgstr "Venner"
+msgstr ""
 
 msgid "Unignore"
 msgstr ""
@@ -4563,13 +4404,11 @@ msgstr ""
 msgid "View <a href=\"%(link)s\" class=\"new_window\"> formatting options</a>."
 msgstr ""
 
-#, fuzzy
 msgid "View Help"
-msgstr "se alle"
+msgstr ""
 
-#, fuzzy
 msgid "View Message"
-msgstr "se alle"
+msgstr ""
 
 msgid "View My Recent Changes By:"
 msgstr ""
@@ -4580,9 +4419,8 @@ msgstr ""
 msgid "View additional popular groups"
 msgstr ""
 
-#, fuzzy
 msgid "View all in "
-msgstr "se alle"
+msgstr ""
 
 msgid "View complete sales history"
 msgstr ""
@@ -4599,23 +4437,20 @@ msgstr ""
 msgid "View formatting options"
 msgstr ""
 
-#, fuzzy
 msgid "View group activity"
-msgstr "Seneste gruppeaktivitet"
+msgstr ""
 
 msgid "View items for sale"
 msgstr ""
 
-#, fuzzy
 msgid "View list"
-msgstr "se alle"
+msgstr ""
 
 msgid "View more artists"
 msgstr ""
 
-#, fuzzy
 msgid "View more labels"
-msgstr "Nå ud til flere købere"
+msgstr ""
 
 msgid "View more new releases"
 msgstr ""
@@ -4623,13 +4458,11 @@ msgstr ""
 msgid "View more newest groups"
 msgstr ""
 
-#, fuzzy
 msgid "View more releases"
-msgstr "Nye udgivelser"
+msgstr ""
 
-#, fuzzy
 msgid "View more sales history"
-msgstr "Salgshistorik"
+msgstr ""
 
 msgid "View my Ratings"
 msgstr ""
@@ -4637,16 +4470,14 @@ msgstr ""
 msgid "View my lists"
 msgstr ""
 
-#, fuzzy
 msgid "View my orders"
-msgstr "Ingen ordrer"
+msgstr ""
 
 msgid "View my profile"
 msgstr ""
 
-#, fuzzy
 msgid "View my purchases"
-msgstr "Mine køb"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -4664,9 +4495,8 @@ msgstr ""
 msgid "View this list"
 msgstr ""
 
-#, fuzzy
 msgid "View your collection"
-msgstr "Samling"
+msgstr ""
 
 msgid "View your inventory"
 msgstr ""
@@ -4681,17 +4511,14 @@ msgstr ""
 msgid "Visit the Forum"
 msgstr ""
 
-#, fuzzy
 msgid "Voted"
-msgstr "Noter"
+msgstr ""
 
-#, fuzzy
 msgid "Voting"
-msgstr "viser"
+msgstr ""
 
-#, fuzzy
 msgid "Voting Trends"
-msgstr "Kom i gang"
+msgstr ""
 
 msgid "Wantlist"
 msgstr "Ønskeliste"
@@ -5350,15 +5177,14 @@ msgstr ""
 msgid "_%0.2f to _%0.2f"
 msgstr ""
 
-#, fuzzy
 msgid "about"
-msgstr "Om os"
+msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "about %s"
 msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "about %s total"
 msgstr ""
 
@@ -5399,9 +5225,8 @@ msgstr ""
 msgid "click here"
 msgstr ""
 
-#, fuzzy
 msgid "close"
-msgstr "House"
+msgstr ""
 
 msgid "contact seller"
 msgstr ""
@@ -5421,9 +5246,8 @@ msgstr ""
 msgid "e.g. Upper Stacks - Aisle 5 Row 4"
 msgstr ""
 
-#, fuzzy
 msgid "edited"
-msgstr "ændr"
+msgstr ""
 
 msgid "error code"
 msgstr ""
@@ -5447,16 +5271,14 @@ msgstr ""
 msgid "for sale"
 msgstr "til salg"
 
-#, fuzzy
 msgid "from"
-msgstr "fra min"
+msgstr ""
 
 msgid "grams"
 msgstr ""
 
-#, fuzzy
 msgid "granted"
-msgstr "Trance"
+msgstr ""
 
 msgid "has"
 msgstr ""
@@ -5467,13 +5289,11 @@ msgstr ""
 msgid "have"
 msgstr ""
 
-#, fuzzy
 msgid "here"
-msgstr "Genre"
+msgstr ""
 
-#, fuzzy
 msgid "in Cart"
-msgstr "Indkøbskurv"
+msgstr ""
 
 #, python-format
 msgid "is selling %(n)d item I want"
@@ -5486,13 +5306,11 @@ msgid_plural "items"
 msgstr[0] ""
 msgstr[1] ""
 
-#, fuzzy
 msgid "items"
 msgstr ""
 
-#, fuzzy
 msgid "jobs"
-msgstr "Stillinger"
+msgstr ""
 
 msgid "listed for sale in my inventory"
 msgstr ""
@@ -5542,9 +5360,8 @@ msgstr ""
 msgid "on"
 msgstr ""
 
-#, fuzzy
 msgid "optional"
-msgstr "I alt"
+msgstr ""
 
 msgid "overall rating"
 msgstr ""
@@ -5567,9 +5384,8 @@ msgstr ""
 msgid "remove"
 msgstr "fjern"
 
-#, fuzzy
 msgid "replies"
-msgstr "anmeldelser"
+msgstr ""
 
 msgid "rows"
 msgstr ""
@@ -5595,7 +5411,6 @@ msgstr ""
 msgid "submitted"
 msgstr ""
 
-#, fuzzy
 msgid "team"
 msgstr ""
 
@@ -5621,27 +5436,23 @@ msgstr ""
 msgid "uploaded"
 msgstr ""
 
-#, fuzzy
 msgid "user"
 msgid_plural "users"
-msgstr[0] "House"
+msgstr[0] ""
 msgstr[1] ""
 
 msgid "values"
 msgstr ""
 
-#, fuzzy
 msgid "view terms"
-msgstr "Nye stilarter"
+msgstr ""
 
-#, fuzzy
 msgid "vote"
-msgstr "Noter"
+msgstr ""
 
 msgid "want"
 msgstr ""
 
-#, fuzzy
 msgid "wants"
-msgstr "Ønskeliste"
+msgstr ""
 

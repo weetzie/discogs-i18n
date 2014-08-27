@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-08-25 12:13-0700\n"
+"POT-Creation-Date: 2014-08-27 12:38-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: cs <LL@li.org>\n"
@@ -19,13 +19,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
+msgid " Notify me"
+msgstr ""
+
+msgid " Stop notifying"
+msgstr ""
+
 #, python-format
 msgid "\"%s\" is available."
 msgstr ""
 
-#, fuzzy
 msgid "# in Collection"
-msgstr "Kolekce"
+msgstr ""
 
 msgid "# in Inventory"
 msgstr ""
@@ -190,9 +195,8 @@ msgstr ""
 msgid "13. Images"
 msgstr ""
 
-#, fuzzy
 msgid "2. Artist"
-msgstr "Umělci"
+msgstr ""
 
 msgid "3 Months"
 msgstr ""
@@ -209,13 +213,11 @@ msgstr ""
 msgid "6 Months"
 msgstr ""
 
-#, fuzzy
 msgid "6. Format"
-msgstr "Formát"
+msgstr ""
 
-#, fuzzy
 msgid "7. Country"
-msgstr "Země"
+msgstr ""
 
 msgid "8. Release Date"
 msgstr ""
@@ -287,9 +289,8 @@ msgstr ""
 msgid "Abbr"
 msgstr ""
 
-#, fuzzy
 msgid "About"
-msgstr "O nás"
+msgstr ""
 
 msgid "About Discogs"
 msgstr ""
@@ -354,9 +355,6 @@ msgstr ""
 msgid "Add Credit Per Track"
 msgstr ""
 
-msgid "Add Description"
-msgstr ""
-
 msgid "Add Folder"
 msgstr ""
 
@@ -402,16 +400,14 @@ msgstr ""
 msgid "Add some images to the key release."
 msgstr ""
 
-#, fuzzy
 msgid "Add to Collection"
-msgstr "Kolekce"
+msgstr ""
 
 msgid "Add to Inventory"
 msgstr ""
 
-#, fuzzy
 msgid "Add to Wantlist"
-msgstr "Vložit do seznamu"
+msgstr ""
 
 msgid "Add to your Saved Submissions"
 msgstr ""
@@ -460,7 +456,6 @@ msgstr ""
 msgid "All Groups"
 msgstr ""
 
-#, fuzzy
 msgid "All Items"
 msgstr ""
 
@@ -504,9 +499,8 @@ msgstr ""
 msgid "Always share"
 msgstr ""
 
-#, fuzzy
 msgid "Amount"
-msgstr "Země"
+msgstr ""
 
 msgid "An error occurred. Please try again."
 msgstr ""
@@ -555,9 +549,8 @@ msgstr ""
 msgid "Are you sure you would like to copy this to your drafts?"
 msgstr ""
 
-#, fuzzy
 msgid "Artist"
-msgstr "Umělci"
+msgstr ""
 
 #, python-format
 msgid "Artist %s has already been indexed"
@@ -862,6 +855,9 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
+msgid "Collapse"
+msgstr ""
+
 msgid "Collection"
 msgstr "Kolekce"
 
@@ -884,9 +880,8 @@ msgstr ""
 msgid "Comments on this item"
 msgstr ""
 
-#, fuzzy
 msgid "Community"
-msgstr "Země"
+msgstr ""
 
 msgid "Company Core Values"
 msgstr ""
@@ -927,9 +922,8 @@ msgstr ""
 msgid "Contact"
 msgstr "Kontakty"
 
-#, fuzzy
 msgid "Contact Info"
-msgstr "Kontakty"
+msgstr ""
 
 msgid "Contained Releases"
 msgstr ""
@@ -966,9 +960,8 @@ msgstr ""
 msgid "Correct"
 msgstr ""
 
-#, fuzzy
 msgid "Count"
-msgstr "Země"
+msgstr ""
 
 msgid "Country"
 msgstr "Země"
@@ -1251,7 +1244,6 @@ msgstr ""
 msgid "Edit Images"
 msgstr ""
 
-#, fuzzy
 msgid "Edit Item"
 msgstr ""
 
@@ -1413,9 +1405,8 @@ msgstr ""
 msgid "Format: YYYY-MM-DD or YYYY-MM-00 or YYYY"
 msgstr ""
 
-#, fuzzy
 msgid "Formats List"
-msgstr "Formáty"
+msgstr ""
 
 msgid "Forum"
 msgstr ""
@@ -1486,9 +1477,8 @@ msgstr ""
 msgid "Get started"
 msgstr ""
 
-#, fuzzy
 msgid "Go to Collection"
-msgstr "Kolekce"
+msgstr ""
 
 msgid "Go to Dashboard"
 msgstr ""
@@ -1856,14 +1846,12 @@ msgstr ""
 msgid "Item Container"
 msgstr ""
 
-#, fuzzy
 msgid "Item Edit"
 msgstr ""
 
 msgid "Item Location"
 msgstr ""
 
-#, fuzzy
 msgid "Item View"
 msgstr ""
 
@@ -2013,9 +2001,8 @@ msgstr ""
 msgid "Locate the final 3 or 4 digit number on the back of your card."
 msgstr ""
 
-#, fuzzy
 msgid "Location"
-msgstr "Kolekce"
+msgstr ""
 
 msgid "Locked topic"
 msgstr ""
@@ -2297,7 +2284,6 @@ msgstr ""
 msgid "My Store"
 msgstr ""
 
-#, fuzzy
 msgid "My Submissions"
 msgstr ""
 
@@ -2406,7 +2392,6 @@ msgstr ""
 msgid "No images have been uploaded."
 msgstr ""
 
-#, fuzzy
 msgid "No items"
 msgstr ""
 
@@ -3050,9 +3035,8 @@ msgstr ""
 msgid "Recent Changes made"
 msgstr ""
 
-#, fuzzy
 msgid "Recent Lists"
-msgstr "Umělci"
+msgstr ""
 
 msgid "Recent ratings"
 msgstr ""
@@ -3317,7 +3301,6 @@ msgstr ""
 msgid "Save Fields"
 msgstr ""
 
-#, fuzzy
 msgid "Save Item"
 msgstr ""
 
@@ -3446,7 +3429,6 @@ msgid ""
 "should notify you."
 msgstr ""
 
-#, fuzzy
 msgid "Sell Item"
 msgstr ""
 
@@ -3697,18 +3679,15 @@ msgstr ""
 msgid "Subject"
 msgstr ""
 
-#, fuzzy
 msgid "Submission Guidelines"
 msgstr ""
 
-#, fuzzy
 msgid "Submission Notes"
 msgstr ""
 
 msgid "Submissions"
 msgstr ""
 
-#, fuzzy
 msgid "Submissions for"
 msgstr ""
 
@@ -3723,7 +3702,6 @@ msgstr ""
 msgid "Submissions from List (past 90 days):"
 msgstr ""
 
-#, fuzzy
 msgid "Submissions from user"
 msgstr ""
 
@@ -4170,7 +4148,6 @@ msgstr ""
 msgid "Times in CIP"
 msgstr ""
 
-#, fuzzy
 msgid "Title"
 msgstr ""
 
@@ -4320,9 +4297,8 @@ msgstr[2] ""
 msgid "Unfollowed user."
 msgstr ""
 
-#, fuzzy
 msgid "Unfriend"
-msgstr "Přátelé"
+msgstr ""
 
 msgid "Unignore"
 msgstr ""
@@ -4551,9 +4527,8 @@ msgstr ""
 msgid "View this list"
 msgstr ""
 
-#, fuzzy
 msgid "View your collection"
-msgstr "Kolekce"
+msgstr ""
 
 msgid "View your inventory"
 msgstr ""
@@ -5235,11 +5210,10 @@ msgstr ""
 msgid "_%0.2f to _%0.2f"
 msgstr ""
 
-#, fuzzy
 msgid "about"
-msgstr "O nás"
+msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "about %s"
 msgstr ""
 
@@ -5305,7 +5279,6 @@ msgstr ""
 msgid "e.g. Upper Stacks - Aisle 5 Row 4"
 msgstr ""
 
-#, fuzzy
 msgid "edited"
 msgstr ""
 
@@ -5349,9 +5322,8 @@ msgstr ""
 msgid "have"
 msgstr ""
 
-#, fuzzy
 msgid "here"
-msgstr "Žánr"
+msgstr ""
 
 msgid "in Cart"
 msgstr ""
@@ -5369,7 +5341,6 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#, fuzzy
 msgid "items"
 msgstr ""
 
@@ -5475,7 +5446,6 @@ msgstr ""
 msgid "submitted"
 msgstr ""
 
-#, fuzzy
 msgid "team"
 msgstr ""
 

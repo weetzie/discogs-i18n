@@ -1,3 +1,9 @@
+msgid " Notify me"
+msgstr ""
+
+msgid " Stop notifying"
+msgstr ""
+
 #, python-format
 msgid "\"%s\" is available."
 msgstr ""
@@ -293,9 +299,6 @@ msgid "Add Credit"
 msgstr ""
 
 msgid "Add Credit Per Track"
-msgstr ""
-
-msgid "Add Description"
 msgstr ""
 
 msgid "Add Folder"
@@ -773,6 +776,9 @@ msgid "Click once and wait"
 msgstr ""
 
 msgid "Close"
+msgstr ""
+
+msgid "Collapse"
 msgstr ""
 
 msgid "Collection"

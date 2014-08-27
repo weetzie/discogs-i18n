@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-08-25 12:13-0700\n"
+"POT-Creation-Date: 2014-08-27 12:38-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -18,21 +18,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
+msgid " Notify me"
+msgstr ""
+
+msgid " Stop notifying"
+msgstr ""
+
 #, python-format
 msgid "\"%s\" is available."
 msgstr ""
 
-#, fuzzy
 msgid "# in Collection"
-msgstr "コレクション"
+msgstr ""
 
-#, fuzzy
 msgid "# in Inventory"
-msgstr "在庫を管理する"
+msgstr ""
 
-#, fuzzy
 msgid "# in Wantlist"
-msgstr "欲しいものリスト"
+msgstr ""
 
 msgid "# of Versions"
 msgstr ""
@@ -149,16 +152,15 @@ msgstr ""
 msgid "%s's Contributions"
 msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "%s's Wantlist"
 msgstr ""
 
 msgid "1. General Rules"
 msgstr ""
 
-#, fuzzy
 msgid "10. Credits"
-msgstr "編集"
+msgstr ""
 
 msgid "11. Release Notes"
 msgstr ""
@@ -166,16 +168,14 @@ msgstr ""
 msgid "12 Months"
 msgstr ""
 
-#, fuzzy
 msgid "12. Tracklisting"
-msgstr "トラックリスト"
+msgstr ""
 
 msgid "13. Images"
 msgstr ""
 
-#, fuzzy
 msgid "2. Artist"
-msgstr "アーティスト"
+msgstr ""
 
 msgid "3 Months"
 msgstr ""
@@ -186,24 +186,20 @@ msgstr ""
 msgid "4. Label/Catalog"
 msgstr ""
 
-#, fuzzy
 msgid "5. Barcodes &amp; Identifiers"
-msgstr "バーコードとその他の識別子"
+msgstr ""
 
 msgid "6 Months"
 msgstr ""
 
-#, fuzzy
 msgid "6. Format"
-msgstr "より多くのフォーマット"
+msgstr ""
 
-#, fuzzy
 msgid "7. Country"
-msgstr "国"
+msgstr ""
 
-#, fuzzy
 msgid "8. Release Date"
-msgstr "リリース"
+msgstr ""
 
 msgid "9. Genres/Styles"
 msgstr ""
@@ -272,9 +268,8 @@ msgstr ""
 msgid "Abbr"
 msgstr ""
 
-#, fuzzy
 msgid "About"
-msgstr "会社概要"
+msgstr ""
 
 msgid "About Discogs"
 msgstr ""
@@ -339,9 +334,6 @@ msgstr ""
 msgid "Add Credit Per Track"
 msgstr ""
 
-msgid "Add Description"
-msgstr ""
-
 msgid "Add Folder"
 msgstr ""
 
@@ -360,24 +352,20 @@ msgstr ""
 msgid "Add Release"
 msgstr "商品を追加"
 
-#, fuzzy
 msgid "Add Track"
-msgstr "トラック"
+msgstr ""
 
-#, fuzzy
 msgid "Add Tracks"
-msgstr "トラック"
+msgstr ""
 
 msgid "Add a Field"
 msgstr ""
 
-#, fuzzy
 msgid "Add a Release"
-msgstr "商品を追加"
+msgstr ""
 
-#, fuzzy
 msgid "Add a release"
-msgstr "商品を追加"
+msgstr ""
 
 msgid "Add an audio clip"
 msgstr ""
@@ -391,17 +379,14 @@ msgstr ""
 msgid "Add some images to the key release."
 msgstr ""
 
-#, fuzzy
 msgid "Add to Collection"
-msgstr "コレクション"
+msgstr ""
 
-#, fuzzy
 msgid "Add to Inventory"
-msgstr "在庫を管理する"
+msgstr ""
 
-#, fuzzy
 msgid "Add to Wantlist"
-msgstr "リストに追加"
+msgstr ""
 
 msgid "Add to your Saved Submissions"
 msgstr ""
@@ -438,9 +423,8 @@ msgstr ""
 msgid "Admin"
 msgstr ""
 
-#, fuzzy
 msgid "Aliases"
-msgstr "リスト"
+msgstr ""
 
 msgid "All"
 msgstr ""
@@ -448,17 +432,14 @@ msgstr ""
 msgid "All Discogs"
 msgstr ""
 
-#, fuzzy
 msgid "All Groups"
-msgstr "マイグループ"
+msgstr ""
 
-#, fuzzy
 msgid "All Items"
-msgstr "商品"
+msgstr ""
 
-#, fuzzy
 msgid "All Marketplace"
-msgstr "マーケットプレイス"
+msgstr ""
 
 msgid "All Topics"
 msgstr ""
@@ -497,9 +478,8 @@ msgstr ""
 msgid "Always share"
 msgstr ""
 
-#, fuzzy
 msgid "Amount"
-msgstr "国"
+msgstr ""
 
 msgid "An error occurred. Please try again."
 msgstr ""
@@ -548,9 +528,8 @@ msgstr ""
 msgid "Are you sure you would like to copy this to your drafts?"
 msgstr ""
 
-#, fuzzy
 msgid "Artist"
-msgstr "アーティスト"
+msgstr ""
 
 #, python-format
 msgid "Artist %s has already been indexed"
@@ -572,17 +551,14 @@ msgstr ""
 msgid "Ask me first"
 msgstr ""
 
-#, fuzzy
 msgid "Assigned Support Request"
-msgstr "サポートリクエスト"
+msgstr ""
 
-#, fuzzy
 msgid "Assigned Support Requests"
-msgstr "サポートリクエスト"
+msgstr ""
 
-#, fuzzy
 msgid "Audio Sample"
-msgstr "販売"
+msgstr ""
 
 msgid "Authentication Error"
 msgstr ""
@@ -617,9 +593,8 @@ msgstr ""
 msgid "Back to Discuss overview"
 msgstr ""
 
-#, fuzzy
 msgid "Back to release"
-msgstr "リリース"
+msgstr ""
 
 msgid "Ban user and delete all their groups"
 msgstr ""
@@ -651,9 +626,8 @@ msgstr ""
 msgid "Billing"
 msgstr "請求"
 
-#, fuzzy
 msgid "Block"
-msgstr "ロック"
+msgstr ""
 
 msgid "Block Sender"
 msgstr ""
@@ -677,28 +651,24 @@ msgstr ""
 msgid "Blog"
 msgstr ""
 
-#, fuzzy
 msgid "Bought by"
-msgstr "並べ替え"
+msgstr ""
 
-#, fuzzy
 msgid "Browse"
-msgstr "全てを見る"
+msgstr ""
 
 #, python-format
 msgid "Browse %(mode)s Groups"
 msgstr ""
 
-#, fuzzy
 msgid "Browse Groups"
-msgstr "全てを見る"
+msgstr ""
 
 msgid "Browse Groups By Tag"
 msgstr ""
 
-#, fuzzy
 msgid "Browsing options"
-msgstr "リストのオプション"
+msgstr ""
 
 msgid "Building something cool? Check out our API!"
 msgstr ""
@@ -761,9 +731,8 @@ msgstr ""
 msgid "Can't find a group for you?"
 msgstr ""
 
-#, fuzzy
 msgid "Cancel"
-msgstr "トランス"
+msgstr ""
 
 #, python-format
 msgid "Cannot %s yourself."
@@ -862,9 +831,11 @@ msgstr ""
 msgid "Click once and wait"
 msgstr ""
 
-#, fuzzy
 msgid "Close"
-msgstr "ハウス"
+msgstr ""
+
+msgid "Collapse"
+msgstr ""
 
 msgid "Collection"
 msgstr "コレクション"
@@ -878,9 +849,8 @@ msgstr ""
 msgid "Collection item not found"
 msgstr ""
 
-#, fuzzy
 msgid "Comments"
-msgstr "おすすめ"
+msgstr ""
 
 #, python-format
 msgid "Comments about your item (limited to %(limit)s characters)."
@@ -889,9 +859,8 @@ msgstr ""
 msgid "Comments on this item"
 msgstr ""
 
-#, fuzzy
 msgid "Community"
-msgstr "国"
+msgstr ""
 
 msgid "Company Core Values"
 msgstr ""
@@ -902,9 +871,8 @@ msgstr ""
 msgid "Compose New Message"
 msgstr ""
 
-#, fuzzy
 msgid "Condition"
-msgstr "おすすめ"
+msgstr ""
 
 msgid "Confirm Account"
 msgstr ""
@@ -933,13 +901,11 @@ msgstr ""
 msgid "Contact"
 msgstr "お問い合わせ"
 
-#, fuzzy
 msgid "Contact Info"
-msgstr "お問い合わせ"
+msgstr ""
 
-#, fuzzy
 msgid "Contained Releases"
-msgstr "新商品"
+msgstr ""
 
 msgid "Continuous Improvement"
 msgstr ""
@@ -947,9 +913,8 @@ msgstr ""
 msgid "Contribute"
 msgstr "貢献"
 
-#, fuzzy
 msgid "Contributions"
-msgstr "貢献"
+msgstr ""
 
 msgid "Contributor List"
 msgstr "貢献者リスト"
@@ -974,9 +939,8 @@ msgstr ""
 msgid "Correct"
 msgstr ""
 
-#, fuzzy
 msgid "Count"
-msgstr "国"
+msgstr ""
 
 msgid "Country"
 msgstr "国"
@@ -1045,9 +1009,8 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#, fuzzy
 msgid "Credit"
-msgstr "編集"
+msgstr ""
 
 msgid "Credit Card Information"
 msgstr ""
@@ -1070,13 +1033,11 @@ msgstr ""
 msgid "Credit {} does not exist."
 msgstr ""
 
-#, fuzzy
 msgid "Credits"
-msgstr "編集"
+msgstr ""
 
-#, fuzzy
 msgid "Credits List"
-msgstr "編集"
+msgstr ""
 
 msgid "Currency"
 msgstr ""
@@ -1107,9 +1068,8 @@ msgstr ""
 msgid "Default"
 msgstr ""
 
-#, fuzzy
 msgid "Delete"
-msgstr "リリース"
+msgstr ""
 
 msgid "Delete Folder"
 msgstr ""
@@ -1120,9 +1080,8 @@ msgstr ""
 msgid "Delete this image permanently?"
 msgstr ""
 
-#, fuzzy
 msgid "Deleted"
-msgstr "リリース"
+msgstr ""
 
 msgid "Deleted Folder"
 msgstr ""
@@ -1182,9 +1141,8 @@ msgstr ""
 msgid "Discogs Inbox"
 msgstr ""
 
-#, fuzzy
 msgid "Discogs Marketplace"
-msgstr "マーケットプレイス"
+msgstr ""
 
 msgid "Discogs Marketplace invoice"
 msgstr ""
@@ -1247,13 +1205,11 @@ msgid ""
 "to appear."
 msgstr ""
 
-#, fuzzy
 msgid "Edit"
-msgstr "編集"
+msgstr ""
 
-#, fuzzy
 msgid "Edit "
-msgstr "編集"
+msgstr ""
 
 #, python-format
 msgid "Edit %(app_name)s Application"
@@ -1265,21 +1221,17 @@ msgstr ""
 msgid "Edit Images"
 msgstr ""
 
-#, fuzzy
 msgid "Edit Item"
-msgstr "商品"
+msgstr ""
 
-#, fuzzy
 msgid "Edit Post"
-msgstr "編集"
+msgstr ""
 
-#, fuzzy
 msgid "Edit Settings"
-msgstr "設定"
+msgstr ""
 
-#, fuzzy
 msgid "Edit a support question"
-msgstr "サポートリクエスト"
+msgstr ""
 
 msgid "Edit all Track Artists/Credits"
 msgstr ""
@@ -1352,9 +1304,8 @@ msgstr ""
 msgid "Existing List"
 msgstr ""
 
-#, fuzzy
 msgid "Expected integer release_id"
-msgstr "私達は、これらの商品をお勧めします"
+msgstr ""
 
 msgid "Expiration Date"
 msgstr ""
@@ -1368,9 +1319,8 @@ msgstr ""
 msgid "Fee"
 msgstr ""
 
-#, fuzzy
 msgid "Fee after sale"
-msgstr "販売"
+msgstr ""
 
 msgid "Feedback"
 msgstr ""
@@ -1390,9 +1340,8 @@ msgstr ""
 msgid "File format releases are not allowed to be sold"
 msgstr ""
 
-#, fuzzy
 msgid "Filter by"
-msgstr "絞って検索する"
+msgstr ""
 
 msgid "Find your group on Discogs."
 msgstr ""
@@ -1400,9 +1349,8 @@ msgstr ""
 msgid "First Name"
 msgstr ""
 
-#, fuzzy
 msgid "Focus on Search"
-msgstr "検索についてのヘルプ"
+msgstr ""
 
 msgid "Folder"
 msgstr ""
@@ -1434,13 +1382,11 @@ msgstr ""
 msgid "Format: YYYY-MM-DD or YYYY-MM-00 or YYYY"
 msgstr ""
 
-#, fuzzy
 msgid "Formats List"
-msgstr "フォーマット"
+msgstr ""
 
-#, fuzzy
 msgid "Forum"
-msgstr "フォーラム"
+msgstr ""
 
 msgid "Forum Topics"
 msgstr ""
@@ -1469,20 +1415,17 @@ msgstr "友達"
 msgid "Friends' Activity"
 msgstr ""
 
-#, fuzzy
 msgid "Friends' Submissions"
-msgstr "登録"
+msgstr ""
 
-#, fuzzy
 msgid "From"
-msgstr "私の～から"
+msgstr ""
 
 msgid "General settings"
 msgstr ""
 
-#, fuzzy
 msgid "Generic"
-msgstr "ジャンル"
+msgstr ""
 
 msgid "Genre"
 msgstr "ジャンル"
@@ -1502,13 +1445,11 @@ msgstr ""
 msgid "Get password"
 msgstr ""
 
-#, fuzzy
 msgid "Get started"
-msgstr "始める"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Collection"
-msgstr "コレクション"
+msgstr ""
 
 msgid "Go to Dashboard"
 msgstr ""
@@ -1525,28 +1466,23 @@ msgstr ""
 msgid "Go to Groups"
 msgstr ""
 
-#, fuzzy
 msgid "Go to Inventory"
-msgstr "在庫を管理する"
+msgstr ""
 
 msgid "Go to Messages"
 msgstr ""
 
-#, fuzzy
 msgid "Go to Orders"
-msgstr "注文がありません。"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Profile"
-msgstr "プロフィール"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Submissions"
-msgstr "登録"
+msgstr ""
 
-#, fuzzy
 msgid "Go to Wantlist"
-msgstr "欲しいものリスト"
+msgstr ""
 
 msgid "Go to the Selection"
 msgstr ""
@@ -1554,16 +1490,14 @@ msgstr ""
 msgid "Got a really tough question? Our staff can help!"
 msgstr ""
 
-#, fuzzy
 msgid "Granted"
-msgstr "トランス"
+msgstr ""
 
 msgid "Group"
 msgstr ""
 
-#, fuzzy
 msgid "Group Activity"
-msgstr "最近のグループ活動"
+msgstr ""
 
 msgid "Group Admins"
 msgstr ""
@@ -1574,9 +1508,8 @@ msgstr ""
 msgid "Group Discussion Topics"
 msgstr ""
 
-#, fuzzy
 msgid "Group Search"
-msgstr "商品検索"
+msgstr ""
 
 msgid "Group was created successfully"
 msgstr ""
@@ -1584,9 +1517,8 @@ msgstr ""
 msgid "Group was created successfully."
 msgstr ""
 
-#, fuzzy
 msgid "Groups"
-msgstr "マイグループ"
+msgstr ""
 
 msgid "Guess based on my location"
 msgstr ""
@@ -1616,9 +1548,8 @@ msgstr ""
 msgid "Help"
 msgstr "ヘルプ"
 
-#, fuzzy
 msgid "Help Forum Bans"
-msgstr "フォーラムヘルプ"
+msgstr ""
 
 msgid "Help Is Here"
 msgstr ""
@@ -1629,16 +1560,14 @@ msgstr ""
 msgid "Help on Making Offers"
 msgstr ""
 
-#, fuzzy
 msgid "Hide"
-msgstr "動画"
+msgstr ""
 
 msgid "Highest"
 msgstr ""
 
-#, fuzzy
 msgid "History"
-msgstr "歴史"
+msgstr ""
 
 msgid "Home Page"
 msgstr ""
@@ -1755,9 +1684,8 @@ msgstr ""
 msgid "Images for"
 msgstr ""
 
-#, fuzzy
 msgid "In Groups"
-msgstr "マイグループ"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -1838,9 +1766,8 @@ msgstr ""
 msgid "Invalid verification code"
 msgstr ""
 
-#, fuzzy
 msgid "Inventory"
-msgstr "在庫を管理する"
+msgstr ""
 
 msgid "Invitation only"
 msgstr ""
@@ -1890,16 +1817,14 @@ msgstr "商品"
 msgid "Item Container"
 msgstr ""
 
-#, fuzzy
 msgid "Item Edit"
-msgstr "商品"
+msgstr ""
 
 msgid "Item Location"
 msgstr ""
 
-#, fuzzy
 msgid "Item View"
-msgstr "レビュー"
+msgstr ""
 
 msgid "Item condition comments"
 msgstr ""
@@ -1920,9 +1845,8 @@ msgstr ""
 msgid "Items I Want"
 msgstr "私が欲しい商品"
 
-#, fuzzy
 msgid "Items I'm selling"
-msgstr "ベストセラー"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -1934,9 +1858,8 @@ msgstr ""
 msgid "Jobs"
 msgstr "求人"
 
-#, fuzzy
 msgid "Join"
-msgstr "の"
+msgstr ""
 
 msgid "Join Group"
 msgstr ""
@@ -1978,9 +1901,8 @@ msgstr ""
 msgid "Last Post"
 msgstr ""
 
-#, fuzzy
 msgid "Latest"
-msgstr "オルタネイツ"
+msgstr ""
 
 msgid "Latest Additions"
 msgstr ""
@@ -1991,9 +1913,8 @@ msgstr ""
 msgid "Latest Post"
 msgstr ""
 
-#, fuzzy
 msgid "Latest Reviews:"
-msgstr "レビュー"
+msgstr ""
 
 msgid "Leave Group"
 msgstr ""
@@ -2012,38 +1933,32 @@ msgstr ""
 msgid "Let us know."
 msgstr ""
 
-#, fuzzy
 msgid "Lines"
-msgstr "リスト"
+msgstr ""
 
-#, fuzzy
 msgid "List"
-msgstr "リスト"
+msgstr ""
 
 msgid "List Activity"
 msgstr ""
 
-#, fuzzy
 msgid "List For Sale"
-msgstr "販売"
+msgstr ""
 
-#, fuzzy
 msgid "List Item For Sale"
-msgstr "私の販売用商品"
+msgstr ""
 
 msgid "List already in use"
 msgstr ""
 
-#, fuzzy
 msgid "List does not exist"
-msgstr "このレーベルは、Discogsにはありません。"
+msgstr ""
 
 msgid "Listed below are copies of the release available from other sellers."
 msgstr ""
 
-#, fuzzy
 msgid "Listing Violations"
-msgstr "リストのオプション"
+msgstr ""
 
 msgid "Listings that are in Violation status can only be deleted."
 msgstr ""
@@ -2057,9 +1972,8 @@ msgstr ""
 msgid "Locate the final 3 or 4 digit number on the back of your card."
 msgstr ""
 
-#, fuzzy
 msgid "Location"
-msgstr "コレクション"
+msgstr ""
 
 msgid "Locked topic"
 msgstr ""
@@ -2067,9 +1981,8 @@ msgstr ""
 msgid "Log In"
 msgstr ""
 
-#, fuzzy
 msgid "Log Out"
-msgstr "ログアウト"
+msgstr ""
 
 msgid "Logged in as"
 msgstr ""
@@ -2086,9 +1999,8 @@ msgstr ""
 msgid "Lookup"
 msgstr ""
 
-#, fuzzy
 msgid "Lowest"
-msgstr "ウェブサイト"
+msgstr ""
 
 msgid "Main Navigation"
 msgstr ""
@@ -2113,9 +2025,8 @@ msgstr ""
 msgid "Manage your applications and API keys here."
 msgstr ""
 
-#, fuzzy
 msgid "Manage your inventory"
-msgstr "在庫を管理する"
+msgstr ""
 
 msgid "Mark as Read"
 msgstr ""
@@ -2143,35 +2054,29 @@ msgstr[0] ""
 msgid "Marketplace"
 msgstr "マーケットプレイス"
 
-#, fuzzy
 msgid "Marketplace Inventory"
-msgstr "マーケットプレイスのサポート"
+msgstr ""
 
 msgid "Marketplace Notifications"
 msgstr ""
 
-#, fuzzy
 msgid "Marketplace Order Items"
-msgstr "マーケットプレイスのサポート"
+msgstr ""
 
-#, fuzzy
 msgid "Marketplace Orders"
-msgstr "マーケットプレイスのサポート"
+msgstr ""
 
-#, fuzzy
 msgid "Marketplace Preferences"
-msgstr "マーケットプレイスのサポート"
+msgstr ""
 
-#, fuzzy
 msgid "Marketplace Sales History"
-msgstr "最近のマーケットプレイスでの販売"
+msgstr ""
 
 msgid "Master ID"
 msgstr ""
 
-#, fuzzy
 msgid "Master Release"
-msgstr "リリース"
+msgstr ""
 
 msgid "Max"
 msgstr ""
@@ -2182,20 +2087,17 @@ msgstr ""
 msgid "Med"
 msgstr ""
 
-#, fuzzy
 msgid "Media"
-msgstr "編集"
+msgstr ""
 
-#, fuzzy
 msgid "Media Condition"
-msgstr "おすすめ"
+msgstr ""
 
 msgid "Media condition is missing"
 msgstr ""
 
-#, fuzzy
 msgid "Median"
-msgstr "編集"
+msgstr ""
 
 msgid "Members"
 msgstr ""
@@ -2206,13 +2108,11 @@ msgstr ""
 msgid "Members of"
 msgstr ""
 
-#, fuzzy
 msgid "Merge Release"
-msgstr "リリース"
+msgstr ""
 
-#, fuzzy
 msgid "Merge this release?"
-msgstr "私達は、これらの商品をお勧めします"
+msgstr ""
 
 #, python-format
 msgid "Merged orders %s into order %s"
@@ -2232,9 +2132,8 @@ msgstr ""
 msgid "Messages will be permanently removed after one week."
 msgstr ""
 
-#, fuzzy
 msgid "Min"
-msgstr "の"
+msgstr ""
 
 msgid "Minimum"
 msgstr ""
@@ -2263,16 +2162,15 @@ msgstr ""
 msgid "More items to sell?"
 msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "More than %s"
 msgstr ""
 
 msgid "Most Collected"
 msgstr ""
 
-#, fuzzy
 msgid "Most Popular Topics"
-msgstr "一般的なフォーマット"
+msgstr ""
 
 msgid "Most Wanted"
 msgstr ""
@@ -2324,9 +2222,8 @@ msgstr ""
 msgid "My Activity (Shared)"
 msgstr ""
 
-#, fuzzy
 msgid "My Contributions"
-msgstr "貢献者リスト"
+msgstr ""
 
 msgid "My Discogs"
 msgstr ""
@@ -2334,32 +2231,26 @@ msgstr ""
 msgid "My Groups"
 msgstr "マイグループ"
 
-#, fuzzy
 msgid "My Lists"
-msgstr "リスト"
+msgstr ""
 
-#, fuzzy
 msgid "My Lists:"
-msgstr "リスト"
+msgstr ""
 
-#, fuzzy
 msgid "My Profile"
-msgstr "プロフィール"
+msgstr ""
 
-#, fuzzy
 msgid "My Store"
-msgstr "より"
+msgstr ""
 
-#, fuzzy
 msgid "My Submissions"
-msgstr "登録"
+msgstr ""
 
 msgid "My Uploads"
 msgstr ""
 
-#, fuzzy
 msgid "My Wantlist"
-msgstr "欲しいものリスト"
+msgstr ""
 
 msgid "My comment is a review"
 msgstr ""
@@ -2382,13 +2273,11 @@ msgstr ""
 msgid "Need help?"
 msgstr ""
 
-#, fuzzy
 msgid "Needs Major Changes"
-msgstr "変更が必要です。"
+msgstr ""
 
-#, fuzzy
 msgid "Needs Minor Changes"
-msgstr "変更が必要です。"
+msgstr ""
 
 msgid "Never share"
 msgstr ""
@@ -2397,9 +2286,8 @@ msgstr ""
 msgid "New (rev: %(curr_rev)s)"
 msgstr ""
 
-#, fuzzy
 msgid "New List"
-msgstr "欲しいものリスト"
+msgstr ""
 
 msgid "New Releases"
 msgstr "新商品"
@@ -2410,9 +2298,8 @@ msgstr "新しい出品者"
 msgid "New Styles"
 msgstr "新しいスタイル"
 
-#, fuzzy
 msgid "New Support Request"
-msgstr "サポートリクエスト"
+msgstr ""
 
 msgid "New folder name"
 msgstr ""
@@ -2423,16 +2310,14 @@ msgstr ""
 msgid "New submissions related to my lists"
 msgstr ""
 
-#, fuzzy
 msgid "Newest"
-msgstr "ウェブサイト"
+msgstr ""
 
 msgid "Newest Groups"
 msgstr ""
 
-#, fuzzy
 msgid "No Cover"
-msgstr "発見"
+msgstr ""
 
 msgid "No Feedback"
 msgstr ""
@@ -2466,13 +2351,11 @@ msgstr ""
 msgid "No images have been uploaded."
 msgstr ""
 
-#, fuzzy
 msgid "No items"
-msgstr "商品"
+msgstr ""
 
-#, fuzzy
 msgid "No items for sale found"
-msgstr "私の販売用商品"
+msgstr ""
 
 msgid "No items found."
 msgstr ""
@@ -2520,13 +2403,11 @@ msgstr[0] ""
 msgid "No previous revision"
 msgstr ""
 
-#, fuzzy
 msgid "No recent activity?"
-msgstr "最近のグループ活動"
+msgstr ""
 
-#, fuzzy
 msgid "No results for"
-msgstr "結果"
+msgstr ""
 
 msgid "No results found for"
 msgstr ""
@@ -2550,9 +2431,8 @@ msgstr ""
 msgid "Not rated yet"
 msgstr ""
 
-#, fuzzy
 msgid "Note"
-msgstr "注釈"
+msgstr ""
 
 msgid "Note: You can only pay one invoice at a time."
 msgstr ""
@@ -2604,13 +2484,11 @@ msgid ""
 "field."
 msgstr ""
 
-#, fuzzy
 msgid "One per line"
-msgstr "1行につき1つ"
+msgstr ""
 
-#, fuzzy
 msgid "Only search CD"
-msgstr "検索についてのヘルプ"
+msgstr ""
 
 msgid "Only search Vinyl"
 msgstr ""
@@ -2646,9 +2524,8 @@ msgstr ""
 msgid "Or <a href=\"%(link)s\">upload a CSV</a>."
 msgstr ""
 
-#, fuzzy
 msgid "Order"
-msgstr "注文がありません。"
+msgstr ""
 
 msgid "Order Date"
 msgstr ""
@@ -2656,13 +2533,11 @@ msgstr ""
 msgid "Order ID"
 msgstr ""
 
-#, fuzzy
 msgid "Order Information"
-msgstr "より多くのフォーマット"
+msgstr ""
 
-#, fuzzy
 msgid "Orders"
-msgstr "注文がありません。"
+msgstr ""
 
 msgid "Orders by Day"
 msgstr ""
@@ -2673,13 +2548,11 @@ msgid ""
 "recordings."
 msgstr ""
 
-#, fuzzy
 msgid "Other"
-msgstr "注釈"
+msgstr ""
 
-#, fuzzy
 msgid "Other Tracks"
-msgstr "トラック"
+msgstr ""
 
 msgid "Other Versions"
 msgstr ""
@@ -2699,9 +2572,8 @@ msgstr ""
 msgid "Paid On"
 msgstr ""
 
-#, fuzzy
 msgid "Parent Label"
-msgstr "マーケットプレイス"
+msgstr ""
 
 msgid "Passion for Music"
 msgstr ""
@@ -2756,9 +2628,8 @@ msgstr ""
 msgid "Payment Methods"
 msgstr "お支払い方法"
 
-#, fuzzy
 msgid "Payment Options"
-msgstr "お支払い方法"
+msgstr ""
 
 msgid "Payment Received?"
 msgstr ""
@@ -2908,9 +2779,8 @@ msgstr ""
 msgid "Please use <a href=\"%(link)s\" target=\"_blank\"> %(name)s</a> instead."
 msgstr ""
 
-#, fuzzy
 msgid "Popular Groups"
-msgstr "一般的なフォーマット"
+msgstr ""
 
 msgid "Pos"
 msgstr ""
@@ -2937,29 +2807,23 @@ msgstr ""
 msgid "Posted"
 msgstr ""
 
-#, fuzzy
 msgid "Posted Review"
-msgstr "レビュー"
+msgstr ""
 
-#, fuzzy
 msgid "Preview"
-msgstr "レビュー"
+msgstr ""
 
-#, fuzzy
 msgid "Preview / Submit"
-msgstr "レビュー"
+msgstr ""
 
-#, fuzzy
 msgid "Preview for"
-msgstr "レビュー"
+msgstr ""
 
-#, fuzzy
 msgid "Preview message"
-msgstr "レビュー"
+msgstr ""
 
-#, fuzzy
 msgid "Preview reply"
-msgstr "レビュー"
+msgstr ""
 
 msgid "Previous State of Images"
 msgstr ""
@@ -2970,9 +2834,8 @@ msgstr ""
 msgid "Price"
 msgstr "価格"
 
-#, fuzzy
 msgid "Price History"
-msgstr "歴史"
+msgstr ""
 
 msgid "Price Range"
 msgstr ""
@@ -2999,9 +2862,8 @@ msgstr ""
 msgid "Primary Image"
 msgstr ""
 
-#, fuzzy
 msgid "Primary Tracklist"
-msgstr "トラックリスト"
+msgstr ""
 
 msgid "Print View"
 msgstr ""
@@ -3046,9 +2908,8 @@ msgstr ""
 msgid "Public"
 msgstr ""
 
-#, fuzzy
 msgid "Purchases"
-msgstr "私の購入したもの"
+msgstr ""
 
 msgid "Qty"
 msgstr ""
@@ -3067,16 +2928,14 @@ msgstr ""
 msgid "Quick Start Guide"
 msgstr ""
 
-#, fuzzy
 msgid "Quicklist!"
-msgstr "トラックリスト"
+msgstr ""
 
 msgid "Quote Previous"
 msgstr ""
 
-#, fuzzy
 msgid "Range"
-msgstr "トランス"
+msgstr ""
 
 #, python-format
 msgid "Rated %(span)s%(rating)s%(span_close)s of %(num)s votes"
@@ -3088,9 +2947,8 @@ msgstr ""
 msgid "Rating Distribution"
 msgstr ""
 
-#, fuzzy
 msgid "Ratings"
-msgstr "設定"
+msgstr ""
 
 #, python-format
 msgid "Ratings (average: %s)"
@@ -3111,9 +2969,8 @@ msgstr ""
 msgid "Really drop the banhammer on this user?"
 msgstr ""
 
-#, fuzzy
 msgid "Reason"
-msgstr "リリース"
+msgstr ""
 
 msgid "Received"
 msgstr ""
@@ -3121,20 +2978,17 @@ msgstr ""
 msgid "Recent"
 msgstr ""
 
-#, fuzzy
 msgid "Recent Activity"
-msgstr "最近のグループ活動"
+msgstr ""
 
 msgid "Recent Changes made"
 msgstr ""
 
-#, fuzzy
 msgid "Recent Lists"
-msgstr "アーティスト"
+msgstr ""
 
-#, fuzzy
 msgid "Recent ratings"
-msgstr "設定"
+msgstr ""
 
 msgid "Recipient"
 msgstr ""
@@ -3148,13 +3002,11 @@ msgstr ""
 msgid "Register"
 msgstr ""
 
-#, fuzzy
 msgid "Release"
-msgstr "リリース"
+msgstr ""
 
-#, fuzzy
 msgid "Release ID"
-msgstr "リリース"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -3174,13 +3026,11 @@ msgid ""
 "never been submitted."
 msgstr ""
 
-#, fuzzy
 msgid "Release Notes"
-msgstr "リリース"
+msgstr ""
 
-#, fuzzy
 msgid "Release date."
-msgstr "リリース"
+msgstr ""
 
 msgid "Release not found"
 msgstr ""
@@ -3192,9 +3042,8 @@ msgstr ""
 msgid "Release with ID %s not found"
 msgstr ""
 
-#, fuzzy
 msgid "Released"
-msgstr "リリース"
+msgstr ""
 
 msgid "Releases Recently Merged"
 msgstr ""
@@ -3202,45 +3051,36 @@ msgstr ""
 msgid "Releases Recently Removed"
 msgstr ""
 
-#, fuzzy
 msgid "Relevance"
-msgstr "リリース"
+msgstr ""
 
-#, fuzzy
 msgid "Remove"
-msgstr "削除"
+msgstr ""
 
 #, python-format
 msgid "Remove %(thing)s"
 msgstr ""
 
-#, fuzzy
 msgid "Remove Image"
-msgstr "削除"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Item"
-msgstr "削除"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Release"
-msgstr "リリース"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Topic"
-msgstr "削除"
+msgstr ""
 
-#, fuzzy
 msgid "Remove filters"
-msgstr "削除"
+msgstr ""
 
-#, fuzzy
 msgid "Remove this"
-msgstr "削除"
+msgstr ""
 
-#, fuzzy
 msgid "Remove this release?"
-msgstr "私達は、これらの商品をお勧めします"
+msgstr ""
 
 #, python-format
 msgid "Removed %(start_bold)s%(num)d%(end_bold)s friends from your friends list."
@@ -3264,16 +3104,14 @@ msgstr ""
 msgid "Removed %s's items from your cart."
 msgstr ""
 
-#, fuzzy
 msgid "Removed Ban"
-msgstr "削除"
+msgstr ""
 
 msgid "Removed all items from your cart."
 msgstr ""
 
-#, fuzzy
 msgid "Removed ban."
-msgstr "削除"
+msgstr ""
 
 msgid "Removed from old version"
 msgstr ""
@@ -3288,9 +3126,8 @@ msgstr ""
 msgid "Removed item(s) from this order. Emailed buyer."
 msgstr ""
 
-#, fuzzy
 msgid "Removed item."
-msgstr "削除"
+msgstr ""
 
 msgid "Removed topic from saved list."
 msgstr ""
@@ -3311,9 +3148,8 @@ msgstr ""
 msgid "Replied to feedback on %s orders."
 msgstr ""
 
-#, fuzzy
 msgid "Replies"
-msgstr "レビュー"
+msgstr ""
 
 msgid "Reply"
 msgstr ""
@@ -3327,9 +3163,8 @@ msgstr ""
 msgid "Reply to message"
 msgstr ""
 
-#, fuzzy
 msgid "Report"
-msgstr "並べ替え"
+msgstr ""
 
 msgid "Report Abuse"
 msgstr ""
@@ -3382,9 +3217,8 @@ msgstr ""
 msgid "Reviews & Discussion"
 msgstr ""
 
-#, fuzzy
 msgid "Revoke"
-msgstr "削除"
+msgstr ""
 
 msgid "Revoke access"
 msgstr ""
@@ -3392,9 +3226,8 @@ msgstr ""
 msgid "Revoke this application's access to your Discogs account?"
 msgstr ""
 
-#, fuzzy
 msgid "Role"
-msgstr "プロフィール"
+msgstr ""
 
 msgid "Sales History"
 msgstr "販売履歴"
@@ -3402,9 +3235,8 @@ msgstr "販売履歴"
 msgid "Save"
 msgstr ""
 
-#, fuzzy
 msgid "Save Changes"
-msgstr "変更が必要です。"
+msgstr ""
 
 msgid "Save Draft"
 msgstr ""
@@ -3412,9 +3244,8 @@ msgstr ""
 msgid "Save Fields"
 msgstr ""
 
-#, fuzzy
 msgid "Save Item"
-msgstr "商品"
+msgstr ""
 
 msgid "Save Notification Settings"
 msgstr ""
@@ -3422,27 +3253,23 @@ msgstr ""
 msgid "Save all Track Artists/Credits"
 msgstr ""
 
-#, fuzzy
 msgid "Save changes"
-msgstr "変更が必要です。"
+msgstr ""
 
 msgid "Save my privacy settings"
 msgstr ""
 
-#, fuzzy
 msgid "Save settings"
-msgstr "設定"
+msgstr ""
 
 msgid "Saved"
 msgstr ""
 
-#, fuzzy
 msgid "Saved Changes"
-msgstr "変更が必要です。"
+msgstr ""
 
-#, fuzzy
 msgid "Saved Changes."
-msgstr "変更が必要です。"
+msgstr ""
 
 msgid "Saved Group Topics"
 msgstr "保存したグループでの会話"
@@ -3450,13 +3277,11 @@ msgstr "保存したグループでの会話"
 msgid "Saved Labs Preferences"
 msgstr ""
 
-#, fuzzy
 msgid "Saved Submissions"
-msgstr "登録"
+msgstr ""
 
-#, fuzzy
 msgid "Saved Topics"
-msgstr "保存したグループでの会話"
+msgstr ""
 
 #, python-format
 msgid "Saved changes to <a href=\"%s\">listing %s</a>"
@@ -3465,9 +3290,8 @@ msgstr ""
 msgid "Saved changes to your marketplace settings."
 msgstr ""
 
-#, fuzzy
 msgid "Saved changes."
-msgstr "変更が必要です。"
+msgstr ""
 
 msgid "Saved notification preferences."
 msgstr ""
@@ -3475,9 +3299,8 @@ msgstr ""
 msgid "Saved your changes."
 msgstr ""
 
-#, fuzzy
 msgid "Search"
-msgstr "年"
+msgstr ""
 
 msgid "Search Discogs"
 msgstr ""
@@ -3488,17 +3311,14 @@ msgstr ""
 msgid "Search Help Docs..."
 msgstr ""
 
-#, fuzzy
 msgid "Search Marketplace"
-msgstr "マーケットプレイス"
+msgstr ""
 
-#, fuzzy
 msgid "Search Results"
-msgstr "検索結果"
+msgstr ""
 
-#, fuzzy
 msgid "Search Submissions"
-msgstr "登録"
+msgstr ""
 
 msgid "Search all excluding Vinyl and CD"
 msgstr ""
@@ -3512,9 +3332,8 @@ msgstr ""
 msgid "Search by specific fields"
 msgstr ""
 
-#, fuzzy
 msgid "Search for an item to sell"
-msgstr "のバリエーションを検索します。"
+msgstr ""
 
 msgid "Search the database using these fields"
 msgstr ""
@@ -3543,18 +3362,16 @@ msgstr ""
 msgid "Select"
 msgstr ""
 
-#, fuzzy
 msgid "Select All"
-msgstr "全てを見る"
+msgstr ""
 
 msgid ""
 "Select which events you would like to be notified about and how Discogs "
 "should notify you."
 msgstr ""
 
-#, fuzzy
 msgid "Sell Item"
-msgstr "商品"
+msgstr ""
 
 msgid "Sell Music"
 msgstr ""
@@ -3565,9 +3382,8 @@ msgstr ""
 msgid "Sell-Blocked Releases"
 msgstr ""
 
-#, fuzzy
 msgid "Seller"
-msgstr "新しい出品者"
+msgstr ""
 
 msgid "Seller Information"
 msgstr ""
@@ -3627,9 +3443,8 @@ msgstr "設定"
 msgid "Sharing settings"
 msgstr ""
 
-#, fuzzy
 msgid "Shipping"
-msgstr "表示"
+msgstr ""
 
 msgid "Shipping &amp; Payments"
 msgstr ""
@@ -3647,9 +3462,8 @@ msgstr ""
 msgid "Shipping via %(method)s"
 msgstr ""
 
-#, fuzzy
 msgid "Ships From"
-msgstr "商品発送国"
+msgstr ""
 
 msgid "Ships from {}"
 msgstr ""
@@ -3765,13 +3579,11 @@ msgstr ""
 msgid "Start over"
 msgstr ""
 
-#, fuzzy
 msgid "Start selling now!"
-msgstr "今すぐ販売する"
+msgstr ""
 
-#, fuzzy
 msgid "Start shopping now!"
-msgstr "買い物を始める"
+msgstr ""
 
 msgid "State/Province"
 msgstr ""
@@ -3796,9 +3608,8 @@ msgstr ""
 msgid "Stop notifying"
 msgstr ""
 
-#, fuzzy
 msgid "Style"
-msgstr "スタイル"
+msgstr ""
 
 msgid "Styles"
 msgstr "スタイル"
@@ -3809,20 +3620,17 @@ msgstr ""
 msgid "Subject"
 msgstr ""
 
-#, fuzzy
 msgid "Submission Guidelines"
-msgstr "登録申請中"
+msgstr ""
 
-#, fuzzy
 msgid "Submission Notes"
-msgstr "登録"
+msgstr ""
 
 msgid "Submissions"
 msgstr "登録"
 
-#, fuzzy
 msgid "Submissions for"
-msgstr "登録"
+msgstr ""
 
 #, python-format
 msgid "Submissions for artist %s"
@@ -3835,9 +3643,8 @@ msgstr ""
 msgid "Submissions from List (past 90 days):"
 msgstr ""
 
-#, fuzzy
 msgid "Submissions from user"
-msgstr "登録"
+msgstr ""
 
 #, python-format
 msgid "Submissions from user %s"
@@ -3852,9 +3659,8 @@ msgstr ""
 msgid "Submit Changes to Label Page"
 msgstr ""
 
-#, fuzzy
 msgid "Subtotal"
-msgstr "全て"
+msgstr ""
 
 msgid "Successfully Acted Upon Report(s)."
 msgstr ""
@@ -3896,9 +3702,8 @@ msgstr ""
 msgid "Tag"
 msgstr ""
 
-#, fuzzy
 msgid "Tags"
-msgstr "トラック"
+msgstr ""
 
 msgid ""
 "Tags are keywords used to describe your group so it can be easily found "
@@ -4002,13 +3807,11 @@ msgstr ""
 msgid "The Format Field"
 msgstr ""
 
-#, fuzzy
 msgid "The Marketplace"
-msgstr "マーケットプレイス"
+msgstr ""
 
-#, fuzzy
 msgid "The Story"
-msgstr "歴史"
+msgstr ""
 
 msgid "The application has been deleted."
 msgstr ""
@@ -4099,9 +3902,8 @@ msgstr ""
 msgid "The study and cataloguing of phonograph records."
 msgstr ""
 
-#, fuzzy
 msgid "The title of the release."
-msgstr "私達は、これらの商品をお勧めします"
+msgstr ""
 
 msgid ""
 "The user account you are trying to activate was not found. If you "
@@ -4278,9 +4080,8 @@ msgstr ""
 msgid "This version of the API was shut down on 15 January 2012."
 msgstr ""
 
-#, fuzzy
 msgid "Threads"
-msgstr "トラック"
+msgstr ""
 
 msgid "Time Zone"
 msgstr ""
@@ -4288,9 +4089,8 @@ msgstr ""
 msgid "Times in CIP"
 msgstr ""
 
-#, fuzzy
 msgid "Title"
-msgstr "商品"
+msgstr ""
 
 msgid "Title, A-Z"
 msgstr ""
@@ -4298,9 +4098,8 @@ msgstr ""
 msgid "Title, Z-A"
 msgstr ""
 
-#, fuzzy
 msgid "Title/Credits"
-msgstr "編集"
+msgstr ""
 
 msgid "To"
 msgstr ""
@@ -4380,13 +4179,11 @@ msgstr ""
 msgid "Track Position(s)"
 msgstr ""
 
-#, fuzzy
 msgid "Track Title"
-msgstr "トラック"
+msgstr ""
 
-#, fuzzy
 msgid "Tracklist"
-msgstr "トラックリスト"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -4409,9 +4206,8 @@ msgstr ""
 msgid "Turned sticky on"
 msgstr ""
 
-#, fuzzy
 msgid "Type"
-msgstr "スタイル"
+msgstr ""
 
 msgid "URLs"
 msgstr ""
@@ -4440,9 +4236,8 @@ msgstr[0] ""
 msgid "Unfollowed user."
 msgstr ""
 
-#, fuzzy
 msgid "Unfriend"
-msgstr "友達"
+msgstr ""
 
 msgid "Unignore"
 msgstr ""
@@ -4578,13 +4373,11 @@ msgstr ""
 msgid "View <a href=\"%(link)s\" class=\"new_window\"> formatting options</a>."
 msgstr ""
 
-#, fuzzy
 msgid "View Help"
-msgstr "全てを表示"
+msgstr ""
 
-#, fuzzy
 msgid "View Message"
-msgstr "全てを表示"
+msgstr ""
 
 msgid "View My Recent Changes By:"
 msgstr ""
@@ -4595,9 +4388,8 @@ msgstr ""
 msgid "View additional popular groups"
 msgstr ""
 
-#, fuzzy
 msgid "View all in "
-msgstr "全てを表示"
+msgstr ""
 
 msgid "View complete sales history"
 msgstr ""
@@ -4611,28 +4403,23 @@ msgstr ""
 msgid "View feedback on seller"
 msgstr ""
 
-#, fuzzy
 msgid "View formatting options"
-msgstr "リストのオプション"
+msgstr ""
 
-#, fuzzy
 msgid "View group activity"
-msgstr "最近のグループ活動"
+msgstr ""
 
-#, fuzzy
 msgid "View items for sale"
-msgstr "私の販売用商品"
+msgstr ""
 
-#, fuzzy
 msgid "View list"
-msgstr "全てを表示"
+msgstr ""
 
 msgid "View more artists"
 msgstr ""
 
-#, fuzzy
 msgid "View more labels"
-msgstr "より多くのバイヤーの目に触れる"
+msgstr ""
 
 msgid "View more new releases"
 msgstr ""
@@ -4640,13 +4427,11 @@ msgstr ""
 msgid "View more newest groups"
 msgstr ""
 
-#, fuzzy
 msgid "View more releases"
-msgstr "新商品"
+msgstr ""
 
-#, fuzzy
 msgid "View more sales history"
-msgstr "販売履歴"
+msgstr ""
 
 msgid "View my Ratings"
 msgstr ""
@@ -4654,16 +4439,14 @@ msgstr ""
 msgid "View my lists"
 msgstr ""
 
-#, fuzzy
 msgid "View my orders"
-msgstr "注文がありません。"
+msgstr ""
 
 msgid "View my profile"
 msgstr ""
 
-#, fuzzy
 msgid "View my purchases"
-msgstr "私の購入したもの"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -4681,9 +4464,8 @@ msgstr ""
 msgid "View this list"
 msgstr ""
 
-#, fuzzy
 msgid "View your collection"
-msgstr "コレクション"
+msgstr ""
 
 msgid "View your inventory"
 msgstr ""
@@ -4698,17 +4480,14 @@ msgstr ""
 msgid "Visit the Forum"
 msgstr ""
 
-#, fuzzy
 msgid "Voted"
-msgstr "注釈"
+msgstr ""
 
-#, fuzzy
 msgid "Voting"
-msgstr "表示"
+msgstr ""
 
-#, fuzzy
 msgid "Voting Trends"
-msgstr "はじめに"
+msgstr ""
 
 msgid "Wantlist"
 msgstr "欲しいものリスト"
@@ -5366,15 +5145,14 @@ msgstr ""
 msgid "_%0.2f to _%0.2f"
 msgstr ""
 
-#, fuzzy
 msgid "about"
-msgstr "会社概要"
+msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "about %s"
 msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "about %s total"
 msgstr ""
 
@@ -5415,9 +5193,8 @@ msgstr ""
 msgid "click here"
 msgstr ""
 
-#, fuzzy
 msgid "close"
-msgstr "ハウス"
+msgstr ""
 
 msgid "contact seller"
 msgstr ""
@@ -5437,9 +5214,8 @@ msgstr ""
 msgid "e.g. Upper Stacks - Aisle 5 Row 4"
 msgstr ""
 
-#, fuzzy
 msgid "edited"
-msgstr "編集"
+msgstr ""
 
 msgid "error code"
 msgstr ""
@@ -5463,16 +5239,14 @@ msgstr ""
 msgid "for sale"
 msgstr "販売"
 
-#, fuzzy
 msgid "from"
-msgstr "私の～から"
+msgstr ""
 
 msgid "grams"
 msgstr ""
 
-#, fuzzy
 msgid "granted"
-msgstr "トランス"
+msgstr ""
 
 msgid "has"
 msgstr ""
@@ -5483,13 +5257,11 @@ msgstr ""
 msgid "have"
 msgstr ""
 
-#, fuzzy
 msgid "here"
-msgstr "ジャンル"
+msgstr ""
 
-#, fuzzy
 msgid "in Cart"
-msgstr "カートを見る"
+msgstr ""
 
 #, python-format
 msgid "is selling %(n)d item I want"
@@ -5500,13 +5272,11 @@ msgid "item"
 msgid_plural "items"
 msgstr[0] "商品"
 
-#, fuzzy
 msgid "items"
-msgstr "商品"
+msgstr ""
 
-#, fuzzy
 msgid "jobs"
-msgstr "求人"
+msgstr ""
 
 msgid "listed for sale in my inventory"
 msgstr ""
@@ -5556,9 +5326,8 @@ msgstr ""
 msgid "on"
 msgstr ""
 
-#, fuzzy
 msgid "optional"
-msgstr "全て"
+msgstr ""
 
 msgid "overall rating"
 msgstr ""
@@ -5581,9 +5350,8 @@ msgstr ""
 msgid "remove"
 msgstr "削除"
 
-#, fuzzy
 msgid "replies"
-msgstr "レビュー"
+msgstr ""
 
 msgid "rows"
 msgstr ""
@@ -5609,9 +5377,8 @@ msgstr ""
 msgid "submitted"
 msgstr ""
 
-#, fuzzy
 msgid "team"
-msgstr "商品"
+msgstr ""
 
 msgid "that has since been deleted"
 msgstr ""
@@ -5635,26 +5402,22 @@ msgstr ""
 msgid "uploaded"
 msgstr ""
 
-#, fuzzy
 msgid "user"
 msgid_plural "users"
-msgstr[0] "ハウス"
+msgstr[0] ""
 
 msgid "values"
 msgstr ""
 
-#, fuzzy
 msgid "view terms"
-msgstr "新しいスタイル"
+msgstr ""
 
-#, fuzzy
 msgid "vote"
-msgstr "注釈"
+msgstr ""
 
 msgid "want"
 msgstr ""
 
-#, fuzzy
 msgid "wants"
-msgstr "欲しいものリスト"
+msgstr ""
 
