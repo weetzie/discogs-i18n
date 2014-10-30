@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-08-27 12:38-0700\n"
+"POT-Creation-Date: 2014-10-30 15:27-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -28,23 +28,16 @@ msgstr ""
 msgid "\"%s\" is available."
 msgstr ""
 
-msgid "# in Collection"
-msgstr ""
-
-msgid "# in Inventory"
-msgstr ""
-
-msgid "# in Wantlist"
-msgstr ""
-
-msgid "# of Versions"
-msgstr ""
-
 #, python-format
 msgid ""
 "%(link)sLog In%(link_close)s or %(button)sCreate an "
 "Account%(button_close)s to list this item."
 msgstr ""
+
+#, python-format
+msgid "%(n)s Item"
+msgid_plural "%(n)s Items"
+msgstr[0] ""
 
 #, python-format
 msgid "%(n)s negative rating from buyers"
@@ -80,6 +73,10 @@ msgstr[0] ""
 msgid "%(n)s rating"
 msgid_plural "%(n)s ratings"
 msgstr[0] ""
+
+#, python-format
+msgid "%(name)s will be added to the Database."
+msgstr ""
 
 #, python-format
 msgid "%(person)s's feedback as a buyer."
@@ -134,6 +131,10 @@ msgstr[0] ""
 
 #, python-format
 msgid "%s converted this message to a support request."
+msgstr ""
+
+#, python-format
+msgid "%s has been deleted."
 msgstr ""
 
 #, python-format
@@ -204,6 +205,9 @@ msgstr ""
 msgid "9. Genres/Styles"
 msgstr ""
 
+msgid "<%= type %> not found."
+msgstr ""
+
 msgid "<strong>Auto-save submissions</strong> after I comment or vote"
 msgstr ""
 
@@ -253,13 +257,7 @@ msgstr ""
 msgid "API"
 msgstr ""
 
-msgid "API Documentation"
-msgstr ""
-
 msgid "API v1.0 Documentation"
-msgstr ""
-
-msgid "API v2 Applications"
 msgstr ""
 
 msgid "API v2 Documentation"
@@ -328,9 +326,6 @@ msgstr ""
 msgid "Add Artist Per Track"
 msgstr ""
 
-msgid "Add Credit"
-msgstr ""
-
 msgid "Add Credit Per Track"
 msgstr ""
 
@@ -340,19 +335,13 @@ msgstr ""
 msgid "Add Friend"
 msgstr ""
 
-msgid "Add Label"
-msgstr ""
-
-msgid "Add Main Artist"
-msgstr ""
-
 msgid "Add New Thread"
 msgstr ""
 
 msgid "Add Release"
 msgstr "商品を追加"
 
-msgid "Add Track"
+msgid "Add Row"
 msgstr ""
 
 msgid "Add Tracks"
@@ -429,22 +418,13 @@ msgstr ""
 msgid "All"
 msgstr ""
 
-msgid "All Discogs"
-msgstr ""
-
 msgid "All Groups"
 msgstr ""
 
 msgid "All Items"
 msgstr ""
 
-msgid "All Marketplace"
-msgstr ""
-
 msgid "All Topics"
-msgstr ""
-
-msgid "All Versions"
 msgstr ""
 
 msgid "All images are copyrighted by their respective copyright owners."
@@ -454,6 +434,9 @@ msgid "Allow applications to access your Discogs profile information."
 msgstr ""
 
 msgid "Allow other members to contact me"
+msgstr ""
+
+msgid "Allow other people to view this image"
 msgstr ""
 
 msgid "Allow others to browse my collection"
@@ -516,6 +499,12 @@ msgid ""
 " friends list?"
 msgstr ""
 
+msgid "Are you sure you want to delete this app?"
+msgstr ""
+
+msgid "Are you sure you want to delete this blog entry?"
+msgstr ""
+
 msgid "Are you sure you want to delete this folder?"
 msgstr ""
 
@@ -531,22 +520,11 @@ msgstr ""
 msgid "Artist"
 msgstr ""
 
-#, python-format
-msgid "Artist %s has already been indexed"
-msgstr ""
-
-#, python-format
-msgid "Artist %s not found"
-msgstr ""
-
 msgid "Artist Name Variation"
 msgstr ""
 
 msgid "Artists"
 msgstr "アーティスト"
-
-msgid "Ascending"
-msgstr ""
 
 msgid "Ask me first"
 msgstr ""
@@ -620,6 +598,9 @@ msgstr "バーコードとその他の識別子"
 msgid "Basic privacy settings"
 msgstr ""
 
+msgid "Be able to use authentication to build third-party apps"
+msgstr ""
+
 msgid "Before you submit:"
 msgstr ""
 
@@ -670,13 +651,6 @@ msgstr ""
 msgid "Browsing options"
 msgstr ""
 
-msgid "Building something cool? Check out our API!"
-msgstr ""
-
-#, python-format
-msgid "Buy %s at Discogs Marketplace"
-msgstr ""
-
 #, python-format
 msgid "Buy %s%sat Discogs Marketplace"
 msgstr ""
@@ -688,13 +662,7 @@ msgstr ""
 msgid "Buy Music"
 msgstr ""
 
-msgid "Buy and Sell Vinyl and CD at Discogs Marketplace"
-msgstr ""
-
 msgid "Buy and Sell Vinyl and CDs at Discogs Marketplace"
-msgstr ""
-
-msgid "Buy at Discogs Marketplace"
 msgstr ""
 
 msgid ""
@@ -738,13 +706,6 @@ msgstr ""
 msgid "Cannot %s yourself."
 msgstr ""
 
-msgid "Cannot add list because it already exists"
-msgstr ""
-
-#, python-format
-msgid "Cannot group by master release because results are already filtered by %s"
-msgstr ""
-
 msgid "Cannot invite yourself."
 msgstr ""
 
@@ -769,6 +730,9 @@ msgstr ""
 msgid "Change Currency"
 msgstr ""
 
+msgid "Change Log"
+msgstr ""
+
 msgid "Change Password"
 msgstr ""
 
@@ -778,7 +742,7 @@ msgstr ""
 msgid "Change password"
 msgstr ""
 
-msgid "Change your avatar at"
+msgid "Change your avatar at "
 msgstr ""
 
 msgid "Changed By"
@@ -835,6 +799,9 @@ msgid "Close"
 msgstr ""
 
 msgid "Collapse"
+msgstr ""
+
+msgid "Collapse Row"
 msgstr ""
 
 msgid "Collection"
@@ -904,7 +871,19 @@ msgstr "お問い合わせ"
 msgid "Contact Info"
 msgstr ""
 
+msgid "Contact seller"
+msgstr ""
+
 msgid "Contained Releases"
+msgstr ""
+
+msgid "Content, new feature releases, and statistics related to buying"
+msgstr ""
+
+msgid "Content, new feature releases, and statistics related to contributing"
+msgstr ""
+
+msgid "Content, new feature releases, and statistics related to selling"
 msgstr ""
 
 msgid "Continuous Improvement"
@@ -1048,7 +1027,13 @@ msgstr ""
 msgid "Current password"
 msgstr ""
 
+msgid "Customize This Page"
+msgstr ""
+
 msgid "Dashboard"
+msgstr ""
+
+msgid "Database"
 msgstr ""
 
 msgid "Database Notifications"
@@ -1065,9 +1050,6 @@ msgid ""
 "with others."
 msgstr ""
 
-msgid "Default"
-msgstr ""
-
 msgid "Delete"
 msgstr ""
 
@@ -1075,6 +1057,12 @@ msgid "Delete Folder"
 msgstr ""
 
 msgid "Delete Master Release"
+msgstr ""
+
+msgid "Delete Row"
+msgstr ""
+
+msgid "Delete app"
 msgstr ""
 
 msgid "Delete this image permanently?"
@@ -1096,9 +1084,6 @@ msgid "Deleted message."
 msgid_plural "Deleted messages."
 msgstr[0] ""
 
-msgid "Descending"
-msgstr ""
-
 msgid "Description"
 msgstr ""
 
@@ -1108,6 +1093,9 @@ msgstr ""
 msgid "Developers Settings"
 msgstr ""
 
+msgid "Development"
+msgstr ""
+
 msgid "Did you mean the artist named"
 msgstr ""
 
@@ -1115,9 +1103,7 @@ msgstr ""
 msgid "Did you mean the label named %s?"
 msgstr ""
 
-msgid ""
-"Disabled \"Combine Variations\" from the \"Track Title\" filter options "
-"because results are already grouped by title"
+msgid "Disable"
 msgstr ""
 
 msgid "Disabled Images"
@@ -1126,7 +1112,7 @@ msgstr ""
 msgid "Discography"
 msgstr "ディスコグラフィー"
 
-msgid "Discogs - Projects and Roadmap"
+msgid "Discogs API v2 Applications"
 msgstr ""
 
 msgid "Discogs Forum"
@@ -1185,6 +1171,9 @@ msgid ""
 "href=\"%(link)s\">New Credit Roles</a> Forum thread."
 msgstr ""
 
+msgid "Draft Entries"
+msgstr ""
+
 msgid "Draft Images"
 msgstr ""
 
@@ -1213,9 +1202,6 @@ msgstr ""
 
 #, python-format
 msgid "Edit %(app_name)s Application"
-msgstr ""
-
-msgid "Edit Help Document"
 msgstr ""
 
 msgid "Edit Images"
@@ -1257,6 +1243,12 @@ msgstr ""
 msgid "Embrace Open Source"
 msgstr ""
 
+msgid "Enable"
+msgstr ""
+
+msgid "Engineering"
+msgstr ""
+
 msgid "Enter one or more tags, separated by spaces."
 msgstr ""
 
@@ -1295,6 +1287,10 @@ msgstr ""
 msgid "Error saving file"
 msgstr ""
 
+#, python-format
+msgid "Error with module: %s"
+msgstr ""
+
 msgid "Errors"
 msgstr ""
 
@@ -1302,6 +1298,9 @@ msgid "Everyone's Activity"
 msgstr ""
 
 msgid "Existing List"
+msgstr ""
+
+msgid "Expand Row"
 msgstr ""
 
 msgid "Expected integer release_id"
@@ -1340,7 +1339,7 @@ msgstr ""
 msgid "File format releases are not allowed to be sold"
 msgstr ""
 
-msgid "Filter by"
+msgid "File selected"
 msgstr ""
 
 msgid "Find your group on Discogs."
@@ -1388,9 +1387,6 @@ msgstr ""
 msgid "Forum"
 msgstr ""
 
-msgid "Forum Topics"
-msgstr ""
-
 #, python-format
 msgid "Found %(num_results)s result for %(query)s."
 msgid_plural "Found %(num_results)s results for %(query)s."
@@ -1421,6 +1417,9 @@ msgstr ""
 msgid "From"
 msgstr ""
 
+msgid "General"
+msgstr ""
+
 msgid "General settings"
 msgstr ""
 
@@ -1440,6 +1439,9 @@ msgid "Get Started"
 msgstr "始める"
 
 msgid "Get help on uploading files and accepted fields."
+msgstr ""
+
+msgid "Get notifications about major API updates and changes"
 msgstr ""
 
 msgid "Get password"
@@ -1487,9 +1489,6 @@ msgstr ""
 msgid "Go to the Selection"
 msgstr ""
 
-msgid "Got a really tough question? Our staff can help!"
-msgstr ""
-
 msgid "Granted"
 msgstr ""
 
@@ -1526,17 +1525,7 @@ msgstr ""
 msgid "Guidelines Reference"
 msgstr ""
 
-#, python-format
-msgid ""
-"Have a bug to report? Please let us know in the <a "
-"href=\"%(link)s\">development forum</a> topic, or <a "
-"href=\"%(link2)s\">create a support request</a> describing the bug."
-msgstr ""
-
-#, python-format
-msgid ""
-"Have a great feature idea? Let us know in the <a "
-"href=\"%(link)s\">development forum</a> topic."
+msgid "Have access to all API endpoints"
 msgstr ""
 
 msgid "Haven't saved any topics?"
@@ -1563,6 +1552,9 @@ msgstr ""
 msgid "Hide"
 msgstr ""
 
+msgid "Hide location and private comments"
+msgstr ""
+
 msgid "Highest"
 msgstr ""
 
@@ -1576,9 +1568,6 @@ msgid "Homepage URL"
 msgstr ""
 
 msgid "How do I grade my items?"
-msgstr ""
-
-msgid "I need help with..."
 msgstr ""
 
 #, python-format
@@ -1687,13 +1676,6 @@ msgstr ""
 msgid "In Groups"
 msgstr ""
 
-#, python-format
-msgid ""
-"In order to provide you with more accurate updates and announcements of "
-"changes to our service we have moved this content to our <a "
-"href=\"%(link)s\">engineering blog</a>."
-msgstr ""
-
 msgid "In your"
 msgstr ""
 
@@ -1740,6 +1722,10 @@ msgid "Invalid feedback type."
 msgstr ""
 
 msgid "Invalid invite code."
+msgstr ""
+
+#, python-format
+msgid "Invalid module: %s"
 msgstr ""
 
 msgid "Invalid offer price"
@@ -1835,13 +1821,6 @@ msgstr ""
 msgid "Item weighs"
 msgstr ""
 
-#, python-format
-msgid "Items For Sale in %s's Wantlist"
-msgstr ""
-
-msgid "Items For Sale in My Wantlist"
-msgstr ""
-
 msgid "Items I Want"
 msgstr "私が欲しい商品"
 
@@ -1865,6 +1844,12 @@ msgid "Join Group"
 msgstr ""
 
 msgid "Join In"
+msgstr ""
+
+msgid "Jump to Next Section"
+msgstr ""
+
+msgid "Jump to Previous Section"
 msgstr ""
 
 msgid "Jump to next submission after saving comment"
@@ -1936,6 +1921,12 @@ msgstr ""
 msgid "Lines"
 msgstr ""
 
+msgid "Link has expired."
+msgstr ""
+
+msgid "Link is malformed."
+msgstr ""
+
 msgid "List"
 msgstr ""
 
@@ -1946,12 +1937,6 @@ msgid "List For Sale"
 msgstr ""
 
 msgid "List Item For Sale"
-msgstr ""
-
-msgid "List already in use"
-msgstr ""
-
-msgid "List does not exist"
 msgstr ""
 
 msgid "Listed below are copies of the release available from other sellers."
@@ -2153,11 +2138,14 @@ msgstr ""
 msgid "Missing new folder name and/or you did not select a folder to rename"
 msgstr ""
 
+msgid "Missing parameter \"name\""
+msgstr ""
+
+msgid "Mixes"
+msgstr ""
+
 msgid "Mobile"
 msgstr "モバイル"
-
-msgid "Module already exists on your dashboard"
-msgstr ""
 
 msgid "More items to sell?"
 msgstr ""
@@ -2167,9 +2155,6 @@ msgid "More than %s"
 msgstr ""
 
 msgid "Most Collected"
-msgstr ""
-
-msgid "Most Popular Topics"
 msgstr ""
 
 msgid "Most Wanted"
@@ -2267,6 +2252,9 @@ msgstr ""
 msgid "Name Variation"
 msgstr ""
 
+msgid "Navigate Checkboxes"
+msgstr ""
+
 msgid "Navigation"
 msgstr ""
 
@@ -2286,20 +2274,17 @@ msgstr ""
 msgid "New (rev: %(curr_rev)s)"
 msgstr ""
 
+msgid "New Features"
+msgstr ""
+
 msgid "New List"
 msgstr ""
 
 msgid "New Releases"
 msgstr "新商品"
 
-msgid "New Seller"
-msgstr "新しい出品者"
-
 msgid "New Styles"
 msgstr "新しいスタイル"
-
-msgid "New Support Request"
-msgstr ""
 
 msgid "New folder name"
 msgstr ""
@@ -2316,13 +2301,16 @@ msgstr ""
 msgid "Newest Groups"
 msgstr ""
 
+msgid "News"
+msgstr ""
+
+msgid "Newsletters"
+msgstr ""
+
 msgid "No Cover"
 msgstr ""
 
 msgid "No Feedback"
-msgstr ""
-
-msgid "No Grouping"
 msgstr ""
 
 msgid "No Match"
@@ -2343,9 +2331,6 @@ msgid "No data available for prior version."
 msgstr ""
 
 msgid "No data was found in the file you uploaded."
-msgstr ""
-
-msgid "No filters available"
 msgstr ""
 
 msgid "No images have been uploaded."
@@ -2407,9 +2392,6 @@ msgid "No recent activity?"
 msgstr ""
 
 msgid "No results for"
-msgstr ""
-
-msgid "No results found for"
 msgstr ""
 
 msgid "No such user."
@@ -2496,6 +2478,9 @@ msgstr ""
 msgid "Only show topics I've posted in"
 msgstr ""
 
+msgid "Only you can view a disabled image"
+msgstr ""
+
 #, python-format
 msgid ""
 "Oops! There was a problem communicating with PayPal. Please <a "
@@ -2546,12 +2531,6 @@ msgid ""
 "Originally created as a hobby project in 2000 by Kevin Lewandowski, "
 "Discogs has grown to become a definitive resource for Vinyl and CD "
 "recordings."
-msgstr ""
-
-msgid "Other"
-msgstr ""
-
-msgid "Other Tracks"
 msgstr ""
 
 msgid "Other Versions"
@@ -2624,9 +2603,6 @@ msgstr ""
 
 msgid "Payment Due By"
 msgstr ""
-
-msgid "Payment Methods"
-msgstr "お支払い方法"
 
 msgid "Payment Options"
 msgstr ""
@@ -2745,6 +2721,12 @@ msgstr ""
 
 #, python-format
 msgid ""
+"Please open a <a href=\"%s\">new support request</a> to discuss this "
+"issue."
+msgstr ""
+
+#, python-format
+msgid ""
 "Please read our <a href=\"%(link)s\">Forum Guidelines</a> section for a "
 "complete listing of our Forum terms of service."
 msgstr ""
@@ -2765,7 +2747,7 @@ msgstr ""
 msgid "Please try %(start_link)slogging in manually%(end_link)s."
 msgstr ""
 
-msgid "Please try again from a more recent notification."
+msgid "Please try again."
 msgstr ""
 
 msgid "Please upload a valid CSV file."
@@ -2850,19 +2832,7 @@ msgstr ""
 msgid "Price is missing or invalid"
 msgstr ""
 
-msgid "Primary"
-msgstr ""
-
-msgid "Primary Artist(s)"
-msgstr ""
-
-msgid "Primary Artists"
-msgstr ""
-
 msgid "Primary Image"
-msgstr ""
-
-msgid "Primary Tracklist"
 msgstr ""
 
 msgid "Print View"
@@ -2893,12 +2863,6 @@ msgid "Profile"
 msgstr "プロフィール"
 
 msgid "Profile settings"
-msgstr ""
-
-msgid "Projects"
-msgstr ""
-
-msgid "Projects and Roadmap"
 msgstr ""
 
 #, python-format
@@ -2932,9 +2896,6 @@ msgid "Quicklist!"
 msgstr ""
 
 msgid "Quote Previous"
-msgstr ""
-
-msgid "Range"
 msgstr ""
 
 #, python-format
@@ -3002,6 +2963,9 @@ msgstr ""
 msgid "Register"
 msgstr ""
 
+msgid "Register your application now!"
+msgstr ""
+
 msgid "Release"
 msgstr ""
 
@@ -3036,10 +3000,6 @@ msgid "Release not found"
 msgstr ""
 
 msgid "Release not found."
-msgstr ""
-
-#, python-format
-msgid "Release with ID %s not found"
 msgstr ""
 
 msgid "Released"
@@ -3079,12 +3039,16 @@ msgstr ""
 msgid "Remove this"
 msgstr ""
 
+msgid "Remove this image"
+msgstr ""
+
 msgid "Remove this release?"
 msgstr ""
 
 #, python-format
-msgid "Removed %(start_bold)s%(num)d%(end_bold)s friends from your friends list."
-msgstr ""
+msgid "Removed %d friend from your friend list."
+msgid_plural "Removed %d friends from your friend list."
+msgstr[0] ""
 
 #, python-format
 msgid "Removed %d item from your collection."
@@ -3095,10 +3059,6 @@ msgstr[0] ""
 msgid "Removed %d item from your wantlist"
 msgid_plural "Removed %d items from your wantlist"
 msgstr[0] ""
-
-#, python-format
-msgid "Removed %s from your friends list."
-msgstr ""
 
 #, python-format
 msgid "Removed %s's items from your cart."
@@ -3311,9 +3271,6 @@ msgstr ""
 msgid "Search Help Docs..."
 msgstr ""
 
-msgid "Search Marketplace"
-msgstr ""
-
 msgid "Search Results"
 msgstr ""
 
@@ -3335,10 +3292,10 @@ msgstr ""
 msgid "Search for an item to sell"
 msgstr ""
 
-msgid "Search the database using these fields"
+msgid "Search in new window"
 msgstr ""
 
-msgid "Search/Recent Tracks"
+msgid "Search the database using these fields"
 msgstr ""
 
 msgid "Security Assurance"
@@ -3357,9 +3314,6 @@ msgid "See also"
 msgstr ""
 
 msgid "See full review"
-msgstr ""
-
-msgid "Select"
 msgstr ""
 
 msgid "Select All"
@@ -3385,13 +3339,7 @@ msgstr ""
 msgid "Seller"
 msgstr ""
 
-msgid "Seller Information"
-msgstr ""
-
 msgid "Seller Promo"
-msgstr ""
-
-msgid "Seller's Inventory"
 msgstr ""
 
 msgid "Selling Unique Releases"
@@ -3408,9 +3356,6 @@ msgstr ""
 msgid ""
 "Selling options have been disabled on your account. Please check the "
 "billing page to ensure you don't have any past due invoices:"
-msgstr ""
-
-msgid "Send Feedback"
 msgstr ""
 
 msgid "Send Feedback to Discogs"
@@ -3446,9 +3391,6 @@ msgstr ""
 msgid "Shipping"
 msgstr ""
 
-msgid "Shipping &amp; Payments"
-msgstr ""
-
 msgid "Shipping address updated."
 msgstr ""
 
@@ -3465,13 +3407,13 @@ msgstr ""
 msgid "Ships From"
 msgstr ""
 
-msgid "Ships from {}"
-msgstr ""
-
 msgid "Show <strong>recommendations</strong> on release pages"
 msgstr ""
 
 msgid "Show Items in Marketplace"
+msgstr ""
+
+msgid "Show This Legend"
 msgstr ""
 
 msgid "Show details"
@@ -3517,17 +3459,7 @@ msgid ""
 "maximum file size allowed is %0.2f MB."
 msgstr ""
 
-msgid ""
-"Soon we will be releasing planned weekly updates that will include "
-"details about these changes and updates."
-msgstr ""
-
 msgid "Sorry, but you are not allowed to post reviews."
-msgstr ""
-
-msgid ""
-"Sorry, our database is under heavy load. Please try again in a few "
-"seconds."
 msgstr ""
 
 msgid ""
@@ -3602,10 +3534,10 @@ msgstr ""
 msgid "Step %(pagestep)s of 3"
 msgstr ""
 
-msgid "Still can't find what you're looking for?"
+msgid "Stop notifying"
 msgstr ""
 
-msgid "Stop notifying"
+msgid "Strict Search"
 msgstr ""
 
 msgid "Style"
@@ -3680,10 +3612,22 @@ msgstr ""
 msgid "Successfully deleted comment."
 msgstr ""
 
+msgid "Successfully deleted."
+msgstr ""
+
+msgid "Successfully disabled."
+msgstr ""
+
 msgid "Successfully edited entry."
 msgstr ""
 
+msgid "Successfully enabled."
+msgstr ""
+
 msgid "Successfully moved the thread."
+msgstr ""
+
+msgid "Successfully saved the image."
 msgstr ""
 
 msgid "Successfully updated the thread."
@@ -3714,10 +3658,9 @@ msgstr ""
 msgid "Teamwork"
 msgstr ""
 
-#, python-format
 msgid ""
 "Tell the community a little about yourself. This information will be "
-"displayed on <a href=\"%(link)s\">your profile page</a>."
+"displayed on "
 msgstr ""
 
 msgid "Tell us how we can improve this page."
@@ -3773,6 +3716,9 @@ msgstr ""
 msgid "Thanks, your promo code is valid!"
 msgstr ""
 
+msgid "Thanks, your report was received."
+msgstr ""
+
 msgid "That list already contains this item."
 msgstr ""
 
@@ -3824,6 +3770,19 @@ msgid ""
 "invoice."
 msgstr ""
 
+msgid "The file you uploaded was not a valid image and cannot be used."
+msgstr ""
+
+#, python-format
+msgid "The file you uploaded was too big. Please submit an image smaller than %s."
+msgstr ""
+
+#, python-format
+msgid ""
+"The file you uploaded was too small. Please submit an image larger than "
+"%d pixels wide."
+msgstr ""
+
 msgid "The following artists are new to the database:"
 msgstr ""
 
@@ -3838,6 +3797,12 @@ msgid ""
 " artists.  We're far from done and %(link)syou can contribute "
 "too!%(link_close)s Discogs also offers the ability to catalog your music "
 "collection, wantlist, and share your ratings and reviews."
+msgstr ""
+
+#, python-format
+msgid ""
+"The image dimensions are too small, please upload an image with a minimum"
+" width of %s pixels and minimum height of %s pixels."
 msgstr ""
 
 #, python-format
@@ -3906,6 +3871,11 @@ msgid "The title of the release."
 msgstr ""
 
 msgid ""
+"The uploaded image is corrupt or incompatible, please try again or try "
+"with a different format."
+msgstr ""
+
+msgid ""
 "The user account you are trying to activate was not found. If you "
 "registered more than two weeks ago please re-register."
 msgstr ""
@@ -3935,6 +3905,12 @@ msgstr ""
 msgid "There was a problem loading the data"
 msgstr ""
 
+#, python-format
+msgid ""
+"There was a problem loading this module.<br> Try enabling it using the "
+"\"%s\" button."
+msgstr ""
+
 msgid ""
 "There was a problem receiving your account information; please make sure "
 "that cookies are enabled in your browser and try again."
@@ -3957,12 +3933,6 @@ msgstr ""
 
 #, python-format
 msgid "There was an error uploading the image file %s."
-msgstr ""
-
-msgid "There was an error with the search request; please try again."
-msgstr ""
-
-msgid "There was an error with your search query."
 msgstr ""
 
 msgid "There was an problem saving your changes. Please try again."
@@ -4031,6 +4001,11 @@ msgid "This item is in violation of one or more Discogs policies."
 msgstr ""
 
 msgid "This label has been marked as invalid and cannot be edited."
+msgstr ""
+
+msgid ""
+"This list has been made private by its owner. Click <a "
+"class=\"remove_module\">here</a> to remove this from your dashboard."
 msgstr ""
 
 msgid ""
@@ -4173,13 +4148,7 @@ msgstr ""
 msgid "Total, not including shipping"
 msgstr ""
 
-msgid "Track Indexer"
-msgstr ""
-
 msgid "Track Position(s)"
-msgstr ""
-
-msgid "Track Title"
 msgstr ""
 
 msgid "Tracklist"
@@ -4195,9 +4164,6 @@ msgid "Try unchecking one of these fields"
 msgstr ""
 
 msgid "Turn on Help"
-msgstr ""
-
-msgid "Turn on keyboard shortcuts"
 msgstr ""
 
 msgid "Turned sticky off"
@@ -4263,23 +4229,7 @@ msgstr ""
 msgid "Unread Messages"
 msgstr ""
 
-msgid "Unrecognized \"Artist Role\"; defaulting to \"Primary\""
-msgstr ""
-
-#, python-format
-msgid "Unrecognized grouping value %s; ignoring."
-msgstr ""
-
-msgid "Unrecognized response format"
-msgstr ""
-
 msgid "Unshare This"
-msgstr ""
-
-msgid "Unsubscribe link has expired."
-msgstr ""
-
-msgid "Unsubscribe link is malformed."
 msgstr ""
 
 msgid "Untitled"
@@ -4311,10 +4261,19 @@ msgstr ""
 msgid "Upload CSV"
 msgstr ""
 
+msgid "Upload Image"
+msgstr ""
+
 msgid "Upload New Image"
 msgstr ""
 
+msgid "Upload Photo"
+msgstr ""
+
 msgid "Upload Status"
+msgstr ""
+
+msgid "Upload a wide, high quality JPG"
 msgstr ""
 
 msgid "Upload row is missing or invalid"
@@ -4325,6 +4284,9 @@ msgid "Upload type must be %s."
 msgstr ""
 
 msgid "Use English only."
+msgstr ""
+
+msgid "Use Gravatar"
 msgstr ""
 
 msgid "Use suggested price"
@@ -4382,13 +4344,7 @@ msgstr ""
 msgid "View My Recent Changes By:"
 msgstr ""
 
-msgid "View Shipping and Payment Terms"
-msgstr ""
-
 msgid "View additional popular groups"
-msgstr ""
-
-msgid "View all in "
 msgstr ""
 
 msgid "View complete sales history"
@@ -4477,9 +4433,6 @@ msgstr ""
 msgid "Visit the %(link)s page."
 msgstr ""
 
-msgid "Visit the Forum"
-msgstr ""
-
 msgid "Voted"
 msgstr ""
 
@@ -4514,6 +4467,19 @@ msgstr ""
 msgid "We couldn't find that page."
 msgstr ""
 
+msgid ""
+"We currently do not support images in \"CMYK\" mode, please convert the "
+"image to RGB mode and try again."
+msgstr ""
+
+msgid ""
+"We currently do not support images in \"Palette\" mode, please convert "
+"the image to RGB mode and try again."
+msgstr ""
+
+msgid "We did not find an existing banner to modify, upload one first."
+msgstr ""
+
 msgid "We found possible duplicate releases:"
 msgstr ""
 
@@ -4533,6 +4499,9 @@ msgid ""
 "seconds."
 msgstr ""
 
+msgid "We were unable to delete the image, please try again."
+msgstr ""
+
 msgid ""
 "We were unable to fetch your PayPal information because you declined to "
 "log in."
@@ -4541,6 +4510,9 @@ msgstr ""
 msgid ""
 "We were unable to parse the CSV file you uploaded.Make sure your file "
 "matches the Discogs collection export format."
+msgstr ""
+
+msgid "We were unable to save the image, please try again."
 msgstr ""
 
 msgid "We weren't able to determine your PayPal Verified status."
@@ -4557,6 +4529,9 @@ msgid ""
 " the world."
 msgstr ""
 
+msgid "We're glad you found this helpful. Thank you for your input!"
+msgstr ""
+
 msgid ""
 "We're on a mission to build the biggest and most comprehensive music "
 "database and marketplace. Imagine a site with discographies of all "
@@ -4565,11 +4540,22 @@ msgid ""
 "getting closer every day."
 msgstr ""
 
+msgid "We're sorry the seller isn't responding."
+msgstr ""
+
+msgid "We're sorry you didn't find this helpful. Thank you for your input!"
+msgstr ""
+
 msgid "We're sorry, but we were unable to complete your request."
 msgstr ""
 
 #, python-format
 msgid "We're unable to log you in via %s right now."
+msgstr ""
+
+msgid ""
+"We've contacted the seller regarding this order; check your inbox for "
+"further details."
 msgstr ""
 
 msgid "Weight cannot be negative"
@@ -4660,7 +4646,7 @@ msgstr ""
 msgid "Why does this need to be removed?"
 msgstr ""
 
-msgid "Within Filters"
+msgid "With a registered Discogs application, you will:"
 msgstr ""
 
 msgid "Year"
@@ -4700,10 +4686,6 @@ msgstr ""
 msgid "You are not allowed to submit releases."
 msgstr ""
 
-#, python-format
-msgid "You attempted to index %s but we couldn't locate that artist"
-msgstr ""
-
 msgid "You can now close this window."
 msgstr ""
 
@@ -4714,16 +4696,6 @@ msgid "You can now log in."
 msgstr ""
 
 msgid "You can only create five groups."
-msgstr ""
-
-#, python-format
-msgid "You can only index one artist at a time; you're already indexing %s"
-msgstr ""
-
-#, python-format
-msgid ""
-"You can register your application here if you wish to access user data "
-"using <a href=\"%(link)s\">OAuth</a>."
 msgstr ""
 
 #, python-format
@@ -4890,13 +4862,11 @@ msgid ""
 "been completed."
 msgstr ""
 
-msgid "You have successfully edited the doc."
+#, python-format
+msgid "You have reached the limit of %d list modules."
 msgstr ""
 
 msgid "You have successfully edited the message."
-msgstr ""
-
-msgid "You have successfully removed the doc."
 msgstr ""
 
 msgid ""
@@ -5196,9 +5166,6 @@ msgstr ""
 msgid "close"
 msgstr ""
 
-msgid "contact seller"
-msgstr ""
-
 msgid "created spam group"
 msgstr ""
 
@@ -5233,7 +5200,7 @@ msgid "for"
 msgstr ""
 
 #, python-format
-msgid "for %(name)s folder"
+msgid "for &quot;%(name)s&quot; folder"
 msgstr ""
 
 msgid "for sale"
@@ -5262,11 +5229,6 @@ msgstr ""
 
 msgid "in Cart"
 msgstr ""
-
-#, python-format
-msgid "is selling %(n)d item I want"
-msgid_plural "is selling %(n)d items I want"
-msgstr[0] ""
 
 msgid "item"
 msgid_plural "items"
@@ -5409,9 +5371,6 @@ msgstr[0] ""
 msgid "values"
 msgstr ""
 
-msgid "view terms"
-msgstr ""
-
 msgid "vote"
 msgstr ""
 
@@ -5419,5 +5378,8 @@ msgid "want"
 msgstr ""
 
 msgid "wants"
+msgstr ""
+
+msgid "your profile page"
 msgstr ""
 

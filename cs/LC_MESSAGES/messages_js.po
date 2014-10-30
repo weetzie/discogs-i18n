@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-08-27 12:38-0700\n"
+"POT-Creation-Date: 2014-10-30 15:27-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: cs <LL@li.org>\n"
@@ -62,6 +62,9 @@ msgstr ""
 msgid "Add style"
 msgstr ""
 
+msgid "Add to List"
+msgstr ""
+
 msgid "Added <%= preview.title %> to your collection."
 msgstr ""
 
@@ -72,6 +75,9 @@ msgid "Alert"
 msgstr ""
 
 msgid "All shipping methods must define at least one range"
+msgstr ""
+
+msgid "An error has occurred, please try again."
 msgstr ""
 
 msgid "An unknown error occurred (code <%= status %>)"
@@ -144,6 +150,9 @@ msgstr ""
 msgid "Created draft <%= link %> at <%= time %>"
 msgstr ""
 
+msgid "Customize This Page"
+msgstr ""
+
 msgid "Deleting"
 msgstr ""
 
@@ -198,9 +207,6 @@ msgstr ""
 msgid "Items added to your collection"
 msgstr ""
 
-msgid "Keyboard Shortcuts Help"
-msgstr ""
-
 msgid "Less"
 msgstr ""
 
@@ -225,12 +231,6 @@ msgid "Move"
 msgstr ""
 
 msgid "Move Item to:"
-msgstr ""
-
-msgid "No more than <%= n %> items may be present on your dashboard at one time"
-msgstr ""
-
-msgid "No results found."
 msgstr ""
 
 msgid "Okay"
@@ -352,19 +352,10 @@ msgstr ""
 msgid "Saving"
 msgstr ""
 
-msgid "Search"
-msgstr ""
-
-msgid "Search by Exact Match"
-msgstr ""
-
-msgid "Search for"
-msgstr ""
-
-msgid "Search in New Window"
-msgstr ""
-
 msgid "Send Feedback"
+msgstr ""
+
+msgid "Send Report"
 msgstr ""
 
 msgid "Share"
@@ -394,7 +385,7 @@ msgid ""
 " page, then tap on the player."
 msgstr ""
 
-msgid "Strict"
+msgid "Submission Form Keyboard Shortcuts"
 msgstr ""
 
 msgid "Submission notes are required"
@@ -411,6 +402,9 @@ msgstr ""
 msgid ""
 "There was a problem sending your feedback. Please try again in a few "
 "moments."
+msgstr ""
+
+msgid "This list is already on your dashboard"
 msgstr ""
 
 msgid ""

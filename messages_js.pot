@@ -37,6 +37,9 @@ msgstr ""
 msgid "Add style"
 msgstr ""
 
+msgid "Add to List"
+msgstr ""
+
 msgid "Added <%= preview.title %> to your collection."
 msgstr ""
 
@@ -47,6 +50,9 @@ msgid "Alert"
 msgstr ""
 
 msgid "All shipping methods must define at least one range"
+msgstr ""
+
+msgid "An error has occurred, please try again."
 msgstr ""
 
 msgid "An unknown error occurred (code <%= status %>)"
@@ -115,6 +121,9 @@ msgstr ""
 msgid "Created draft <%= link %> at <%= time %>"
 msgstr ""
 
+msgid "Customize This Page"
+msgstr ""
+
 msgid "Deleting"
 msgstr ""
 
@@ -169,9 +178,6 @@ msgstr ""
 msgid "Items added to your collection"
 msgstr ""
 
-msgid "Keyboard Shortcuts Help"
-msgstr ""
-
 msgid "Less"
 msgstr ""
 
@@ -194,12 +200,6 @@ msgid "Move"
 msgstr ""
 
 msgid "Move Item to:"
-msgstr ""
-
-msgid "No more than <%= n %> items may be present on your dashboard at one time"
-msgstr ""
-
-msgid "No results found."
 msgstr ""
 
 msgid "Okay"
@@ -316,19 +316,10 @@ msgstr ""
 msgid "Saving"
 msgstr ""
 
-msgid "Search"
-msgstr ""
-
-msgid "Search by Exact Match"
-msgstr ""
-
-msgid "Search for"
-msgstr ""
-
-msgid "Search in New Window"
-msgstr ""
-
 msgid "Send Feedback"
+msgstr ""
+
+msgid "Send Report"
 msgstr ""
 
 msgid "Share"
@@ -355,7 +346,7 @@ msgstr ""
 msgid "Some mobile devices will not allow playback until you first activate the YouTube player by tapping on it. If the video is not loading, refresh the page, then tap on the player."
 msgstr ""
 
-msgid "Strict"
+msgid "Submission Form Keyboard Shortcuts"
 msgstr ""
 
 msgid "Submission notes are required"
@@ -368,6 +359,9 @@ msgid "The following errors preventing this item from being listed"
 msgstr ""
 
 msgid "There was a problem sending your feedback. Please try again in a few moments."
+msgstr ""
+
+msgid "This list is already on your dashboard"
 msgstr ""
 
 msgid "This operation will overwrite all track positions with 1, 2, 3, etc. Are you sure you want to do this?"
