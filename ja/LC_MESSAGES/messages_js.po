@@ -1,14 +1,9 @@
-# Japanese translations for PROJECT.
-# Copyright (C) 2014 ORGANIZATION
-# This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
-#
-#, fuzzy
+
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"Project-Id-Version: Discogs (small)\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-10-30 15:27-0700\n"
+"POT-Creation-Date: 2014-10-31 13:42-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -22,386 +17,390 @@ msgid ""
 "<%= filename %> is an unsupported format. Please upload a .jpg, .png, "
 ".gif, or .bmp."
 msgstr ""
+"「<%= filename %>」のフォーマットが不明です。\n"
+"jpg, .png, .gif, .bmpでアップロードして下さい。"
 
 msgid "<%= releaseId %> is invalid. Release IDs should only contain numbers."
-msgstr ""
+msgstr "<%= releaseId %>は無効です。リリースIDは数字のみで構成されています。"
 
 msgid "A nearly perfect record. The record should show no obvious signs of wear."
-msgstr ""
+msgstr "保存状態良好。特に目立ったキズはありません。"
 
 msgid ""
 "Absolutely perfect in every way. Certainly never been played. Should be "
 "used sparingly as a grade, If at all."
-msgstr ""
+msgstr "未開封の新品。本当に新品以外には使用しないこと。"
 
 msgid "Accepted Fields"
-msgstr ""
+msgstr "承認されました"
 
 msgid "Add Sub-Track"
-msgstr ""
+msgstr "サブトラックを追加する"
 
 msgid "Add artist"
-msgstr ""
+msgstr "アーティストを追加する"
 
 msgid "Add barcode or identifier"
-msgstr ""
+msgstr "バーコードナンバーか、IDを追加する"
 
 msgid "Add credit"
-msgstr ""
+msgstr "クレジットを追加する"
 
 msgid "Add format"
-msgstr ""
+msgstr "フォーマットを追加する"
 
 msgid "Add label or entity"
-msgstr ""
+msgstr "レーベルか法人を追加する"
 
 msgid "Add row"
-msgstr ""
+msgstr "行を使いする"
 
 msgid "Add style"
-msgstr ""
+msgstr "書式を追加する"
 
 msgid "Add to List"
 msgstr ""
 
 msgid "Added <%= preview.title %> to your collection."
-msgstr ""
+msgstr "コレクションに<%= preview.title %>を追加する"
 
 msgid "Added <%= preview.title %> to your wantlist."
-msgstr ""
+msgstr "ウィッシュリストに<%= preview.title %>を追加する"
 
 msgid "Alert"
-msgstr ""
+msgstr "アラート"
 
 msgid "All shipping methods must define at least one range"
-msgstr ""
+msgstr "配送方法は一行につき、必ず、ひとつ選んで下さい。"
 
 msgid "An error has occurred, please try again."
 msgstr ""
 
 msgid "An unknown error occurred (code <%= status %>)"
-msgstr ""
+msgstr "不明なエラーが発生しています(code <%= status %>)"
 
 msgid ""
 "Are you certain you wish to change the format? Any descriptions in the "
 "row will be removed."
-msgstr ""
+msgstr "フォーマットを変更しますか\"この列にある全ての解説は削除されます"
 
 msgid "Are you certain you would like to delete this review?"
-msgstr ""
+msgstr "このレビューを消去しますか？"
 
 msgid "Are you sure you want to DELETE the items?"
-msgstr ""
+msgstr "このアイテムを消去しますか？"
 
 msgid "Are you sure you want to delete this list?"
-msgstr ""
+msgstr "このリストを消去しますか？"
 
 msgid "Are you sure you want to remove <%= text %>?"
-msgstr ""
+msgstr "<%= text %>を削除しますか？"
 
 msgid "Are you sure you want to remove these items?"
-msgstr ""
+msgstr "これらのアイテムを削除しますか？"
 
 msgid "Are you sure you want to remove this item?"
-msgstr ""
+msgstr "このアイテムを削除しますか？"
 
 msgid "Are you sure you want to un-share this?"
-msgstr ""
+msgstr "このシェアを取り下げますか？\n"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "よろしいですか？"
 
 msgid "Audio not found"
-msgstr ""
+msgstr "音源が見つかりません"
 
 msgid "Auto-saved draft <%= link %> at <%= time %>"
-msgstr ""
+msgstr "<%= link %> 下書き<%= time %>に自動保存しました"
 
 msgid ""
 "Can be put onto a turntable and will play through without skipping. "
 "Significant surface noise, scratches and visible groove wear."
-msgstr ""
+msgstr "音飛びなしにターンテーブル上で再生できる。著しいノイズとキズ、さらに見た目でわかる不具合"
 
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセルする"
 
 msgid "Cancel Order"
-msgstr ""
+msgstr "注文をキャンセルする"
 
 msgid "Checking"
-msgstr ""
+msgstr "チェック中"
 
 msgid "Click <%= saveButton => again to save anyway."
-msgstr ""
+msgstr "保存のために再度クリックして下さい：<%= saveButton =>"
 
 msgid "Close"
-msgstr ""
+msgstr "閉じる"
 
 msgid "Confirm"
-msgstr ""
+msgstr "確認する"
 
 msgid "Create"
-msgstr ""
+msgstr "作成する"
 
 msgid "Create Master Release"
-msgstr ""
+msgstr "マスターリリースを作成する"
 
 msgid "Created draft <%= link %> at <%= time %>"
-msgstr ""
+msgstr "<%= link %>下書きを<%= time %> 作成しました。"
 
 msgid "Customize This Page"
 msgstr ""
 
 msgid "Deleting"
-msgstr ""
+msgstr "消去中"
 
 msgid "Delivery in <%= label %>"
-msgstr ""
+msgstr "納品先：<%= label %> "
 
 msgid "Discogs Alert"
-msgstr ""
+msgstr "Discogsからの警告"
 
 msgid "Does not exist: <%= id %>"
-msgstr ""
+msgstr "<%= id %>は存在しません"
 
 msgid "Edit Master Release"
-msgstr ""
+msgstr "マスターリリースの編集"
 
 msgid "Error"
-msgstr ""
+msgstr "エラー"
 
 msgid "European Union"
-msgstr ""
+msgstr "EU"
 
 msgid "Failed to generate preview."
-msgstr ""
+msgstr "プレビューの作成に失敗しました"
 
 msgid "Failed to save draft."
-msgstr ""
+msgstr "下書きの保存に失敗しました"
 
 msgid "Feedback Sent"
-msgstr ""
+msgstr "フォードバック送信済み"
 
 msgid "Generating Preview"
-msgstr ""
+msgstr "プレビューの作成中"
 
 msgid "Hide Credits"
-msgstr ""
+msgstr "クレジットを非表示にする"
 
 msgid "Hide actions"
-msgstr ""
+msgstr "動作を非表示にする"
 
 msgid "Insert Heading"
-msgstr ""
+msgstr "見出しを挿入する"
 
 msgid "Insert Index Track"
-msgstr ""
+msgstr "収録曲リストを挿入する"
 
 msgid "Insert Sub-Track"
-msgstr ""
+msgstr "サブトラックを挿入する"
 
 msgid "Insert Track"
-msgstr ""
+msgstr "楽曲を挿入する"
 
 msgid "Items added to your collection"
-msgstr ""
+msgstr "コレクションにアイテムが追加されました"
 
 msgid "Less"
-msgstr ""
+msgstr "不足しています"
 
 msgid "Load next"
-msgstr ""
+msgstr "次へ"
 
 msgid "Make End of Index Track"
-msgstr ""
+msgstr "収録曲リストを完了する"
 
 msgid "Make an Offer"
-msgstr ""
+msgstr "お問い合わせ"
 
 msgid ""
 "Master release saved successfully and will be processed soon. Please "
 "refresh the page in a minute to see the updated discography."
-msgstr ""
+msgstr "マスターリリースが保存され、これから処理されます。数分後にページを更新してディスグラフィーがアップロードされているか確認して下さい。"
 
 msgid "More"
-msgstr ""
+msgstr "続きを読む"
 
 msgid "Move"
-msgstr ""
+msgstr "移動する"
 
 msgid "Move Item to:"
-msgstr ""
+msgstr "アイテムを移動する"
 
 msgid "Okay"
-msgstr ""
+msgstr "OK"
 
 msgid "Place order"
-msgstr ""
+msgstr "注文する"
 
 msgid "Place order and pay now"
-msgstr ""
+msgstr "注文して、すぐ支払う"
 
 msgid "Placing order..."
-msgstr ""
+msgstr "注文中"
 
 msgid "Please choose a file to upload"
-msgstr ""
+msgstr "アップロードするファイルを選択して下さい"
 
 msgid "Please enter <%= n %> unique Release IDs."
-msgstr ""
+msgstr "それぞれのリリースIDを<%= n %>記入して下さい"
 
 msgid "Please enter <%= n %> valid Release IDs."
-msgstr ""
+msgstr "正しいリリースIDを<%= n %>記入して下さい"
 
 msgid "Please enter a Key Release ID"
-msgstr ""
+msgstr "キーリリースIDを記入して下さい"
 
 msgid "Please enter a title."
-msgstr ""
+msgstr "タイトルを記入して下さい"
 
 msgid "Please enter at least one Release ID in addition to the Key Release ID."
-msgstr ""
+msgstr "キーリリースIDひとつにつき、最低でもひとつはリリースIDを記入して下さい"
 
 msgid "Please enter your Release IDs. Be sure to include the Key Release ID."
-msgstr ""
+msgstr "リリースIDを入力して下さい。キーリリースIDを必ず含めるようにして下さい。"
 
 msgid "Please indicate which Release ID has accurate data."
-msgstr ""
+msgstr "どのリリースIDが正しいデータを持っているのかをわかるようにして下さい。"
 
 msgid "Please provide a detailed reason for the merge."
-msgstr ""
+msgstr "まとめる場合は、その理由をわかるようにして下さい。"
 
 msgid "Please select a key release."
-msgstr ""
+msgstr "キーリリースを選択する"
 
 msgid "Please select an existing list."
-msgstr ""
+msgstr "現存するリストから選択する"
 
 msgid "Please select an item to remove"
-msgstr ""
+msgstr "削除するアイテムを選択する"
 
 msgid "Popular Destinations"
-msgstr ""
+msgstr "よく使う住所"
 
 msgid "Post Comment"
-msgstr ""
+msgstr "コメントを投稿する"
 
 msgid "Posting"
-msgstr ""
+msgstr "記載する"
 
 msgid ""
 "Press OK to report that this list contravenes the <a "
 "href=\"http://www.discogs.com/help/lists.html\">Discogs List "
 "guidelines</a>."
 msgstr ""
+"<a "
+"href=\"http://www.discogs.com/help/lists.html\">Discogsリストのガイドライン</a>に違反し、レポートする場合はOKを押す"
 
 msgid "Preview Loading"
-msgstr ""
+msgstr "プレビュー作成中"
 
 msgid "Previewing..."
-msgstr ""
+msgstr "プレビュー中"
 
 msgid "Problem Sending Feedback"
-msgstr ""
+msgstr "フィードバックできない"
 
 msgid "Processing"
-msgstr ""
+msgstr "処理中"
 
 msgid "Ranges overlap or are ordered incorrectly"
-msgstr ""
+msgstr "注文が重複している、もしくは、間違っている"
 
 msgid ""
 "Record is cracked, badly warped, or won't play through without skipping "
 "or repeating."
-msgstr ""
+msgstr "レコードが欠けている、包装が汚い、音飛びやリピートする"
 
 msgid "Release not found. Please try another Release ID."
-msgstr ""
+msgstr "アイテムが見つかりません。別のリリースIDで再試行"
 
 msgid "Remove"
-msgstr ""
+msgstr "削除する"
 
 msgid "Remove <%= username %> from your friends list?"
-msgstr ""
+msgstr "フレンドリストから<%= username %>を削除しますか"
 
 msgid "Remove this shipping method?"
-msgstr ""
+msgstr "この配送方法を削除しますか"
 
 msgid "Remove this shipping policy?"
-msgstr ""
+msgstr "配送条件をこの項目を削除する"
 
 msgid "Replying"
-msgstr ""
+msgstr "返信する"
 
 msgid "Reported"
-msgstr ""
+msgstr "報告済み"
 
 msgid "Save"
 msgstr ""
 
 msgid "Save Changes"
-msgstr ""
+msgstr "変更を保存する"
 
 msgid "Save and Continue"
-msgstr ""
+msgstr "保存して次へ"
 
 msgid "Saved draft <%= link %> at <%= time %>"
-msgstr ""
+msgstr "下書きを保存する"
 
 msgid "Saving"
-msgstr ""
+msgstr "保存中"
 
 msgid "Send Feedback"
-msgstr ""
+msgstr "フィードバックを送る"
 
 msgid "Send Report"
 msgstr ""
 
 msgid "Share"
-msgstr ""
+msgstr "シェアする"
 
 msgid "Shared on your profile"
-msgstr ""
+msgstr "あなたのプロフィール上でシェアする"
 
 msgid "Sharing Settings"
-msgstr ""
+msgstr "シェア範囲の設定"
 
 msgid "Sharing..."
-msgstr ""
+msgstr "シェア中"
 
 msgid "Shipping and Payment Terms"
-msgstr ""
+msgstr "配送と支払い条件"
 
 msgid "Show Credits"
-msgstr ""
+msgstr "信用情報の表示"
 
 msgid "Show actions"
-msgstr ""
+msgstr "動作の表示"
 
 msgid ""
 "Some mobile devices will not allow playback until you first activate the "
 "YouTube player by tapping on it. If the video is not loading, refresh the"
 " page, then tap on the player."
-msgstr ""
+msgstr "携帯端末によっては該当のYouTubeプレイヤーをクリックして、アクティベートせずに再生できない場合があります。もしビデオが再生されない場合はページを再読み込みしてプレイヤーを最後クリックして下さい。"
 
 msgid "Submission Form Keyboard Shortcuts"
 msgstr ""
 
 msgid "Submission notes are required"
-msgstr ""
+msgstr "投稿必須"
 
 msgid ""
 "Surface noise will be evident upon playing... but will not overpower the "
 "music. Groove wear will start to be noticeable, as will light scratches."
-msgstr ""
+msgstr "再生する上で表面的なノイズはあるが、音楽の再生には支障がない。今は軽いキズ程度ですが時間の経過によっては目立つかもしれません。"
 
 msgid "The following errors preventing this item from being listed"
-msgstr ""
+msgstr "以下の理由により、このアイテムをリストできない"
 
 msgid ""
 "There was a problem sending your feedback. Please try again in a few "
 "moments."
-msgstr ""
+msgstr "フィードバックの送信に問題が起きました。時間を空けてから再試行して下さい。"
 
 msgid "This list is already on your dashboard"
 msgstr ""
@@ -409,80 +408,80 @@ msgstr ""
 msgid ""
 "This operation will overwrite all track positions with 1, 2, 3, etc. Are "
 "you sure you want to do this?"
-msgstr ""
+msgstr "曲順を1,2,3などに上書きします。いいですか\""
 
 msgid "Unable to estimate from release data"
-msgstr ""
+msgstr "このリリースデータから試算できません。"
 
 msgid "Undo"
-msgstr ""
+msgstr "やり直し"
 
 msgid "Unsharing..."
-msgstr ""
+msgstr "シェア取り戻し中"
 
 msgid "Update Order"
-msgstr ""
+msgstr "注文を更新する"
 
 msgid "View Image"
-msgstr ""
+msgstr "画像を見る"
 
 msgid "Vote and Post Comment"
-msgstr ""
+msgstr "評価し、コメントを残す"
 
 msgid "WARNING: You have made changes since loading this page."
-msgstr ""
+msgstr "注意：変更されています"
 
 msgid "WARNING: You have unsaved changes."
-msgstr ""
+msgstr "注意：変更が保存されていない"
 
 msgid "Warning"
-msgstr ""
+msgstr "注意"
 
 msgid "Warning: for large tracklists this may significantly hinder performance"
-msgstr ""
+msgstr "注意：曲数が多いので処理に時間のかかる場合があります"
 
 msgid ""
 "Will show some signs that it was played and otherwise handled by a "
 "previous owner who took good care of it."
-msgstr ""
+msgstr "以前の持ち主が大変丁寧に保存していたと思われる"
 
 msgid ""
 "You can't have more than one <%= shippingMethod %> shipping method in the"
 " same policy"
-msgstr ""
+msgstr "一つの配送条件の中で複数の<%= shippingMethod %>配送方法を選択することはできません"
 
 msgid "You did not choose a rating."
-msgstr ""
+msgstr "評価が選択されていない"
 
 msgid "You did not enter a comment."
-msgstr ""
+msgstr "コメントが記入されていない"
 
 msgid "You must add at least one shipping method"
-msgstr ""
+msgstr "配送方法が表示されていない"
 
 msgid "You must agree to the order terms to continue"
-msgstr ""
+msgstr "注文条件への同意が必要です"
 
 msgid "You must post a comment with this type of vote"
-msgstr ""
+msgstr "この評価にはコメントが必要です"
 
 msgid "You must provide a reason for removing this release."
-msgstr ""
+msgstr "このリリースを削除する理由もお知らせ下さい"
 
 msgid "You must select at least one destination"
-msgstr ""
+msgstr "住所の選択が必要です"
 
 msgid "Your changes couldn't be saved. Please try again."
-msgstr ""
+msgstr "変更が保存されていません。再試行して下さい。"
 
 msgid ""
 "Your feedback was sent successfully. Thank you for helping improve "
 "Discogs!"
-msgstr ""
+msgstr "フィードバックが送信されました。Discogsの改善にご協力ありがとうございます。"
 
 msgid "about"
-msgstr ""
+msgstr "詳細情報"
 
 msgid "generating preview..."
-msgstr ""
+msgstr "プレビュー作成中"
 
