@@ -344,7 +344,7 @@ msgid "Add Folder"
 msgstr ""
 
 msgid "Add Friend"
-msgstr ""
+msgstr "Adicionar Amigo"
 
 msgid "Add New Thread"
 msgstr ""
