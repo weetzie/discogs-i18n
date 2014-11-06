@@ -169,52 +169,52 @@ msgid "%s's Wantlist"
 msgstr ""
 
 msgid "1. General Rules"
-msgstr ""
+msgstr "1. Regras Gerais"
 
 msgid "10. Credits"
-msgstr ""
+msgstr "10. Créditos"
 
 msgid "11. Release Notes"
 msgstr ""
 
 msgid "12 Months"
-msgstr ""
+msgstr "12 Meses"
 
 msgid "12. Tracklisting"
 msgstr ""
 
 msgid "13. Images"
-msgstr ""
+msgstr "13. Imagens"
 
 msgid "2. Artist"
-msgstr ""
+msgstr "2. Artista"
 
 msgid "3 Months"
-msgstr ""
+msgstr "3 Meses"
 
 msgid "3. Title"
-msgstr ""
+msgstr "3. Título"
 
 msgid "4. Label/Catalog"
-msgstr ""
+msgstr "4. Selo/Catálogo"
 
 msgid "5. Barcodes &amp; Identifiers"
 msgstr ""
 
 msgid "6 Months"
-msgstr ""
+msgstr "6 Meses"
 
 msgid "6. Format"
-msgstr ""
+msgstr "6. Formato"
 
 msgid "7. Country"
-msgstr ""
+msgstr "7. País"
 
 msgid "8. Release Date"
-msgstr ""
+msgstr "8. Data de Lançamento"
 
 msgid "9. Genres/Styles"
-msgstr ""
+msgstr "9. Gêneros/Estilos"
 
 msgid "<%= type %> not found."
 msgstr ""
@@ -254,7 +254,7 @@ msgid "A fully-qualified URL where users can learn more about your app."
 msgstr ""
 
 msgid "A group already exists with that name. Please choose a different one."
-msgstr ""
+msgstr "Um grupo com esse nome já existe. Por favor escolha um nome diferente."
 
 msgid "A required parameter is missing."
 msgstr ""
@@ -263,7 +263,7 @@ msgid "A server error occurred when we tried to log you in. Please try again."
 msgstr ""
 
 msgid "A-Z"
-msgstr ""
+msgstr "A-Z"
 
 msgid "API"
 msgstr ""
@@ -281,7 +281,7 @@ msgid "About"
 msgstr ""
 
 msgid "About Discogs"
-msgstr ""
+msgstr "Sobre o Discogs"
 
 msgid "About the Contributor Improvement Program (CIP)"
 msgstr ""
@@ -1874,7 +1874,7 @@ msgid "Key not found or address has already been changed"
 msgstr ""
 
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Atalhos do Teclado"
 
 #, python-format
 msgid "Kicked %s out of this group."
@@ -1884,13 +1884,13 @@ msgid "Label"
 msgstr "Selo"
 
 msgid "Label, A-Z"
-msgstr ""
+msgstr "Selo, A-Z"
 
 msgid "Label, Company, Catalog Number, Etc."
-msgstr ""
+msgstr "Selo, Companhia, Número de Catálogo, Etc."
 
 msgid "Label, Z-A"
-msgstr ""
+msgstr "Selo, Z-A"
 
 msgid "Last Activity"
 msgstr ""
@@ -1979,10 +1979,10 @@ msgid "Locked topic"
 msgstr ""
 
 msgid "Log In"
-msgstr ""
+msgstr "Logar"
 
 msgid "Log Out"
-msgstr ""
+msgstr "Deslogar"
 
 msgid "Logged in as"
 msgstr ""
@@ -2247,7 +2247,7 @@ msgid "My Profile"
 msgstr ""
 
 msgid "My Store"
-msgstr ""
+msgstr "Minha Loja"
 
 msgid "My Submissions"
 msgstr ""
@@ -2966,7 +2966,7 @@ msgid "Recent"
 msgstr ""
 
 msgid "Recent Activity"
-msgstr ""
+msgstr "Atividade Recente"
 
 msgid "Recent Changes made"
 msgstr ""
