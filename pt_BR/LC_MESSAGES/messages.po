@@ -19,14 +19,14 @@ msgstr ""
 "Generated-By: Babel 1.3\n"
 
 msgid " Notify me"
-msgstr ""
+msgstr "Me notifique"
 
 msgid " Stop notifying"
-msgstr ""
+msgstr "Pare de notificar"
 
 #, python-format
 msgid "\"%s\" is available."
-msgstr ""
+msgstr "\"%s\" está disponível."
 
 #, python-format
 msgid ""
@@ -112,7 +112,7 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d month"
-msgstr ""
+msgstr "%d mês"
 
 #, python-format
 msgid "%d months"
@@ -124,11 +124,11 @@ msgstr ""
 
 #, python-format
 msgid "%d week"
-msgstr ""
+msgstr "%d semana"
 
 #, python-format
 msgid "%d year"
-msgstr ""
+msgstr "%d ano"
 
 #, python-format
 msgid "%s Entries (Page %s)"
@@ -137,8 +137,8 @@ msgstr ""
 #, python-format
 msgid "%s Month Ago"
 msgid_plural "%s Months Ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s Mês Atrás"
+msgstr[1] "%s Meses Atrás"
 
 #, python-format
 msgid "%s converted this message to a support request."
@@ -146,27 +146,27 @@ msgstr ""
 
 #, python-format
 msgid "%s has been deleted."
-msgstr ""
+msgstr "%s foi deletada."
 
 #, python-format
 msgid "%s have, %s want"
-msgstr ""
+msgstr "%s tem, %s quer(em)"
 
 #, python-format
 msgid "%s is not a member of this group."
-msgstr ""
+msgstr "%s não é um membro deste grupo."
 
 #, python-format
 msgid "%s was added to your friends list."
-msgstr ""
+msgstr "%s foi adicionado a sua lista de amigos."
 
 #, python-format
 msgid "%s's Contributions"
-msgstr ""
+msgstr "Contribuições do %s"
 
 #, python-format
 msgid "%s's Wantlist"
-msgstr ""
+msgstr "Lista de desejos do %s"
 
 msgid "1. General Rules"
 msgstr "1. Regras Gerais"
@@ -278,7 +278,7 @@ msgid "Abbr"
 msgstr ""
 
 msgid "About"
-msgstr ""
+msgstr "Sobre"
 
 msgid "About Discogs"
 msgstr "Sobre o Discogs"
@@ -315,7 +315,7 @@ msgid "Action has already been taken on this item."
 msgstr ""
 
 msgid "Actions"
-msgstr ""
+msgstr "Ações"
 
 msgid "Active Images"
 msgstr ""
@@ -356,16 +356,16 @@ msgid "Add Row"
 msgstr ""
 
 msgid "Add Tracks"
-msgstr ""
+msgstr "Adicionar Faixas"
 
 msgid "Add a Field"
-msgstr ""
+msgstr "Adicionar um Campo"
 
 msgid "Add a Release"
-msgstr ""
+msgstr "Adicionar um Lançamento"
 
 msgid "Add a release"
-msgstr ""
+msgstr "Adicionar um lançamento"
 
 msgid "Add an audio clip"
 msgstr ""
@@ -374,7 +374,7 @@ msgid "Add it back"
 msgstr ""
 
 msgid "Add some images"
-msgstr ""
+msgstr "Adicionar algumas imagens"
 
 msgid "Add some images to the key release."
 msgstr ""
@@ -392,7 +392,7 @@ msgid "Add to your Saved Submissions"
 msgstr ""
 
 msgid "Added"
-msgstr ""
+msgstr "Adicionado"
 
 msgid "Added item to your cart."
 msgstr ""
@@ -520,16 +520,16 @@ msgid "Are you sure you want to delete this folder?"
 msgstr ""
 
 msgid "Are you sure you want to join this group?"
-msgstr ""
+msgstr "Você tem certeza que quer juntar-se a este grupo?"
 
 msgid "Are you sure you want to leave this group?"
-msgstr ""
+msgstr "Você tem certeza que quer deixar este grupo?"
 
 msgid "Are you sure you would like to copy this to your drafts?"
 msgstr ""
 
 msgid "Artist"
-msgstr ""
+msgstr "Arista"
 
 msgid "Artist Name Variation"
 msgstr ""
@@ -601,7 +601,7 @@ msgid "Banned user %s from this group."
 msgstr ""
 
 msgid "Barcode"
-msgstr ""
+msgstr "Código de Barras"
 
 msgid "Barcode and Other Identifiers"
 msgstr "Código de barras e Outros Identificadores"
@@ -1893,7 +1893,7 @@ msgid "Label, Z-A"
 msgstr "Selo, Z-A"
 
 msgid "Last Activity"
-msgstr ""
+msgstr "Última Atividade"
 
 msgid "Last Name"
 msgstr ""
@@ -1917,7 +1917,7 @@ msgid "Latest Reviews:"
 msgstr ""
 
 msgid "Leave Group"
-msgstr ""
+msgstr "Deixar Grupo"
 
 #, python-format
 msgid "Left %s feedback on %s orders."
@@ -2029,10 +2029,10 @@ msgid "Manage your inventory"
 msgstr ""
 
 msgid "Mark as Read"
-msgstr ""
+msgstr "Marcar como Lido"
 
 msgid "Mark as Unread"
-msgstr ""
+msgstr "Marcar como Não Lido"
 
 #, python-format
 msgid ""
@@ -2232,19 +2232,19 @@ msgid "My Contributions"
 msgstr ""
 
 msgid "My Discogs"
-msgstr ""
+msgstr "Meu Discogs"
 
 msgid "My Groups"
 msgstr "Meus Grupos"
 
 msgid "My Lists"
-msgstr ""
+msgstr "Minhas Listas"
 
 msgid "My Lists:"
-msgstr ""
+msgstr "Minhas Listas:"
 
 msgid "My Profile"
-msgstr ""
+msgstr "Meu Pefil"
 
 msgid "My Store"
 msgstr "Minha Loja"
@@ -2280,7 +2280,7 @@ msgid "Navigation"
 msgstr ""
 
 msgid "Need help?"
-msgstr ""
+msgstr "Precisa de ajuda?"
 
 msgid "Needs Major Changes"
 msgstr ""
@@ -2529,7 +2529,7 @@ msgid "Opted out"
 msgstr ""
 
 msgid "Options"
-msgstr ""
+msgstr "Opções"
 
 #, python-format
 msgid "Or <a href=\"%(link)s\">upload a CSV</a>."
@@ -2868,7 +2868,7 @@ msgid "Privacy Policy"
 msgstr "Política de Privacidade"
 
 msgid "Privacy Settings"
-msgstr ""
+msgstr "Configurações de Privacidade"
 
 msgid "Private"
 msgstr ""
