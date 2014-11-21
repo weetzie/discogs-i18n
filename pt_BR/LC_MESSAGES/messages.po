@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-11-21 14:43-0800\n"
+"POT-Creation-Date: 2014-11-21 14:57-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: pt_BR <LL@li.org>\n"
@@ -59,7 +59,7 @@ msgstr ""
 
 #, python-format
 msgid "\"%s\" is available."
-msgstr ""
+msgstr "\"%s\" está disponível."
 
 #, python-format
 msgid "\"Search %(seller)s's store"
@@ -274,11 +274,11 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d month"
-msgstr ""
+msgstr "%d mês"
 
 #, python-format
 msgid "%d months"
-msgstr ""
+msgstr "%d meses"
 
 #, python-format
 msgid "%d to %d"
@@ -286,17 +286,17 @@ msgstr ""
 
 #, python-format
 msgid "%d week"
-msgstr ""
+msgstr "%d semana"
 
 #, python-format
 msgid "%d year"
-msgstr ""
+msgstr "%d ano"
 
 #, python-format
 msgid "%s Month Ago"
 msgid_plural "%s Months Ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s Mês Atrás"
+msgstr[1] "%s Meses Atrás"
 
 #, python-format
 msgid "%s converted this message to a support request."
@@ -304,27 +304,27 @@ msgstr ""
 
 #, python-format
 msgid "%s has been deleted."
-msgstr ""
+msgstr "%s foi deletada."
 
 #, python-format
 msgid "%s have, %s want"
-msgstr ""
+msgstr "%s tem, %s quer(em)"
 
 #, python-format
 msgid "%s is not a member of this group."
-msgstr ""
+msgstr "%s não é um membro deste grupo."
 
 #, python-format
 msgid "%s was added to your friends list."
-msgstr ""
+msgstr "%s foi adicionado a sua lista de amigos."
 
 #, python-format
 msgid "%s's Contributions"
-msgstr ""
+msgstr "Contribuições do %s"
 
 #, python-format
 msgid "%s's Wantlist"
-msgstr ""
+msgstr "Lista de desejos do %s"
 
 #, python-format
 msgid "(%(n)s additional item not shown)"
@@ -358,7 +358,7 @@ msgid "* Updates to items I'm selling"
 msgstr ""
 
 msgid "1. General Rules"
-msgstr ""
+msgstr "1. Regras Gerais"
 
 msgid ""
 "1. I thought I cancelled this order, so why is it on my invoice?\n"
@@ -372,22 +372,22 @@ msgid "1. Log on to"
 msgstr ""
 
 msgid "10. Credits"
-msgstr ""
+msgstr "10. Créditos"
 
 msgid "11. Release Notes"
 msgstr ""
 
 msgid "12 Months"
-msgstr ""
+msgstr "12 Meses"
 
 msgid "12. Tracklisting"
 msgstr ""
 
 msgid "13. Images"
-msgstr ""
+msgstr "13. Imagens"
 
 msgid "2. Artist"
-msgstr ""
+msgstr "2. Artista"
 
 msgid "2. Click on 'Pay' next to the invoice that shows 'Past Due'"
 msgstr ""
@@ -401,13 +401,13 @@ msgid ""
 msgstr ""
 
 msgid "3 Months"
-msgstr ""
+msgstr "3 Meses"
 
 msgid "3. Select your payment method and complete your payment"
 msgstr ""
 
 msgid "3. Title"
-msgstr ""
+msgstr "3. Título"
 
 msgid ""
 "3. What if I pay for this invoice and then an order from it needs to be\n"
@@ -415,25 +415,25 @@ msgid ""
 msgstr ""
 
 msgid "4. Label/Catalog"
-msgstr ""
+msgstr "4. Selo/Catálogo"
 
 msgid "5. Barcodes &amp; Identifiers"
 msgstr ""
 
 msgid "6 Months"
-msgstr ""
+msgstr "6 Meses"
 
 msgid "6. Format"
-msgstr ""
+msgstr "6. Formato"
 
 msgid "7. Country"
-msgstr ""
+msgstr "7. País"
 
 msgid "8. Release Date"
-msgstr ""
+msgstr "8. Data de Lançamento"
 
 msgid "9. Genres/Styles"
-msgstr ""
+msgstr "9. Gêneros/Estilos"
 
 msgid "<%= type %> not found."
 msgstr ""
@@ -574,7 +574,7 @@ msgid ""
 msgstr ""
 
 msgid "A group already exists with that name. Please choose a different one."
-msgstr ""
+msgstr "Um grupo com esse nome já existe. Por favor escolha um nome diferente."
 
 msgid ""
 "A highly active Discogs community member since 2008, <a "
@@ -595,7 +595,7 @@ msgid "A server error occurred when we tried to log you in. Please try again."
 msgstr ""
 
 msgid "A-Z"
-msgstr ""
+msgstr "A-Z"
 
 msgid "ANV"
 msgstr ""
@@ -616,7 +616,7 @@ msgid "Abbr"
 msgstr ""
 
 msgid "About"
-msgstr ""
+msgstr "Sobre"
 
 msgid "About 360 Vinyl"
 msgstr ""
@@ -625,7 +625,7 @@ msgid "About Anthem Records"
 msgstr ""
 
 msgid "About Discogs"
-msgstr ""
+msgstr "Sobre o Discogs"
 
 msgid "About Dobshizzle"
 msgstr ""
@@ -695,7 +695,7 @@ msgid "Action has already been taken on this item."
 msgstr ""
 
 msgid "Actions"
-msgstr ""
+msgstr "Ações"
 
 msgid "Activate your account"
 msgstr ""
@@ -740,7 +740,7 @@ msgid "Add Folder"
 msgstr ""
 
 msgid "Add Friend"
-msgstr ""
+msgstr "Adicionar Amigo"
 
 msgid "Add List To Dashboard"
 msgstr ""
@@ -764,13 +764,13 @@ msgid "Add To Wantlist"
 msgstr ""
 
 msgid "Add Tracks"
-msgstr ""
+msgstr "Adicionar Faixas"
 
 msgid "Add a Field"
-msgstr ""
+msgstr "Adicionar um Campo"
 
 msgid "Add a Release"
-msgstr ""
+msgstr "Adicionar um Lançamento"
 
 msgid "Add a Release to the Database"
 msgstr ""
@@ -782,7 +782,7 @@ msgid "Add a range"
 msgstr ""
 
 msgid "Add a release"
-msgstr ""
+msgstr "Adicionar um lançamento"
 
 msgid "Add a release to Discogs"
 msgstr ""
@@ -818,7 +818,7 @@ msgid "Add it back"
 msgstr ""
 
 msgid "Add some images"
-msgstr ""
+msgstr "Adicionar algumas imagens"
 
 msgid "Add some images to the key release."
 msgstr ""
@@ -848,7 +848,7 @@ msgid ""
 msgstr ""
 
 msgid "Added"
-msgstr ""
+msgstr "Adicionado"
 
 msgid "Added item to your cart."
 msgstr ""
@@ -895,7 +895,7 @@ msgid "Additional Resources:"
 msgstr ""
 
 msgid "Address"
-msgstr ""
+msgstr "Endereço"
 
 msgid "Adjust notification preferences and seller information."
 msgstr ""
@@ -1140,10 +1140,10 @@ msgid "Are you sure you want to empty your cart?"
 msgstr ""
 
 msgid "Are you sure you want to join this group?"
-msgstr ""
+msgstr "Você tem certeza que quer juntar-se a este grupo?"
 
 msgid "Are you sure you want to leave this group?"
-msgstr ""
+msgstr "Você tem certeza que quer deixar este grupo?"
 
 msgid "Are you sure you want to mark these items for sale?"
 msgstr ""
@@ -1164,7 +1164,7 @@ msgid "Are you sure you would like to copy this to your drafts?"
 msgstr ""
 
 msgid "Artist"
-msgstr ""
+msgstr "Arista"
 
 msgid "Artist Name Variation"
 msgstr ""
@@ -1223,7 +1223,7 @@ msgid "Authentication Error"
 msgstr ""
 
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 msgid "Authorization successful"
 msgstr ""
@@ -1298,7 +1298,7 @@ msgid "Bans"
 msgstr ""
 
 msgid "Barcode"
-msgstr ""
+msgstr "Código de Barras"
 
 msgid "Barcode and Other Identifiers"
 msgstr "Código de barras e Outros Identificadores"
@@ -1436,7 +1436,7 @@ msgid "Buy %s, includes %s"
 msgstr ""
 
 msgid "Buy Music"
-msgstr ""
+msgstr "Comprar Música"
 
 msgid "Buy Similar Items"
 msgstr ""
@@ -1759,7 +1759,7 @@ msgid "Choose your Discogs username:"
 msgstr ""
 
 msgid "City"
-msgstr ""
+msgstr "Cidade"
 
 msgid "City/Town"
 msgstr ""
@@ -1856,7 +1856,7 @@ msgid "Comments on this item"
 msgstr ""
 
 msgid "Community"
-msgstr ""
+msgstr "Comunidade"
 
 msgid "Companies etc"
 msgstr ""
@@ -2186,10 +2186,10 @@ msgid "Custom Range"
 msgstr ""
 
 msgid "Customize This Page"
-msgstr ""
+msgstr "Personalize Esta Página"
 
 msgid "Dashboard"
-msgstr ""
+msgstr "Painel"
 
 msgid "Data Correct"
 msgstr ""
@@ -2315,7 +2315,7 @@ msgid "Developers Settings"
 msgstr ""
 
 msgid "Development"
-msgstr ""
+msgstr "Desenvolvimento"
 
 msgid "Did you mean"
 msgstr ""
@@ -2631,7 +2631,7 @@ msgid "Edit Features"
 msgstr ""
 
 msgid "Edit Images"
-msgstr ""
+msgstr "Editar Imagens"
 
 msgid "Edit Inventory"
 msgstr ""
@@ -2949,7 +2949,7 @@ msgid "Folder is not empty"
 msgstr ""
 
 msgid "Follow Us"
-msgstr ""
+msgstr "Nos Siga"
 
 msgid "Footer Navigation"
 msgstr ""
@@ -2997,7 +2997,7 @@ msgid "Forgot Password"
 msgstr ""
 
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Esqueceu seu password?"
 
 msgid "Format"
 msgstr "Formato"
@@ -3012,13 +3012,13 @@ msgid "Format: YYYY-MM-DD or YYYY-MM-00 or YYYY"
 msgstr ""
 
 msgid "Formats List"
-msgstr ""
+msgstr "Lista de Formatos"
 
 msgid "Formatting Options"
 msgstr ""
 
 msgid "Forum"
-msgstr ""
+msgstr "Fórum"
 
 #, python-format
 msgid "Found %(num_results)s result for %(query)s."
@@ -3054,7 +3054,7 @@ msgid "Friends' Submissions"
 msgstr ""
 
 msgid "From"
-msgstr ""
+msgstr "De"
 
 msgid "Full Name"
 msgstr ""
@@ -3066,7 +3066,7 @@ msgid "General Group Settings"
 msgstr ""
 
 msgid "General settings"
-msgstr ""
+msgstr "Configurações Gerais"
 
 msgid "Generic"
 msgstr ""
@@ -3078,7 +3078,7 @@ msgid "Genres"
 msgstr "Gêneros"
 
 msgid "Geographic Location"
-msgstr ""
+msgstr "Localização Geográfica"
 
 msgid "Get Started"
 msgstr "Começar"
@@ -3244,13 +3244,13 @@ msgid "Help Forum Bans"
 msgstr ""
 
 msgid "Help Is Here"
-msgstr ""
+msgstr "Ajuda Está Aqui"
 
 msgid "Help People Enjoy Music"
 msgstr ""
 
 msgid "Help Translate"
-msgstr ""
+msgstr "Ajude a Traduzir"
 
 msgid "Help on Making Offers"
 msgstr ""
@@ -4092,7 +4092,7 @@ msgid "Key not found or address has already been changed"
 msgstr ""
 
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Atalhos do Teclado"
 
 msgid "Kick"
 msgstr ""
@@ -4114,13 +4114,13 @@ msgid "Label"
 msgstr "Selo"
 
 msgid "Label, A-Z"
-msgstr ""
+msgstr "Selo, A-Z"
 
 msgid "Label, Company, Catalog Number, Etc."
-msgstr ""
+msgstr "Selo, Companhia, Número de Catálogo, Etc."
 
 msgid "Label, Z-A"
-msgstr ""
+msgstr "Selo, Z-A"
 
 msgid "Labels"
 msgstr ""
@@ -4132,7 +4132,7 @@ msgid "Last 10 Day Votes Received"
 msgstr ""
 
 msgid "Last Activity"
-msgstr ""
+msgstr "Última Atividade"
 
 msgid "Last Invoice:"
 msgstr ""
@@ -4183,7 +4183,7 @@ msgid "Leave Feedback on My Purchases"
 msgstr ""
 
 msgid "Leave Group"
-msgstr ""
+msgstr "Deixar Grupo"
 
 msgid "Leave buyer feedback"
 msgstr ""
@@ -4196,7 +4196,7 @@ msgid "Left %s feedback on %s orders."
 msgstr ""
 
 msgid "Legend"
-msgstr ""
+msgstr "Legenda"
 
 #, python-format
 msgid "Less than %s"
@@ -4327,13 +4327,13 @@ msgid "Locked topic"
 msgstr ""
 
 msgid "Log In"
-msgstr ""
+msgstr "Logar"
 
 msgid "Log In to Discogs"
 msgstr ""
 
 msgid "Log Out"
-msgstr ""
+msgstr "Deslogar"
 
 msgid "Log in."
 msgstr ""
@@ -4365,7 +4365,7 @@ msgstr ""
 
 #, python-format
 msgid "Looking for votes? Visit our <a href=\"%(link)s\">Forum</a>."
-msgstr ""
+msgstr "Procurando por votos? Visite nosso <a href=\"%(link)s\">Fórum</a>."
 
 msgid ""
 "Looks like you haven't been up to anything interesting lately. Try adding"
@@ -4429,10 +4429,10 @@ msgid "Manually Update your Collection &amp; Wantlist"
 msgstr ""
 
 msgid "Mark as Read"
-msgstr ""
+msgstr "Marcar como Lido"
 
 msgid "Mark as Unread"
-msgstr ""
+msgstr "Marcar como Não Lido"
 
 msgid "Mark for Sale"
 msgstr ""
@@ -4746,7 +4746,7 @@ msgid "My Contributions"
 msgstr ""
 
 msgid "My Discogs"
-msgstr ""
+msgstr "Meu Discogs"
 
 msgid "My Groups"
 msgstr "Meus Grupos"
@@ -4755,10 +4755,10 @@ msgid "My Information"
 msgstr ""
 
 msgid "My Lists"
-msgstr ""
+msgstr "Minhas Listas"
 
 msgid "My Lists:"
-msgstr ""
+msgstr "Minhas Listas:"
 
 msgid "My Media"
 msgstr ""
@@ -4767,13 +4767,13 @@ msgid "My Posts"
 msgstr ""
 
 msgid "My Profile"
-msgstr ""
+msgstr "Meu Pefil"
 
 msgid "My Seller Rating:"
 msgstr ""
 
 msgid "My Store"
-msgstr ""
+msgstr "Minha Loja"
 
 msgid "My Submissions"
 msgstr ""
@@ -4794,7 +4794,7 @@ msgid "My uploads"
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 msgid "Name Variation"
 msgstr ""
@@ -4812,7 +4812,7 @@ msgid "Need help activating your account?"
 msgstr ""
 
 msgid "Need help?"
-msgstr ""
+msgstr "Precisa de ajuda?"
 
 msgid "Need help? Please see the help page for how to merge releases."
 msgstr ""
@@ -4897,7 +4897,7 @@ msgid "New folder name"
 msgstr ""
 
 msgid "New password"
-msgstr ""
+msgstr "Novo password"
 
 #, python-format
 msgid "New response to %(type)s on %(subject_text)s"
@@ -5283,7 +5283,7 @@ msgid "Optional Fields (at least one required):"
 msgstr ""
 
 msgid "Options"
-msgstr ""
+msgstr "Opções"
 
 #, python-format
 msgid "Or <a href=\"%(link)s\">upload a CSV</a>."
@@ -5831,7 +5831,7 @@ msgid "Post"
 msgstr ""
 
 msgid "Post Comment"
-msgstr ""
+msgstr "Postar Comentário"
 
 msgid "Post Reply"
 msgstr ""
@@ -5930,7 +5930,7 @@ msgid "Privacy Policy"
 msgstr "Política de Privacidade"
 
 msgid "Privacy Settings"
-msgstr ""
+msgstr "Configurações de Privacidade"
 
 msgid "Private"
 msgstr ""
@@ -6076,7 +6076,7 @@ msgid "Ready to contribute?"
 msgstr ""
 
 msgid "Real Name"
-msgstr ""
+msgstr "Nome Verdadeiro"
 
 #, python-format
 msgid "Real Name %(optional)s"
@@ -6092,13 +6092,13 @@ msgid "Reason for removal"
 msgstr ""
 
 msgid "Received"
-msgstr ""
+msgstr "Recebida"
 
 msgid "Recent"
 msgstr ""
 
 msgid "Recent Activity"
-msgstr ""
+msgstr "Atividade Recente"
 
 msgid "Recent Blog Entries"
 msgstr ""
@@ -6276,10 +6276,10 @@ msgid "Remove Ban"
 msgstr ""
 
 msgid "Remove Image"
-msgstr ""
+msgstr "Remover Imagem"
 
 msgid "Remove Item"
-msgstr ""
+msgstr "Remover Item"
 
 msgid "Remove Item(s)"
 msgstr ""
@@ -6291,7 +6291,7 @@ msgid "Remove My Feedback"
 msgstr ""
 
 msgid "Remove Release"
-msgstr ""
+msgstr "Remver Lançamento"
 
 msgid "Remove Reply"
 msgstr ""
@@ -6400,7 +6400,7 @@ msgid "Replied to feedback on %s orders."
 msgstr ""
 
 msgid "Replies"
-msgstr ""
+msgstr "Respostas"
 
 msgid "Reply"
 msgstr ""
@@ -6813,7 +6813,7 @@ msgid "Sell Item"
 msgstr ""
 
 msgid "Sell Music"
-msgstr ""
+msgstr "Vender Música"
 
 msgid "Sell This Item"
 msgstr ""
@@ -6831,7 +6831,7 @@ msgid "Sell-Blocked Releases"
 msgstr ""
 
 msgid "Seller"
-msgstr ""
+msgstr "Vendedor"
 
 msgid "Seller Feedback"
 msgstr ""
@@ -6948,10 +6948,10 @@ msgid "Send a message"
 msgstr ""
 
 msgid "Send message"
-msgstr ""
+msgstr "Enviar mensagem"
 
 msgid "Send reply"
-msgstr ""
+msgstr "Enviar resposta"
 
 msgid "Sent"
 msgstr ""
@@ -7266,7 +7266,7 @@ msgid "Subheading"
 msgstr ""
 
 msgid "Subject"
-msgstr ""
+msgstr "Assunto"
 
 msgid "Sublabel"
 msgid_plural "Sublabels"
@@ -7379,7 +7379,7 @@ msgid "Summary"
 msgstr ""
 
 msgid "Support Request"
-msgstr "Pedido de apoio"
+msgstr "Pedido de Apoio"
 
 msgid "Support Request #"
 msgstr ""
@@ -8122,7 +8122,7 @@ msgid "This release also displays the videos linked to"
 msgstr ""
 
 msgid "This release cannot be sold in the Marketplace"
-msgstr ""
+msgstr "Este lançamento não pode ser vendido no Mercado"
 
 msgid ""
 "This release data was loaded from a previous save. This option can be "
@@ -8214,16 +8214,16 @@ msgid "Tip"
 msgstr ""
 
 msgid "Title"
-msgstr ""
+msgstr "Título"
 
 msgid "Title, A-Z"
-msgstr ""
+msgstr "Título, A-Z"
 
 msgid "Title, Z-A"
-msgstr ""
+msgstr "Título, Z-A"
 
 msgid "Title/Credits"
-msgstr ""
+msgstr "Título/Créditos"
 
 msgid "Title/Name"
 msgstr ""
@@ -8342,7 +8342,7 @@ msgid "Topic(s) deleted and submitted as \"missed spam\""
 msgstr ""
 
 msgid "Topics"
-msgstr ""
+msgstr "Tópicos"
 
 msgid "Total"
 msgstr "Total"
@@ -8933,7 +8933,7 @@ msgid "Was this helpful?"
 msgstr ""
 
 msgid "Watched"
-msgstr ""
+msgstr "Vigiados"
 
 msgid ""
 "We are all equally important parts of a successful team, sharing respect "
@@ -10633,7 +10633,7 @@ msgid "removed"
 msgstr ""
 
 msgid "replies"
-msgstr ""
+msgstr "respostas"
 
 msgid "rows"
 msgstr ""
