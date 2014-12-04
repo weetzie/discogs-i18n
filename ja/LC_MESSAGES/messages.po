@@ -3793,7 +3793,7 @@ msgstr ""
 msgid ""
 "Including currency is not required. Currency must be set in <a "
 "href=\"%(link)s\">seller settings</a>."
-msgstr "通貨は必要ありません。通貨は<aのhref=\"%(link)s\">売り手の設定</a>で設定する必要があります。"
+msgstr "通貨は必要ありません。通貨は<a href=\"%(link)s\">売り手の設定</a>で設定する必要があります。"
 
 msgid "Incorrect password"
 msgstr "正しいパスワード"
