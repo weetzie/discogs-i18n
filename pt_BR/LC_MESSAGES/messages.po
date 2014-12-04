@@ -1164,7 +1164,7 @@ msgid "Are you sure you would like to copy this to your drafts?"
 msgstr ""
 
 msgid "Artist"
-msgstr "Arista"
+msgstr "Artista"
 
 msgid "Artist Name Variation"
 msgstr ""
@@ -2625,7 +2625,7 @@ msgid "Edit / Submit"
 msgstr ""
 
 msgid "Edit Artist"
-msgstr ""
+msgstr "Editar Artista"
 
 msgid "Edit Features"
 msgstr ""
@@ -3048,7 +3048,7 @@ msgid "Friends"
 msgstr "Amigos"
 
 msgid "Friends' Activity"
-msgstr ""
+msgstr "Atividade dos Amigos"
 
 msgid "Friends' Submissions"
 msgstr ""
@@ -3168,10 +3168,10 @@ msgid "Granted"
 msgstr ""
 
 msgid "Group"
-msgstr ""
+msgstr "Grupo"
 
 msgid "Group Activity"
-msgstr ""
+msgstr "Atividade do Grupo"
 
 msgid "Group Administration"
 msgstr ""
@@ -5151,7 +5151,7 @@ msgid "Notification Settings"
 msgstr ""
 
 msgid "Notify Me"
-msgstr ""
+msgstr "Me Notifique"
 
 msgid "Notify me"
 msgstr ""
@@ -6076,7 +6076,7 @@ msgid "Ready to contribute?"
 msgstr ""
 
 msgid "Real Name"
-msgstr "Nome Verdadeiro"
+msgstr "Nome Real"
 
 #, python-format
 msgid "Real Name %(optional)s"
@@ -8598,7 +8598,7 @@ msgid "Uploaded"
 msgstr ""
 
 msgid "Use English only."
-msgstr ""
+msgstr "Use apenas Inglês."
 
 msgid "Use Gravatar"
 msgstr ""
