@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-11-21 14:56-0800\n"
+"POT-Creation-Date: 2014-12-04 12:06-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: da_DK <LL@li.org>\n"
@@ -17,14 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
-
-#, python-format
-msgid ""
-"\n"
-"                    Values based on last 10 sales using <a "
-"href=\"%(history_link)s\" target=\"_blank\">Marketplace Sales "
-"History</a>."
-msgstr ""
 
 #, python-format
 msgid ""
@@ -77,6 +69,12 @@ msgid ""
 "%(action)s on <a href=\"%(objurl)s\">%(objname)s</a>\n"
 "which you submitted or contributed to."
 msgstr ""
+
+#, python-format
+msgid "%(count)s message has been ignored"
+msgid_plural "%(count)s messages have been ignored"
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-format
 msgid "%(inviter)s has invited you to join %(topic_name)s"
@@ -205,7 +203,15 @@ msgid "%(name)s will be added to the Database."
 msgstr ""
 
 #, python-format
+msgid "%(num_found)s found when searching for \"%(query)s\""
+msgstr ""
+
+#, python-format
 msgid "%(num_want)s want, %(num_have)s have"
+msgstr ""
+
+#, python-format
+msgid "%(part)s of %(total)s"
 msgstr ""
 
 #, python-format
@@ -360,14 +366,6 @@ msgstr ""
 msgid "1. General Rules"
 msgstr ""
 
-msgid ""
-"1. I thought I cancelled this order, so why is it on my invoice?\n"
-"Orders are billed according to the order status at the time of billing.\n"
-"Invoices include all orders received 15+ days prior to your invoicing "
-"date that\n"
-"have not been cancelled, merged or paid for on a prior invoice."
-msgstr ""
-
 msgid "1. Log on to"
 msgstr ""
 
@@ -392,14 +390,6 @@ msgstr ""
 msgid "2. Click on 'Pay' next to the invoice that shows 'Past Due'"
 msgstr ""
 
-#, python-format
-msgid ""
-"2. How do I cancel an order that is on this invoice?\n"
-"You can contact us by going to %(url)s and clicking\n"
-"\"New Support Request\". Include the order number(s) and reason for\n"
-"cancellation, and we can adjust your invoice as necessary."
-msgstr ""
-
 msgid "3 Months"
 msgstr ""
 
@@ -407,11 +397,6 @@ msgid "3. Select your payment method and complete your payment"
 msgstr ""
 
 msgid "3. Title"
-msgstr ""
-
-msgid ""
-"3. What if I pay for this invoice and then an order from it needs to be\n"
-"cancelled?"
 msgstr ""
 
 msgid "4. Label/Catalog"
@@ -663,6 +648,9 @@ msgstr ""
 msgid "Account Closed"
 msgstr ""
 
+msgid "Account Name"
+msgstr ""
+
 msgid "Account Name:"
 msgstr ""
 
@@ -686,6 +674,9 @@ msgid ""
 "Accounts are absolutely free – jump in and enjoy full access immediately!"
 " Never a membership fee, no trial periods or “premium” sections, and no "
 "advertisements – just open an account and get started!"
+msgstr ""
+
+msgid "Action"
 msgstr ""
 
 msgid "Action Taken"
@@ -712,6 +703,9 @@ msgstr ""
 msgid "Activity Menu"
 msgstr ""
 
+msgid "Activity through"
+msgstr ""
+
 #, python-format
 msgid "Activity through %(activity_end)s"
 msgstr ""
@@ -720,11 +714,18 @@ msgid "Add"
 msgstr ""
 
 #, python-format
+msgid "Add %(start_tag)sMore%(end_tag)s Images"
+msgstr ""
+
+#, python-format
 msgid "Add %(thing)s"
 msgstr ""
 
 #, python-format
 msgid "Add %(username)s as a friend"
+msgstr ""
+
+msgid "Add An Image"
 msgstr ""
 
 msgid "Add Artist Per Track"
@@ -745,6 +746,9 @@ msgstr ""
 msgid "Add List To Dashboard"
 msgstr ""
 
+msgid "Add Message"
+msgstr ""
+
 msgid "Add New Release"
 msgstr ""
 
@@ -758,6 +762,9 @@ msgid "Add Review"
 msgstr ""
 
 msgid "Add Row"
+msgstr ""
+
+msgid "Add Thread"
 msgstr ""
 
 msgid "Add To Wantlist"
@@ -830,6 +837,9 @@ msgid "Add to Collection"
 msgstr ""
 
 msgid "Add to Inventory"
+msgstr ""
+
+msgid "Add to List"
 msgstr ""
 
 msgid "Add to Wantlist"
@@ -1046,6 +1056,9 @@ msgid ""
 "information. Please try again later."
 msgstr ""
 
+msgid "Anonymous"
+msgstr ""
+
 msgid "Any fields that aren't optional or required will be ignored."
 msgstr ""
 
@@ -1137,6 +1150,9 @@ msgid "Are you sure you want to delete this message?"
 msgstr ""
 
 msgid "Are you sure you want to empty your cart?"
+msgstr ""
+
+msgid "Are you sure you want to ignore this user?"
 msgstr ""
 
 msgid "Are you sure you want to join this group?"
@@ -1592,6 +1608,12 @@ msgstr ""
 msgid "Cancelled (Per Buyer's Request)"
 msgstr ""
 
+msgid "Cancelled (Per Buyer’s Request)"
+msgstr ""
+
+msgid "Cancelled (Refund Received)"
+msgstr ""
+
 #, python-format
 msgid "Cannot %s yourself."
 msgstr ""
@@ -1606,6 +1628,9 @@ msgid "Card Verification<br>Number"
 msgstr ""
 
 msgid "Cart"
+msgstr ""
+
+msgid "Cat #"
 msgstr ""
 
 msgid "Cat#"
@@ -1803,6 +1828,12 @@ msgid "Click the link below to view all orders currently awaiting feedback:"
 msgstr ""
 
 msgid "Click the link below to view this request:"
+msgstr ""
+
+msgid "Click to browse"
+msgstr ""
+
+msgid "Click to unsubscribe"
 msgstr ""
 
 msgid "Close"
@@ -2285,6 +2316,9 @@ msgstr[1] ""
 msgid "Deleting listings in bulk"
 msgstr ""
 
+msgid "Deny"
+msgstr ""
+
 msgid ""
 "Describe, in detail, the condition of your item. Limited to 500 "
 "characters. No HTML."
@@ -2334,6 +2368,9 @@ msgid "Disable offers for all items"
 msgstr ""
 
 msgid "Disable offers on all items"
+msgstr ""
+
+msgid "Disabled"
 msgstr ""
 
 msgid "Disabled Images"
@@ -2440,6 +2477,9 @@ msgid "Discogs Order %(id)s"
 msgstr ""
 
 msgid "Discogs Secure Site"
+msgstr ""
+
+msgid "Discogs Support"
 msgstr ""
 
 msgid "Discogs account email change instructions"
@@ -2594,6 +2634,9 @@ msgstr ""
 msgid "Drafts"
 msgstr "Klader"
 
+msgid "Drag and drop files or click to browse"
+msgstr ""
+
 msgid "Duration"
 msgstr ""
 
@@ -2661,9 +2704,6 @@ msgid "Edit Settings"
 msgstr ""
 
 msgid "Edit Your List"
-msgstr ""
-
-msgid "Edit a support question"
 msgstr ""
 
 msgid "Edit all Track Artists/Credits"
@@ -2845,6 +2885,9 @@ msgstr ""
 msgid "Fee"
 msgstr ""
 
+msgid "Fee Credits"
+msgstr ""
+
 msgid "Fee after sale"
 msgstr ""
 
@@ -2978,6 +3021,13 @@ msgstr ""
 #, python-format
 msgid ""
 "For other questions about this invoice please visit %(url)s\n"
+"and click \"New Support Request\"."
+msgstr ""
+
+#, python-format
+msgid ""
+"For other questions about this invoice please visit <a "
+"href=\"%(url)s\">Help page</a>\n"
 "and click \"New Support Request\"."
 msgstr ""
 
@@ -3146,10 +3196,13 @@ msgstr ""
 msgid "Go to Orders"
 msgstr ""
 
-msgid "Go to Profile"
+msgid "Go to Purchases"
 msgstr ""
 
 msgid "Go to Submissions"
+msgstr ""
+
+msgid "Go to User Profile"
 msgstr ""
 
 msgid "Go to Wantlist"
@@ -3308,6 +3361,9 @@ msgstr ""
 msgid "How do I add stuff to my wantlist?"
 msgstr ""
 
+msgid "How do I cancel an order that is on this invoice?"
+msgstr ""
+
 msgid "How do I get more points?"
 msgstr ""
 
@@ -3339,6 +3395,9 @@ msgid "I have received my refund"
 msgstr ""
 
 msgid "I need help with..."
+msgstr ""
+
+msgid "I thought I cancelled this order, so why is it on my invoice?"
 msgstr ""
 
 msgid "IBAN"
@@ -3659,9 +3718,6 @@ msgstr ""
 msgid "Images"
 msgstr ""
 
-msgid "Images Uploaded"
-msgstr ""
-
 msgid "Images for"
 msgstr ""
 
@@ -3830,10 +3886,16 @@ msgstr ""
 msgid "Invoice Detail for"
 msgstr ""
 
+msgid "Invoice Number"
+msgstr ""
+
 msgid "Invoice Number:"
 msgstr ""
 
 msgid "Invoice Sent"
+msgstr ""
+
+msgid "Invoice for"
 msgstr ""
 
 #, python-format
@@ -3844,6 +3906,9 @@ msgid "Invoices"
 msgstr ""
 
 msgid "Invoicing"
+msgstr ""
+
+msgid "Invoiving"
 msgstr ""
 
 msgid "Issues, problems, or feedback?"
@@ -3961,6 +4026,9 @@ msgstr ""
 msgid "Item"
 msgstr "Emne"
 
+msgid "Item #"
+msgstr ""
+
 #, python-format
 msgid "Item %(action)s"
 msgid_plural "Items %(action)s"
@@ -4039,7 +4107,7 @@ msgid ""
 "recorded music available!"
 msgstr ""
 
-msgid "Joined"
+msgid "Joined on"
 msgstr ""
 
 msgid "Joke Listings"
@@ -4125,6 +4193,9 @@ msgstr ""
 msgid "Labels"
 msgstr ""
 
+msgid "Large Covers"
+msgstr ""
+
 msgid "Last 10 Day Average"
 msgstr ""
 
@@ -4141,6 +4212,9 @@ msgid "Last Name"
 msgstr ""
 
 msgid "Last Post"
+msgstr ""
+
+msgid "Last Reply"
 msgstr ""
 
 msgid "Last Sold"
@@ -4189,6 +4263,9 @@ msgid "Leave buyer feedback"
 msgstr ""
 
 msgid "Leave seller feedback"
+msgstr ""
+
+msgid "Leaving feedback is not allowed after 90 days."
 msgstr ""
 
 #, python-format
@@ -4280,9 +4357,6 @@ msgstr ""
 msgid "Listing Currency"
 msgstr ""
 
-msgid "Listing ID"
-msgstr ""
-
 msgid "Listing Violations"
 msgstr ""
 
@@ -4306,6 +4380,9 @@ msgid "Load Template"
 msgstr ""
 
 msgid "Loaded a past revision."
+msgstr ""
+
+msgid "Loading"
 msgstr ""
 
 msgid "Loading your shipping policies..."
@@ -4566,6 +4643,9 @@ msgstr ""
 msgid "Merge!"
 msgstr ""
 
+msgid "Merged"
+msgstr ""
+
 #, python-format
 msgid "Merged orders %s into order %s"
 msgstr ""
@@ -4629,6 +4709,9 @@ msgid "More Copies For Sale"
 msgstr ""
 
 msgid "More Filters"
+msgstr ""
+
+msgid "More Images"
 msgstr ""
 
 msgid "More items to sell?"
@@ -4829,6 +4912,9 @@ msgstr ""
 msgid "Needs Minor Changes"
 msgstr ""
 
+msgid "Needs Vote"
+msgstr ""
+
 msgid "Needs changes"
 msgstr ""
 
@@ -4966,6 +5052,9 @@ msgid ""
 msgstr ""
 
 msgid "No Rating Yet"
+msgstr ""
+
+msgid "No Results Found"
 msgstr ""
 
 msgid "No Reviews Found."
@@ -5121,6 +5210,9 @@ msgstr ""
 msgid "Not Graded"
 msgstr ""
 
+msgid "Not active recently"
+msgstr ""
+
 #, python-format
 msgid "Not in a group? <a href=\"%(link)s\">Find your group on Discogs</a>."
 msgstr ""
@@ -5153,6 +5245,9 @@ msgstr ""
 msgid "Notify Me"
 msgstr ""
 
+msgid "Notify Me of Replies"
+msgstr ""
+
 msgid "Notify me"
 msgstr ""
 
@@ -5166,6 +5261,9 @@ msgid "Number of votes cast over the past 30 days"
 msgstr ""
 
 msgid "Numeric barcode of the release."
+msgstr ""
+
+msgid "OR"
 msgstr ""
 
 msgid "Offer"
@@ -5237,6 +5335,19 @@ msgstr ""
 msgid "Only CSV's exported from Discogs are allowed"
 msgstr ""
 
+#, python-format
+msgid ""
+"Only items in violation of <a href=\"%(block_policy_link)s\">Discogs "
+"offensive marketplace item policies</a>\n"
+"will be reviewed for potential marketplace blocks. If you have a concern "
+"about copyright, please see\n"
+"<a href=\"%(copyright_policy_link)s\">our information on copyright "
+"infringement</a>. If the item is deemed\n"
+"in violation of our offensive materials policy, it will be blocked from "
+"sale in the marketplace, but will\n"
+"remain in the database."
+msgstr ""
+
 msgid "Only search CD"
 msgstr ""
 
@@ -5270,6 +5381,9 @@ msgstr ""
 msgid "Open Site Menu"
 msgstr ""
 
+msgid "Open a new support request"
+msgstr ""
+
 msgid "Open another file"
 msgstr ""
 
@@ -5293,6 +5407,12 @@ msgid "Order"
 msgstr ""
 
 msgid "Order #"
+msgstr ""
+
+msgid "Order Cancellations"
+msgstr ""
+
+msgid "Order Changed"
 msgstr ""
 
 msgid "Order Date"
@@ -5324,6 +5444,13 @@ msgid "Order subtotal must be"
 msgstr ""
 
 msgid "Orders"
+msgstr ""
+
+msgid ""
+"Orders are billed according to the order status at the time of billing.\n"
+"Invoices include all orders received 15+ days prior to your invoicing "
+"date that\n"
+"have not been cancelled, merged or paid for on a prior invoice."
 msgstr ""
 
 msgid "Orders by Day"
@@ -5618,6 +5745,11 @@ msgid ""
 msgstr ""
 
 msgid ""
+"Please check for the buyer's payment and update the order to \"Payment "
+"Received\" if you've received the funds for this order."
+msgstr ""
+
+msgid ""
 "Please check the release(s) above to make sure that you are not "
 "submitting a duplicate."
 msgstr ""
@@ -5714,6 +5846,9 @@ msgstr ""
 msgid ""
 "Please have a quick refresh of the Submission Guidelines if you haven't "
 "checked them in the last month:"
+msgstr ""
+
+msgid "Please include specific details relevant to your question or issue."
 msgstr ""
 
 msgid "Please make sure that the file you are uploading is encoded as \"UTF-8\"."
@@ -5856,6 +5991,9 @@ msgid "Posted"
 msgstr ""
 
 msgid "Posted Review"
+msgstr ""
+
+msgid "Prev"
 msgstr ""
 
 msgid "Preview"
@@ -6011,6 +6149,10 @@ msgstr ""
 msgid "Quit this group?"
 msgstr ""
 
+#, python-format
+msgid "Quote %(start_tag)sSelection%(end_tag)s"
+msgstr ""
+
 msgid "Quote Previous"
 msgstr ""
 
@@ -6129,6 +6271,9 @@ msgid "Recent ratings"
 msgstr ""
 
 msgid "Recent uploads"
+msgstr ""
+
+msgid "Recently Edited"
 msgstr ""
 
 msgid "Recipient"
@@ -6308,6 +6453,9 @@ msgstr ""
 msgid "Remove filters"
 msgstr ""
 
+msgid "Remove from Collection"
+msgstr ""
+
 msgid "Remove from Wantlist"
 msgstr ""
 
@@ -6446,6 +6594,9 @@ msgstr ""
 msgid "Report Message"
 msgstr ""
 
+msgid "Report Offensive Material"
+msgstr ""
+
 msgid "Report Review or Comment"
 msgstr ""
 
@@ -6520,6 +6671,12 @@ msgstr ""
 msgid "Return to your Billing page"
 msgstr ""
 
+msgid "Revert Changes"
+msgstr ""
+
+msgid "Revert to this version"
+msgstr ""
+
 msgid "Review Changes"
 msgstr ""
 
@@ -6585,6 +6742,9 @@ msgstr ""
 msgid "Save Notify Setting"
 msgstr ""
 
+msgid "Save Thread"
+msgstr ""
+
 msgid "Save all Track Artists/Credits"
 msgstr ""
 
@@ -6601,6 +6761,9 @@ msgid "Save my privacy settings"
 msgstr ""
 
 msgid "Save settings"
+msgstr ""
+
+msgid "Save your changes"
 msgstr ""
 
 msgid "Saved"
@@ -6641,6 +6804,10 @@ msgid "Saved your changes."
 msgstr ""
 
 msgid "Search"
+msgstr ""
+
+#, python-format
+msgid "Search %(thread_type)s Threads"
 msgstr ""
 
 msgid "Search Collection"
@@ -6686,6 +6853,9 @@ msgid "Search all release formats"
 msgstr ""
 
 msgid "Search artists, albums and more..."
+msgstr ""
+
+msgid "Search by Exact Match"
 msgstr ""
 
 msgid "Search by specific fields"
@@ -6771,6 +6941,9 @@ msgid ""
 "your shipping policies"
 msgstr ""
 
+msgid "Select"
+msgstr ""
+
 msgid "Select All"
 msgstr ""
 
@@ -6816,6 +6989,9 @@ msgid "Sell Music"
 msgstr ""
 
 msgid "Sell This Item"
+msgstr ""
+
+msgid "Sell This Version"
 msgstr ""
 
 msgid "Sell Vinyl, CDs, and more on Discogs"
@@ -6947,6 +7123,18 @@ msgstr ""
 msgid "Send a message"
 msgstr ""
 
+#, python-format
+msgid ""
+"Send a message to <a href=\"%(url)s\"><strong>%(email)s</strong></a> or "
+"fill out the form below."
+msgstr ""
+
+#, python-format
+msgid ""
+"Send a message to <a href=\"%(url)s\"><strong>%(email)s</strong></a> or "
+"log in to open a new support request."
+msgstr ""
+
 msgid "Send message"
 msgstr ""
 
@@ -6990,6 +7178,9 @@ msgstr ""
 
 msgid "Settings"
 msgstr "Indstillinger"
+
+msgid "Share"
+msgstr ""
 
 msgid "Sharing settings"
 msgstr ""
@@ -7064,6 +7255,9 @@ msgstr[1] ""
 msgid "Show <strong>recommendations</strong> on release pages"
 msgstr ""
 
+msgid "Show Deleted"
+msgstr ""
+
 msgid "Show Editing Options"
 msgstr ""
 
@@ -7105,6 +7299,9 @@ msgid "Showing only %(type)s ratings."
 msgstr ""
 
 msgid "Sign Up"
+msgstr ""
+
+msgid "Sincerely,"
 msgstr ""
 
 msgid "Site Banner"
@@ -7250,7 +7447,16 @@ msgstr ""
 msgid "Still can't find what you're looking for?"
 msgstr ""
 
+msgid "Stop Notifying Me"
+msgstr ""
+
+msgid "Stop impersonating"
+msgstr ""
+
 msgid "Stop notifying"
+msgstr ""
+
+msgid "Strict"
 msgstr ""
 
 msgid "Strict Search"
@@ -7277,6 +7483,9 @@ msgid "Submission Guidelines"
 msgstr ""
 
 msgid "Submission Notes"
+msgstr ""
+
+msgid "Submission Notes (Required)"
 msgstr ""
 
 msgid "Submissions"
@@ -7433,6 +7642,15 @@ msgid "Terms of Service"
 msgstr "Handelsbetingelser"
 
 msgid "Test all hyperlinks and make sure they link to the correct artist/label."
+msgstr ""
+
+msgid "Text Only"
+msgstr ""
+
+msgid "Text With Covers"
+msgstr ""
+
+msgid "Text With Statistics"
 msgstr ""
 
 msgid "Thank you"
@@ -7600,6 +7818,19 @@ msgstr ""
 msgid "The application's access has been revoked."
 msgstr ""
 
+msgid ""
+"The buyer did not pay for this item within the 4 day time limit. The "
+"seller can cancel any time after that point."
+msgstr ""
+
+msgid "The buyer has acknowledged receipt of the seller's refund."
+msgstr ""
+
+msgid ""
+"The buyer has been sent an invoice by the seller. The order is ready for "
+"payment!"
+msgstr ""
+
 #, python-format
 msgid ""
 "The buyer has requested a response from the seller regarding\n"
@@ -7641,6 +7872,9 @@ msgstr ""
 msgid ""
 "The buyer on this order is waiting for your response. Please contact them"
 " via the <a href=\"%(order_url)s\">order page</a>."
+msgstr ""
+
+msgid "The complaint was successfully ignored."
 msgstr ""
 
 msgid "The data export you recently requested is now available for download."
@@ -7753,12 +7987,38 @@ msgstr ""
 msgid "The name of the record label."
 msgstr ""
 
+msgid "The order has been cancelled by the seller as requested by the buyer."
+msgstr ""
+
+msgid ""
+"The order has been cancelled by the seller as the item is out of stock or"
+" no longer available for sale."
+msgstr ""
+
+msgid ""
+"The order has been shipped to the buyer. The buyer should be receiving "
+"their order soon!"
+msgstr ""
+
 msgid ""
 "The order of your shipping methods is important. When determining which "
 "shipping price to display next to your items in the Marketplace, we'll "
 "use each shipping method in sequence until we find one that applies. It's"
 " a good idea to make sure you put your most inexpensive or basic one "
 "first."
+msgstr ""
+
+#, python-format
+msgid ""
+"The order was created on %(date)s by the buyer! An invoice will be sent "
+"if automatic shipping is in place, otherwise the seller will send a "
+"manual invoice."
+msgstr ""
+
+msgid ""
+"The payment has been made and will be confirmed by the seller shortly. If"
+" the payment clears but is not confirmed by the seller, please message "
+"them directly."
 msgstr ""
 
 msgid ""
@@ -7793,6 +8053,11 @@ msgid ""
 "accept or reject the changes"
 msgstr ""
 
+msgid ""
+"The seller has confirmed receiving payment for the order. The seller is "
+"preparing the order for shipment!"
+msgstr ""
+
 #, python-format
 msgid ""
 "The seller has issued a full refund for the purchase price of <a "
@@ -7810,6 +8075,16 @@ msgid ""
 " Have you received the refund yet?"
 msgstr ""
 
+msgid ""
+"The seller has merged this order with one or more orders with the same "
+"buyer. This helps keep track of all items ordered by the same buyer!"
+msgstr ""
+
+msgid ""
+"The seller has provided a message to the buyer, acknowledging the order "
+"is valid. This is a good time to send messages before the item ships!"
+msgstr ""
+
 #, python-format
 msgid ""
 "The seller has provided a response via the <a "
@@ -7824,6 +8099,11 @@ msgid ""
 msgstr ""
 
 msgid "The seller has provided a response via the order page:"
+msgstr ""
+
+msgid ""
+"The seller has refunded the buyer. The buyer should confirm the refund "
+"when it is received."
 msgstr ""
 
 msgid ""
@@ -7877,6 +8157,12 @@ msgstr ""
 msgid ""
 "The user account you are trying to activate was not found. If you "
 "registered more than two weeks ago please re-register."
+msgstr ""
+
+msgid "The user is not receiving emails. Do you wish to ignore this complaint?"
+msgstr ""
+
+msgid "The user is not receiving emails. Do you wish to try again?"
 msgstr ""
 
 msgid "The verification code was incorrect."
@@ -8183,6 +8469,9 @@ msgstr ""
 msgid "This version of the API was shut down on 15 January 2012."
 msgstr ""
 
+msgid "Thread is locked and cannot be replied to."
+msgstr ""
+
 msgid "Threads"
 msgstr ""
 
@@ -8432,6 +8721,9 @@ msgstr ""
 msgid "Un-Archive this order"
 msgstr ""
 
+msgid "Un-Save Thread"
+msgstr ""
+
 #, python-format
 msgid "Unable to find the specified report with id: %s"
 msgstr ""
@@ -8527,6 +8819,9 @@ msgstr ""
 msgid "Update email address"
 msgstr ""
 
+msgid "Update image"
+msgstr ""
+
 msgid "Update these images"
 msgstr ""
 
@@ -8597,6 +8892,9 @@ msgstr ""
 msgid "Uploaded"
 msgstr ""
 
+msgid "Uploaded "
+msgstr ""
+
 msgid "Use English only."
 msgstr ""
 
@@ -8637,6 +8935,10 @@ msgid "User Reviews"
 msgstr ""
 
 #, python-format
+msgid "User has reported an email of ours as spam on %(time)s!"
+msgstr ""
+
+#, python-format
 msgid "User is already on your %s list."
 msgstr ""
 
@@ -8653,6 +8955,12 @@ msgid "Username or email does not exist."
 msgstr ""
 
 msgid "Users in Contributor Improvement Program (CIP)"
+msgstr ""
+
+#, python-format
+msgid ""
+"Values based on last 10 sales using <a href=\"%(history_link)s\" "
+"target=\"_blank\">Marketplace Sales History</a>."
 msgstr ""
 
 msgid "Variations"
@@ -8833,6 +9141,12 @@ msgstr ""
 
 #, python-format
 msgid ""
+"View our <a href=\"%(first_link)s\">formatting codes</a> and <a "
+"href=\"%(second_link)s\">posting guidelines</a>."
+msgstr ""
+
+#, python-format
+msgid ""
 "View our <a href=\"%(link)s\">Privacy Policy</a> and <a "
 "href=\"%(link2)s\">Social Contract</a>. Or, <a href=\"%(link3)s\"> send a"
 " support request</a>."
@@ -8863,6 +9177,9 @@ msgid "View your inventory"
 msgstr ""
 
 msgid "View your listing"
+msgstr ""
+
+msgid "View your support requests"
 msgstr ""
 
 msgid "Viewing"
@@ -9018,6 +9335,10 @@ msgstr ""
 msgid "We found the following updates to %(what)s."
 msgstr ""
 
+#, python-format
+msgid "We have been having trouble sending email to this user since %(time)s!"
+msgstr ""
+
 msgid "We have emailed you instructions on deleting your account."
 msgstr ""
 
@@ -9064,6 +9385,9 @@ msgstr ""
 msgid "We weren't able to determine your PayPal Verified status."
 msgstr ""
 
+msgid "We will attempt to send email to this user again."
+msgstr ""
+
 msgid "We'll send you an e-mail when it's done."
 msgstr ""
 
@@ -9076,6 +9400,9 @@ msgid ""
 msgstr ""
 
 msgid "We're glad you found this helpful. Thank you for your input!"
+msgstr ""
+
+msgid "We're here to help!"
 msgstr ""
 
 msgid ""
@@ -9196,6 +9523,11 @@ msgid ""
 msgstr ""
 
 msgid "What does this condition mean?"
+msgstr ""
+
+msgid ""
+"What if I pay for this invoice and then an order from it needs to be\n"
+"cancelled?"
 msgstr ""
 
 msgid "What to export"
@@ -9460,6 +9792,21 @@ msgid ""
 "to \"Entire World\"."
 msgstr ""
 
+#, python-format
+msgid ""
+"You can contact us by going to %(url)s and clicking\n"
+"\"New Support Request\". Include the order number(s) and reason for\n"
+"cancellation, and we can adjust your invoice as necessary."
+msgstr ""
+
+#, python-format
+msgid ""
+"You can contact us by going to <a href=\"%(url)s\">Help page</a> and "
+"clicking\n"
+"\"New Support Request\". Include the order number(s) and reason for\n"
+"cancellation, and we can adjust your invoice as necessary."
+msgstr ""
+
 msgid "You can now close this window."
 msgstr ""
 
@@ -9531,10 +9878,13 @@ msgid ""
 "release form."
 msgstr ""
 
+msgid "You cannot post while impersonating someone."
+msgstr ""
+
 msgid "You cannot remove all items from an order."
 msgstr ""
 
-msgid "You cannot remove an item from an invoiced order."
+msgid "You cannot remove items from an invoiced order."
 msgstr ""
 
 msgid "You cannot report this image."
@@ -9823,6 +10173,9 @@ msgid "You must be %s to post this item"
 msgstr ""
 
 msgid "You must be a member of this group to post."
+msgstr ""
+
+msgid "You must be logged in to post."
 msgstr ""
 
 msgid "You must choose at least one payment method."
@@ -10232,6 +10585,12 @@ msgstr ""
 msgid "Zip/Postal Code"
 msgstr ""
 
+msgid "Zoom In"
+msgstr ""
+
+msgid "Zoom Out"
+msgstr ""
+
 #, python-format
 msgid "_%0.2f to _%0.2f"
 msgstr ""
@@ -10358,7 +10717,7 @@ msgstr ""
 msgid "created the order"
 msgstr ""
 
-msgid "created the order by merging "
+msgid "created the order by merging"
 msgstr ""
 
 msgid ""
@@ -10593,6 +10952,9 @@ msgstr ""
 msgid "overall rating"
 msgstr ""
 
+msgid "page"
+msgstr ""
+
 msgid "page."
 msgstr ""
 
@@ -10614,6 +10976,9 @@ msgstr ""
 msgid "quantity"
 msgstr ""
 
+msgid "ratings"
+msgstr ""
+
 msgid "received"
 msgstr ""
 
@@ -10633,6 +10998,9 @@ msgid "removed"
 msgstr ""
 
 msgid "replies"
+msgstr ""
+
+msgid "reported"
 msgstr ""
 
 msgid "rows"
