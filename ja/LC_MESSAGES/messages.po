@@ -288,7 +288,7 @@ msgstr "省略"
 
 #: 
 msgid "About"
-msgstr "About"
+msgstr "Discogsについて"
 
 #: 
 msgid "About Discogs"
@@ -1108,7 +1108,7 @@ msgstr "カウント"
 
 #: 
 msgid "Country"
-msgstr "国"
+msgstr "国・地域"
 
 #: 
 msgid "Counts as"
@@ -2314,7 +2314,7 @@ msgstr "最新"
 
 #: 
 msgid "Latest Additions"
-msgstr "最近加えたもの"
+msgstr "最近追加されたもの"
 
 #: 
 msgid "Latest Edits"
@@ -4500,9 +4500,8 @@ msgid "Teamwork"
 msgstr "チームワーク"
 
 #: 
-#, fuzzy
 msgid "Tell the community a little about yourself. This information will be displayed on "
-msgstr "お客様のことをちょっと教えてください。お客様の<a href=\"%(link)s\">プロフィールページ</a>に表示されます。"
+msgstr "お客様のことをちょっと教えてください。お客様のプロフィールページはここに表示されます："
 
 #: 
 msgid "Tell us how we can improve this page."
@@ -4922,11 +4921,11 @@ msgstr "タイトル"
 
 #: 
 msgid "Title, A-Z"
-msgstr "タイトルA-Z"
+msgstr "作品タイトル(A-Z順)"
 
 #: 
 msgid "Title, Z-A"
-msgstr "タイトルZ-A"
+msgstr "作品タイトル(Z-A順)"
 
 #: 
 msgid "Title/Credits"
@@ -6128,7 +6127,7 @@ msgstr "_%0.2f から _%0.2fまで "
 
 #: 
 msgid "about"
-msgstr "について"
+msgstr "Discogsについて"
 
 #: 
 msgid "about %s"
