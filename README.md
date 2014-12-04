@@ -11,3 +11,9 @@ Translations for the Discogs website
 1. Edit the `*.po` files in the language you are updating
 1. Save your changes by committing
 1. Create a pull request from your fork to this repository
+
+### Contributors:
+
+* Moderado
+* Mop66
+* armak
