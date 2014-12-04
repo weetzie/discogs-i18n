@@ -286,7 +286,7 @@ msgstr "%sはサポートリクエストにこのメッセージを変換する�
 
 #, fuzzy, python-format
 msgid "%s has been deleted."
-msgstr "ドラフトは消去されました。"
+msgstr "%s ドラフトは消去されました。"
 
 #, python-format
 msgid "%s have, %s want"
@@ -3845,7 +3845,7 @@ msgstr "無効な招待コード。"
 
 #, fuzzy, python-format
 msgid "Invalid module: %s"
-msgstr "無効なブロードキャスト。"
+msgstr "無効なブロードキャスト。%s"
 
 msgid "Invalid offer price"
 msgstr "無効なオファー価格"
@@ -6531,7 +6531,7 @@ msgstr "このリリースを削除しますか？"
 #, fuzzy, python-format
 msgid "Removed %d friend from your friend list."
 msgid_plural "Removed %d friends from your friend list."
-msgstr[0] "友達リストから%s を削除しました。"
+msgstr[0] "友達リストから%d を削除しました。"
 
 #, fuzzy, python-format
 msgid "Removed %d item from your collection."
@@ -10191,7 +10191,7 @@ msgstr "ペンディング中なので、完了するまでアカウントをク
 
 #, fuzzy, python-format
 msgid "You have reached the limit of %d list modules."
-msgstr "このユーザはすでに招待しています。"
+msgstr "このユーザはすでに招待しています。(%d)"
 
 #, python-format
 msgid ""
