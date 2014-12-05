@@ -1,19 +1,491 @@
-# Japanese translations for Discogs.
-# Copyright (C) 2012 Discogs
-# This file is distributed under the same license as the Discogs project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
-# #, fuzzy
+
 msgid ""
 msgstr ""
-"Project-Id-Version: Discogs 0.1\n"
-"Report-Msgid-Bugs-To: language@discogs.com\n"
-"POT-Creation-Date: 2012-03-29 15:33-0700\n"
-"PO-Revision-Date: 2012-01-23 14:50-0800\n"
+"Project-Id-Version: messages_js.po (new)\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2014-12-04 14:13-0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ja <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 0.9.6\n"
+"Generated-By: Babel 1.3\n"
+
+msgid ""
+"<%= filename %> is an unsupported format. Please upload a .jpg, .png, "
+".gif, or .bmp."
+msgstr ""
+"「<%= filename %>」は未対応フォーマットです。\n"
+"jpg, .png, .gif, .bmpでアップロードしてください。"
+
+msgid "<%= releaseId %> is invalid. Release IDs should only contain numbers."
+msgstr "<%= releaseId %>は無効です。リリースIDは数字のみです。"
+
+msgid "A nearly perfect record. The record should show no obvious signs of wear."
+msgstr "保存状態良好。特に目立ったキズはありません。"
+
+msgid ""
+"Absolutely perfect in every way. Certainly never been played. Should be "
+"used sparingly as a grade, If at all."
+msgstr "未開封の新品。本当に新品以外には使用しないこと。"
+
+msgid "Accepted Fields"
+msgstr "承認されました"
+
+msgid "Add Sub-Track"
+msgstr "サブトラックを追加する"
+
+msgid "Add artist"
+msgstr "アーティストを追加する"
+
+msgid "Add barcode or identifier"
+msgstr "バーコードナンバーか、IDを追加する"
+
+msgid "Add credit"
+msgstr "クレジットを追加する"
+
+msgid "Add format"
+msgstr "フォーマットを追加する"
+
+msgid "Add label or entity"
+msgstr "レーベルか法人を追加する"
+
+msgid "Add row"
+msgstr "行を使いする"
+
+msgid "Add style"
+msgstr "書式を追加する"
+
+#, fuzzy
+msgid "Add to List"
+msgstr "アーティストを追加する"
+
+msgid "Added <%= preview.title %> to your collection."
+msgstr "コレクションに<%= preview.title %>を追加する。"
+
+msgid "Added <%= preview.title %> to your wantlist."
+msgstr "ウィッシュリストに<%= preview.title %>を追加する。"
+
+msgid "Alert"
+msgstr "アラート"
+
+msgid "All shipping methods must define at least one range"
+msgstr "配送方法は一行につき、必ず、ひとつ選んでください"
+
+#, fuzzy
+msgid "An error has occurred, please try again."
+msgstr "変更が保存されていません。再試行してください。"
+
+msgid "An unknown error occurred (code <%= status %>)"
+msgstr "不明なエラーが発生しています(code <%= status %>)"
+
+msgid ""
+"Are you certain you wish to change the format? Any descriptions in the "
+"row will be removed."
+msgstr "フォーマットを変更しますか。この列にある全ての解説は削除されます。"
+
+msgid "Are you certain you would like to delete this review?"
+msgstr "このレビューを消去しますか？"
+
+msgid "Are you sure you want to DELETE the items?"
+msgstr "このアイテムを消去しますか？"
+
+msgid "Are you sure you want to delete this list?"
+msgstr "このリストを消去しますか？"
+
+msgid "Are you sure you want to remove <%= text %>?"
+msgstr "<%= text %>を削除しますか？"
+
+msgid "Are you sure you want to remove these items?"
+msgstr "これらのアイテムを削除しますか？"
+
+msgid "Are you sure you want to remove this item?"
+msgstr "このアイテムを削除しますか？"
+
+msgid "Are you sure you want to un-share this?"
+msgstr "このシェアを取り下げますか？"
+
+msgid "Are you sure?"
+msgstr "よろしいですか？"
+
+msgid "Audio not found"
+msgstr "音源が見つかりません"
+
+msgid "Auto-saved draft <%= link %> at <%= time %>"
+msgstr "<%= link %> 下書き<%= time %>に自動保存しました"
+
+msgid ""
+"Can be put onto a turntable and will play through without skipping. "
+"Significant surface noise, scratches and visible groove wear."
+msgstr "音飛びなしにターンテーブル上で再生できる。著しいノイズとキズ、さらに見た目でわかる不具合。"
+
+msgid "Cancel"
+msgstr "キャンセルする"
+
+msgid "Cancel Order"
+msgstr "注文をキャンセルする"
+
+msgid "Checking"
+msgstr "チェック中"
+
+msgid "Click <%= saveButton => again to save anyway."
+msgstr "保存すには再度<%= saveButton =>をクリックしてください。"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Confirm"
+msgstr "確認する"
+
+msgid "Create"
+msgstr "作成する"
+
+msgid "Create Master Release"
+msgstr "マスターリリースの作成"
+
+msgid "Created draft <%= link %> at <%= time %>"
+msgstr "<%= link %>下書きを<%= time %> 作成しました"
+
+msgid "Customize This Page"
+msgstr "このページをカストマイズ"
+
+msgid "Deleting"
+msgstr "消去中"
+
+msgid "Delivery in <%= label %>"
+msgstr "納品先：<%= label %> "
+
+msgid "Discogs Alert"
+msgstr "Discogsからの警告"
+
+msgid "Does not exist: <%= id %>"
+msgstr "<%= id %>は存在しません"
+
+msgid "Edit Master Release"
+msgstr "マスターリリースの編集"
+
+msgid "Error"
+msgstr "エラー"
+
+msgid "European Union"
+msgstr "EU"
+
+msgid "Failed to generate preview."
+msgstr "プレビューの作成に失敗しました。"
+
+msgid "Failed to save draft."
+msgstr "下書きの保存に失敗しました。"
+
+msgid "Feedback Sent"
+msgstr "フォードバックを送信しました"
+
+msgid "Generating Preview"
+msgstr "プレビュー作成中"
+
+msgid "Hide Credits"
+msgstr "クレジットを非表示にする"
+
+msgid "Hide actions"
+msgstr "アクションを非表示にする"
+
+msgid "Insert Heading"
+msgstr "見出しを挿入する"
+
+msgid "Insert Index Track"
+msgstr "収録曲リストを挿入する"
+
+msgid "Insert Sub-Track"
+msgstr "サブトラックを挿入する"
+
+msgid "Insert Track"
+msgstr "楽曲を挿入する"
+
+msgid "Items added to your collection"
+msgstr "コレクションにアイテムが追加されました"
+
+msgid "Less"
+msgstr "不足しています"
+
+msgid "Load next"
+msgstr "次へ"
+
+msgid "Make End of Index Track"
+msgstr "収録曲リストを完了する"
+
+msgid "Make an Offer"
+msgstr "オファーをします"
+
+msgid ""
+"Master release saved successfully and will be processed soon. Please "
+"refresh the page in a minute to see the updated discography."
+msgstr "マスターリリースが保存され、これから処理されます。数分後にページを更新してディスグラフィーが更新されているか確認してください。"
+
+msgid "More"
+msgstr "続きを読む"
+
+msgid "Move"
+msgstr "移動する"
+
+msgid "Move Item to:"
+msgstr "アイテムの移動先："
+
+msgid "Okay"
+msgstr "OK"
+
+msgid "Place order"
+msgstr "注文する"
+
+msgid "Place order and pay now"
+msgstr "注文をし、すぐに支払う"
+
+msgid "Placing order..."
+msgstr "注文中"
+
+msgid "Please choose a file to upload"
+msgstr "アップロードするファイルを選択してください"
+
+msgid "Please enter <%= n %> unique Release IDs."
+msgstr "それぞれのリリースIDを<%= n %>入力して下さい。"
+
+msgid "Please enter <%= n %> valid Release IDs."
+msgstr "有効なリリースIDを<%= n %>入力してください。"
+
+msgid "Please enter a Key Release ID"
+msgstr "キーリリースIDを入力してください"
+
+msgid "Please enter a title."
+msgstr "タイトルを入力してください。"
+
+msgid "Please enter at least one Release ID in addition to the Key Release ID."
+msgstr "キーリリースIDひとつにつき、最低でもひとつはリリースIDを入力してください。"
+
+msgid "Please enter your Release IDs. Be sure to include the Key Release ID."
+msgstr "リリースIDを入力して下さい。キーリリースIDを必ず含めるようにしてください。"
+
+msgid "Please indicate which Release ID has accurate data."
+msgstr "どのリリースIDが正しいデータを持っているのかをわかるようにしてください。"
+
+msgid "Please provide a detailed reason for the merge."
+msgstr "統合する場合は、その理由を詳しく 記入 し てく ださい。"
+
+msgid "Please select a key release."
+msgstr "キーリリースを選択する。"
+
+msgid "Please select an existing list."
+msgstr "現存するリストから選択する。"
+
+msgid "Please select an item to remove"
+msgstr "削除するアイテムを選択してください"
+
+msgid "Popular Destinations"
+msgstr "よく使う住所"
+
+msgid "Post Comment"
+msgstr "コメントを投稿する"
+
+msgid "Posting"
+msgstr "投稿する"
+
+msgid ""
+"Press OK to report that this list contravenes the <a "
+"href=\"http://www.discogs.com/help/lists.html\">Discogs List "
+"guidelines</a>."
+msgstr ""
+"<a "
+"href=\"http://www.discogs.com/help/lists.html\">Discogsリストのガイドライン</a>に違反し、報告する場合はOKを押す。"
+
+msgid "Preview Loading"
+msgstr "プレビュー作成中"
+
+msgid "Previewing..."
+msgstr "プレビュー中"
+
+msgid "Problem Sending Feedback"
+msgstr "フィードバックできません"
+
+msgid "Processing"
+msgstr "処理中"
+
+msgid "Ranges overlap or are ordered incorrectly"
+msgstr "注文が重複している、もしくは、間違っている"
+
+msgid ""
+"Record is cracked, badly warped, or won't play through without skipping "
+"or repeating."
+msgstr "レコードが欠けている、包装が汚い、音飛びやリピートする。"
+
+msgid "Release not found. Please try another Release ID."
+msgstr "アイテムが見つかりません。別のリリースIDで再試行。"
+
+msgid "Remove"
+msgstr "削除する"
+
+msgid "Remove <%= username %> from your friends list?"
+msgstr "友達リストから<%= username %>を削除しますか"
+
+msgid "Remove this shipping method?"
+msgstr "この配送方法を削除しますか"
+
+msgid "Remove this shipping policy?"
+msgstr "配送条件をこの項目を削除しますか。"
+
+msgid "Replying"
+msgstr "返信する"
+
+msgid "Reported"
+msgstr "報告済み"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save Changes"
+msgstr "変更を保存する"
+
+msgid "Save and Continue"
+msgstr "保存して次へ"
+
+msgid "Saved draft <%= link %> at <%= time %>"
+msgstr "下書きを保存する"
+
+msgid "Saving"
+msgstr "保存中"
+
+msgid "Send Feedback"
+msgstr "フィードバックを送ります"
+
+#, fuzzy
+msgid "Send Report"
+msgstr "報告済み"
+
+msgid "Share"
+msgstr "シェアする"
+
+msgid "Shared on your profile"
+msgstr "プロフィールへシェアされています"
+
+msgid "Sharing Settings"
+msgstr "シェア範囲の設定"
+
+msgid "Sharing..."
+msgstr "シェア中"
+
+msgid "Shipping and Payment Terms"
+msgstr "配送・支払い条件"
+
+msgid "Show Credits"
+msgstr "信用情報の表示"
+
+msgid "Show actions"
+msgstr "アクションの表示"
+
+msgid ""
+"Some mobile devices will not allow playback until you first activate the "
+"YouTube player by tapping on it. If the video is not loading, refresh the"
+" page, then tap on the player."
+msgstr "携帯端末によっては該当のYouTubeプレイヤーをクリックして、アクティベートせずに再生できない場合があります。もしビデオが再生されない場合はページを再読み込みしてプレイヤーを最後クリックしてください。"
+
+#, fuzzy
+msgid "Submission Form Keyboard Shortcuts"
+msgstr "ヘルプのショートカット"
+
+msgid "Submission notes are required"
+msgstr "提出メモが必要です"
+
+msgid ""
+"Surface noise will be evident upon playing... but will not overpower the "
+"music. Groove wear will start to be noticeable, as will light scratches."
+msgstr "再生する上で表面的なノイズはあるが、音楽の再生には支障がない。今は軽いキズ程度ですが時間の経過によっては目立つかもしれません。"
+
+msgid "The following errors preventing this item from being listed"
+msgstr "以下の理由により、このアイテムをリストできない"
+
+msgid ""
+"There was a problem sending your feedback. Please try again in a few "
+"moments."
+msgstr "フィードバック送信中に問題が発生しました。時間を空けてから再試行してください。"
+
+msgid "This list is already on your dashboard"
+msgstr "このリストはすでにダッシュボードにあります"
+
+msgid ""
+"This operation will overwrite all track positions with 1, 2, 3, etc. Are "
+"you sure you want to do this?"
+msgstr "曲順を1,2,3などに上書きします。いいですか。"
+
+msgid "Unable to estimate from release data"
+msgstr "このリリースデータから試算できません"
+
+msgid "Undo"
+msgstr "やり直し"
+
+msgid "Unsharing..."
+msgstr "シェア取り戻し中"
+
+msgid "Update Order"
+msgstr "注文を更新する"
+
+msgid "View Image"
+msgstr "画像を見る"
+
+msgid "Vote and Post Comment"
+msgstr "評価し、コメントを投稿する"
+
+msgid "WARNING: You have made changes since loading this page."
+msgstr "注意：変更されています。"
+
+msgid "WARNING: You have unsaved changes."
+msgstr "注意：変更が保存されていない。"
+
+msgid "Warning"
+msgstr "注意"
+
+msgid "Warning: for large tracklists this may significantly hinder performance"
+msgstr "注意：曲数が多い場合、処理に時間が掛かります"
+
+msgid ""
+"Will show some signs that it was played and otherwise handled by a "
+"previous owner who took good care of it."
+msgstr "以前の持ち主が大変丁寧に保存していたと思われる。"
+
+msgid ""
+"You can't have more than one <%= shippingMethod %> shipping method in the"
+" same policy"
+msgstr "一つの配送条件の中で複数の<%= shippingMethod %>配送方法を選択することはできません"
+
+msgid "You did not choose a rating."
+msgstr "評価が選択されていません。"
+
+msgid "You did not enter a comment."
+msgstr "コメントが入力されていない。"
+
+msgid "You must add at least one shipping method"
+msgstr "配送方法が表示されていない"
+
+msgid "You must agree to the order terms to continue"
+msgstr "先に注文条件に同意してください"
+
+msgid "You must post a comment with this type of vote"
+msgstr "この評価方式にはコメントが必要です"
+
+msgid "You must provide a reason for removing this release."
+msgstr "このリリースを削除する理由もお知らせください。"
+
+msgid "You must select at least one destination"
+msgstr "住所の選択が必要です"
+
+msgid "Your changes couldn't be saved. Please try again."
+msgstr "変更が保存されていません。再試行してください。"
+
+msgid ""
+"Your feedback was sent successfully. Thank you for helping improve "
+"Discogs!"
+msgstr "フィードバックが送信されました。Discogsの改善にご協力ありがとうございます。"
+
+msgid "about"
+msgstr "詳細情報"
+
+msgid "generating preview..."
+msgstr "プレビュー作成中"
 
