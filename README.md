@@ -14,6 +14,8 @@ Translations for the Discogs website
 
 ### Contributors:
 
+* 111studio
+* VBC934X
 * Moderado
 * Mop66
 * armak
