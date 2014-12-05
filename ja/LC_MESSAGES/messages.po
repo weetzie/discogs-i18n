@@ -678,12 +678,12 @@ msgstr "ユーザを禁止し、すべてのグループを削除"
 #: 
 #, fuzzy
 msgid "Banned %s and deleted %d groups:"
-msgstr "削除 %d・禁止%sされたグループ："
+msgstr "禁止%s・削除%dされたグループ："
 
 #: 
 #, fuzzy
 msgid "Banned %s and deleted %d topics:"
-msgstr "削除 %d・禁止%sされたトピック："
+msgstr "禁止%s・削除 %dされたトピック："
 
 #: 
 msgid "Banned user %s from this group."
