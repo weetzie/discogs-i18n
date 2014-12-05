@@ -1,14 +1,9 @@
-# Japanese translations for PROJECT.
-# Copyright (C) 2014 ORGANIZATION
-# This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
-#
-#, fuzzy
+
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"Project-Id-Version: messages.po (new)\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-12-04 12:06-0800\n"
+"POT-Creation-Date: 2014-12-04 14:13-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -51,7 +46,7 @@ msgstr ""
 
 #, python-format
 msgid "\"%s\" is available."
-msgstr ""
+msgstr "\"%s\" は入手可能。"
 
 #, python-format
 msgid "\"Search %(seller)s's store"
@@ -84,6 +79,8 @@ msgid ""
 "%(link)sLog In%(link_close)s or %(button)sCreate an "
 "Account%(button_close)s to list this item."
 msgstr ""
+"リストの%(link)sLog In%(link_close)s or %(button)sCreate an "
+"Account%(button_close)s はこのアイテム。"
 
 #, python-format
 msgid "%(n)d Purchase Awaiting Feedback"
@@ -112,10 +109,10 @@ msgstr ""
 msgid "%(n)s From My Wantlist"
 msgstr ""
 
-#, python-format
+#, fuzzy, python-format
 msgid "%(n)s Item"
 msgid_plural "%(n)s Items"
-msgstr[0] ""
+msgstr[0] "%(n)sの評価"
 
 #, python-format
 msgid "%(n)s Order Awaiting Feedback"
@@ -132,25 +129,25 @@ msgid "%(n)s message has been ignored"
 msgid_plural "%(n)s messages have been ignored"
 msgstr[0] ""
 
-#, python-format
+#, fuzzy, python-format
 msgid "%(n)s negative rating from buyers"
 msgid_plural "%(n)s negative ratings from buyers"
-msgstr[0] ""
+msgstr[0] "買い手からのよくない評価%(n)s件"
 
-#, python-format
+#, fuzzy, python-format
 msgid "%(n)s negative rating from sellers"
 msgid_plural "%(n)s negative ratings from sellers"
-msgstr[0] ""
+msgstr[0] "売り手からのよくない評価%(n)s件\n"
 
-#, python-format
+#, fuzzy, python-format
 msgid "%(n)s neutral rating from buyers"
 msgid_plural "%(n)s neutral ratings from buyers"
-msgstr[0] ""
+msgstr[0] "買い手からの中性な評価%(n)s件"
 
-#, python-format
+#, fuzzy, python-format
 msgid "%(n)s neutral rating from sellers"
 msgid_plural "%(n)s neutral ratings from sellers"
-msgstr[0] ""
+msgstr[0] "売り手からの中性な評価%(n)s件"
 
 #, python-format
 msgid "%(n)s of %(total)s discussion"
@@ -161,29 +158,29 @@ msgstr[0] ""
 msgid "%(n)s other versions for sale."
 msgstr ""
 
-#, python-format
+#, fuzzy, python-format
 msgid "%(n)s positive rating from buyers"
 msgid_plural "%(n)s positive ratings from buyers"
-msgstr[0] ""
+msgstr[0] "買い手からのいい評価%(n)s件"
 
-#, python-format
+#, fuzzy, python-format
 msgid "%(n)s positive rating from sellers"
 msgid_plural "%(n)s positive ratings from sellers"
-msgstr[0] ""
+msgstr[0] "売り手からのいい評価%(n)s件"
 
 #, python-format
 msgid "%(n)s previous order"
 msgid_plural "%(n)s previous orders"
 msgstr[0] ""
 
-#, python-format
+#, fuzzy, python-format
 msgid "%(n)s rating"
 msgid_plural "%(n)s ratings"
-msgstr[0] ""
+msgstr[0] "%(n)sの評価"
 
 #, python-format
 msgid "%(name)s will be added to the Database."
-msgstr ""
+msgstr "データベースに%(name)sを追加します。"
 
 #, python-format
 msgid "%(num_found)s found when searching for \"%(query)s\""
@@ -199,11 +196,11 @@ msgstr ""
 
 #, python-format
 msgid "%(person)s's feedback as a buyer."
-msgstr ""
+msgstr "買い手として%(person)sフィードバック。"
 
 #, python-format
 msgid "%(person)s's feedback as a seller."
-msgstr ""
+msgstr "売り手として%(person)s'sフィードバック。"
 
 #, python-format
 msgid ""
@@ -244,72 +241,72 @@ msgid "%(x)s available from %(y)s seller"
 msgid_plural "%(x)s available from %(y)s sellers"
 msgstr[0] ""
 
-#, python-format
+#, fuzzy, python-format
 msgid "%d Week Ago"
 msgid_plural "%d Weeks Ago"
-msgstr[0] ""
+msgstr[0] "%d 週間前"
 
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "%d item copied and marked \"For Sale\". The item will be added to our "
 "browse/search pages within %d minutes."
 msgid_plural ""
 "%d items copied and marked \"For Sale\". The items will be added to our "
 "browse/search pages within %d minutes."
-msgstr[0] ""
+msgstr[0] "アイテム%d個をコピーし、販売可能にマークしました。アイテムは、%d分以内にブラウズ・検索ページに反映されます。"
 
 #, python-format
 msgid "%d month"
-msgstr ""
+msgstr "%d ヶ月"
 
 #, python-format
 msgid "%d months"
-msgstr ""
+msgstr "%d ヶ月"
 
 #, python-format
 msgid "%d to %d"
-msgstr ""
+msgstr "%d から %d"
 
 #, python-format
 msgid "%d week"
-msgstr ""
+msgstr "%d 週"
 
 #, python-format
 msgid "%d year"
-msgstr ""
+msgstr "%d 年"
 
-#, python-format
+#, fuzzy, python-format
 msgid "%s Month Ago"
 msgid_plural "%s Months Ago"
-msgstr[0] ""
+msgstr[0] "%s ヶ月前"
 
 #, python-format
 msgid "%s converted this message to a support request."
-msgstr ""
+msgstr "%sはサポートリクエストにこのメッセージを変換する。"
 
-#, python-format
+#, fuzzy, python-format
 msgid "%s has been deleted."
-msgstr ""
+msgstr "%s ドラフトは消去されました。"
 
 #, python-format
 msgid "%s have, %s want"
-msgstr ""
+msgstr "%s 持っている, %s 欲しい"
 
 #, python-format
 msgid "%s is not a member of this group."
-msgstr ""
+msgstr "%sは、このグループのメンバーではありません。"
 
 #, python-format
 msgid "%s was added to your friends list."
-msgstr ""
+msgstr "%sを友達リストに追加しました。"
 
 #, python-format
 msgid "%s's Contributions"
-msgstr ""
+msgstr "%s's の投稿"
 
 #, python-format
 msgid "%s's Wantlist"
-msgstr ""
+msgstr "%s's ほしい物リスト"
 
 #, python-format
 msgid "(%(n)s additional item not shown)"
@@ -342,64 +339,65 @@ msgid "* Updates to items I'm selling"
 msgstr ""
 
 msgid "1. General Rules"
-msgstr ""
+msgstr "1）利用規約"
 
 msgid "1. Log on to"
 msgstr ""
 
 msgid "10. Credits"
-msgstr ""
+msgstr "10）クレジット"
 
 msgid "11. Release Notes"
-msgstr ""
+msgstr "11） リリース・ノート"
 
 msgid "12 Months"
-msgstr ""
+msgstr "12月"
 
 msgid "12. Tracklisting"
-msgstr ""
+msgstr "12）収録曲"
 
 msgid "13. Images"
-msgstr ""
+msgstr "13）画像"
 
 msgid "2. Artist"
-msgstr ""
+msgstr "2）アーティスト"
 
 msgid "2. Click on 'Pay' next to the invoice that shows 'Past Due'"
 msgstr ""
 
 msgid "3 Months"
-msgstr ""
+msgstr "3ヵ月"
 
 msgid "3. Select your payment method and complete your payment"
 msgstr ""
 
 msgid "3. Title"
-msgstr ""
+msgstr "3）タイトル"
 
 msgid "4. Label/Catalog"
-msgstr ""
+msgstr "4）レーベル・カタログ"
 
 msgid "5. Barcodes &amp; Identifiers"
-msgstr ""
+msgstr "5）バーコード &amp; Identifiers"
 
 msgid "6 Months"
-msgstr ""
+msgstr "6ヵ月"
 
 msgid "6. Format"
-msgstr ""
+msgstr "6）フォーマット"
 
 msgid "7. Country"
-msgstr ""
+msgstr "7）国"
 
 msgid "8. Release Date"
-msgstr ""
+msgstr "8）リリース日"
 
 msgid "9. Genres/Styles"
-msgstr ""
+msgstr "9）ジャンル・スタイル"
 
+#, fuzzy
 msgid "<%= type %> not found."
-msgstr ""
+msgstr "アーティスト%s は見つかりません"
 
 #, python-format
 msgid ""
@@ -435,7 +433,7 @@ msgid ""
 msgstr ""
 
 msgid "<strong>Auto-save submissions</strong> after I comment or vote"
-msgstr ""
+msgstr "コメント・投票後、<strong>サブミッションを自動的に保存する</strong>"
 
 msgid "<strong>Buy and sell</strong> music on a massive marketplace."
 msgstr ""
@@ -494,7 +492,7 @@ msgid ""
 "<strong>Your item is now listed <em>for sale!</em></strong><br />Items "
 "are generally added to our browse/search pages within <em>%s "
 "minutes</em>*."
-msgstr ""
+msgstr "<strong>アイテムが売り出しリストに入りました！</strong><br />アイテムは、通常%s分以内にブラウズ検索ページに反映されます。"
 
 #, python-format
 msgid "A $ %(amount)s credit has been issued towards your next invoice"
@@ -503,26 +501,26 @@ msgstr ""
 msgid ""
 "A Discogs account with this e-mail address already exists. Please use a "
 "different e-mail address for this account."
-msgstr ""
+msgstr "DiscogsアカウントとしてこのEメール・アカウントはすでに存在しています。このアカウントでは別のeメールアドレスを使用してください。"
 
 msgid ""
 "A comprehensive list of the recordings made by a particular performer or "
 "of a particular composer's works."
-msgstr ""
+msgstr "特定の演奏者によって、または特定の作曲家でレコーディングした総合的なリスト。"
 
 #, python-format
 msgid ""
 "A confirmation email to <strong>%s</strong> will contain a link you must "
 "click to complete your email address change."
-msgstr ""
+msgstr "<strong>%s</strong>へのeメールの確認は、 Eメールアドレスの変更を完了するためにクリックする必要があります。"
 
 msgid ""
 "A credit for the fee paid on this order will be applied to your next "
 "invoice."
-msgstr ""
+msgstr "この注文の支払に対するクレジットを次の請求書に適用されます。"
 
 msgid "A fully-qualified URL where users can learn more about your app."
-msgstr ""
+msgstr "ユーザがお客様のアプリにの詳細をが見れる完全なURLです。"
 
 #, python-format
 msgid ""
@@ -537,7 +535,7 @@ msgid ""
 msgstr ""
 
 msgid "A group already exists with that name. Please choose a different one."
-msgstr ""
+msgstr "同じ名前のグループはすでに存在しています。別の名前を選んでください。"
 
 msgid ""
 "A highly active Discogs community member since 2008, <a "
@@ -552,34 +550,35 @@ msgid "A password reset has been requested for your account."
 msgstr ""
 
 msgid "A required parameter is missing."
-msgstr ""
+msgstr "必要なパラメータが不足しています。"
 
 msgid "A server error occurred when we tried to log you in. Please try again."
-msgstr ""
+msgstr "ログイン中にサーバにエラーが発生しました。もう一度試してください。"
 
 msgid "A-Z"
-msgstr ""
+msgstr "A-Z"
 
 msgid "ANV"
 msgstr ""
 
 msgid "API"
-msgstr ""
+msgstr "API"
 
 msgid "API Documentation"
 msgstr ""
 
 msgid "API v1.0 Documentation"
-msgstr ""
+msgstr "API v1.0 ドキュメンテーション"
 
 msgid "API v2 Documentation"
-msgstr ""
+msgstr "API v2 アプリ"
 
+#, fuzzy
 msgid "Abbr"
-msgstr ""
+msgstr "省略"
 
 msgid "About"
-msgstr ""
+msgstr "Discogsについて"
 
 msgid "About 360 Vinyl"
 msgstr ""
@@ -588,7 +587,7 @@ msgid "About Anthem Records"
 msgstr ""
 
 msgid "About Discogs"
-msgstr ""
+msgstr "Discogsについて"
 
 msgid "About Dobshizzle"
 msgstr ""
@@ -606,7 +605,7 @@ msgid "About Vinyl Pimp"
 msgstr ""
 
 msgid "About the Contributor Improvement Program (CIP)"
-msgstr ""
+msgstr "投稿者向上プログラムについて(CIP)"
 
 msgid "Accept"
 msgstr ""
@@ -615,16 +614,16 @@ msgid "Accepted Payment(s)"
 msgstr ""
 
 msgid "Access Token URL"
-msgstr ""
+msgstr "URL アクセスのトークン"
 
 msgid "Access granted"
-msgstr ""
+msgstr "アクセス 許可"
 
 msgid "Account"
 msgstr ""
 
 msgid "Account Closed"
-msgstr ""
+msgstr "アカウントを閉じました"
 
 msgid "Account Name"
 msgstr ""
@@ -633,7 +632,7 @@ msgid "Account Name:"
 msgstr ""
 
 msgid "Account Notifications"
-msgstr ""
+msgstr "アカウントの通知"
 
 msgid "Account Verification"
 msgstr ""
@@ -646,7 +645,7 @@ msgid ""
 "request it again. If you need to change the email address the "
 "confirmation code is sent to, please log on with your username and "
 "password, and you will be directed to the email settings page. Thanks!"
-msgstr ""
+msgstr "アカウントを作成できません。もし最近アカウントを作ったのであればeメールをチェックして、コードナンバーを確認してください。コードを受け取っていない場合はもう一度%sまで連絡してください。もし、コードナンバーがあってeメールアドレスを変更したい場合は新しいユーザネームとパスワードを使ってログインしてください。すぐにeメール設定ページに移動します。"
 
 msgid ""
 "Accounts are absolutely free – jump in and enjoy full access immediately!"
@@ -657,14 +656,15 @@ msgstr ""
 msgid "Action"
 msgstr ""
 
+#, fuzzy
 msgid "Action Taken"
-msgstr ""
+msgstr "過去のアクション"
 
 msgid "Action has already been taken on this item."
-msgstr ""
+msgstr "アクションは、すでにこのアイテムにしています。"
 
 msgid "Actions"
-msgstr ""
+msgstr "アクション"
 
 msgid "Activate your account"
 msgstr ""
@@ -675,11 +675,12 @@ msgstr ""
 msgid "Activate your account, update email and password, change your avatar."
 msgstr ""
 
+#, fuzzy
 msgid "Active Images"
-msgstr ""
+msgstr "現行画像"
 
 msgid "Activity Menu"
-msgstr ""
+msgstr "活動メニュー"
 
 msgid "Activity through"
 msgstr ""
@@ -689,7 +690,7 @@ msgid "Activity through %(activity_end)s"
 msgstr ""
 
 msgid "Add"
-msgstr ""
+msgstr "加える"
 
 #, python-format
 msgid "Add %(start_tag)sMore%(end_tag)s Images"
@@ -698,28 +699,32 @@ msgstr ""
 #, python-format
 msgid "Add %(thing)s"
 msgstr ""
+"%(thing)s\n"
+"の追加"
 
 #, python-format
 msgid "Add %(username)s as a friend"
 msgstr ""
+"%(username)s を友達に\n"
+"追加"
 
 msgid "Add An Image"
 msgstr ""
 
 msgid "Add Artist Per Track"
-msgstr ""
+msgstr "トラックごとのアーティストの追加"
 
 msgid "Add Credit Per Track"
-msgstr ""
+msgstr "トラックごとのクレジットの追加"
 
 msgid "Add Feature"
 msgstr ""
 
 msgid "Add Folder"
-msgstr ""
+msgstr "フォルダの追加"
 
 msgid "Add Friend"
-msgstr ""
+msgstr "友達の追加"
 
 msgid "Add List To Dashboard"
 msgstr ""
@@ -731,16 +736,16 @@ msgid "Add New Release"
 msgstr ""
 
 msgid "Add New Thread"
-msgstr ""
+msgstr "新しいスレッドの追加"
 
 msgid "Add Release"
-msgstr "商品を追加"
+msgstr "リリースを追加"
 
 msgid "Add Review"
 msgstr ""
 
 msgid "Add Row"
-msgstr ""
+msgstr "行を追加する"
 
 msgid "Add Thread"
 msgstr ""
@@ -749,13 +754,13 @@ msgid "Add To Wantlist"
 msgstr ""
 
 msgid "Add Tracks"
-msgstr ""
+msgstr "トラックの追加"
 
 msgid "Add a Field"
-msgstr ""
+msgstr "フィールドの追加"
 
 msgid "Add a Release"
-msgstr ""
+msgstr "リリースの追加"
 
 msgid "Add a Release to the Database"
 msgstr ""
@@ -767,7 +772,7 @@ msgid "Add a range"
 msgstr ""
 
 msgid "Add a release"
-msgstr ""
+msgstr "リリースの追加"
 
 msgid "Add a release to Discogs"
 msgstr ""
@@ -785,7 +790,7 @@ msgid "Add all to Wantlist"
 msgstr ""
 
 msgid "Add an audio clip"
-msgstr ""
+msgstr "オーディオクリップを追加する"
 
 msgid "Add an image to your account."
 msgstr ""
@@ -800,31 +805,32 @@ msgid "Add image"
 msgstr ""
 
 msgid "Add it back"
-msgstr ""
+msgstr "戻って追加"
 
 msgid "Add some images"
-msgstr ""
+msgstr "画像を追加する"
 
 msgid "Add some images to the key release."
-msgstr ""
+msgstr "キーリリースに画像を追加する。"
 
 msgid "Add to Cart"
 msgstr ""
 
 msgid "Add to Collection"
-msgstr ""
+msgstr "コレクションへ追加"
 
+#, fuzzy
 msgid "Add to Inventory"
-msgstr ""
+msgstr "アイテムリストに追加"
 
 msgid "Add to List"
 msgstr ""
 
 msgid "Add to Wantlist"
-msgstr ""
+msgstr "ほしい物リストへ追加"
 
 msgid "Add to your Saved Submissions"
-msgstr ""
+msgstr "サブミッションに保存・追加しました"
 
 msgid "Add up to <%- space %> more discs/tapes"
 msgstr ""
@@ -836,30 +842,30 @@ msgid ""
 msgstr ""
 
 msgid "Added"
-msgstr ""
+msgstr "追加された"
 
 msgid "Added item to your cart."
-msgstr ""
+msgstr "カートにアイテムが追加されました。"
 
 msgid "Added item."
-msgstr ""
+msgstr "アイテムを追加された"
 
 msgid "Added just now"
 msgstr ""
 
 #, python-format
 msgid "Added messages to %d orders."
-msgstr ""
+msgstr "%d 注文のメッセージが追加されました。"
 
 msgid "Added new folder"
-msgstr ""
+msgstr "新しいフォルダが追加されました"
 
 msgid "Added to new version"
-msgstr ""
+msgstr "新しいバージョンが追加されました"
 
 #, python-format
 msgid "Added user to your %s list."
-msgstr ""
+msgstr "%s リストのユーザが追加れさました。"
 
 msgid "Adding Information to Discogs"
 msgstr ""
@@ -868,7 +874,7 @@ msgid "Adding listings in bulk"
 msgstr ""
 
 msgid "Additional Instructions"
-msgstr ""
+msgstr "追加の手順"
 
 msgid "Additional Instructions from Buyer"
 msgstr ""
@@ -883,13 +889,13 @@ msgid "Additional Resources:"
 msgstr ""
 
 msgid "Address"
-msgstr ""
+msgstr "住所"
 
 msgid "Adjust notification preferences and seller information."
 msgstr ""
 
 msgid "Admin"
-msgstr ""
+msgstr "管理者"
 
 msgid "Administration"
 msgstr ""
@@ -909,35 +915,35 @@ msgid ""
 msgstr ""
 
 msgid "Aliases"
-msgstr ""
+msgstr "エイリアス"
 
 #, python-format
 msgid "Aliases %(optional)s"
 msgstr ""
 
 msgid "All"
-msgstr ""
+msgstr "すべて"
 
 msgid "All Filters"
 msgstr ""
 
 msgid "All Groups"
-msgstr ""
+msgstr "すべてのグループ"
 
 msgid "All Items"
-msgstr ""
+msgstr "すべてのアイテム"
 
 msgid "All Tags"
 msgstr ""
 
 msgid "All Topics"
-msgstr ""
+msgstr "すべてのトピック"
 
 msgid "All Versions"
 msgstr ""
 
 msgid "All images are copyrighted by their respective copyright owners."
-msgstr ""
+msgstr "すべての画像は、それぞれの著作権者の著作権で保護されています。"
 
 #, python-format
 msgid ""
@@ -960,7 +966,7 @@ msgid "Allow Post Edits"
 msgstr ""
 
 msgid "Allow applications to access your Discogs profile information."
-msgstr ""
+msgstr "アプリからDiscogsプロフィール情報へのアクセスを許可する。"
 
 msgid "Allow offers"
 msgstr ""
@@ -972,16 +978,17 @@ msgid "Allow offers on this item"
 msgstr ""
 
 msgid "Allow other members to contact me"
-msgstr ""
+msgstr "他のメンバーからの連絡を許可する"
 
+#, fuzzy
 msgid "Allow other people to view this image"
-msgstr ""
+msgstr "他のメンバーからの連絡を許可する"
 
 msgid "Allow others to browse my collection"
-msgstr ""
+msgstr "他の人が私のコレクションを閲覧できるようにする"
 
 msgid "Allow others to browse my wantlist"
-msgstr ""
+msgstr "他の人が私のほしい物リストを閲覧できるようにする"
 
 msgid "Almost there"
 msgstr ""
@@ -1003,6 +1010,8 @@ msgid ""
 "it would be better to use the ignore list to eliminate the offending "
 "message and its poster from your view of the Forum."
 msgstr ""
+"また、<a "
+"href=\"%(link)s\">trolls</a>には気を付けて(無視リストを利用するとメッセージとフォーラムのビューからの広告を排除することができます。"
 
 msgid "Also export for sale items to a downloadable CSV file"
 msgstr ""
@@ -1019,20 +1028,22 @@ msgid ""
 "Alternatively, you can <a href=\"%(support_url)s\">send us a support "
 "request</a> or <a href=\"%(home_url)s\">return to the homepage</a>."
 msgstr ""
+"<a href=\"%(home_url)s\">Discogsのホームページにに戻る</a>、または<a "
+"href=\"%(support_url)s\">サポートの問い合わ</a>を送ることができます。"
 
 msgid "Always share"
-msgstr ""
+msgstr "常にシェア"
 
 msgid "Amount"
-msgstr ""
+msgstr "量"
 
 msgid "An error occurred. Please try again."
-msgstr ""
+msgstr "エラー 再度試してください。"
 
 msgid ""
 "An unknown error occurred while attempting to fetch your PayPal "
 "information. Please try again later."
-msgstr ""
+msgstr "お客様のPayPal情報の取込中、不明なエラーが発生しました。後ほどやり直してください。"
 
 msgid "Anonymous"
 msgstr ""
@@ -1041,24 +1052,25 @@ msgid "Any fields that aren't optional or required will be ignored."
 msgstr ""
 
 msgid "Anyone can join and post"
-msgstr ""
+msgstr "誰もが参加し、投稿することができます"
 
 msgid ""
 "Anyone will be able to read and search your group. But in order to join "
 "and post a member must be invited by an admin."
-msgstr ""
+msgstr "お客様グループは誰でも読んだり、検索したりできますが、メンバーは参加や投稿する前に管理者からの招待が必要です。"
 
 msgid "Anyone will be able to read, search, and join this group."
-msgstr ""
+msgstr "誰もが、読んで検索し、グループに参加することができます。"
 
 msgid "Application Name"
-msgstr ""
+msgstr "アプリの名前"
 
 msgid "Applied Filters"
 msgstr ""
 
+#, fuzzy
 msgid "Applied to Invoice?"
-msgstr ""
+msgstr "請求書に適用済み？"
 
 msgid "Approve Changes"
 msgstr ""
@@ -1080,7 +1092,7 @@ msgstr ""
 
 #, python-format
 msgid "Archived %s orders."
-msgstr ""
+msgstr "アーカイブ %s 注文。"
 
 msgid ""
 "Are you sure you want to DELETE this listing? After deleting, this item "
@@ -1098,7 +1110,7 @@ msgstr ""
 msgid ""
 "Are you sure you want to add <br /><br />%(username)s<br /><br /> to your"
 " friends list?"
-msgstr ""
+msgstr "友達リストに<br /><br />%(username)s<br /><br /> を本当に追加しますか。"
 
 msgid ""
 "Are you sure you want to add this user to your ignore list? Your ignore "
@@ -1118,11 +1130,12 @@ msgstr ""
 msgid "Are you sure you want to decline this offer of %(offer_price)s?"
 msgstr ""
 
+#, fuzzy
 msgid "Are you sure you want to delete this app?"
-msgstr ""
+msgstr "このフォルダを削除してもよろしいですか"
 
 msgid "Are you sure you want to delete this folder?"
-msgstr ""
+msgstr "このフォルダを削除してもよろしいですか"
 
 msgid "Are you sure you want to delete this message?"
 msgstr ""
@@ -1134,10 +1147,10 @@ msgid "Are you sure you want to ignore this user?"
 msgstr ""
 
 msgid "Are you sure you want to join this group?"
-msgstr ""
+msgstr "このグループに参加してもよろしいですか"
 
 msgid "Are you sure you want to leave this group?"
-msgstr ""
+msgstr "このグループから脱退してもよろしいですか"
 
 msgid "Are you sure you want to mark these items for sale?"
 msgstr ""
@@ -1155,28 +1168,28 @@ msgid ""
 msgstr ""
 
 msgid "Are you sure you would like to copy this to your drafts?"
-msgstr ""
+msgstr "ドラフトにこれをコピーしてもよろしいですか"
 
 msgid "Artist"
-msgstr ""
+msgstr "アーティスト"
 
 msgid "Artist Name Variation"
-msgstr ""
+msgstr "同一アーティストの別名"
 
 msgid "Artists"
 msgstr "アーティスト"
 
 msgid "Ask me first"
-msgstr ""
+msgstr "はじめに聞いてください"
 
 msgid "Ask the seller for payment options."
 msgstr ""
 
 msgid "Assigned Support Request"
-msgstr ""
+msgstr "アサインされたサポート・リクエスト"
 
 msgid "Assigned Support Requests"
-msgstr ""
+msgstr "アサインされたサポート・リクエスト"
 
 msgid ""
 "At this time, if you have paid for the order, we strongly encourage you "
@@ -1211,31 +1224,31 @@ msgid "Audio Clip"
 msgstr ""
 
 msgid "Audio Sample"
-msgstr ""
+msgstr "オーディオ・サンプル"
 
 msgid "Authentication Error"
-msgstr ""
+msgstr "ログインできませんでした"
 
 msgid "Author"
-msgstr ""
+msgstr "著者"
 
 msgid "Authorization successful"
-msgstr ""
+msgstr "成功しました"
 
 msgid "Authorize"
-msgstr ""
+msgstr "承認"
 
 msgid "Authorize URL"
-msgstr ""
+msgstr "URL 承認"
 
 msgid "Authorize this application to use your Discogs account?"
-msgstr ""
+msgstr "Discogsアカウントを使用するために、このアプリを許可しますか"
 
 msgid "Authorized Applications"
-msgstr ""
+msgstr "認定アプリ"
 
 msgid "Auto-number Tracks"
-msgstr ""
+msgstr "自動でトラックに番号をつける"
 
 msgid "Automatic shipping calculation is <strong>disabled</strong>."
 msgstr ""
@@ -1244,13 +1257,13 @@ msgid "Automatic shipping calculation is <strong>enabled</strong>."
 msgstr ""
 
 msgid "Average"
-msgstr ""
+msgstr "平均"
 
 msgid "Average Vote"
 msgstr ""
 
 msgid "Average vote cast over the past 30 days"
-msgstr ""
+msgstr "過去30日間の平均投票"
 
 msgid "Avg Rating"
 msgstr ""
@@ -1259,40 +1272,40 @@ msgid "BIC/SWIFT"
 msgstr ""
 
 msgid "Back to Discuss overview"
-msgstr ""
+msgstr "ディスカッションの概要へ戻る"
 
 msgid "Back to release"
-msgstr ""
+msgstr "リリースへ戻る"
 
 msgid "Ban"
 msgstr ""
 
 msgid "Ban user and delete all their groups"
-msgstr ""
+msgstr "ユーザを禁止し、すべてのグループを削除"
 
 msgid "Bank Transfer"
 msgstr ""
 
-#, python-format
+#, fuzzy, python-format
 msgid "Banned %s and deleted %d groups:"
-msgstr ""
+msgstr "禁止%s・削除%dされたグループ："
 
-#, python-format
+#, fuzzy, python-format
 msgid "Banned %s and deleted %d topics:"
-msgstr ""
+msgstr "禁止%s・削除 %dされたトピック："
 
 msgid "Banned Users"
 msgstr ""
 
 #, python-format
 msgid "Banned user %s from this group."
-msgstr ""
+msgstr "このグループからユーザ%sを禁止した。"
 
 msgid "Bans"
 msgstr ""
 
 msgid "Barcode"
-msgstr ""
+msgstr "バーコード"
 
 msgid "Barcode and Other Identifiers"
 msgstr "バーコードとその他の識別子"
@@ -1315,10 +1328,10 @@ msgid ""
 msgstr ""
 
 msgid "Basic privacy settings"
-msgstr ""
+msgstr "基本的なプライバシー設定"
 
 msgid "Be able to use authentication to build third-party apps"
-msgstr ""
+msgstr "サードパーティアプリを作成するには認証が必要です"
 
 msgid ""
 "Be sure to include a full and detailed justification for your submission."
@@ -1345,7 +1358,7 @@ msgid "Before you can place an order, we need your shipping information."
 msgstr ""
 
 msgid "Before you submit:"
-msgstr ""
+msgstr "送信する前に："
 
 msgid "Best condition"
 msgstr ""
@@ -1357,54 +1370,54 @@ msgid "Billing, sales fees and fee credit information for sellers."
 msgstr ""
 
 msgid "Block"
-msgstr ""
+msgstr "ブロック"
 
 msgid "Block Sender"
-msgstr ""
+msgstr "送り手をブロック"
 
 msgid "Block another user"
-msgstr ""
+msgstr "もう一つのユーザをブロック"
 
-#, python-format
+#, fuzzy, python-format
 msgid "Blocked %s"
-msgstr ""
+msgstr "%sを"
 
 msgid "Blocked Buyers"
 msgstr ""
 
 msgid "Blocked Users"
-msgstr ""
+msgstr "ブロックしたユーザ"
 
 msgid "Blocked users"
-msgstr ""
+msgstr "ブロックしたユーザ"
 
 msgid "Blocked users are not allowed to contact you."
-msgstr ""
+msgstr "ブロックされたユーザはお客様に連絡を取ることはできません。"
 
 msgid "Blog"
-msgstr ""
+msgstr "ブログ"
 
 msgid "Bought by"
-msgstr ""
+msgstr "よって購入された"
 
 msgid "Browse"
-msgstr ""
+msgstr "ブラウズ"
 
 #, python-format
 msgid "Browse %(mode)s Groups"
-msgstr ""
+msgstr "ブラウズ %(mode)s グループ"
 
 msgid "Browse Groups"
-msgstr ""
+msgstr "ブラウズ・グループ"
 
 msgid "Browse Groups By Tag"
-msgstr ""
+msgstr "タグによるブラウズ・グループ"
 
 msgid "Browsing and Searching"
 msgstr ""
 
 msgid "Browsing options"
-msgstr ""
+msgstr "ブラウズのオプション"
 
 msgid "Bugs and Feature Requests"
 msgstr ""
@@ -1421,30 +1434,30 @@ msgstr ""
 msgid "Buy"
 msgstr ""
 
-#, python-format
+#, fuzzy, python-format
 msgid "Buy %s%sat Discogs Marketplace"
-msgstr ""
+msgstr "%s%sDiscogsマーケットプレイスで購入"
 
 #, python-format
 msgid "Buy %s, includes %s"
-msgstr ""
+msgstr "%sを購入する, %s含む"
 
 msgid "Buy Music"
-msgstr ""
+msgstr "音楽を購入する"
 
 msgid "Buy Similar Items"
 msgstr ""
 
 msgid "Buy and Sell Vinyl and CDs at Discogs Marketplace"
-msgstr ""
+msgstr "DiscogsマーケットプレイスでレコードとCDを買う・売る"
 
 msgid ""
 "Buy rare and hard to find music on vinyl records and used CDs from "
 "thousands of online record stores."
-msgstr ""
+msgstr "アナログレコードやレアで見つけることが困難なレコードや中古CDを数千のオンラインレコード店のから購入する。"
 
 msgid "Buyer"
-msgstr ""
+msgstr "買い手"
 
 #, python-format
 msgid "Buyer Awaiting Response notice for Order #%(order_id)s"
@@ -1501,7 +1514,7 @@ msgstr ""
 msgid ""
 "Buyers feel more confident doing business with PayPal Verified sellers, "
 "who are more likely to be legitimate, trustworthy merchants."
-msgstr ""
+msgstr "買い手は、PayPalで売り手との取引でさらに自信となり、合法的なのでさらに可能性と信頼を生みます。"
 
 msgid "Buyers will not be able to pay at checkout."
 msgstr ""
@@ -1556,23 +1569,23 @@ msgstr ""
 msgid ""
 "CSV uploaded successfully! Depending on the size of your CSV, the import "
 "process might take a few minutes."
-msgstr ""
+msgstr "CSVファイルのアップロードが成功しました(ファイルに大きさによって反映に時間がかかる場合があります。"
 
 msgid "Callback URL"
-msgstr ""
+msgstr "URLに再接続"
 
 #, python-format
 msgid "Can be any of these <a href=\"%(link)s\">format fields</a>."
-msgstr ""
+msgstr "これらの<a href=\"%(link)s\">フィールドフォーマット</a>のいずれかになります。"
 
 msgid "Can't find a group for you?"
-msgstr ""
+msgstr "お好きなのグループを見つけることができませんか"
 
 msgid "Can't find it on Discogs?"
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 msgid "Cancelled"
 msgstr ""
@@ -1594,19 +1607,19 @@ msgstr ""
 
 #, python-format
 msgid "Cannot %s yourself."
-msgstr ""
+msgstr "%s お客様自身でできません。"
 
 msgid "Cannot estimate; item is not associated with a release"
 msgstr ""
 
 msgid "Cannot invite yourself."
-msgstr ""
+msgstr "自分を招待することができません。"
 
 msgid "Card Verification<br>Number"
-msgstr ""
+msgstr "カードの認証番号"
 
 msgid "Cart"
-msgstr ""
+msgstr "カート"
 
 msgid "Cat #"
 msgstr ""
@@ -1615,16 +1628,16 @@ msgid "Cat#"
 msgstr ""
 
 msgid "Catalog #"
-msgstr ""
+msgstr "カタログ#"
 
 msgid "Catalog Number"
-msgstr ""
+msgstr "カタログナンバー"
 
 msgid "Catalog and estimate the value of your music collection."
 msgstr ""
 
 msgid "Catalog number of the release."
-msgstr ""
+msgstr "リリースのカタログ・ナンバー。"
 
 msgid ""
 "Catalog your collection and keep tabs on current market value. Add items "
@@ -1632,28 +1645,29 @@ msgid ""
 msgstr ""
 
 msgid "Catalog#"
-msgstr ""
+msgstr "カタログ・ナンバー"
 
 msgid "Change Currency"
-msgstr ""
+msgstr "両替"
 
 msgid "Change Email Address"
 msgstr ""
 
+#, fuzzy
 msgid "Change Log"
-msgstr ""
+msgstr "からの変更"
 
 msgid "Change Password"
-msgstr ""
+msgstr "パスワードの変更"
 
 msgid "Change Status"
 msgstr ""
 
 msgid "Change my email address"
-msgstr ""
+msgstr "eメールアドレスの変更"
 
 msgid "Change password"
-msgstr ""
+msgstr "パスワードの変更"
 
 msgid "Change status"
 msgstr ""
@@ -1661,8 +1675,9 @@ msgstr ""
 msgid "Change your address"
 msgstr ""
 
+#, fuzzy
 msgid "Change your avatar at "
-msgstr ""
+msgstr "自分のアバターを変更する"
 
 msgid "Change your email address"
 msgstr ""
@@ -1671,20 +1686,20 @@ msgid "Change your reply?"
 msgstr ""
 
 msgid "Changed By"
-msgstr ""
+msgstr "からの変更"
 
 msgid "Changed by"
-msgstr ""
+msgstr "からの変更"
 
 msgid "Changed password"
-msgstr ""
+msgstr "パスワードの変更"
 
 msgid "Changes to your application have been saved."
-msgstr ""
+msgstr "アプリへの変更は保存されました。"
 
 #, python-format
 msgid "Changes will be reflected in our browse/search pages within %d minutes."
-msgstr ""
+msgstr "変更は%d以内に更新されます。"
 
 msgid "Changing listings in bulk"
 msgstr ""
@@ -1692,7 +1707,7 @@ msgstr ""
 msgid ""
 "Changing your password is <em>not required</em><br />to change general or"
 " profile settings."
-msgstr ""
+msgstr "一般またはプロフィールの設定を変更するには、<br />パスワードを変更する<em>必要がありません</em>。"
 
 msgid "Charging Discogs Fee"
 msgstr ""
@@ -1703,7 +1718,7 @@ msgid ""
 msgstr ""
 
 msgid "Check or Money Order"
-msgstr ""
+msgstr "チェックまたはマネーオーダーしてください"
 
 msgid "Check out 360 Vinyl's profile"
 msgstr ""
@@ -1731,7 +1746,7 @@ msgid "Check out our <a href=\"%(link)s\">guide on searching</a>."
 msgstr ""
 
 msgid "Check out our help section"
-msgstr ""
+msgstr "ヘルプ・セクションをチェックしてください"
 
 msgid ""
 "Check out this year's RSD releases as they're added to the Discogs "
@@ -1739,21 +1754,21 @@ msgid ""
 msgstr ""
 
 msgid "Check the Selection"
-msgstr ""
+msgstr "セレクションをチェック"
 
 msgid ""
 "Check your e-mail for further instructions. If it doesn't appear within a"
 " few minutes, check your spam folder."
-msgstr ""
+msgstr "詳細な手順については、eメールをチェックしてください。それが数分以内に確認できない場合は、迷惑メールフォルダを確認してください。"
 
 msgid "Choices"
-msgstr ""
+msgstr "選択する"
 
 msgid "Choose a CSV file"
 msgstr ""
 
 msgid "Choose a list"
-msgstr ""
+msgstr "選択されたリスト"
 
 msgid "Choose export options"
 msgstr ""
@@ -1762,7 +1777,7 @@ msgid "Choose your Discogs username:"
 msgstr ""
 
 msgid "City"
-msgstr ""
+msgstr "市町村"
 
 msgid "City/Town"
 msgstr ""
@@ -1771,7 +1786,7 @@ msgid "Clear All Filters"
 msgstr ""
 
 msgid "Clear My Saved Submissions"
-msgstr ""
+msgstr "保存サブミッションを消去する"
 
 #, python-format
 msgid ""
@@ -1800,7 +1815,7 @@ msgid "Click on 'Pay' next to the invoice that shows 'Past Due'"
 msgstr ""
 
 msgid "Click once and wait"
-msgstr ""
+msgstr "一度クリックしてお待ちください"
 
 msgid "Click the link below to view all orders currently awaiting feedback:"
 msgstr ""
@@ -1815,7 +1830,7 @@ msgid "Click to unsubscribe"
 msgstr ""
 
 msgid "Close"
-msgstr ""
+msgstr "終了"
 
 msgid "Closing your Discogs Account"
 msgstr ""
@@ -1823,23 +1838,26 @@ msgstr ""
 msgid "Code"
 msgstr ""
 
+#, fuzzy
 msgid "Collapse"
-msgstr ""
+msgstr "縮小"
 
+#, fuzzy
 msgid "Collapse Row"
-msgstr ""
+msgstr "縮小"
 
 msgid "Collection"
 msgstr "コレクション"
 
 msgid "Collection Note Fields"
-msgstr ""
+msgstr "コレクション ノート フィールド"
 
+#, fuzzy
 msgid "Collection Value Range"
-msgstr ""
+msgstr "コレクションの価格帯"
 
 msgid "Collection item not found"
-msgstr ""
+msgstr "コレクションのアイテムが見つかりません"
 
 msgid "Comment for feedback"
 msgstr ""
@@ -1848,11 +1866,13 @@ msgid "Comment:"
 msgstr ""
 
 msgid "Comments"
-msgstr ""
+msgstr "コメント"
 
-#, python-format
+#, fuzzy, python-format
 msgid "Comments about your item (limited to %(limit)s characters)."
 msgstr ""
+"お客様のアイテムについてのコメント\n"
+"(limited to %(limit)s characters)。"
 
 #, python-format
 msgid "Comments for %(person)s"
@@ -1862,31 +1882,32 @@ msgid "Comments on offer:"
 msgstr ""
 
 msgid "Comments on this item"
-msgstr ""
+msgstr "このアイテムについてのコメント"
 
 msgid "Community"
-msgstr ""
+msgstr "コミュニティ"
 
 msgid "Companies etc"
 msgstr ""
 
 msgid "Company Core Values"
-msgstr ""
+msgstr "企業の中心的な価値"
 
 msgid "Complete And Correct"
-msgstr ""
+msgstr "完全に正確に"
 
 msgid "Compose"
 msgstr ""
 
 msgid "Compose New Message"
-msgstr ""
+msgstr "新しいメッセージを書く"
 
 msgid "Compose Newsletter"
 msgstr ""
 
+#, fuzzy
 msgid "Condition"
-msgstr ""
+msgstr "状態"
 
 msgid "Condition and comments"
 msgstr ""
@@ -1898,22 +1919,22 @@ msgid "Conditions"
 msgstr ""
 
 msgid "Confirm Account"
-msgstr ""
+msgstr "アカウントの確認"
 
 msgid "Confirm Email Address Change"
-msgstr ""
+msgstr "eメールアドレス変更の確認"
 
 msgid "Confirm Your Post"
-msgstr ""
+msgstr "投稿を確認する"
 
 msgid "Confirm new password"
-msgstr ""
+msgstr "新しいパスワードの確認"
 
 msgid "Confirmation"
-msgstr ""
+msgstr "確認"
 
 msgid "Confirmation code has been resent."
-msgstr ""
+msgstr "確認コードを再送信しました。"
 
 msgid "Congratulations, you have been granted voting rights at Discogs!"
 msgstr ""
@@ -1929,16 +1950,16 @@ msgid ""
 msgstr ""
 
 msgid "Consumer Key"
-msgstr ""
+msgstr "コンシューマー・キー"
 
 msgid "Consumer Secret"
-msgstr ""
+msgstr "コンシューマーのシークレット"
 
 msgid "Contact"
 msgstr "お問い合わせ"
 
 msgid "Contact Info"
-msgstr ""
+msgstr "お問い合わせ"
 
 #, python-format
 msgid "Contact Info %(optional)s"
@@ -1953,11 +1974,12 @@ msgstr ""
 msgid "Contact a staff member"
 msgstr ""
 
+#, fuzzy
 msgid "Contact seller"
-msgstr ""
+msgstr "売り手へのコンタクト"
 
 msgid "Contained Releases"
-msgstr ""
+msgstr "含まれているリリース"
 
 msgid "Contains <strong>links</strong>, or"
 msgstr ""
@@ -1971,19 +1993,19 @@ msgid "Contains <strong>profane, vulgar, obscene or racist</strong> language, or
 msgstr ""
 
 msgid "Content, new feature releases, and statistics related to buying"
-msgstr ""
+msgstr "「購買」に関する、新しいコンテンツ・リリース・統計"
 
 msgid "Content, new feature releases, and statistics related to contributing"
-msgstr ""
+msgstr "「寄稿」に関する、新しいコンテンツ・リリース・統計"
 
 msgid "Content, new feature releases, and statistics related to selling"
-msgstr ""
+msgstr "「販売」に関する、新しいコンテンツ・リリース・統計"
 
 msgid "Continuous Improvement"
-msgstr ""
+msgstr "継続的改善"
 
 msgid "Contribute"
-msgstr "貢献"
+msgstr "投稿"
 
 msgid "Contributed"
 msgstr ""
@@ -1995,7 +2017,7 @@ msgid "Contributing to Discogs"
 msgstr ""
 
 msgid "Contributions"
-msgstr ""
+msgstr "投稿"
 
 msgid "Contributor"
 msgstr ""
@@ -2004,7 +2026,7 @@ msgid "Contributor Improvement Program"
 msgstr ""
 
 msgid "Contributor List"
-msgstr "貢献者リスト"
+msgstr "投稿者リスト"
 
 msgid "Contributor Stats"
 msgstr ""
@@ -2015,11 +2037,11 @@ msgstr ""
 msgid "Contributors"
 msgstr ""
 
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "Control which kinds of events are posted to <a href=\"%(link)s\">your "
 "activity feed</a>."
-msgstr ""
+msgstr "<a href=\"%(link)s\">活動フィード</a>に投稿されたイベントの種類を確認する。"
 
 #, python-format
 msgid ""
@@ -2028,6 +2050,8 @@ msgid ""
 "instructions on enabling cookies.<p>** <b>After</b> you have enabled "
 "cookies please %s to log in. **"
 msgstr ""
+"クッキーが有効になっていません。<p>お使いのブラウザのクッキーを有効設定にしていません。クッキーを有効にする手順については、お使いのブラウザのヘルプを参照してください。<p>**"
+" クッキーを有効にしたら<b>後</b>、ログインするため%sをしてください。** "
 
 msgid "Copy and Relist Selected"
 msgstr ""
@@ -2036,10 +2060,10 @@ msgid "Copy from PayPal account"
 msgstr ""
 
 msgid "Copy to Draft"
-msgstr ""
+msgstr "ドラフトへコピー"
 
 msgid "Correct"
-msgstr ""
+msgstr "正しい"
 
 #, python-format
 msgid "Correct Artist Name %(optional)s"
@@ -2050,128 +2074,131 @@ msgid "Correct Label Name %(optional)s"
 msgstr ""
 
 msgid "Count"
-msgstr ""
+msgstr "カウント"
 
 msgid "Country"
-msgstr "国"
+msgstr "国・地域"
 
 msgid "Counts as"
-msgstr ""
+msgstr "としてカウント"
 
 msgid "Create Account"
 msgstr ""
 
 msgid "Create Group"
-msgstr ""
+msgstr "グループを作成"
 
 msgid "Create Invite Only Group"
-msgstr ""
+msgstr "招待だけのグループを作成"
 
 msgid "Create Master Release"
 msgstr ""
 
 msgid "Create My Account"
-msgstr ""
+msgstr "私のアカウントを作成"
 
 msgid "Create New Discogs Account"
 msgstr ""
 
 msgid "Create New Group"
-msgstr ""
+msgstr "新しいグループを作成"
 
 msgid "Create Public Group"
-msgstr ""
+msgstr "公的なグループを作成"
 
 msgid "Create Your New Discogs Account"
 msgstr ""
 
 msgid "Create a New Group"
-msgstr ""
+msgstr "新しいグループを作成"
 
 #, python-format
 msgid "Create a new %(mode)s group"
-msgstr ""
+msgstr "新しい%(mode)sグループを作成します"
 
 msgid "Create a new message"
-msgstr ""
+msgstr "新しいメッセージの作成"
 
 msgid "Create a new topic"
-msgstr ""
+msgstr "新しいトピックを作成"
 
 msgid "Create an Account"
-msgstr ""
+msgstr "アカウントを作成"
 
 msgid "Create an Application"
-msgstr ""
+msgstr "アプリを作成"
 
 msgid "Create an account now."
 msgstr ""
 
 msgid "Create an application"
-msgstr ""
+msgstr "アプリを作成"
 
 msgid "Create application"
-msgstr ""
+msgstr "アプリを作成"
 
 msgid "Create your Discogs account"
-msgstr ""
+msgstr "Discogsアカウントを作成"
 
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "Create your Discogs account and we'll apply a <strong>$%(credit)s "
 "credit</strong>."
-msgstr ""
+msgstr "お客様のDiscogsアカウントを作成し、Discogsは<strong>$%(credit)s credit</strong>を適用します。"
 
 msgid "Create, update, or delete custom note fields for your collection."
-msgstr ""
+msgstr "お客様のコレクションにカスタムノートフィールドの作成・更新・削除する。"
 
 msgid "Created"
-msgstr ""
+msgstr "作成されました"
 
 msgid "Created broadcast."
-msgstr ""
+msgstr "作成されたブロードキャスト。"
 
 msgid "Creator"
-msgstr ""
+msgstr "クリエーター"
 
+#, fuzzy
 msgid "Credit"
-msgstr ""
+msgstr "クレジット"
 
 msgid "Credit Card"
 msgstr ""
 
 msgid "Credit Card Information"
-msgstr ""
+msgstr "クレジットカード情報"
 
 msgid "Credit Card Number"
-msgstr ""
+msgstr "クレジットカードの番号"
 
 msgid "Credit Card Type"
-msgstr ""
+msgstr "クレジットカードの種類"
 
 msgid "Credit card"
-msgstr ""
+msgstr "クレジットカード"
 
+#, fuzzy
 msgid "Credit {} (${:.2f}) has been reversed."
-msgstr ""
+msgstr "{} (${:.2f}) のクレジットは返金されました。"
 
 msgid "Credit {} (${:.2f}) is applied to invoice {} and cannot be reversed."
-msgstr ""
+msgstr "クレジット{} (${:.2f}) は請求書{}に適用されました。元に戻すことはできません。"
 
 msgid "Credit {} does not exist."
-msgstr ""
+msgstr "クレジット{}は存在しません。"
 
 msgid "Credit:"
 msgstr ""
 
+#, fuzzy
 msgid "Credits"
-msgstr ""
+msgstr "クレジット"
 
 msgid "Credits List"
-msgstr ""
+msgstr "クレジットのリスト"
 
 msgid "Currency"
-msgstr ""
+msgstr "通貨"
 
 msgid "Currency information will be pulled from your marketplace settings."
 msgstr ""
@@ -2180,7 +2207,7 @@ msgid "Current Email"
 msgstr ""
 
 msgid "Current Invoice Items"
-msgstr ""
+msgstr "現在の請求書のアイテム詳細"
 
 msgid "Current Quality Rating:"
 msgstr ""
@@ -2189,16 +2216,16 @@ msgid "Current Videos"
 msgstr ""
 
 msgid "Current password"
-msgstr ""
+msgstr "現在のパスワード"
 
 msgid "Custom Range"
 msgstr ""
 
 msgid "Customize This Page"
-msgstr ""
+msgstr "このページをカストマイズ"
 
 msgid "Dashboard"
-msgstr ""
+msgstr "ダッシュボード"
 
 msgid "Data Correct"
 msgstr ""
@@ -2206,23 +2233,24 @@ msgstr ""
 msgid "Data Quality"
 msgstr ""
 
+#, fuzzy
 msgid "Database"
-msgstr ""
+msgstr "データベース"
 
 msgid "Database Help Topics"
 msgstr ""
 
 msgid "Database Notifications"
-msgstr ""
+msgstr "データベース の通知"
 
 msgid "Date"
-msgstr ""
+msgstr "日付"
 
 msgid "Date Processed"
 msgstr ""
 
 msgid "Date in CIP"
-msgstr ""
+msgstr "CIPの日付"
 
 msgid "Decade"
 msgstr ""
@@ -2230,7 +2258,7 @@ msgstr ""
 msgid ""
 "Decide who can contact you, and what information you would like to share "
 "with others."
-msgstr ""
+msgstr "シェアする情報とお客様に連絡できるユーザを設定してください。"
 
 msgid "Decline"
 msgstr ""
@@ -2239,22 +2267,23 @@ msgid "Default Currency Display"
 msgstr ""
 
 msgid "Delete"
-msgstr ""
+msgstr "クリア"
 
 msgid "Delete Folder"
-msgstr ""
+msgstr "フォルダを消去"
 
 msgid "Delete Listing"
 msgstr ""
 
 msgid "Delete Master Release"
-msgstr ""
+msgstr "マスター・リリースの削除"
 
 msgid "Delete Policy"
 msgstr ""
 
+#, fuzzy
 msgid "Delete Row"
-msgstr ""
+msgstr "クリア"
 
 msgid "Delete This List"
 msgstr ""
@@ -2262,8 +2291,9 @@ msgstr ""
 msgid "Delete all items"
 msgstr ""
 
+#, fuzzy
 msgid "Delete app"
-msgstr ""
+msgstr "クリア"
 
 msgid "Delete my Discogs account"
 msgstr ""
@@ -2272,23 +2302,24 @@ msgid "Delete my account"
 msgstr ""
 
 msgid "Delete this image permanently?"
-msgstr ""
+msgstr "この画像を完全に削除しますか"
 
 msgid "Deleted"
-msgstr ""
+msgstr "消去されました"
 
 msgid "Deleted Folder"
-msgstr ""
+msgstr "フォルダが消去されました"
 
 msgid "Deleted broadcast."
-msgstr ""
+msgstr "ブロードキャストが消去されました。"
 
 msgid "Deleted items"
-msgstr ""
+msgstr "アイテムが消去されました"
 
+#, fuzzy
 msgid "Deleted message."
 msgid_plural "Deleted messages."
-msgstr[0] ""
+msgstr[0] "メッセージが消去されました。"
 
 msgid "Deleting listings in bulk"
 msgstr ""
@@ -2302,10 +2333,10 @@ msgid ""
 msgstr ""
 
 msgid "Description"
-msgstr ""
+msgstr "説明"
 
 msgid "Desktop"
-msgstr ""
+msgstr "デスクトップ"
 
 msgid "Destinations"
 msgstr ""
@@ -2323,23 +2354,25 @@ msgid "Details/History:"
 msgstr ""
 
 msgid "Developers Settings"
-msgstr ""
+msgstr "開発者の設定"
 
+#, fuzzy
 msgid "Development"
-msgstr ""
+msgstr "開発者の設定"
 
 msgid "Did you mean"
 msgstr ""
 
 msgid "Did you mean the artist named"
-msgstr ""
+msgstr "アーティストの名前をつけましたか\""
 
 #, python-format
 msgid "Did you mean the label named %s?"
-msgstr ""
+msgstr "レーベルの名前をつけましたか %s?"
 
+#, fuzzy
 msgid "Disable"
-msgstr ""
+msgstr "無効の画像"
 
 msgid "Disable offers for all items"
 msgstr ""
@@ -2351,7 +2384,7 @@ msgid "Disabled"
 msgstr ""
 
 msgid "Disabled Images"
-msgstr ""
+msgstr "無効の画像"
 
 msgid "Discography"
 msgstr "ディスコグラフィー"
@@ -2373,8 +2406,9 @@ msgid ""
 "More"
 msgstr ""
 
+#, fuzzy
 msgid "Discogs API v2 Applications"
-msgstr ""
+msgstr "API v2 アプリ"
 
 msgid "Discogs Account Password Reset Instructions"
 msgstr ""
@@ -2395,13 +2429,13 @@ msgid "Discogs Contributors"
 msgstr ""
 
 msgid "Discogs Forum"
-msgstr ""
+msgstr "Discogs フォーラム"
 
 msgid "Discogs Groups"
-msgstr ""
+msgstr "Discogs グループ"
 
 msgid "Discogs Groups - Tag"
-msgstr ""
+msgstr "Discogs グループ - タグ"
 
 msgid ""
 "Discogs HQ is located right off the Beaverton Central MAX stop in "
@@ -2420,7 +2454,7 @@ msgid "Discogs Help"
 msgstr ""
 
 msgid "Discogs Inbox"
-msgstr ""
+msgstr "Discogs インデックス"
 
 #, python-format
 msgid "Discogs Invoice for %(invoice_date)s"
@@ -2430,10 +2464,10 @@ msgid "Discogs Labs"
 msgstr ""
 
 msgid "Discogs Marketplace"
-msgstr ""
+msgstr "Discogsのマーケットプレイス"
 
 msgid "Discogs Marketplace invoice"
-msgstr ""
+msgstr "Discogsのマーケットプレイスの請求書"
 
 msgid "Discogs Marketplace payment reminder"
 msgstr ""
@@ -2451,10 +2485,12 @@ msgstr ""
 
 #, python-format
 msgid "Discogs Order %(id)s"
-msgstr ""
+msgstr "Discogs 注文 %(id)s"
 
 msgid "Discogs Secure Site"
 msgstr ""
+"Discogs \n"
+"セキュアサイト"
 
 msgid "Discogs Support"
 msgstr ""
@@ -2468,12 +2504,12 @@ msgstr ""
 msgid ""
 "Discogs can recommend new releases to you based on your recent activity. "
 "Check back soon!"
-msgstr ""
+msgstr "Discogsは、最近の活動をもとに、新しいリリースをお勧めすることができます。すぐに戻ってチェックしてください"
 
 msgid ""
 "Discogs can recommend releases to you based on your recent activity. "
 "Check back soon!"
-msgstr ""
+msgstr "Discogsは、お客様の最近の活動に基づいてリリースをお勧めすることができます。またチェックしてください。"
 
 msgid "Discogs data export available for download"
 msgstr ""
@@ -2481,7 +2517,7 @@ msgstr ""
 msgid ""
 "Discogs is a collaborative effort that wouldn't be possible without a "
 "community of music obsessives focused on a common goal."
-msgstr ""
+msgstr "Discogsは共通の目標に焦点を当てた音楽を執念のあるコミュニティなしでは不可能な共同的成果です。"
 
 msgid ""
 "Discogs is provided with a valid <strong>court order</strong> finding "
@@ -2531,13 +2567,13 @@ msgid ""
 "Discogs will charge a %(fee_percentage)s%% commision fee, with a minimum "
 "fee of %(min_fee)s, on each completed sale.  Listing is free. The "
 "commission will be calculated in the next step."
-msgstr ""
+msgstr "Discogsは完了した各販売に、%(min_fee)sの最低料金で、%(fee_percentage)s%%のコミッション料をお支払いいただきます。リストは無料です。手数料は次のステップで計算されます。"
 
 msgid "Discuss on Discogs"
 msgstr ""
 
 msgid "Discussion"
-msgstr ""
+msgstr "ディスカッション"
 
 msgid "Discussion Board"
 msgstr ""
@@ -2546,7 +2582,7 @@ msgstr ""
 msgid ""
 "Discussion of credit roles should take place in the official <a "
 "href=\"%(link)s\">New Credit Roles</a> Forum thread."
-msgstr ""
+msgstr "クレジットの役割に関するフォーラムスレッド<a href=\"%(link)s\">新しいクレジットの役割</a>"
 
 msgid "Discussions"
 msgstr ""
@@ -2600,27 +2636,27 @@ msgid "Draft"
 msgstr ""
 
 msgid "Draft Images"
-msgstr ""
+msgstr "画像のドラフト"
 
 msgid "Draft has been deleted."
-msgstr ""
+msgstr "ドラフトは消去されました。"
 
 msgid "Draft release are not allowed to be sold"
-msgstr ""
+msgstr "ドラフトのリリースを販売することは許可されていません"
 
 msgid "Drafts"
-msgstr "下書き"
+msgstr "ドラフト"
 
 msgid "Drag and drop files or click to browse"
 msgstr ""
 
 msgid "Duration"
-msgstr ""
+msgstr "期限"
 
 msgid ""
 "During periods of high listing volume it may take longer for your items "
 "to appear."
-msgstr ""
+msgstr "リストの量が多いときは、お客様のアイテムが表示されるまで時間がかかることがあります。"
 
 msgid "E-mail address"
 msgstr ""
@@ -2632,14 +2668,14 @@ msgid "E-mail me when it's done"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "編集"
 
 msgid "Edit "
-msgstr ""
+msgstr "編集"
 
 #, python-format
 msgid "Edit %(app_name)s Application"
-msgstr ""
+msgstr "%(app_name)sのアプリの編集"
 
 msgid "Edit / Submit"
 msgstr ""
@@ -2651,13 +2687,13 @@ msgid "Edit Features"
 msgstr ""
 
 msgid "Edit Images"
-msgstr ""
+msgstr "画像を編集"
 
 msgid "Edit Inventory"
 msgstr ""
 
 msgid "Edit Item"
-msgstr ""
+msgstr "アイテムを編集"
 
 msgid "Edit Label"
 msgstr ""
@@ -2672,22 +2708,22 @@ msgid "Edit Message"
 msgstr ""
 
 msgid "Edit Post"
-msgstr ""
+msgstr "投稿を編集"
 
 msgid "Edit Release"
 msgstr ""
 
 msgid "Edit Settings"
-msgstr ""
+msgstr "設定を編集"
 
 msgid "Edit Your List"
 msgstr ""
 
 msgid "Edit all Track Artists/Credits"
-msgstr ""
+msgstr "全てのトラックのアーティスト/クレジットを編集"
 
 msgid "Edit message"
-msgstr ""
+msgstr "メッセージを編集"
 
 msgid "Editing Artist"
 msgstr ""
@@ -2696,28 +2732,29 @@ msgid "Editing Inventory"
 msgstr ""
 
 msgid "Email"
-msgstr ""
+msgstr "eメール"
 
 msgid "Email address"
-msgstr ""
+msgstr "eメール・アドレス"
 
 msgid "Email matches autohold string"
-msgstr ""
+msgstr "AutoHoldの列にeメールがマッチする"
 
 msgid "Email me the instructions"
-msgstr ""
+msgstr "指示を私にeメールを送る"
 
 msgid "Email me when someone replies"
-msgstr ""
+msgstr "誰かが返信するとき私にeメールで知らせる"
 
 msgid "Embrace Open Source"
-msgstr ""
+msgstr "オープンソースを取り囲む"
 
 msgid "Empty Cart"
 msgstr ""
 
+#, fuzzy
 msgid "Enable"
-msgstr ""
+msgstr "有効にする"
 
 msgid "Enable Discogs Labs features"
 msgstr ""
@@ -2732,7 +2769,7 @@ msgid "Enter different payee"
 msgstr ""
 
 msgid "Enter one or more tags, separated by spaces."
-msgstr ""
+msgstr "ひとつ以上、タグを入力してください。"
 
 msgid ""
 "Enter the <em>Release URL</em> or <em>Release ID</em> of the <em>Key "
@@ -2745,7 +2782,7 @@ msgstr ""
 msgid ""
 "Enter the email address associated with your Discogs account. Password "
 "reset instructions will be sent via email."
-msgstr ""
+msgstr "お客様のDiscogsアカウントに関連付けられたeメールアドレスを入力します。パスワードのリセットの命令は、Eメールで送信されます。"
 
 msgid "Enter your password"
 msgstr ""
@@ -2754,29 +2791,29 @@ msgid "Enter your password one last time"
 msgstr ""
 
 msgid "Enter your promo code"
-msgstr ""
+msgstr "プロモーションコードを入力してください"
 
 msgid "Enter your reply"
-msgstr ""
+msgstr "返信を入力してください"
 
 msgid "Enter your review or comment"
-msgstr ""
+msgstr "レビューもしくはコメントを入力する"
 
 msgid "Entirely Incorrect"
-msgstr ""
+msgstr "完全に正しくない"
 
 msgid "Error"
-msgstr ""
+msgstr "エラー"
 
 msgid "Error saving file"
-msgstr ""
+msgstr "エラーの保存ファイル"
 
 #, python-format
 msgid "Error with module: %s"
-msgstr ""
+msgstr "モジュール %s でエラー発生"
 
 msgid "Errors"
-msgstr ""
+msgstr "エラー"
 
 msgid "Estimate"
 msgstr ""
@@ -2791,19 +2828,19 @@ msgid "Estimate shipping weights"
 msgstr ""
 
 msgid "Everyone's Activity"
-msgstr ""
+msgstr "全員の活動"
 
 msgid "Existing List"
-msgstr ""
+msgstr "既存のリスト"
 
 msgid "Expand Row"
-msgstr ""
+msgstr "行を展開"
 
 msgid "Expected integer release_id"
-msgstr ""
+msgstr "予定されている整数release_id"
 
 msgid "Expiration Date"
-msgstr ""
+msgstr "有効期限"
 
 msgid "Expire all For Sale items"
 msgstr ""
@@ -2827,7 +2864,7 @@ msgid "Export My Collection"
 msgstr ""
 
 msgid "Export My Contributions"
-msgstr ""
+msgstr "私の投稿をエクスポートする"
 
 msgid "Export My Wantlist"
 msgstr ""
@@ -2860,22 +2897,22 @@ msgid "Feature"
 msgstr ""
 
 msgid "Fee"
-msgstr ""
+msgstr "費用"
 
 msgid "Fee Credits"
 msgstr ""
 
 msgid "Fee after sale"
-msgstr ""
+msgstr "販売後の費用"
 
 msgid "Feedback"
-msgstr ""
+msgstr "フィードバック"
 
 msgid "Feedback Removed"
 msgstr ""
 
 msgid "Feedback Reply Removed"
-msgstr ""
+msgstr "フィードバックの返信を削除"
 
 msgid "Feedback Review"
 msgstr ""
@@ -2893,16 +2930,16 @@ msgid ""
 msgstr ""
 
 msgid "Field"
-msgstr ""
+msgstr "フィールド"
 
 msgid "Field Name"
-msgstr ""
+msgstr "フィールド名"
 
 msgid "File Structure"
 msgstr ""
 
 msgid "File Type"
-msgstr ""
+msgstr "ファイル・タイプ"
 
 msgid "File Upload"
 msgstr ""
@@ -2911,10 +2948,10 @@ msgid "File a request as the entered username"
 msgstr ""
 
 msgid "File format releases are not allowed to be sold"
-msgstr ""
+msgstr "ファイル形式のリリースを販売することは許可されていません"
 
 msgid "File selected"
-msgstr ""
+msgstr "選択中ファイル"
 
 msgid "Filename"
 msgstr ""
@@ -2926,7 +2963,7 @@ msgid "Filter"
 msgstr ""
 
 msgid "Find your group on Discogs."
-msgstr ""
+msgstr "Discogsでグループを見つける。"
 
 msgid "Find your new favorite musical recording. Record shops are full of them!"
 msgstr ""
@@ -2935,7 +2972,7 @@ msgid "Finished?"
 msgstr ""
 
 msgid "First Name"
-msgstr ""
+msgstr "ファースト・ネーム"
 
 msgid "First and last name"
 msgstr ""
@@ -2960,19 +2997,19 @@ msgid "Flat rate"
 msgstr ""
 
 msgid "Focus on Search"
-msgstr ""
+msgstr "検索に焦点を当てる"
 
 msgid "Folder"
-msgstr ""
+msgstr "フォルダ"
 
 msgid "Folder is not empty"
-msgstr ""
+msgstr "フォルダーは空ではない"
 
 msgid "Follow Us"
-msgstr ""
+msgstr "Discogsをフォロー"
 
 msgid "Footer Navigation"
-msgstr ""
+msgstr "フッターナビゲーション"
 
 msgid ""
 "For Collection exports, a Folder field will also be included, indicating "
@@ -3021,49 +3058,49 @@ msgid "For the seller"
 msgstr ""
 
 msgid "Forgot Password"
-msgstr ""
+msgstr "パスワードを忘れた"
 
 msgid "Forgot your password?"
-msgstr ""
+msgstr "パスワードを忘れた場合。"
 
 msgid "Format"
 msgstr "フォーマット"
 
 msgid "Format Description"
-msgstr ""
+msgstr "フォーマットの詳細"
 
 msgid "Format quantity cannot be negative"
-msgstr ""
+msgstr "フォーマット重量はネガティブマイナスにすることはできません"
 
 msgid "Format: YYYY-MM-DD or YYYY-MM-00 or YYYY"
-msgstr ""
+msgstr "フォーマット: YYYY-MM-DD or YYYY-MM-00 or YYYY"
 
 msgid "Formats List"
-msgstr ""
+msgstr "フォーマット・リスト"
 
 msgid "Formatting Options"
 msgstr ""
 
 msgid "Forum"
-msgstr ""
+msgstr "フォーラム"
 
-#, python-format
+#, fuzzy, python-format
 msgid "Found %(num_results)s result for %(query)s."
 msgid_plural "Found %(num_results)s results for %(query)s."
-msgstr[0] ""
+msgstr[0] "見つかった %(num_results)s の結果 %(query)s."
 
-#, python-format
+#, fuzzy, python-format
 msgid "Found %(num_sub)s submission"
 msgid_plural "Found %(num_sub)s submissions"
-msgstr[0] ""
+msgstr[0] "サブミッションを%(num_sub)s個見つけました"
 
-#, python-format
+#, fuzzy, python-format
 msgid "Found %(total)s result for <mark>%(query)s</mark>."
 msgid_plural "Found %(total)s results for <mark>%(query)s</mark>."
-msgstr[0] ""
+msgstr[0] "見つかった%(total)sの結果 <mark>%(query)s</mark>。"
 
 msgid "Free text"
-msgstr ""
+msgstr "自由なテキスト"
 
 msgid "Frequently Asked Questions:"
 msgstr ""
@@ -3072,28 +3109,30 @@ msgid "Friends"
 msgstr "友達"
 
 msgid "Friends' Activity"
-msgstr ""
+msgstr "友達の活動"
 
 msgid "Friends' Submissions"
-msgstr ""
+msgstr "友達からのサブミッション"
 
 msgid "From"
-msgstr ""
+msgstr "から"
 
 msgid "Full Name"
 msgstr ""
 
+#, fuzzy
 msgid "General"
-msgstr ""
+msgstr "汎用"
 
 msgid "General Group Settings"
 msgstr ""
 
 msgid "General settings"
-msgstr ""
+msgstr "一般設定"
 
+#, fuzzy
 msgid "Generic"
-msgstr ""
+msgstr "汎用"
 
 msgid "Genre"
 msgstr "ジャンル"
@@ -3102,7 +3141,7 @@ msgid "Genres"
 msgstr "ジャンル"
 
 msgid "Geographic Location"
-msgstr ""
+msgstr "ジオグラフィックロケーション"
 
 msgid "Get Started"
 msgstr "始める"
@@ -3114,22 +3153,22 @@ msgid "Get an Account"
 msgstr ""
 
 msgid "Get help on uploading files and accepted fields."
-msgstr ""
+msgstr "アップロードするファイルと受け入れるフィールドのヘルプを取得します。"
 
 msgid "Get involved in our discussion section!"
 msgstr ""
 
 msgid "Get notifications about major API updates and changes"
-msgstr ""
+msgstr "APIの大幅変更・修正に関する情報を受信する"
 
 msgid "Get notified when records are listed for sale."
 msgstr ""
 
 msgid "Get password"
-msgstr ""
+msgstr "パスワードの入手"
 
 msgid "Get started"
-msgstr ""
+msgstr "始める"
 
 msgid "Getting Started in the Marketplace"
 msgstr ""
@@ -3144,46 +3183,47 @@ msgid "Go"
 msgstr ""
 
 msgid "Go to Collection"
-msgstr ""
+msgstr "コレクションへ"
 
 msgid "Go to Dashboard"
-msgstr ""
+msgstr "ダッシュボードへ"
 
 msgid "Go to Discogs.com homepage"
-msgstr ""
+msgstr "Discogs.comのホームページへ"
 
 msgid "Go to Edit"
-msgstr ""
+msgstr "編集へ"
 
 msgid "Go to Forum"
-msgstr ""
+msgstr "フォーラムへ"
 
 msgid "Go to Groups"
-msgstr ""
+msgstr "グループへ"
 
+#, fuzzy
 msgid "Go to Inventory"
-msgstr ""
+msgstr "ストアへ"
 
 msgid "Go to Messages"
-msgstr ""
+msgstr "メッセージへ"
 
 msgid "Go to Orders"
-msgstr ""
+msgstr "注文へ"
 
 msgid "Go to Purchases"
 msgstr ""
 
 msgid "Go to Submissions"
-msgstr ""
+msgstr "サブミッションへ"
 
 msgid "Go to User Profile"
 msgstr ""
 
 msgid "Go to Wantlist"
-msgstr ""
+msgstr "ほしい物リストへ"
 
 msgid "Go to the Selection"
-msgstr ""
+msgstr "セレクションへ"
 
 msgid "Google Log In"
 msgstr ""
@@ -3192,46 +3232,46 @@ msgid "Got a really tough question? Our staff can help!"
 msgstr ""
 
 msgid "Granted"
-msgstr ""
+msgstr "承諾しました"
 
 msgid "Group"
-msgstr ""
+msgstr "グループ"
 
 msgid "Group Activity"
-msgstr ""
+msgstr "グループの活動"
 
 msgid "Group Administration"
 msgstr ""
 
 msgid "Group Admins"
-msgstr ""
+msgstr "グループ管理者"
 
 msgid "Group Discussion Topic"
-msgstr ""
+msgstr "グループ・ディスカッションのトピック"
 
 msgid "Group Discussion Topics"
-msgstr ""
+msgstr "グループ・ディスカッションのトピック"
 
 msgid "Group Search"
-msgstr ""
+msgstr "グループの検索"
 
 msgid "Group general settings"
 msgstr ""
 
 msgid "Group was created successfully"
-msgstr ""
+msgstr "グループが正常に作成されました"
 
 msgid "Group was created successfully."
-msgstr ""
+msgstr "グループが正常に作成されました。"
 
 msgid "Groups"
-msgstr ""
+msgstr "グループ"
 
 msgid "Guess based on my location"
-msgstr ""
+msgstr "私のロケーションに基づく推測"
 
 msgid "Guidelines Reference"
-msgstr ""
+msgstr "ガイドライン参照"
 
 #, python-format
 msgid "Has %(n)d item I want"
@@ -3247,13 +3287,13 @@ msgid "Have"
 msgstr ""
 
 msgid "Have access to all API endpoints"
-msgstr ""
+msgstr "全てのAPIエンドポイントのアクセス権限を受ける"
 
 msgid "Haven't saved any topics?"
-msgstr ""
+msgstr "なにか保存していないトピックがありますか"
 
 msgid "Heading"
-msgstr ""
+msgstr "見出し"
 
 msgid "Hello"
 msgstr ""
@@ -3266,19 +3306,19 @@ msgid "Help"
 msgstr "ヘルプ"
 
 msgid "Help Forum Bans"
-msgstr ""
+msgstr "禁止フォーラムのヘルプ"
 
 msgid "Help Is Here"
-msgstr ""
+msgstr "ヘルプはこちらまで"
 
 msgid "Help People Enjoy Music"
 msgstr ""
 
 msgid "Help Translate"
-msgstr ""
+msgstr "通訳のヘルプ"
 
 msgid "Help on Making Offers"
-msgstr ""
+msgstr "オファーのヘルプ"
 
 msgid "Help on activation"
 msgstr ""
@@ -3302,25 +3342,26 @@ msgid "Here's an example:"
 msgstr ""
 
 msgid "Hide"
-msgstr ""
+msgstr "隠す"
 
 msgid "Hide editing options"
 msgstr ""
 
+#, fuzzy
 msgid "Hide location and private comments"
-msgstr ""
+msgstr "プライベートコメント"
 
 msgid "Highest"
-msgstr ""
+msgstr "最高"
 
 msgid "History"
-msgstr ""
+msgstr "履歴"
 
 msgid "Home Page"
-msgstr ""
+msgstr "ホームページ"
 
 msgid "Homepage URL"
-msgstr ""
+msgstr "ホームページURL"
 
 msgid ""
 "Hover on an item's comments and click to edit, or click \"remove\" to "
@@ -3340,7 +3381,7 @@ msgid "How do I get more points?"
 msgstr ""
 
 msgid "How do I grade my items?"
-msgstr ""
+msgstr "自分のアイテムにグレードをつけるにはどうするのか"
 
 msgid "How to Buy"
 msgstr ""
@@ -3377,7 +3418,7 @@ msgstr ""
 
 #, python-format
 msgid "IP %s may be a proxy"
-msgstr ""
+msgstr "IP %s はプロキシかもしれません"
 
 msgid ""
 "If an order comes in that matches the shipping policies below, shipping "
@@ -3397,12 +3438,12 @@ msgid ""
 msgstr ""
 
 msgid "If the application asks you for a code, enter the following"
-msgstr ""
+msgstr "アプリケーションは、コードの入力を求められた場合は、次のように入力します。"
 
 msgid ""
 "If the information above is correct please print this page and send it "
 "with your payment to:"
-msgstr ""
+msgstr "上記情報が正しければ、ページを印刷し、お支払いと共にお送りください："
 
 #, python-format
 msgid ""
@@ -3457,20 +3498,22 @@ msgid ""
 "If there are no past due invoices, or you have a question about an "
 "invoice, please %(start_link)scontact us%(end_link)s."
 msgstr ""
+"もしそこ請求書による全く過去がない、または請求書について質問がある場合は、\n"
+"%(start_link)scontact us%(end_link)s."
 
 #, python-format
 msgid ""
 "If you arrived here via our browse/search pages this item will be removed"
 " within %d minutes."
-msgstr ""
+msgstr "ブラウズ・検索ページ経由でここに到着した場合、このアイテムは%d分以内に削除されます。"
 
 #, python-format
 msgid "If you can't read the words, click the %(icon)s refresh icon."
-msgstr ""
+msgstr "文字が読めない場合、%(icon)sの更新アイコンをクリックします。"
 
 #, python-format
 msgid "If you can't read the words, click the %(icon_tag)s refresh icon."
-msgstr ""
+msgstr "文字が読めなかったら、%(icon_tag)sをクリックしてアイコンを更新。"
 
 msgid ""
 "If you cannot click the link, just copy and paste the entire link into "
@@ -3482,9 +3525,9 @@ msgid ""
 "disregard this message."
 msgstr ""
 
-#, python-format
+#, fuzzy, python-format
 msgid "If you do not have a Discogs account, <a href=\"%(link)s\">create one</a>."
-msgstr ""
+msgstr "お客様はまだDiscogsアカウントを持っていない場合は、<a href=\"%(link)s\">新規作成</a>を使ってください。"
 
 #, python-format
 msgid ""
@@ -3516,11 +3559,13 @@ msgid ""
 "<em>Report</em> button below."
 msgstr ""
 
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "If you have already tried this, and have still not received anything, "
 "please try <a href=\"%(link)s\">changing your e-mail address</a>."
 msgstr ""
+"すでにこれを試行し、まだ何も受け取らない場合は、メールアドレスを変更してください：<a "
+"href=\"%(link)s\">メールアドレスを変更する</a>。"
 
 msgid ""
 "If you have any questions about your order please contact the seller via "
@@ -3563,7 +3608,7 @@ msgstr ""
 msgid ""
 "If you haven't received the confirmation message, you can have it sent "
 "again:"
-msgstr ""
+msgstr "確認メッセージを受信していない場合は、再度送信することができます。"
 
 #, python-format
 msgid ""
@@ -3579,6 +3624,8 @@ msgid ""
 "not</strong> be deleted or removed. Please use the <em>disable image</em>"
 " option on the previous page for all other incorrect or updated images."
 msgstr ""
+"このページで違反しない画像を報告する場合、消去または削除 <strong> されません </strong> 。 間違った、または更新された画像は、"
+" 以前のページでの<strong>画像を無効する</strong>オプションを使ってください。"
 
 msgid ""
 "If you ship to every country, create a policy for the \"Entire World\" "
@@ -3597,7 +3644,7 @@ msgid ""
 "description of your complaint in the window below, and then click the "
 "\"Submit Report\" button. Your report will then be automatically sent to "
 "us for review and action, if appropriate."
-msgstr ""
+msgstr "それでも、この不正行為を報告して先に行くしたい場合は、以下のウィンドウで苦情の内容を入力し、「報告を送信」ボタンをクリックしてください。適切であれば、レビューやアクションをするためにレポートがDiscogsに自動的に送られます。"
 
 msgid ""
 "If you would like to purchase the item at the current listed price just\n"
@@ -3658,22 +3705,22 @@ msgid "Ignore User"
 msgstr ""
 
 msgid "Ignored Users"
-msgstr ""
+msgstr "無視されたユーザ"
 
 msgid "Ignored users"
-msgstr ""
+msgstr "無視されたユーザ"
 
 msgid "Ignored users are hidden from view in groups and in the Forum."
-msgstr ""
+msgstr "無視されたユーザは、グループやフォーラムで隠されています。"
 
 msgid "Image deleted."
-msgstr ""
+msgstr "画像が消去されました。"
 
 msgid "Image file upload"
 msgstr ""
 
 msgid "Image has been deleted."
-msgstr ""
+msgstr "画像が消去されました。"
 
 msgid "Image is Public Domain (expired copyright or public from inception)."
 msgstr ""
@@ -3684,13 +3731,13 @@ msgid ""
 msgstr ""
 
 msgid "Image not found or user does not have permission to delete image."
-msgstr ""
+msgstr "画像が見つからないか、ユーザが画像を削除する権限を持っていません。"
 
 msgid "Images"
-msgstr ""
+msgstr "画像"
 
 msgid "Images for"
-msgstr ""
+msgstr "画像"
 
 msgid "Import Collection"
 msgstr ""
@@ -3716,7 +3763,7 @@ msgid "In Collection"
 msgstr ""
 
 msgid "In Groups"
-msgstr ""
+msgstr "グループで"
 
 #, python-format
 msgid "In Groups %(optional)s"
@@ -3732,7 +3779,7 @@ msgid "In grams. Must be a non-negative integer."
 msgstr ""
 
 msgid "In your"
-msgstr ""
+msgstr "お客様の、"
 
 msgid "Inbox"
 msgstr ""
@@ -3746,28 +3793,28 @@ msgstr ""
 msgid ""
 "Including currency is not required. Currency must be set in <a "
 "href=\"%(link)s\">seller settings</a>."
-msgstr ""
+msgstr "通貨は必要ありません。通貨は<a href=\"%(link)s\">売り手の設定</a>で設定する必要があります。"
 
 msgid "Incorrect password"
-msgstr ""
+msgstr "正しいパスワード"
 
 msgid "Incorrect password."
-msgstr ""
+msgstr "不正なパスワード。"
 
 msgid "Incorrect verification code."
-msgstr ""
+msgstr "不正な検証コード。"
 
 msgid "Increase sales"
-msgstr ""
+msgstr "売上をのばす"
 
 msgid "Index"
-msgstr ""
+msgstr "インデックス"
 
 msgid "Index Track Title"
-msgstr ""
+msgstr "トラックタイトルのインデックス"
 
 msgid "Indexed?"
-msgstr ""
+msgstr "インデックスされた。"
 
 msgid "Instructions"
 msgstr ""
@@ -3779,62 +3826,63 @@ msgid "Instructions for seller"
 msgstr ""
 
 msgid "Invalid BIC/SWIFT"
-msgstr ""
+msgstr "無効な BIC/SWIFT"
 
 msgid "Invalid IBAN"
-msgstr ""
+msgstr "無効な IBAN"
 
 msgid "Invalid broadcast."
-msgstr ""
+msgstr "無効なブロードキャスト。"
 
 msgid "Invalid currency selected."
-msgstr ""
+msgstr "無効な通貨が選択された。"
 
 msgid "Invalid feedback type."
-msgstr ""
+msgstr "無効なフィードバックの種類。"
 
 msgid "Invalid invite code."
-msgstr ""
+msgstr "無効な招待コード。"
 
-#, python-format
+#, fuzzy, python-format
 msgid "Invalid module: %s"
-msgstr ""
+msgstr "無効なブロードキャスト。%s"
 
 msgid "Invalid offer price"
-msgstr ""
+msgstr "無効なオファー価格"
 
 msgid "Invalid parameter:"
-msgstr ""
+msgstr "無効なパラメータ："
 
 msgid "Invalid price, item not listed."
-msgstr ""
+msgstr "無効な価格でアイテムは記載されません。"
 
 msgid "Invalid release ID."
-msgstr ""
+msgstr "無効なリリースID。"
 
 msgid "Invalid release_id"
-msgstr ""
+msgstr "無効なリリースID"
 
 msgid "Invalid seller."
-msgstr ""
+msgstr "無効な売り手。"
 
 msgid "Invalid shipping method."
-msgstr ""
+msgstr "無効な配送方法。"
 
 msgid "Invalid verification code"
-msgstr ""
+msgstr "無効な認証コード"
 
+#, fuzzy
 msgid "Inventory"
-msgstr ""
+msgstr "アイテムリスト"
 
 msgid "Invitation only"
-msgstr ""
+msgstr "招待のみ"
 
 msgid "Invitation was sent."
-msgstr ""
+msgstr "招待は送られました。"
 
 msgid "Invite Only"
-msgstr ""
+msgstr "招待のみ"
 
 msgid "Invite User"
 msgstr ""
@@ -3843,19 +3891,19 @@ msgid "Invite Users"
 msgstr ""
 
 msgid "Invoice"
-msgstr ""
+msgstr "請求書"
 
 msgid "Invoice Credits"
-msgstr ""
+msgstr "請求書のクレジット"
 
 msgid "Invoice Date"
-msgstr ""
+msgstr "請求日"
 
 msgid "Invoice Detail"
-msgstr ""
+msgstr "請求書の詳細"
 
 msgid "Invoice Detail for"
-msgstr ""
+msgstr "請求書の詳細："
 
 msgid "Invoice Number"
 msgstr ""
@@ -3874,7 +3922,7 @@ msgid "Invoice for %(invoice_date)s"
 msgstr ""
 
 msgid "Invoices"
-msgstr ""
+msgstr "請求書"
 
 msgid "Invoicing"
 msgstr ""
@@ -3965,6 +4013,8 @@ msgid ""
 "could be because the seller updated their shipping policies, or you "
 "updated your address.)"
 msgstr ""
+"お客様が利用可能な配送オプションが最近変更されているようです(ご注文配送オプションを再度チェックしてください。 "
+"(売り手が彼らの船積み方針を更新したこと、または、お客様の住所を更新したことが原因の可能性があります。)"
 
 msgid "It may take a few minutes for your Marketplace listings to be updated."
 msgstr ""
@@ -3972,10 +4022,10 @@ msgstr ""
 msgid ""
 "It may take a moment for the messages to appear on the corresponding "
 "order pages."
-msgstr ""
+msgstr "対応する注文ページにメッセージが表示するまで時間がかかる場合があります。"
 
 msgid "It may take a moment for these changes to be reflected in the list below."
-msgstr ""
+msgstr "これらの変更は、以下のリストに反映されるまで時間がかかる場合があります。"
 
 #, python-format
 msgid ""
@@ -3995,7 +4045,7 @@ msgid ""
 msgstr ""
 
 msgid "Item"
-msgstr "商品"
+msgstr "アイテム"
 
 msgid "Item #"
 msgstr ""
@@ -4006,28 +4056,28 @@ msgid_plural "Items %(action)s"
 msgstr[0] ""
 
 msgid "Item Container"
-msgstr ""
+msgstr "アイテムのコンテナ"
 
 msgid "Item Edit"
-msgstr ""
+msgstr "アイテムを編集"
 
 msgid "Item Location"
-msgstr ""
+msgstr "アイテムの場所"
 
 msgid "Item Ships From"
 msgstr ""
 
 msgid "Item View"
-msgstr ""
+msgstr "アイテムをみる"
 
 msgid "Item condition comments"
-msgstr ""
+msgstr "アイテムの状態のコメント"
 
 msgid "Item is already in your cart."
-msgstr ""
+msgstr "アイテムがカートにある。"
 
 msgid "Item weighs"
-msgstr ""
+msgstr "アイテムの重さ"
 
 msgid "Item weight"
 msgstr ""
@@ -4040,10 +4090,10 @@ msgid "Items For Sale"
 msgstr ""
 
 msgid "Items I Want"
-msgstr "私が欲しい商品"
+msgstr "私が欲しいアイテム"
 
 msgid "Items I'm selling"
-msgstr ""
+msgstr "私の販売しているアイテム"
 
 msgid "Items Ship From"
 msgstr ""
@@ -4054,6 +4104,8 @@ msgid ""
 "%(max)s minutes.  During periods of high listing volume it may take "
 "longer for your items to appear."
 msgstr ""
+"アイテムは、一般的に%(min)s to %(max)s "
+"分以内にDiscogsのブラウズ/検索ページに追加されます。リストの量が多いときは、お客様のアイテムが表示されるまで時間がかかることがあります。"
 
 msgid "Items for sale"
 msgstr ""
@@ -4062,13 +4114,13 @@ msgid "Jobs"
 msgstr "求人"
 
 msgid "Join"
-msgstr ""
+msgstr "参加する"
 
 msgid "Join Group"
-msgstr ""
+msgstr "グループに参加"
 
 msgid "Join In"
-msgstr ""
+msgstr "参加する"
 
 msgid ""
 "Join our community of contributors and add your unique items to the "
@@ -4103,14 +4155,16 @@ msgstr ""
 msgid "Jump to"
 msgstr ""
 
+#, fuzzy
 msgid "Jump to Next Section"
-msgstr ""
+msgstr "セレクションへ"
 
+#, fuzzy
 msgid "Jump to Previous Section"
-msgstr ""
+msgstr "前のリビジョンではありません"
 
 msgid "Jump to next submission after saving comment"
-msgstr ""
+msgstr "コメントを保存した後、次のサブミッションに移動する"
 
 msgid ""
 "Keep your feedback <strong>factual</strong> and avoid making personal "
@@ -4127,17 +4181,17 @@ msgid "Key Release"
 msgstr ""
 
 msgid "Key not found or address has already been changed"
-msgstr ""
+msgstr "キーが見つからないか、アドレスが既に変わりました。"
 
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "キーボードショートカット"
 
 msgid "Kick"
 msgstr ""
 
 #, python-format
 msgid "Kicked %s out of this group."
-msgstr ""
+msgstr "このグループを蹴り開けた%s。"
 
 msgid ""
 "L.A.-based Skylar Hardenbrook has been a prominent Discogs contributor "
@@ -4152,13 +4206,13 @@ msgid "Label"
 msgstr "レーベル"
 
 msgid "Label, A-Z"
-msgstr ""
+msgstr "レーベル・A-Z"
 
 msgid "Label, Company, Catalog Number, Etc."
-msgstr ""
+msgstr "レーベル、会社、カタログナンバーなど"
 
 msgid "Label, Z-A"
-msgstr ""
+msgstr "レーベル・A-Z"
 
 msgid "Labels"
 msgstr ""
@@ -4173,16 +4227,16 @@ msgid "Last 10 Day Votes Received"
 msgstr ""
 
 msgid "Last Activity"
-msgstr ""
+msgstr "最新の活動"
 
 msgid "Last Invoice:"
 msgstr ""
 
 msgid "Last Name"
-msgstr ""
+msgstr "苗字"
 
 msgid "Last Post"
-msgstr ""
+msgstr "前回の投稿"
 
 msgid "Last Reply"
 msgstr ""
@@ -4200,19 +4254,19 @@ msgid "Last sold on"
 msgstr ""
 
 msgid "Latest"
-msgstr ""
+msgstr "最新"
 
 msgid "Latest Additions"
-msgstr ""
+msgstr "最近追加されたもの"
 
 msgid "Latest Edits"
-msgstr ""
+msgstr "最新の編集"
 
 msgid "Latest Post"
-msgstr ""
+msgstr "最新の投稿"
 
 msgid "Latest Reviews:"
-msgstr ""
+msgstr "最近のレビュー："
 
 msgid "Learn more about how to buy"
 msgstr ""
@@ -4227,7 +4281,7 @@ msgid "Leave Feedback on My Purchases"
 msgstr ""
 
 msgid "Leave Group"
-msgstr ""
+msgstr "グループを去る"
 
 msgid "Leave buyer feedback"
 msgstr ""
@@ -4240,44 +4294,46 @@ msgstr ""
 
 #, python-format
 msgid "Left %s feedback on %s orders."
-msgstr ""
+msgstr "%sの注文に%sのフィードバックを残しました。"
 
 msgid "Legend"
-msgstr ""
+msgstr "レジェンド"
 
 #, python-format
 msgid "Less than %s"
-msgstr ""
+msgstr "%s 以下"
 
 msgid "Let Discogs know what you want by adding releases to your"
 msgstr ""
 
 msgid "Let us know."
-msgstr ""
+msgstr "Discogsにお知らせください。"
 
 msgid "Lines"
-msgstr ""
+msgstr "ライン"
 
+#, fuzzy
 msgid "Link has expired."
-msgstr ""
+msgstr "リンク切れのため削除する。"
 
+#, fuzzy
 msgid "Link is malformed."
-msgstr ""
+msgstr "URL間違いのため削除。"
 
 msgid "Links to Other Selling Sites"
 msgstr ""
 
 msgid "List"
-msgstr ""
+msgstr "リスト"
 
 msgid "List Activity"
-msgstr ""
+msgstr "活動リスト"
 
 msgid "List For Sale"
-msgstr ""
+msgstr "販売リスト"
 
 msgid "List Item For Sale"
-msgstr ""
+msgstr "販売アイテムリスト"
 
 msgid "List all"
 msgstr ""
@@ -4322,13 +4378,13 @@ msgid "Listed Price"
 msgstr ""
 
 msgid "Listed below are copies of the release available from other sellers."
-msgstr ""
+msgstr "以下に、他の売り手から入手可能なリリースのコピーが一覧表示されます。"
 
 msgid "Listing Currency"
 msgstr ""
 
 msgid "Listing Violations"
-msgstr ""
+msgstr "リスト化の違反"
 
 #, python-format
 msgid ""
@@ -4338,7 +4394,7 @@ msgid ""
 msgstr ""
 
 msgid "Listings that are in Violation status can only be deleted."
-msgstr ""
+msgstr "違反状態にあるリストのみを削除することができます。"
 
 msgid "Lists"
 msgstr "リスト"
@@ -4350,7 +4406,7 @@ msgid "Load Template"
 msgstr ""
 
 msgid "Loaded a past revision."
-msgstr ""
+msgstr "過去のリビジョンがロードされた。"
 
 msgid "Loading"
 msgstr ""
@@ -4359,10 +4415,10 @@ msgid "Loading your shipping policies..."
 msgstr ""
 
 msgid "Locate the final 3 or 4 digit number on the back of your card."
-msgstr ""
+msgstr "お客様のカードの裏面に、3または4桁の数字を確認してください。"
 
 msgid "Location"
-msgstr ""
+msgstr "ロケーション"
 
 msgid "Location:"
 msgstr ""
@@ -4371,16 +4427,16 @@ msgid "Lock topics after"
 msgstr ""
 
 msgid "Locked topic"
-msgstr ""
+msgstr "ロックされたトピック"
 
 msgid "Log In"
-msgstr ""
+msgstr "ログイン"
 
 msgid "Log In to Discogs"
 msgstr ""
 
 msgid "Log Out"
-msgstr ""
+msgstr "ログアウト"
 
 msgid "Log in."
 msgstr ""
@@ -4389,7 +4445,7 @@ msgid "Log on to"
 msgstr ""
 
 msgid "Logged in as"
-msgstr ""
+msgstr "としてログインされました"
 
 msgid ""
 "London, U.K.-based <a "
@@ -4413,20 +4469,22 @@ msgstr ""
 #, python-format
 msgid "Looking for votes? Visit our <a href=\"%(link)s\">Forum</a>."
 msgstr ""
+"投票ですか。<a href=\"%(link)s\">フォーラム</a>に足を運んでください\n"
+"。"
 
 msgid ""
 "Looks like you haven't been up to anything interesting lately. Try adding"
 " something to your wantlist or collection!"
-msgstr ""
+msgstr "お客様が最近何か面白いことアップしていないようです。お客様のほしい物リストまたはコレクションに何かを追加してください。"
 
 msgid "Lookup"
-msgstr ""
+msgstr "見上げる"
 
 msgid "Lowest"
-msgstr ""
+msgstr "最小限の"
 
 msgid "Main Navigation"
-msgstr ""
+msgstr "メイン・ナビゲーション"
 
 msgid "Make Offer"
 msgstr ""
@@ -4435,18 +4493,18 @@ msgid "Make Offer / Details"
 msgstr ""
 
 msgid "Make a new password"
-msgstr ""
+msgstr "新しいパスワードを作る"
 
 msgid "Make an Offer"
-msgstr ""
+msgstr "オファーをします"
 
 msgid ""
 "Make sure to save your changes when you've finished filling out the rest "
 "of your settings."
-msgstr ""
+msgstr "設定の入力が完了したら、変更内容を保存するのを忘れないでください。"
 
 msgid "Make sure you are uploading a CSV file with utf-8 encoding."
-msgstr ""
+msgstr "UTF-8エンコーディングでCSVファイルをアップロードしていることを確認してください。"
 
 msgid "Manage"
 msgstr ""
@@ -4455,7 +4513,7 @@ msgid "Manage Custom Fields"
 msgstr ""
 
 msgid "Manage Folders"
-msgstr ""
+msgstr "フォルダを管理する"
 
 msgid "Manage Inventory"
 msgstr ""
@@ -4464,10 +4522,11 @@ msgid "Manage policies, set rates, and handle returns."
 msgstr ""
 
 msgid "Manage your applications and API keys here."
-msgstr ""
+msgstr "ここで、お客様のアプリとAPIキーを管理できます。"
 
+#, fuzzy
 msgid "Manage your inventory"
-msgstr ""
+msgstr "アイテムリストの管理"
 
 msgid "Manually Update Items"
 msgstr ""
@@ -4476,30 +4535,32 @@ msgid "Manually Update your Collection &amp; Wantlist"
 msgstr ""
 
 msgid "Mark as Read"
-msgstr ""
+msgstr "既読にする"
 
 msgid "Mark as Unread"
-msgstr ""
+msgstr "未読にする"
 
 msgid "Mark for Sale"
 msgstr ""
 
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "Marked %d item \"For Sale\". The item will be added to our browse/search "
 "pages within %d minutes."
 msgid_plural ""
 "Marked %d items \"For Sale\". The items will be added to our "
 "browse/search pages within %d minutes."
-msgstr[0] ""
+msgstr[0] "%d アイテムは\"販売\"にマークされました。アイテムは、%d 分以内に当社ブラウズ・検索ページに追加されます。"
 
+#, fuzzy
 msgid "Marked message read"
 msgid_plural "Marked messages read"
-msgstr[0] ""
+msgstr[0] "メッセージを既読にする"
 
+#, fuzzy
 msgid "Marked message unread"
 msgid_plural "Marked messages unread"
-msgstr[0] ""
+msgstr[0] "メッセージを未読にする"
 
 msgid "Marketplace"
 msgstr "マーケットプレイス"
@@ -4510,20 +4571,21 @@ msgstr ""
 msgid "Marketplace Help Topics"
 msgstr ""
 
+#, fuzzy
 msgid "Marketplace Inventory"
-msgstr ""
+msgstr "マーケットプレイスのアイテムリスト"
 
 msgid "Marketplace Notifications"
-msgstr ""
+msgstr "マーケットプレイスの通知"
 
 msgid "Marketplace Order Items"
-msgstr ""
+msgstr "マーケットプレイスの注文アイテム"
 
 msgid "Marketplace Orders"
-msgstr ""
+msgstr "マーケットプレイスの注文"
 
 msgid "Marketplace Preferences"
-msgstr ""
+msgstr "マーケットプレイスの環境設定"
 
 msgid "Marketplace Settings for Buyers"
 msgstr ""
@@ -4546,47 +4608,47 @@ msgid "Master"
 msgstr ""
 
 msgid "Master ID"
-msgstr ""
+msgstr "マスターID"
 
 msgid "Master Release"
-msgstr ""
+msgstr "マスターリリース"
 
 msgid "Master Releases"
 msgstr ""
 
 msgid "Max"
-msgstr ""
+msgstr "最大"
 
 #, python-format
 msgid "Max. %(limit)s characters, no HTML."
 msgstr ""
 
 msgid "Maximum"
-msgstr ""
+msgstr "最大"
 
 msgid "Med"
-msgstr ""
+msgstr "医学"
 
 msgid "Media"
-msgstr ""
+msgstr "メディア"
 
 msgid "Media Condition"
-msgstr ""
+msgstr "メディアの状態"
 
 msgid "Media condition is missing"
-msgstr ""
+msgstr "メディアの状態がありません"
 
 msgid "Median"
-msgstr ""
+msgstr "中間点"
 
 msgid "Members"
-msgstr ""
+msgstr "メンバーズ"
 
 msgid "Members in"
-msgstr ""
+msgstr "メンバーズの中"
 
 msgid "Members of"
-msgstr ""
+msgstr "のメンバーズ"
 
 msgid "Membership to this group is by invite only."
 msgstr ""
@@ -4595,7 +4657,7 @@ msgid "Merge"
 msgstr ""
 
 msgid "Merge Release"
-msgstr ""
+msgstr "リリースを統合する"
 
 msgid "Merge Releases"
 msgstr ""
@@ -4604,7 +4666,7 @@ msgid "Merge these two releases"
 msgstr ""
 
 msgid "Merge this release?"
-msgstr ""
+msgstr "このリリースを統合しますか。"
 
 msgid "Merge!"
 msgstr ""
@@ -4614,24 +4676,24 @@ msgstr ""
 
 #, python-format
 msgid "Merged orders %s into order %s"
-msgstr ""
+msgstr "注文%s を注文%sに統合しました。"
 
 msgid "Message"
-msgstr ""
+msgstr "メッセージ"
 
 msgid "Message (optional):"
 msgstr ""
 
 #, python-format
 msgid "Message must be between 1 and %d characters."
-msgstr ""
+msgstr "メッセージが1以上で%d文字以内でなければなりません。"
 
 #, python-format
 msgid "Message was converted to support request %s."
-msgstr ""
+msgstr "リクエスト%sに対応するためにメッセージを変換しました。"
 
 msgid "Messages will be permanently removed after one week."
-msgstr ""
+msgstr "メッセージは一週間後完全に削除されます。"
 
 msgid ""
 "Meticulous database submission experts, obscure music aficionados, dollar"
@@ -4639,31 +4701,33 @@ msgid ""
 msgstr ""
 
 msgid "Min"
-msgstr ""
+msgstr "最少"
 
 msgid "Minimum"
-msgstr ""
+msgstr "最少"
 
 msgid "Minimum Buyer Rating"
 msgstr ""
 
 msgid "Missing a subject or message"
-msgstr ""
+msgstr "タイトルまたはメッセージが見つかりません"
 
 msgid "Missing confirmation code"
-msgstr ""
+msgstr "確認コードの不明"
 
 msgid "Missing folder name"
-msgstr ""
+msgstr "フォルダーネーム不明"
 
 msgid "Missing group name or description."
-msgstr ""
+msgstr "グループ名または説明がありません。"
 
+#, fuzzy
 msgid "Missing new folder name and/or you did not select a folder to rename"
-msgstr ""
+msgstr "新しいフォルダー名が不明 新しい名前のフォルダーが選択されなかった"
 
+#, fuzzy
 msgid "Missing parameter \"name\""
-msgstr ""
+msgstr "フォルダーネーム不明"
 
 msgid "Mode"
 msgstr ""
@@ -4681,14 +4745,14 @@ msgid "More Images"
 msgstr ""
 
 msgid "More items to sell?"
-msgstr ""
+msgstr "他のアイテムを販売する。"
 
 #, python-format
 msgid "More than %s"
-msgstr ""
+msgstr "%s以上"
 
 msgid "Most Collected"
-msgstr ""
+msgstr "最も集められた"
 
 msgid "Most Common Labels"
 msgstr ""
@@ -4697,7 +4761,7 @@ msgid "Most Popular Topics"
 msgstr ""
 
 msgid "Most Wanted"
-msgstr ""
+msgstr "最も欲しかった"
 
 msgid "Move"
 msgstr ""
@@ -4709,33 +4773,34 @@ msgid "Move Selected"
 msgstr ""
 
 msgid "Move Selection Down"
-msgstr ""
+msgstr "選択を下に移動"
 
 msgid "Move Selection Up"
-msgstr ""
+msgstr "セレクションを上に移動"
 
 msgid "Move To Collection"
 msgstr ""
 
 msgid "Move to Inbox"
-msgstr ""
+msgstr "受信に移動する"
 
 msgid "Move to index"
 msgstr ""
 
-#, python-format
+#, fuzzy, python-format
 msgid "Moved %d item to folder."
 msgid_plural "Moved %d items to folder."
-msgstr[0] ""
+msgstr[0] "%d アイテムがフォルダへ移動されました。"
 
-#, python-format
+#, fuzzy, python-format
 msgid "Moved %d item to your collection"
 msgid_plural "Moved %d items to your collection"
-msgstr[0] ""
+msgstr[0] "%d アイテムがコレクションへ移動されました。"
 
+#, fuzzy
 msgid "Moved message back to Inbox."
 msgid_plural "Moved messages back to Inbox."
-msgstr[0] ""
+msgstr[0] "戻って受信トレイにメッセージを移動しました。"
 
 msgid "Must be a number."
 msgstr ""
@@ -4761,26 +4826,27 @@ msgstr ""
 msgid ""
 "Must be either <em>completely empty</em> or a <em>full, valid URL</em> "
 "including http://"
-msgstr ""
+msgstr "<em>完全に空</em> もしくは <em>http://を含む、有効なURL</em>でなければなりません"
 
+#, fuzzy
 msgid "Must be one of:"
-msgstr ""
+msgstr "のいずれかを指定します："
 
 #, python-format
 msgid ""
 "Must be one of: \"%(value1)s\" (to consider offers lower than your listed"
 " price) or \"%(value2)s\" (to refuse offers lower than your listed "
 "price)."
-msgstr ""
+msgstr "\"%(value1)s\"(お客様のリストされている価格よりもオファーが低いので拒否する)または\"%(value2)s\"(お客様のリストアップされている価格よりも低いオファーを検討する)のいずれかである必要があります。"
 
 msgid "My"
-msgstr ""
+msgstr "私"
 
 msgid "My Activity (Private)"
-msgstr ""
+msgstr "私の活動（個人）"
 
 msgid "My Activity (Shared)"
-msgstr ""
+msgstr "私の活動（シェア）"
 
 msgid "My Buyer Rating:"
 msgstr ""
@@ -4789,10 +4855,10 @@ msgid "My Collection"
 msgstr ""
 
 msgid "My Contributions"
-msgstr ""
+msgstr "私の投稿"
 
 msgid "My Discogs"
-msgstr ""
+msgstr "私のDiscogs"
 
 msgid "My Groups"
 msgstr "マイグループ"
@@ -4801,10 +4867,10 @@ msgid "My Information"
 msgstr ""
 
 msgid "My Lists"
-msgstr ""
+msgstr "私のリスト"
 
 msgid "My Lists:"
-msgstr ""
+msgstr "私のリスト："
 
 msgid "My Media"
 msgstr ""
@@ -4813,43 +4879,45 @@ msgid "My Posts"
 msgstr ""
 
 msgid "My Profile"
-msgstr ""
+msgstr "私のプロフィール"
 
 msgid "My Seller Rating:"
 msgstr ""
 
 msgid "My Store"
-msgstr ""
+msgstr "私のストア"
 
 msgid "My Submissions"
-msgstr ""
+msgstr "私のサブミッション"
 
 msgid "My Uploads"
-msgstr ""
+msgstr "私のアップロード"
 
 msgid "My Wantlist"
-msgstr ""
+msgstr "私のほしい物リスト"
 
 msgid "My comment is a review"
-msgstr ""
+msgstr "レビューに私のコメントがあります"
 
+#, fuzzy
 msgid "My feedback as a seller."
-msgstr ""
+msgstr "売り手としての私の意見。"
 
 msgid "My uploads"
-msgstr ""
+msgstr "マイ・アップロード"
 
 msgid "Name"
-msgstr ""
+msgstr "名前"
 
 msgid "Name Variation"
-msgstr ""
+msgstr "名前の種類"
 
+#, fuzzy
 msgid "Navigate Checkboxes"
-msgstr ""
+msgstr "チェックボックスナビ"
 
 msgid "Navigation"
-msgstr ""
+msgstr "ナビゲーション"
 
 msgid "Need Help?"
 msgstr ""
@@ -4858,7 +4926,7 @@ msgid "Need help activating your account?"
 msgstr ""
 
 msgid "Need help?"
-msgstr ""
+msgstr "ヘルプが必要ですか"
 
 msgid "Need help? Please see the help page for how to merge releases."
 msgstr ""
@@ -4870,10 +4938,10 @@ msgid "Needs Changes"
 msgstr ""
 
 msgid "Needs Major Changes"
-msgstr ""
+msgstr "根本的に修正が必要"
 
 msgid "Needs Minor Changes"
-msgstr ""
+msgstr "軽い修正が必要"
 
 msgid "Needs Vote"
 msgstr ""
@@ -4894,17 +4962,17 @@ msgid "Never"
 msgstr ""
 
 msgid "Never share"
-msgstr ""
+msgstr "シェアしない"
 
-#, python-format
+#, fuzzy, python-format
 msgid "New (rev: %(curr_rev)s)"
-msgstr ""
+msgstr "新 (rev: %(curr_rev)s)"
 
 msgid "New Fees:"
 msgstr ""
 
 msgid "New List"
-msgstr ""
+msgstr "新しいリスト"
 
 #, python-format
 msgid "New Message in \"%(title)s\""
@@ -4925,7 +4993,7 @@ msgid "New Post in %(subject_text)s"
 msgstr ""
 
 msgid "New Releases"
-msgstr "新商品"
+msgstr "新しいリリース"
 
 msgid "New Seller"
 msgstr ""
@@ -4943,10 +5011,10 @@ msgid "New Thread"
 msgstr ""
 
 msgid "New folder name"
-msgstr ""
+msgstr "新しいフォルダー名"
 
 msgid "New password"
-msgstr ""
+msgstr "新パスワード"
 
 #, python-format
 msgid "New response to %(type)s on %(subject_text)s"
@@ -4959,19 +5027,19 @@ msgid "New sellers are required to have a PayPal Verified account."
 msgstr ""
 
 msgid "New submissions related to my lists"
-msgstr ""
+msgstr "私のリストに関連する新しいサブミッション"
 
 msgid "New thread"
 msgstr ""
 
 msgid "Newest"
-msgstr ""
+msgstr "最新"
 
 msgid "Newest Groups"
-msgstr ""
+msgstr "最新グループ"
 
 msgid "Newsletters"
-msgstr ""
+msgstr "ニュースレター"
 
 msgid "Next"
 msgstr ""
@@ -4995,33 +5063,36 @@ msgid "No %(lang)s results found for"
 msgstr ""
 
 msgid "No Cover"
-msgstr ""
+msgstr "カバーなし"
 
 msgid "No Drafts"
 msgstr ""
 
 msgid "No Feedback"
-msgstr ""
+msgstr "フィードバックなし"
 
 msgid "No Image"
 msgstr ""
 
 msgid "No Match"
-msgstr ""
+msgstr "マッチするものはなし"
 
+#, fuzzy
 msgid ""
 "No OAuth token parameter found! Please send your OAuth token as a request"
 " parameter."
 msgstr ""
+"No OAuth token parameter found! Please send your OAuth token as a request"
+" parameter. "
 
 msgid "No Rating Yet"
-msgstr ""
+msgstr "まだ評価がありません"
 
 msgid "No Results Found"
 msgstr ""
 
 msgid "No Reviews Found."
-msgstr ""
+msgstr "レビューが見つかりませんでした。"
 
 msgid "No buyer rating"
 msgstr ""
@@ -5030,10 +5101,10 @@ msgid "No data"
 msgstr ""
 
 msgid "No data available for prior version."
-msgstr ""
+msgstr "以前のバージョンにはデータがありません。"
 
 msgid "No data was found in the file you uploaded."
-msgstr ""
+msgstr "アップロードされたファイルにはデータが見つかりませんでした。"
 
 msgid "No description"
 msgstr ""
@@ -5058,7 +5129,7 @@ msgid ""
 msgstr ""
 
 msgid "No images have been uploaded."
-msgstr ""
+msgstr "画像がアップロードされていません。"
 
 msgid ""
 "No inventory. To add inventory please browse to a release and click "
@@ -5066,71 +5137,73 @@ msgid ""
 msgstr ""
 
 msgid "No items"
-msgstr ""
+msgstr "アイテムなし"
 
 msgid "No items for sale found"
-msgstr ""
+msgstr "販売用アイテムはみつかりませんでした"
 
 msgid "No items found."
-msgstr ""
+msgstr "アイテムが見つかりません。"
 
 msgid "No items in this list."
-msgstr ""
+msgstr "リストにアイテムはありません。"
 
 #, python-format
 msgid ""
 "No messages at all? <a href=\"%(link)s\">Join a group</a> and meet some "
 "people with interests like yours!"
-msgstr ""
+msgstr "全くメッセージなし？<a href=\"%(link)s\">グループに参加</a>して、同じ興味を持つ人達に会ってみてください。"
 
 #, python-format
 msgid ""
 "No messages here! If you're looking for something to read, check out our "
 "<a href=\"%(link)s\">discussion groups</a>!"
 msgstr ""
+"メッセージはありません。何か面白いものを探しているなら、<a "
+"href=\"%(link)s\">ディスカッショングループ</a>をチェックしてください。"
 
 msgid "No orders found."
 msgstr ""
 
-#, python-format
+#, fuzzy, python-format
 msgid "No orders were updated, because Order %s cannot be archived."
 msgid_plural "No orders were updated, because Orders %s cannot be archived."
-msgstr[0] ""
+msgstr[0] "注文%sをアーカイブにできないため、注文を更新しませんでした。"
 
-#, python-format
+#, fuzzy, python-format
 msgid "No orders were updated, because Order %s cannot be changed to %s."
 msgid_plural "No orders were updated, because Orders %s cannot be changed to %s."
-msgstr[0] ""
+msgstr[0] "注文%sは%sに変更できないため、注文を更新しませんでした。"
 
-#, python-format
+#, fuzzy, python-format
 msgid "No orders were updated, because Order %s cannot be unarchived."
 msgid_plural "No orders were updated, because Orders %s cannot be unarchived."
-msgstr[0] ""
+msgstr[0] "注文%sをアーカイブ解除できないため、注文を更新しませんでした。"
 
-#, python-format
+#, fuzzy, python-format
 msgid "No orders were updated, because feedback cannot be left on Order %s."
 msgid_plural "No orders were updated, because feedback cannot be left on Orders %s."
-msgstr[0] ""
+msgstr[0] "注文%sにフィードバックを残すことができないため、注文を更新しませんでした。"
 
-#, python-format
+#, fuzzy, python-format
 msgid "No orders were updated, because you cannot reply to feedback on Order %s."
 msgid_plural "No orders were updated, because you cannot reply to feedback on Orders %s."
-msgstr[0] ""
+msgstr[0] "注文%sのフィードバックに返信できないため、注文を更新しませんでした。"
 
 msgid "No pending or past uploads."
 msgstr ""
 
 msgid "No previous revision"
-msgstr ""
+msgstr "前のリビジョンではありません"
 
 msgid "No recent activity?"
-msgstr ""
+msgstr "最近、活動していませんか。"
 
 msgid "No releases have been added to your wantlist"
 msgstr ""
 
 msgid "No results for"
-msgstr ""
+msgstr "該当するものはありません"
 
 msgid "No results found."
 msgstr ""
@@ -5142,13 +5215,13 @@ msgid "No seller rating"
 msgstr ""
 
 msgid "No such user."
-msgstr ""
+msgstr "そのようなユーザおりません。"
 
 msgid "No user found."
-msgstr ""
+msgstr "ユーザがみつかりませんでした。"
 
 msgid "No users are in the Contributor Improvement Program."
-msgstr ""
+msgstr "投稿向上プログラムにユーザがいません。"
 
 msgid "No, Cancel Order"
 msgstr ""
@@ -5166,7 +5239,7 @@ msgid "Not Available At Listed Price"
 msgstr ""
 
 msgid "Not Graded"
-msgstr ""
+msgstr "採点されません"
 
 msgid "Not active recently"
 msgstr ""
@@ -5177,37 +5250,39 @@ msgstr ""
 
 #, python-format
 msgid "Not in any group? <a href=\"%(link)s\">Join a group on Discogs</a>."
-msgstr ""
+msgstr "グループにまだ参加していません？<a href=\"%(link)s\">グループに参加</a>してください。"
 
 msgid "Not rated yet"
-msgstr ""
+msgstr "まだ評価されておりません。"
 
+#, fuzzy
 msgid "Note"
-msgstr ""
+msgstr "ノート"
 
 msgid "Note: You can only pay one invoice at a time."
-msgstr ""
+msgstr "備考: 請求書の支払は、一つづつしかできません。"
 
+#, fuzzy
 msgid "Notes"
-msgstr "注釈"
+msgstr "ノート"
 
 msgid "Nothing found"
-msgstr ""
+msgstr "何も見つかりませんでした"
 
 msgid "Notification"
-msgstr ""
+msgstr "通知"
 
 msgid "Notification Settings"
-msgstr ""
+msgstr "通知設定"
 
 msgid "Notify Me"
-msgstr ""
+msgstr "自分に通知する"
 
 msgid "Notify Me of Replies"
 msgstr ""
 
 msgid "Notify me"
-msgstr ""
+msgstr "自分に通知する"
 
 msgid "Notify me of new submissions related to this list."
 msgstr ""
@@ -5216,10 +5291,10 @@ msgid "Number of items that this item counts as (for shipping)."
 msgstr ""
 
 msgid "Number of votes cast over the past 30 days"
-msgstr ""
+msgstr "過去30日間の投票の数"
 
 msgid "Numeric barcode of the release."
-msgstr ""
+msgstr "リリースのバーコードの数値。"
 
 msgid "OR"
 msgstr ""
@@ -5228,20 +5303,20 @@ msgid "Offer"
 msgstr ""
 
 msgid "Offer was accepted"
-msgstr ""
+msgstr "オファーは受け入れられました"
 
 msgid "Offer was declined"
-msgstr ""
+msgstr "オファーは拒否されました"
 
 msgid "Offers"
 msgstr ""
 
-#, python-format
+#, fuzzy, python-format
 msgid "Old (rev: %(prev_rev)s)"
-msgstr ""
+msgstr "旧 (rev: %(prev_rev)s) "
 
 msgid "Oldest"
-msgstr ""
+msgstr "古い"
 
 #, python-format
 msgid "On %(time)s,"
@@ -5280,15 +5355,15 @@ msgstr ""
 msgid ""
 "One or more items in your cart were removed while you were placing your "
 "order. Please confirm that your order is still correct."
-msgstr ""
+msgstr "注文中に、カートから1つ以上のアイテムが削除されました。ご注文内容が正しいことを確認してください。"
 
 msgid ""
 "One or more of your fields has no name. Please enter a name for your "
 "field."
-msgstr ""
+msgstr "フィールドの1つ以上に名前がありません。フィールドの名前を入力してください。"
 
 msgid "One per line"
-msgstr ""
+msgstr "1行にひとつ"
 
 msgid "Only CSV's exported from Discogs are allowed"
 msgstr ""
@@ -5307,16 +5382,17 @@ msgid ""
 msgstr ""
 
 msgid "Only search CD"
-msgstr ""
+msgstr "CD検索のみ"
 
 msgid "Only search Vinyl"
-msgstr ""
+msgstr "レコード検索のみ"
 
 msgid "Only show topics I've posted in"
-msgstr ""
+msgstr "私が投稿したトピックのみを表示"
 
+#, fuzzy
 msgid "Only you can view a disabled image"
-msgstr ""
+msgstr "無効化された画像しか見えません"
 
 msgid "Only your country will be displayed in the marketplace."
 msgstr ""
@@ -5325,28 +5401,28 @@ msgstr ""
 msgid ""
 "Oops! There was a problem communicating with PayPal. Please <a "
 "href=\"%s\">try your payment again</a>."
-msgstr ""
+msgstr "Paypalとの通信中に問題が発生しました。<a href=\"%s\"> 後ほどやり直してください</a>。"
 
 msgid "Open"
-msgstr ""
+msgstr "開く"
 
 msgid "Open In New Window"
-msgstr ""
+msgstr "新しいウィンドウを開く"
 
 msgid "Open Shipping Policies Editor"
 msgstr ""
 
 msgid "Open Site Menu"
-msgstr ""
+msgstr "サイトメニューを開く"
 
 msgid "Open a new support request"
 msgstr ""
 
 msgid "Open another file"
-msgstr ""
+msgstr "もう一つのファイルを開く"
 
 msgid "Opted out"
-msgstr ""
+msgstr "選択した"
 
 msgid "Optional Fields"
 msgstr ""
@@ -5355,14 +5431,14 @@ msgid "Optional Fields (at least one required):"
 msgstr ""
 
 msgid "Options"
-msgstr ""
+msgstr "オプション"
 
 #, python-format
 msgid "Or <a href=\"%(link)s\">upload a CSV</a>."
-msgstr ""
+msgstr "<a href=\"%(link)s\">CSVファイル</a>をアップロードすることも可能です。"
 
 msgid "Order"
-msgstr ""
+msgstr "注文"
 
 msgid "Order #"
 msgstr ""
@@ -5374,13 +5450,13 @@ msgid "Order Changed"
 msgstr ""
 
 msgid "Order Date"
-msgstr ""
+msgstr "注文日"
 
 msgid "Order ID"
-msgstr ""
+msgstr "注文ID"
 
 msgid "Order Information"
-msgstr ""
+msgstr "注文の詳細"
 
 msgid "Order Terms (&quot;Buyer's Code&quot;)"
 msgstr ""
@@ -5402,7 +5478,7 @@ msgid "Order subtotal must be"
 msgstr ""
 
 msgid "Orders"
-msgstr ""
+msgstr "注文"
 
 msgid ""
 "Orders are billed according to the order status at the time of billing.\n"
@@ -5412,19 +5488,21 @@ msgid ""
 msgstr ""
 
 msgid "Orders by Day"
-msgstr ""
+msgstr "日ごとの注文"
 
 msgid ""
 "Originally created as a hobby project in 2000 by Kevin Lewandowski, "
 "Discogs has grown to become a definitive resource for Vinyl and CD "
 "recordings."
 msgstr ""
+"もともと Kevin "
+"Lewandowskiが2000年に趣味のプロジェクトとして作成され、DiscogsはレコードやCDの信頼あるリソースへと成長しました。"
 
 msgid "Other"
 msgstr ""
 
 msgid "Other Versions"
-msgstr ""
+msgstr "他のバージョン"
 
 #, python-format
 msgid "Other Versions (%(other_versions)s of %(num_versions)s)"
@@ -5444,7 +5522,7 @@ msgid ""
 msgstr ""
 
 msgid "Other submissions to check"
-msgstr ""
+msgstr "その他にチェックするサブミッション"
 
 msgid "Other versions of this release may also be available for purchase:"
 msgstr ""
@@ -5466,6 +5544,8 @@ msgid ""
 "primarily with open source tools, and we contribute back to the open "
 "source community."
 msgstr ""
+"Discogsのデータは常に一般に公開し、無料となります。 "
+"Discogsは、主にオープンソースのツールで構築され、Discogsは戻って、オープンソースコミュニティに貢献しています。"
 
 msgid ""
 "Our support staff can assist with any\n"
@@ -5495,42 +5575,42 @@ msgid "Overwrite any existing weights"
 msgstr ""
 
 msgid "Paid Invoices"
-msgstr ""
+msgstr "支払済み請求書"
 
 msgid "Paid On"
-msgstr ""
+msgstr "支払い"
 
 msgid "Parent Label"
-msgstr ""
+msgstr "親レーベル"
 
 #, python-format
 msgid "Parent Label %(optional)s"
 msgstr ""
 
 msgid "Passion for Music"
-msgstr ""
+msgstr "音楽へのパッション"
 
 msgid "Password"
 msgstr ""
 
 #, python-format
 msgid "Password reset instructions have been sent to %s"
-msgstr ""
+msgstr "パスワード再設定方法は%sに送信しました。"
 
 msgid ""
 "Past order information is static and will not change, so if an existing "
 "order has an incorrect address you will need to communicate as necessary "
 "to the seller via the order page."
-msgstr ""
+msgstr "過去の注文情報は変化しないので、既存の正しくないアドレスを持っている場合は、注文ページを経由して販売者に、必要に応じ・ﾄ通信する必要があります。"
 
 msgid "Pay"
-msgstr ""
+msgstr "支払い"
 
 msgid "Pay Now"
 msgstr ""
 
 msgid "Pay invoice"
-msgstr ""
+msgstr "請求書を支払う"
 
 msgid "Pay now with PayPal"
 msgstr ""
@@ -5539,10 +5619,10 @@ msgid "Pay only when someone purchases an item"
 msgstr ""
 
 msgid "Pay via"
-msgstr ""
+msgstr "支払方法："
 
 msgid "Pay with Credit Card"
-msgstr ""
+msgstr "クレジットカードで支払う"
 
 msgid "PayPal"
 msgstr ""
@@ -5551,22 +5631,22 @@ msgid "PayPal E-mail Address"
 msgstr ""
 
 msgid "PayPal address is required."
-msgstr ""
+msgstr "PayPalアドレスが必要です。"
 
 msgid "PayPal e-mail address"
 msgstr ""
 
 msgid "PayPal first name is required."
-msgstr ""
+msgstr "PayPalの名前が必要です。"
 
 msgid "PayPal information was successfully copied."
-msgstr ""
+msgstr "PayPal情報はコピーされました。"
 
 msgid "PayPal last name is required."
-msgstr ""
+msgstr "PayPalのラストネームが必要です。"
 
 msgid "PayPal was unable to process the transaction."
-msgstr ""
+msgstr "PayPalは、トランザクションを処理できませんでした。"
 
 msgid "Payee same as ships from details"
 msgstr ""
@@ -5580,14 +5660,15 @@ msgid "Payment"
 msgstr ""
 
 msgid "Payment Confirmation"
-msgstr ""
+msgstr "支払いの確認"
 
 #, python-format
 msgid "Payment Confirmation of $%(price_total)s for %(invoice)s"
-msgstr ""
+msgstr "%(invoice)sに対する、$%(price_total)sの支払いの確認です"
 
+#, fuzzy
 msgid "Payment Due By"
-msgstr ""
+msgstr "支払元："
 
 msgid "Payment Information"
 msgstr ""
@@ -5596,7 +5677,7 @@ msgid "Payment Methods"
 msgstr ""
 
 msgid "Payment Options"
-msgstr ""
+msgstr "決済オプション"
 
 msgid "Payment Pending"
 msgstr ""
@@ -5605,7 +5686,7 @@ msgid "Payment Received"
 msgstr ""
 
 msgid "Payment Received?"
-msgstr ""
+msgstr "入金済み？"
 
 msgid "Payment Sent"
 msgstr ""
@@ -5623,13 +5704,13 @@ msgid "Payments:"
 msgstr ""
 
 msgid "Paypal"
-msgstr ""
+msgstr "Paypal"
 
 msgid "Paypal Email Address"
 msgstr ""
 
 msgid "Paypal Payments"
-msgstr ""
+msgstr "Paypal支払"
 
 msgid "Pending"
 msgstr ""
@@ -5638,16 +5719,16 @@ msgid "Pending Offers"
 msgstr ""
 
 msgid "Pending Release Merges"
-msgstr ""
+msgstr "リリースの統合の保留中"
 
 msgid "Pending Release Removals"
-msgstr ""
+msgstr "保留中のリリースを移動"
 
 msgid "Permalink"
 msgstr ""
 
 msgid "Personal Email"
-msgstr ""
+msgstr "個人的なeメール"
 
 msgid "Place Order"
 msgstr ""
@@ -5666,10 +5747,10 @@ msgstr ""
 
 #, python-format
 msgid "Please <a href=\"%s\">activate your account</a> first."
-msgstr ""
+msgstr "<a href=\"%s\">アカウント有効化してください</a>。"
 
 msgid "Please activate your account before listing items for sale."
-msgstr ""
+msgstr "販売リストを作成する前に、アカウントを有効化してください。"
 
 msgid ""
 "Please also note that Report Abuse is only to be used for genuine "
@@ -5688,19 +5769,23 @@ msgid ""
 "settling petty disputes between Discogs members. Repeated reporting of "
 "posts which do not violate the terms may result in all future abuse "
 "reports from your account being automatically discarded. Thank you."
-msgstr ""
+msgstr "また、これらの利用規約は本当の違反のために使用されますので注意してください。これは、Discogsのメンバー間のささいな紛争を解決する手段として使用されるべきではない。条項に違反しない報告は将来のすべての嫌がらせ報告を生じ得ますのでお客様のアカウントから自動的に破棄されます。"
 
 msgid ""
 "Please check all artist links. If the artist is a legitimate new entry "
 "for the database, please list them in the <em>Submission Notes</em> so "
 "other users can check."
 msgstr ""
+"すべてのアーティスト・リンクを確認してください。データベースでアーティストの正当な新しいエントリーがある場合は、他のユーザも確認できるように、それらを<em>サブミッションノート</em>"
+" でリストにしてください。"
 
 msgid ""
 "Please check all label links. If the label is a legitimate new entry for "
 "the database, please list them in the <em>Submission Notes</em> so other "
 "users can check."
 msgstr ""
+"すべてのレーベル・リンクを確認してください。データベースでレーベルの正当な新しいエントリーがある場合は、他のユーザも確認できるように、それらを<em>サブミッションノート</em>"
+" でリストにしてください。"
 
 msgid ""
 "Please check for the buyer's payment and update the order to \"Payment "
@@ -5710,9 +5795,9 @@ msgstr ""
 msgid ""
 "Please check the release(s) above to make sure that you are not "
 "submitting a duplicate."
-msgstr ""
+msgstr "重複して送信していないことを確認するために、上記のリリースを確認してください。"
 
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "Please check these warning(s) against your submission, and if needed the "
 "<a href=\"%(submission_guidelines_link)s\" target=\"_blank\">Submission "
@@ -5726,6 +5811,10 @@ msgid ""
 "submission to your drafts, and ask in the <a href=\"%(forum_link)s\" "
 "target=\"_blank\">Adding / Updating Forum Topic</a>.  Thank you!"
 msgstr ""
+"お客様のサブミッションに対して、これらの警告や必要に応じて<a href=\"%(submission_guidelines_link)s\" "
+"target=\"_blank\">サブミッションガイド</a>を確認してください。警告がお客様のサブミッションが適用していないと確認された場合、チェックボックスをクリアにして、それ以外の場合はエラーを修正してください。モデレーターは警告を知らせますが、それらを簡単にダブルチェックできますのでお客様がサブミッションノートに少し説明を記述する必要があります。この段階でより多くの情報与えることができますし、より簡単かつ迅速にお客様のサブミッションを処理し、データベースに受け入れることができます。お客様が任意の質問や問題がある場合は、ドラフトにこのサブミッションを保存し、そして<a"
+" href=\"%(forum_link)s\" "
+"target=\"_blank\">フォーラムのトピックを追加・更新</a>で質問をお願いします。"
 
 msgid ""
 "Please check your PayPal account for the buyer's payment. If payment has\n"
@@ -5736,15 +5825,17 @@ msgid ""
 "Please check your email for a message from "
 "<strong>registration@discogs.com</strong>. Check any spam folders and "
 "settings, as these may be preventing you receiving the email."
-msgstr ""
+msgstr "<strong>registration@discogs.com</strong>からのメールを確認してください。メールの受信はスパムフィルターなどに防止される場合があります。気を付けてください。"
 
 msgid "Please choose a CSV file to upload."
-msgstr ""
+msgstr "アップロードするCSVファイルを選んでください。"
 
 msgid ""
 "Please choose the type of group you want to create. This "
 "<strong>cannot</strong> be changed after the group has been created."
 msgstr ""
+"作成するグループのタイプをお選びください。この\n"
+" <strong>cannot</strong>はグループが作成された後に変更されました。"
 
 msgid ""
 "Please communicate to try to <strong>resolve any problems</strong> "
@@ -5753,13 +5844,13 @@ msgstr ""
 
 #, python-format
 msgid "Please complete your %s before listing this item"
-msgstr ""
+msgstr "このアイテムをリストにする前に、%sを入力してください"
 
 msgid "Please complete your Seller Settings before continuing."
-msgstr ""
+msgstr "続行する前に、売り手の設定を入力してください。"
 
 msgid "Please complete your Seller Settings before listing items."
-msgstr ""
+msgstr "アイテムをリスト化する前に、売り手の設定を入力してください。"
 
 msgid "Please contact the seller to arrange for payment"
 msgstr ""
@@ -5783,16 +5874,17 @@ msgid ""
 msgstr ""
 
 msgid "Please enable Javascript to take full advantage of our site features."
-msgstr ""
+msgstr "当サイトの機能を最大限に活用するにはJavaScriptを有効にしてください。"
 
 msgid "Please enter a short description of the abuse"
 msgstr ""
 
 msgid "Please enter a valid PayPal address."
-msgstr ""
+msgstr "有効なPayPalアドレスを入力してください。"
 
+#, fuzzy
 msgid "Please enter a valid Skrill address."
-msgstr ""
+msgstr "有効なSKRILLアドレスを入力してください。"
 
 #, python-format
 msgid ""
@@ -5810,12 +5902,12 @@ msgid "Please include specific details relevant to your question or issue."
 msgstr ""
 
 msgid "Please make sure that the file you are uploading is encoded as \"UTF-8\"."
-msgstr ""
+msgstr "アップロードするファイルのエンコードは「UTF-8」であることを確認してください。"
 
 msgid ""
 "Please make sure the first and last name you entered match the name on "
 "your PayPal account."
-msgstr ""
+msgstr "お客様が入力した姓と名がお客様のPayPalアカウントの名前と一致していることを確認してください。"
 
 msgid ""
 "Please make sure to continue to make correct contributions, and keep up "
@@ -5836,19 +5928,19 @@ msgid ""
 msgstr ""
 
 msgid "Please only enter numbers for Releases."
-msgstr ""
+msgstr "リリースナンバーのみを入力してください。"
 
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "Please open a <a href=\"%s\">new support request</a> to discuss this "
 "issue."
-msgstr ""
+msgstr "<a href=\"%s\">新規お問い合わせt</a> を開き、問題を説明してください。"
 
 #, python-format
 msgid ""
 "Please read our <a href=\"%(link)s\">Forum Guidelines</a> section for a "
 "complete listing of our Forum terms of service."
-msgstr ""
+msgstr "利用規約の全文はDiscogsの<a href=\"%(link)s\">フォーラムガイドライン</a> のご確認をお願いします。"
 
 #, python-format
 msgid ""
@@ -5857,47 +5949,48 @@ msgid ""
 msgstr ""
 
 msgid "Please read our document on Copyright Infringement."
-msgstr ""
+msgstr "著作権侵害について、当社のドキュメントのご確認をお願いします。"
 
 #, python-format
 msgid "Please see the help topic for <a href=\"%(link)s\">removing feedback</a>"
 msgstr ""
 
 msgid "Please select the reason that best describes your complaint."
-msgstr ""
+msgstr "苦情の理由を選択してください。"
 
 msgid "Please select the reason that best describes your complaint.</"
 msgstr ""
 
 msgid "Please select the version you want to sell."
-msgstr ""
+msgstr "売りたいバージョンを選択してください。"
 
 msgid "Please send us a support request if you have any questions."
 msgstr ""
 
 msgid "Please specify a Key Release."
-msgstr ""
+msgstr "キーリリースを明示してください。"
 
 #, python-format
 msgid "Please try %(start_link)slogging in manually%(end_link)s."
-msgstr ""
+msgstr "%(start_link)s手動でログイン%(end_link)sしてみてください。"
 
+#, fuzzy
 msgid "Please try again."
-msgstr ""
+msgstr "エラー 再度試してください。"
 
 msgid "Please upload a valid CSV file."
-msgstr ""
+msgstr "有効なCSVファイルをアップロードしてください。"
 
 msgid "Please use"
 msgstr ""
 
 #, python-format
 msgid "Please use %(link)s instead."
-msgstr ""
+msgstr "代わりに%(link)sを使用してください。"
 
 #, python-format
 msgid "Please use <a href=\"%(link)s\" target=\"_blank\"> %(name)s</a> instead."
-msgstr ""
+msgstr "代わりに<a href=\"%(link)s\" target=\"_blank\"> %(name)s</a>を使用してください。"
 
 msgid "Please verify that this is the exact item you want to sell."
 msgstr ""
@@ -5909,35 +6002,35 @@ msgid "Policies and guidelines for the Discogs Marketplace."
 msgstr ""
 
 msgid "Popular Groups"
-msgstr ""
+msgstr "人気のグループ"
 
 msgid "Pos"
-msgstr ""
+msgstr "POS"
 
 msgid "Position"
-msgstr ""
+msgstr "ポジション"
 
 msgid "Positive"
 msgstr ""
 
 msgid "Post"
-msgstr ""
+msgstr "投稿"
 
 msgid "Post Comment"
-msgstr ""
+msgstr "コメントを投稿する"
 
 msgid "Post Reply"
 msgstr ""
 
 msgid "Post Topic"
-msgstr ""
+msgstr "投稿のトピック"
 
 msgid "Post a new topic"
-msgstr ""
+msgstr "新しいトピックの投稿"
 
 #, python-format
 msgid "Post by %s"
-msgstr ""
+msgstr "%s によって投稿"
 
 msgid "Post new topic"
 msgstr ""
@@ -5946,19 +6039,19 @@ msgid "Postal Code"
 msgstr ""
 
 msgid "Posted"
-msgstr ""
+msgstr "投稿された"
 
 msgid "Posted Review"
-msgstr ""
+msgstr "投稿されたレビュー"
 
 msgid "Prev"
 msgstr ""
 
 msgid "Preview"
-msgstr ""
+msgstr "プレビュー"
 
 msgid "Preview / Submit"
-msgstr ""
+msgstr "プレビュー / 送信"
 
 msgid "Preview Artist Update"
 msgstr ""
@@ -5970,13 +6063,13 @@ msgid "Preview Reply"
 msgstr ""
 
 msgid "Preview for"
-msgstr ""
+msgstr "プレビューのため"
 
 msgid "Preview message"
-msgstr ""
+msgstr "メッセージをプレビュー"
 
 msgid "Preview reply"
-msgstr ""
+msgstr "返信をプレビュー"
 
 msgid "Previous"
 msgstr ""
@@ -5985,29 +6078,29 @@ msgid "Previous Order"
 msgstr ""
 
 msgid "Previous State of Images"
-msgstr ""
+msgstr "前の状態の画像"
 
 msgid "Previously uploaded files"
-msgstr ""
+msgstr "以前にアップロードされたファイル"
 
 msgid "Price"
 msgstr "価格"
 
 msgid "Price History"
-msgstr ""
+msgstr "価格の履歴"
 
 msgid "Price Range"
-msgstr ""
+msgstr "価格帯"
 
 #, python-format
 msgid "Price in %(currency)s"
-msgstr ""
+msgstr "%(currency)sでの価格"
 
 msgid "Price in your currency"
-msgstr ""
+msgstr "お客様の通貨で価格を計算"
 
 msgid "Price is missing or invalid"
-msgstr ""
+msgstr "価格が見つからないか無効です"
 
 #, python-format
 msgid "Prices marked with a %(tag)smay be too high, based on sales history."
@@ -6016,35 +6109,37 @@ msgstr ""
 msgid "Pricing and shipping"
 msgstr ""
 
+#, fuzzy
 msgid "Primary Image"
-msgstr ""
+msgstr "主要な画像"
 
 msgid "Print View"
-msgstr ""
+msgstr "プリントビュー"
 
 msgid "Privacy Policy"
 msgstr "プライバシーポリシー"
 
 msgid "Privacy Settings"
-msgstr ""
+msgstr "プライバシー設定"
 
 msgid "Private"
-msgstr ""
+msgstr "プライベート"
 
 msgid "Private Comments"
 msgstr ""
 
 msgid "Private comments"
-msgstr ""
+msgstr "プライベートコメント"
 
+#, fuzzy
 msgid "Private free-text field to help identify an item's physical location."
-msgstr ""
+msgstr "プライベートのフリーテキストの場所は、アイテムの物理的な場所を特定するのに役立ちます。"
 
 #, python-format
 msgid ""
 "Private notes or IDs for your own reference, won't be shown to buyers "
 "(limited to %(limit)s characters)."
-msgstr ""
+msgstr "プライベートメモやIDは買い手には公開しません（文字制限：%(limit)s字）。"
 
 msgid "Private notes or IDs for your own reference."
 msgstr ""
@@ -6060,17 +6155,17 @@ msgid "Profile %(optional)s"
 msgstr ""
 
 msgid "Profile settings"
-msgstr ""
+msgstr "プロフィール設定"
 
 msgid "Promote to Admin"
 msgstr ""
 
 #, python-format
 msgid "Promoted %s to group admin."
-msgstr ""
+msgstr "グループ管理者へ%sを勧めた。"
 
 msgid "Public"
-msgstr ""
+msgstr "公的"
 
 msgid "Public Comments"
 msgstr ""
@@ -6079,30 +6174,30 @@ msgid "Purchased"
 msgstr ""
 
 msgid "Purchases"
-msgstr ""
+msgstr "購入"
 
 msgid "Qty"
-msgstr ""
+msgstr "数量"
 
 #, python-format
 msgid "Questions about formats? <a href=\"%(link)s\">Ask in the help section</a>."
-msgstr ""
+msgstr "フォーマットについての質問？ <a href=\"%(link)s\">ヘルプで聞いてください</a>。"
 
 msgid "Questions?"
-msgstr ""
+msgstr "質問ありますか？"
 
 #, python-format
 msgid "Questions? Visit the <a href=\"%(link)s\">help section</a>."
-msgstr ""
+msgstr "質問？<a href=\"%(link)s\">ヘルプ</a>を見てみてください。"
 
 msgid "Quick Start Guide"
-msgstr ""
+msgstr "クイックスタートガイド"
 
 msgid "QuickStart Guide"
 msgstr ""
 
 msgid "Quicklist!"
-msgstr ""
+msgstr "クイックリスト！"
 
 msgid "Quit this group?"
 msgstr ""
@@ -6112,7 +6207,7 @@ msgid "Quote %(start_tag)sSelection%(end_tag)s"
 msgstr ""
 
 msgid "Quote Previous"
-msgstr ""
+msgstr "前の見積もり"
 
 msgid "Quote Selection"
 msgstr ""
@@ -6138,29 +6233,29 @@ msgstr ""
 
 #, python-format
 msgid "Rated %(span)s%(rating)s%(span_close)s of %(num)s votes"
-msgstr ""
+msgstr "投票数%(num)sで%(span)s%(rating)s%(span_close)s のを評価です"
 
 msgid "Rated:"
 msgstr ""
 
 msgid "Rating"
-msgstr ""
+msgstr "評価"
 
 msgid "Rating Average"
 msgstr ""
 
 msgid "Rating Distribution"
-msgstr ""
+msgstr "評価配分"
 
 msgid "Ratings"
-msgstr ""
+msgstr "評価"
 
 #, python-format
 msgid "Ratings (average: %s)"
-msgstr ""
+msgstr "評価する (平均: %s)"
 
 msgid "Raw data exports"
-msgstr ""
+msgstr "原データをエクスポート"
 
 #, python-format
 msgid "Read all %(group_name)s's discussions"
@@ -6170,47 +6265,47 @@ msgstr ""
 msgid ""
 "Read and understand the <a href=\"%(link)s\" target=\"_blank\">Submission"
 " Guide</a>."
-msgstr ""
+msgstr "<a href=\"%(link)s\" target=\"_blank\">サブミッションガイド</a>をご確認お願いします。"
 
 msgid "Ready to contribute?"
 msgstr ""
 
 msgid "Real Name"
-msgstr ""
+msgstr "本名"
 
 #, python-format
 msgid "Real Name %(optional)s"
 msgstr ""
 
 msgid "Really drop the banhammer on this user?"
-msgstr ""
+msgstr "本当にこのユーザを拒否しますか。"
 
 msgid "Reason"
-msgstr ""
+msgstr "理由"
 
 msgid "Reason for removal"
 msgstr ""
 
 msgid "Received"
-msgstr ""
+msgstr "受け取った"
 
 msgid "Recent"
-msgstr ""
+msgstr "最近"
 
 msgid "Recent Activity"
-msgstr ""
+msgstr "最近の活動"
 
 msgid "Recent Blog Entries"
 msgstr ""
 
 msgid "Recent Changes made"
-msgstr ""
+msgstr "最新に変更した"
 
 msgid "Recent Group Activity"
 msgstr ""
 
 msgid "Recent Lists"
-msgstr ""
+msgstr "最新のリスト"
 
 msgid "Recent Releases"
 msgstr ""
@@ -6226,7 +6321,7 @@ msgid "Recent changes affecting %(what)s"
 msgstr ""
 
 msgid "Recent ratings"
-msgstr ""
+msgstr "最新の評価"
 
 msgid "Recent uploads"
 msgstr ""
@@ -6235,7 +6330,7 @@ msgid "Recently Edited"
 msgstr ""
 
 msgid "Recipient"
-msgstr ""
+msgstr "受信者"
 
 msgid "Recommendations"
 msgstr "おすすめ"
@@ -6244,7 +6339,7 @@ msgid "Recommended"
 msgstr ""
 
 msgid "Recommended from this seller"
-msgstr ""
+msgstr "この売り手からのおすすめ"
 
 #, python-format
 msgid "Record Store Day %(year)s"
@@ -6267,7 +6362,7 @@ msgid "Region/State"
 msgstr ""
 
 msgid "Register"
-msgstr ""
+msgstr "登録"
 
 msgid "Register Using Facebook"
 msgstr ""
@@ -6275,8 +6370,9 @@ msgstr ""
 msgid "Register Using Google"
 msgstr ""
 
+#, fuzzy
 msgid "Register your application now!"
-msgstr ""
+msgstr "アプリを作成"
 
 msgid "Related Help Documents"
 msgstr ""
@@ -6285,52 +6381,52 @@ msgid "Related Tags"
 msgstr ""
 
 msgid "Release"
-msgstr ""
+msgstr "リリース"
 
 msgid "Release History"
 msgstr ""
 
 msgid "Release ID"
-msgstr ""
+msgstr "リリースID"
 
 #, python-format
 msgid ""
 "Release ID %d and Release ID %d belong to separate master releases and "
 "therefore cannot be merged."
-msgstr ""
+msgstr "リリースID %dとリリースID %dは、異なるマスターリリースに属しているため統合することはできません。"
 
 #, python-format
 msgid ""
 "Release ID %d is not eligible for merging because it already has a "
 "pending merge."
-msgstr ""
+msgstr "リリースID%dは、既に統合待ちなので、統合の対象ではありません。"
 
 #, python-format
 msgid ""
 "Release ID %d is not eligible for merging because it is a Draft that has "
 "never been submitted."
-msgstr ""
+msgstr "リリースID%dは、送信されていないドラフトであるため、統合の対象ではありません。"
 
 msgid "Release Information"
 msgstr ""
 
 msgid "Release Notes"
-msgstr ""
+msgstr "リリースノート"
 
 msgid "Release Submission Guidelines"
 msgstr ""
 
 msgid "Release date."
-msgstr ""
+msgstr "リリース日。"
 
 msgid "Release not found"
-msgstr ""
+msgstr "リリースは見つかりませんでした"
 
 msgid "Release not found."
-msgstr ""
+msgstr "リリースは見つかりませんでした。"
 
 msgid "Released"
-msgstr ""
+msgstr "リリース済み"
 
 msgid "Releases"
 msgstr ""
@@ -6339,13 +6435,13 @@ msgid "Releases Rated"
 msgstr ""
 
 msgid "Releases Recently Merged"
-msgstr ""
+msgstr "最近の統合されたリリース"
 
 msgid "Releases Recently Removed"
-msgstr ""
+msgstr "リリースはいま削除されました"
 
 msgid "Relevance"
-msgstr ""
+msgstr "関連性"
 
 msgid "Relist all Expired items"
 msgstr ""
@@ -6368,20 +6464,20 @@ msgid ""
 msgstr ""
 
 msgid "Remove"
-msgstr ""
+msgstr "削除する"
 
 #, python-format
 msgid "Remove %(thing)s"
-msgstr ""
+msgstr "%(thing)sを削除する"
 
 msgid "Remove Ban"
 msgstr ""
 
 msgid "Remove Image"
-msgstr ""
+msgstr "削除する画像"
 
 msgid "Remove Item"
-msgstr ""
+msgstr "アイテムを削除"
 
 msgid "Remove Item(s)"
 msgstr ""
@@ -6393,7 +6489,7 @@ msgid "Remove My Feedback"
 msgstr ""
 
 msgid "Remove Release"
-msgstr ""
+msgstr "削除するリリース"
 
 msgid "Remove Reply"
 msgstr ""
@@ -6402,13 +6498,13 @@ msgid "Remove Selected"
 msgstr ""
 
 msgid "Remove Topic"
-msgstr ""
+msgstr "削除するトピック"
 
 msgid "Remove all from Wantlist"
 msgstr ""
 
 msgid "Remove filters"
-msgstr ""
+msgstr "削除するフィルター"
 
 msgid "Remove from Collection"
 msgstr ""
@@ -6423,94 +6519,97 @@ msgid "Remove selected"
 msgstr ""
 
 msgid "Remove this"
-msgstr ""
+msgstr "削除する"
 
+#, fuzzy
 msgid "Remove this image"
-msgstr ""
+msgstr "削除する"
 
 msgid "Remove this release?"
-msgstr ""
+msgstr "このリリースを削除しますか？"
 
-#, python-format
+#, fuzzy, python-format
 msgid "Removed %d friend from your friend list."
 msgid_plural "Removed %d friends from your friend list."
-msgstr[0] ""
+msgstr[0] "友達リストから%d を削除しました。"
 
-#, python-format
+#, fuzzy, python-format
 msgid "Removed %d item from your collection."
 msgid_plural "Removed %d items from your collection."
-msgstr[0] ""
+msgstr[0] "コレクションから%d アイテムを削除しました。"
 
-#, python-format
+#, fuzzy, python-format
 msgid "Removed %d item from your wantlist"
 msgid_plural "Removed %d items from your wantlist"
-msgstr[0] ""
+msgstr[0] "ほしい物リストから%d アイテムを削除しました。"
 
 #, python-format
 msgid "Removed %s's items from your cart."
-msgstr ""
+msgstr "カートから%s's アイテムを削除しました。"
 
 msgid "Removed Ban"
-msgstr ""
+msgstr "Banは削除されました"
 
 msgid "Removed Videos"
 msgstr ""
 
 msgid "Removed all items from your cart."
-msgstr ""
+msgstr "カートからすべてのアイテムを削除します。"
 
 msgid "Removed ban."
-msgstr ""
+msgstr "banは削除されました。"
 
 msgid "Removed from old version"
-msgstr ""
+msgstr "古いバージョンから削除されました。"
 
+#, fuzzy
 msgid "Removed item from Wantlist."
 msgid_plural "Removed items from Wantlist."
-msgstr[0] ""
+msgstr[0] "ほしい物リストから削除されました。"
 
 msgid "Removed item from your cart."
-msgstr ""
+msgstr "カートから削除されました。"
 
+#, fuzzy
 msgid "Removed item(s) from this order. Emailed buyer."
-msgstr ""
+msgstr "この注文からの削除されたアイテム。買い手へeメールを送りました。"
 
 msgid "Removed item."
-msgstr ""
+msgstr "削除されたアイテム。"
 
 msgid "Removed topic from saved list."
-msgstr ""
+msgstr "保存リストからトピックが削除されました。"
 
 msgid "Removed user from ignore list."
-msgstr ""
+msgstr "放出リストからユーザが削除されました。"
 
 msgid "Rename Folder"
-msgstr ""
+msgstr "フォルダー名を変更する"
 
 msgid "Rename folder to"
-msgstr ""
+msgstr "フォルダ名前を変更する"
 
 msgid "Renamed folder"
-msgstr ""
+msgstr "名前が変更されたフォルダ"
 
 msgid "Replace"
 msgstr ""
 
 #, python-format
 msgid "Replied to feedback on %s orders."
-msgstr ""
+msgstr "%s注文のフィードバックに返信しました。"
 
 msgid "Replies"
-msgstr ""
+msgstr "返信"
 
 msgid "Reply"
-msgstr ""
+msgstr "返信"
 
 msgid "Reply above this line"
 msgstr ""
 
 msgid "Reply to Feedback"
-msgstr ""
+msgstr "フィードバックへ返信"
 
 msgid ""
 "Reply to a comment someone has left about your buyer or seller "
@@ -6521,22 +6620,22 @@ msgid "Reply to feedback"
 msgstr ""
 
 msgid "Reply to feedback received"
-msgstr ""
+msgstr "受け取ったフィードバックへ返信"
 
 msgid "Reply to message"
-msgstr ""
+msgstr "メッセージへ返信"
 
 msgid "Reply to this topic"
 msgstr ""
 
 msgid "Report"
-msgstr ""
+msgstr "報告"
 
 msgid "Report Abuse"
-msgstr ""
+msgstr "不正を報告する"
 
 msgid "Report Image"
-msgstr ""
+msgstr "画像を報告する"
 
 msgid "Report Item"
 msgstr ""
@@ -6551,19 +6650,19 @@ msgid "Report Offensive Material"
 msgstr ""
 
 msgid "Report Review or Comment"
-msgstr ""
+msgstr "レビューもしくはコメントの報告"
 
 msgid "Report a discussion post"
-msgstr ""
+msgstr "ディスカッションの投稿を報告する"
 
 msgid "Report message"
-msgstr ""
+msgstr "メッセージの報告"
 
 msgid "Report review or comment"
-msgstr ""
+msgstr "レビューもしくはコメントの報告"
 
 msgid "Report the image above"
-msgstr ""
+msgstr "上記の画像を報告する"
 
 msgid "Request"
 msgstr ""
@@ -6576,20 +6675,20 @@ msgid "Request Data Export"
 msgstr ""
 
 msgid "Request Feedback Review"
-msgstr ""
+msgstr "フィードバックのレビューをリクエスト"
 
 #, python-format
 msgid "Request Feedback Review %(start_tag)sfor this Order%(end_tag)s"
 msgstr ""
 
 msgid "Request Removal of this Release"
-msgstr ""
+msgstr "このリリースのリクエストの取り外し"
 
 msgid "Request Review"
-msgstr ""
+msgstr "レビューのリクエスト"
 
 msgid "Request Token URL"
-msgstr ""
+msgstr "リクエストトークンURL"
 
 msgid "Request help from Discogs"
 msgstr ""
@@ -6601,10 +6700,10 @@ msgid "Requires Stock Check"
 msgstr ""
 
 msgid "Resend Confirmation Code"
-msgstr ""
+msgstr "確認コードをを再送信"
 
 msgid "Resend to"
-msgstr ""
+msgstr "再送信"
 
 msgid "Reset Reply"
 msgstr ""
@@ -6613,16 +6712,16 @@ msgid "Resq Failed"
 msgstr ""
 
 msgid "Restore Default Settings"
-msgstr ""
+msgstr "デフォルト設定に戻す"
 
 msgid "Restored default notification preferences."
-msgstr ""
+msgstr "デフォルトの通知環境設定に復元されました。"
 
 msgid "Return to My Discogs"
 msgstr ""
 
 msgid "Return to your Billing page"
-msgstr ""
+msgstr "お客様の請求ぺージへ戻る"
 
 msgid "Revert Changes"
 msgstr ""
@@ -6645,19 +6744,20 @@ msgid "Reviews"
 msgstr ""
 
 msgid "Reviews & Discussion"
-msgstr ""
+msgstr "レビュー & ディスカッション"
 
 msgid "Revoke"
-msgstr ""
+msgstr "消去"
 
 msgid "Revoke access"
-msgstr ""
+msgstr "アクセス権を取り消す"
 
 msgid "Revoke this application's access to your Discogs account?"
-msgstr ""
+msgstr "このアプリの、お客様アカウントへのアクセス権限を取り消しますか。"
 
+#, fuzzy
 msgid "Role"
-msgstr ""
+msgstr "役割"
 
 msgid "Rules for interacting with the discography."
 msgstr ""
@@ -6666,16 +6766,16 @@ msgid "Sales History"
 msgstr "販売履歴"
 
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 msgid "Save Changes"
-msgstr ""
+msgstr "変更を保存"
 
 msgid "Save Draft"
-msgstr ""
+msgstr "ドラフトを保存"
 
 msgid "Save Fields"
-msgstr ""
+msgstr "保存フィールド"
 
 msgid "Save Group Settings"
 msgstr ""
@@ -6684,13 +6784,13 @@ msgid "Save Information"
 msgstr ""
 
 msgid "Save Item"
-msgstr ""
+msgstr "アイテムを保存"
 
 msgid "Save Labs Settings"
 msgstr ""
 
 msgid "Save Notification Settings"
-msgstr ""
+msgstr "通知設定を保存する"
 
 msgid "Save Notify Setting"
 msgstr ""
@@ -6699,65 +6799,66 @@ msgid "Save Thread"
 msgstr ""
 
 msgid "Save all Track Artists/Credits"
-msgstr ""
+msgstr "全てのトラックのアーティスト/クレジットを保存"
 
 msgid "Save and Continue"
 msgstr ""
 
 msgid "Save changes"
-msgstr ""
+msgstr "保存を変更"
 
 msgid "Save group settings"
 msgstr ""
 
 msgid "Save my privacy settings"
-msgstr ""
+msgstr "私のプライバシー設定を保存します"
 
 msgid "Save settings"
-msgstr ""
+msgstr "設定を保存します"
 
 msgid "Save your changes"
 msgstr ""
 
 msgid "Saved"
-msgstr ""
+msgstr "保存しました"
 
 msgid "Saved Changes"
-msgstr ""
+msgstr "変更を保存"
 
 msgid "Saved Changes."
-msgstr ""
+msgstr "変更を保存。"
 
 msgid "Saved Group Topics"
-msgstr "保存したグループでの会話"
+msgstr "保存したグループトピック"
 
+#, fuzzy
 msgid "Saved Labs Preferences"
-msgstr ""
+msgstr "Labsの環境設定を保存"
 
 msgid "Saved Submissions"
-msgstr ""
+msgstr "保存したサブミッション"
 
 msgid "Saved Topics"
-msgstr ""
+msgstr "トピックを保存"
 
 #, python-format
 msgid "Saved changes to <a href=\"%s\">listing %s</a>"
-msgstr ""
+msgstr "<a href=\"%s\">リスト%s</a>に変更を保存"
 
 msgid "Saved changes to your marketplace settings."
-msgstr ""
+msgstr "お客様のマーケットプレイス設定を変更しました。"
 
 msgid "Saved changes."
-msgstr ""
+msgstr "変更を保存。"
 
 msgid "Saved notification preferences."
-msgstr ""
+msgstr "通知設定が保存されました。"
 
 msgid "Saved your changes."
-msgstr ""
+msgstr "変更を保存する。"
 
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 #, python-format
 msgid "Search %(thread_type)s Threads"
@@ -6767,31 +6868,31 @@ msgid "Search Collection"
 msgstr ""
 
 msgid "Search Discogs"
-msgstr ""
+msgstr "Discogs内を検索する"
 
 msgid "Search Discogs for info. Looks like it is not in the database yet!"
 msgstr ""
 
 msgid "Search Groups"
-msgstr ""
+msgstr "グループ検索"
 
 msgid "Search Help Docs"
 msgstr ""
 
 msgid "Search Help Docs..."
-msgstr ""
+msgstr "ヘルプ内を検索"
 
 msgid "Search Marketplace"
 msgstr ""
 
 msgid "Search Results"
-msgstr ""
+msgstr "検索結果"
 
 msgid "Search Similar"
 msgstr ""
 
 msgid "Search Submissions"
-msgstr ""
+msgstr "サブミッションを検索"
 
 msgid "Search Wantlist"
 msgstr ""
@@ -6800,19 +6901,19 @@ msgid "Search Youtube"
 msgstr ""
 
 msgid "Search all excluding Vinyl and CD"
-msgstr ""
+msgstr "アナログとCD以外の全てを検索"
 
 msgid "Search all release formats"
-msgstr ""
+msgstr "全てのリリースフォーマットで検索"
 
 msgid "Search artists, albums and more..."
-msgstr ""
+msgstr "アーティスト、アルバムなどで検索"
 
 msgid "Search by Exact Match"
 msgstr ""
 
 msgid "Search by specific fields"
-msgstr ""
+msgstr "特定カテゴリー内で検索"
 
 msgid "Search discussions"
 msgstr ""
@@ -6821,7 +6922,7 @@ msgid "Search for"
 msgstr ""
 
 msgid "Search for an item to sell"
-msgstr ""
+msgstr "売り出しアイテムを検索"
 
 msgid "Search for variations of"
 msgstr ""
@@ -6835,8 +6936,9 @@ msgstr ""
 msgid "Search groups"
 msgstr ""
 
+#, fuzzy
 msgid "Search in new window"
-msgstr ""
+msgstr "新しいウィンドウを開く"
 
 msgid "Search phrase or YouTube URL"
 msgstr ""
@@ -6845,7 +6947,7 @@ msgid "Search results"
 msgstr ""
 
 msgid "Search the database using these fields"
-msgstr ""
+msgstr "特定カテゴリーをデータベースで検索"
 
 msgid "Search this board"
 msgstr ""
@@ -6867,22 +6969,23 @@ msgid ""
 msgstr ""
 
 msgid "Security Assurance"
-msgstr ""
+msgstr "セキュリティー確保"
 
-#, python-format
+#, fuzzy, python-format
 msgid "See %(n)s reply"
 msgid_plural "See %(n)s replies"
-msgstr[0] ""
+msgstr[0] "%(n)s 返信を見る"
 
 #, python-format
 msgid "See <a href=\"%(link)s\" target=\"_blank\">formatting options</a>"
-msgstr ""
+msgstr "<a href=\"%(link)s\" フォーマットオプション</a>を見る"
 
+#, fuzzy
 msgid "See also"
-msgstr ""
+msgstr "さらに検索"
 
 msgid "See full review"
-msgstr ""
+msgstr "続きを見る"
 
 msgid "See more videos..."
 msgstr ""
@@ -6897,7 +7000,7 @@ msgid "Select"
 msgstr ""
 
 msgid "Select All"
-msgstr ""
+msgstr "全て選択"
 
 msgid "Select Artist Code"
 msgstr ""
@@ -6922,7 +7025,7 @@ msgstr ""
 msgid ""
 "Select which events you would like to be notified about and how Discogs "
 "should notify you."
-msgstr ""
+msgstr "お知らせの欲しいイベントとそれについての連絡方法を選択する。"
 
 msgid "Select your payment method and complete your payment"
 msgstr ""
@@ -6935,10 +7038,10 @@ msgid "Sell Copy"
 msgstr ""
 
 msgid "Sell Item"
-msgstr ""
+msgstr "アイテムを売る"
 
 msgid "Sell Music"
-msgstr ""
+msgstr "音楽を売る"
 
 msgid "Sell This Item"
 msgstr ""
@@ -6953,13 +7056,13 @@ msgid "Sell this Item"
 msgstr ""
 
 msgid "Sell this item"
-msgstr ""
+msgstr "このアイテムを売る"
 
 msgid "Sell-Blocked Releases"
-msgstr ""
+msgstr "売るのがブロックされたリリース"
 
 msgid "Seller"
-msgstr ""
+msgstr "売り手"
 
 msgid "Seller Feedback"
 msgstr ""
@@ -6991,7 +7094,7 @@ msgid ""
 msgstr ""
 
 msgid "Seller Promo"
-msgstr ""
+msgstr "売り手のキャンペーン"
 
 msgid "Seller Settings"
 msgstr ""
@@ -7044,7 +7147,7 @@ msgid "Selling Music"
 msgstr ""
 
 msgid "Selling Unique Releases"
-msgstr ""
+msgstr "特殊リリースを売る"
 
 #, python-format
 msgid ""
@@ -7053,18 +7156,21 @@ msgid ""
 "invoices:<p>If there are no past due invoices, or you have a question "
 "about an invoice, please <a href=\"%s\">contact us</a>.</p>"
 msgstr ""
+"お客様のアカウントは販売機能が無効になっています。未払い請求がないか<a "
+"href=\"%s\">請求書ページ</a>で確認してくさい。そこに未払い請求書がない場合、または請求書について質問がある場合、 <a "
+"href=\"%s\">お問い合わせ</a>までご連絡ください。</a></p>"
 
 msgid ""
 "Selling options have been disabled on your account. Please check the "
 "billing page to ensure you don't have any past due invoices:"
-msgstr ""
+msgstr "販売のオプションは、お客様のアカウントに無効になっています。お客様が延滞していている請求書を持っていないことを確認するためには、請求ぺージをご確認ください。"
 
 #, python-format
 msgid "Send %(username)s a message"
 msgstr ""
 
 msgid "Send Feedback to Discogs"
-msgstr ""
+msgstr "Discogsにフィードバックを送ります"
 
 msgid "Send Message"
 msgstr ""
@@ -7088,13 +7194,13 @@ msgid ""
 msgstr ""
 
 msgid "Send message"
-msgstr ""
+msgstr "メッセージを送る"
 
 msgid "Send reply"
-msgstr ""
+msgstr "返信する"
 
 msgid "Sent"
-msgstr ""
+msgstr "送信済み"
 
 msgid ""
 "Separate by space or one per line. These buyers will not be able to make "
@@ -7104,15 +7210,16 @@ msgstr ""
 msgid "Series"
 msgstr ""
 
+#, fuzzy
 msgid "Set Primary"
-msgstr ""
+msgstr "初期設定する"
 
 msgid "Set Shipping Price and Invoice Buyer"
 msgstr ""
 
 #, python-format
 msgid "Set to publish on %s."
-msgstr ""
+msgstr "%sで公開するために設定してください。"
 
 msgid "Set up your shipping information"
 msgstr ""
@@ -7126,7 +7233,7 @@ msgstr ""
 msgid ""
 "Set your timezone, browsing options, profile information, change your "
 "email address, or update your password."
-msgstr ""
+msgstr "タイムゾーンの設定、ブラウザーの設定、プロフィール、メールアドレスの変更、パスワードの更新。"
 
 msgid "Settings"
 msgstr "設定"
@@ -7135,7 +7242,7 @@ msgid "Share"
 msgstr ""
 
 msgid "Sharing settings"
-msgstr ""
+msgstr "設定をシェアする"
 
 msgid "Shill Feedback"
 msgstr ""
@@ -7144,7 +7251,7 @@ msgid "Shipped"
 msgstr ""
 
 msgid "Shipping"
-msgstr ""
+msgstr "設定をシェアする"
 
 msgid "Shipping Information"
 msgstr ""
@@ -7168,20 +7275,20 @@ msgid "Shipping Terms"
 msgstr ""
 
 msgid "Shipping address updated."
-msgstr ""
+msgstr "配送先の更新。"
 
 msgid "Shipping information"
-msgstr ""
+msgstr "配送について"
 
 msgid "Shipping terms are required."
-msgstr ""
+msgstr "配送方法を選択してください。"
 
 #, python-format
 msgid "Shipping via %(method)s"
-msgstr ""
+msgstr "%(method)sで配送する"
 
 msgid "Ships From"
-msgstr ""
+msgstr "から出荷"
 
 msgid "Ships From:"
 msgstr ""
@@ -7204,7 +7311,7 @@ msgid_plural "Show All %(more_reviews)s Reviews"
 msgstr[0] ""
 
 msgid "Show <strong>recommendations</strong> on release pages"
-msgstr ""
+msgstr "リリースページで<strong>おすすめ</strong>を表示する"
 
 msgid "Show Deleted"
 msgstr ""
@@ -7213,50 +7320,52 @@ msgid "Show Editing Options"
 msgstr ""
 
 msgid "Show Items in Marketplace"
-msgstr ""
+msgstr "マーケットプレイスのアイテムを表示する"
 
 msgid "Show Status Descriptions"
 msgstr ""
 
+#, fuzzy
 msgid "Show This Legend"
-msgstr ""
+msgstr "レジェンドを表示"
 
 msgid "Show actions"
 msgstr ""
 
 msgid "Show details"
-msgstr ""
+msgstr "詳細を表示する"
 
 msgid "Show items For Sale in my Wantlist"
-msgstr ""
+msgstr "ほしい物リストの売り出し中アイテムを表示する"
 
 msgid "Show more"
 msgstr ""
 
 msgid "Show posts from my groups"
-msgstr ""
+msgstr "マイグループからの投稿を表示する"
 
+#, fuzzy
 msgid "Show this Legend"
-msgstr ""
+msgstr "レジェンドを表示"
 
 msgid "Showing <%= results.length %> of <%= pagination.items %>"
-msgstr ""
+msgstr "<%= pagination.items %>の<%= results.length %>を表示"
 
 msgid "Showing Deleted Messages."
-msgstr ""
+msgstr "メッセージを削除する。"
 
 #, python-format
 msgid "Showing only %(type)s ratings."
-msgstr ""
+msgstr "%(type)s の評価のみを表示しています。"
 
 msgid "Sign Up"
-msgstr "サインアップ"
+msgstr "入会"
 
 msgid "Sincerely,"
 msgstr ""
 
 msgid "Site Banner"
-msgstr ""
+msgstr "バナー"
 
 msgid "Sites"
 msgstr ""
@@ -7268,13 +7377,13 @@ msgid "Skrill"
 msgstr ""
 
 msgid "Sleeve"
-msgstr ""
+msgstr "スリーブ"
 
 msgid "Sleeve "
 msgstr ""
 
 msgid "Sleeve Condition"
-msgstr ""
+msgstr "スリーブの状態"
 
 msgid "Sleeve condition"
 msgstr ""
@@ -7289,7 +7398,7 @@ msgid "Sold"
 msgstr ""
 
 msgid "Sold by"
-msgstr ""
+msgstr "売り手："
 
 msgid "Sold in"
 msgstr ""
@@ -7298,7 +7407,7 @@ msgstr ""
 msgid ""
 "Some audio clips (%s) weren't saved because they are too large. The "
 "maximum file size allowed is %0.2f MB."
-msgstr ""
+msgstr "ファイルサイズが大きすぎるので、いくつかのオーディオクリップ(%s)は保存できませんでした。ファイルのサイズは %0.2f MB以下にしてください。"
 
 msgid ""
 "Some items could not be marked for sale because they have already been "
@@ -7306,41 +7415,41 @@ msgid ""
 msgstr ""
 
 msgid "Sorry, but you are not allowed to post reviews."
-msgstr ""
+msgstr "大変申し訳ございませんが、レビューの投稿が認められておりません。"
 
 msgid ""
 "Sorry, that type of export has alreadybeen requested within the past "
 "hour. Please try again later."
-msgstr ""
+msgstr "大変申し訳ございませんが、同内容の輸出リクエストが過去数時間の間にされているようです。後ほど、再度、アクセスしてください。"
 
 msgid "Sorry, the item you tried to view is not currently for sale."
-msgstr ""
+msgstr "大変申し訳ございませんが、こちらのアイテムは売りに出ておりません。"
 
 msgid "Sorry, this artist does not have any releases under that name."
-msgstr ""
+msgstr "大変申し訳ございませんが、アーティスト名が違うようです。"
 
 msgid "Sorry, this item is not for sale."
-msgstr ""
+msgstr "大変申し訳ございませんが、このアイテムは、売りに出ておりません。"
 
 #, python-format
 msgid ""
 "Sorry, this item is not for sale. The listing will be removed within %d "
 "minutes."
-msgstr ""
+msgstr "大変申し訳ございませんが、このアイテムは売りに出ておりません。検索結果は%d以内にリストから外されます。"
 
 msgid ""
 "Sorry, this release cannot be sold in the Discogs Marketplace. If you "
 "have questions, please open a support request."
-msgstr ""
+msgstr "大変申し訳ございませんが、このリリースはDiscogsマーケットプレイス上では販売できません。ご質問等ある場合はお問い合わせください。"
 
 msgid "Sorry, we have no recent price history for this item"
-msgstr ""
+msgstr "大変申し訳ございませんが、このアイテムに関する最新価格が表示できません。"
 
 #, python-format
 msgid ""
 "Sorry, you can no longer leave feedback on this order because it is older"
 " than %d days."
-msgstr ""
+msgstr "大変申し訳ございませんが、この注文は%d日前のものなので、フィードバックは送れません。"
 
 msgid "Sorry, you must be logged in to make offers."
 msgstr ""
@@ -7350,10 +7459,10 @@ msgstr ""
 
 #, python-format
 msgid "Spam: %s (in IP bans)"
-msgstr ""
+msgstr "スパム：%s (IPアドレス拒否リスト)"
 
 msgid "Staff"
-msgstr ""
+msgstr "スタッフ"
 
 msgid "Start Shopping"
 msgstr ""
@@ -7361,36 +7470,36 @@ msgstr ""
 msgid ""
 "Start by entering your promo code located on the back of the card you "
 "received."
-msgstr ""
+msgstr "カードの裏側にあるキャンペーンコードを入力することからはじめよう。"
 
 msgid "Start over"
-msgstr ""
+msgstr "やり直し"
 
 msgid "Start selling now!"
-msgstr ""
+msgstr "さぁ売りましょう！"
 
 msgid "Start shopping now!"
-msgstr ""
+msgstr "ショッピングを始めましょう！"
 
 msgid "State/Province"
-msgstr ""
+msgstr "県"
 
 msgid "Statistics"
 msgstr ""
 
 #, python-format
 msgid "Stats %(unicode_and)s Ratings for"
-msgstr ""
+msgstr "のために制御する%(unicode_and)sの評価"
 
 msgid "Stats for"
-msgstr ""
+msgstr "のために制御する"
 
 msgid "Status"
-msgstr ""
+msgstr "ステイタス"
 
 #, python-format
 msgid "Step %(pagestep)s of 3"
-msgstr ""
+msgstr "3ステップ中の%(pagestep)s"
 
 msgid "Sticky"
 msgstr ""
@@ -7405,71 +7514,73 @@ msgid "Stop impersonating"
 msgstr ""
 
 msgid "Stop notifying"
-msgstr ""
+msgstr "お知らせを送らない"
 
 msgid "Strict"
 msgstr ""
 
+#, fuzzy
 msgid "Strict Search"
-msgstr ""
+msgstr "グループの検索"
 
 msgid "Style"
-msgstr ""
+msgstr "スタイル"
 
 msgid "Styles"
 msgstr "スタイル"
 
 msgid "Subheading"
-msgstr ""
+msgstr "見出し2"
 
+#, fuzzy
 msgid "Subject"
-msgstr ""
+msgstr "見出し"
 
 msgid "Sublabel"
 msgid_plural "Sublabels"
 msgstr[0] ""
 
 msgid "Submission Guidelines"
-msgstr ""
+msgstr "サブミッションガイド"
 
 msgid "Submission Notes"
-msgstr ""
+msgstr "サブミッションノート"
 
 msgid "Submission Notes (Required)"
 msgstr ""
 
 msgid "Submissions"
-msgstr "登録"
+msgstr "サブミッション"
 
 msgid "Submissions for"
-msgstr ""
+msgstr "サブミッション："
 
 #, python-format
 msgid "Submissions for artist %s"
-msgstr ""
+msgstr "%s アーティストに関するサブミッション"
 
 #, python-format
 msgid "Submissions for label %s"
-msgstr ""
+msgstr "%s レーベルに関するサブミッション"
 
 msgid "Submissions from List (past 90 days):"
-msgstr ""
+msgstr "過去90日間のリストからのサブミッション："
 
 msgid "Submissions from user"
-msgstr ""
+msgstr "ユーザからのサブミッション"
 
 #, python-format
 msgid "Submissions from user %s"
-msgstr ""
+msgstr "%sユーザからのサブミッション"
 
 msgid "Submit"
-msgstr ""
+msgstr "送信する"
 
 msgid "Submit Changes to Artist Page"
-msgstr ""
+msgstr "アーティストページの変更を送信する"
 
 msgid "Submit Changes to Label Page"
-msgstr ""
+msgstr "レーベルページの変更を送信する"
 
 msgid "Submit Feedback"
 msgstr ""
@@ -7487,58 +7598,65 @@ msgid "Subscribe"
 msgstr ""
 
 msgid "Subtotal"
-msgstr ""
+msgstr "小計"
 
 msgid "Subtotal of Items"
 msgstr ""
 
+#, fuzzy
 msgid "Successfully Acted Upon Report(s)."
-msgstr ""
+msgstr "報告対応完了。"
 
+#, fuzzy
 msgid "Successfully Denied Report(s)."
-msgstr ""
+msgstr "報告拒否完了。"
 
+#, fuzzy
 msgid "Successfully Ignored Report(s)."
-msgstr ""
+msgstr "報告無視完了。"
 
 msgid "Successfully added new comment."
-msgstr ""
+msgstr "新しいコメントの追加完了。"
 
 msgid "Successfully added new entry."
-msgstr ""
+msgstr "新しいエントリー追加完了。"
 
 msgid "Successfully deleted comment."
-msgstr ""
+msgstr "コメントの削除完了。"
 
+#, fuzzy
 msgid "Successfully deleted."
-msgstr ""
+msgstr "コメントの削除完了。"
 
+#, fuzzy
 msgid "Successfully disabled."
-msgstr ""
+msgstr "エントリーの編集完了。"
 
 msgid "Successfully edited entry."
-msgstr ""
+msgstr "エントリーの編集完了。"
 
+#, fuzzy
 msgid "Successfully enabled."
-msgstr ""
+msgstr "エントリーの編集完了。"
 
 msgid "Successfully moved the thread."
-msgstr ""
+msgstr "スレッドの移動完了。"
 
+#, fuzzy
 msgid "Successfully saved the image."
-msgstr ""
+msgstr "スレッドの移動完了。"
 
 msgid "Successfully updated the thread."
-msgstr ""
+msgstr "スレッドの更新完了。"
 
 msgid "Sucessfully removed entry."
-msgstr ""
+msgstr "エントリーの削除完了。"
 
 msgid "Summary"
 msgstr ""
 
 msgid "Support Request"
-msgstr "サポートリクエスト"
+msgstr "問い合わせ"
 
 msgid "Support Request #"
 msgstr ""
@@ -7548,7 +7666,7 @@ msgstr ""
 
 #, python-format
 msgid "Switch to <a href=\"%(link)s\">browser view</a>"
-msgstr ""
+msgstr "<a href=\"%(link)s\">ブラウザービュー</a> に切り替える"
 
 #, python-format
 msgid "Switch to <a href=\"%(link)s\">flat view</a>"
@@ -7558,16 +7676,16 @@ msgid "Switch to mobile layout"
 msgstr ""
 
 msgid "Tag"
-msgstr ""
+msgstr "タグ"
 
 msgid "Tags"
-msgstr ""
+msgstr "タグ"
 
 msgid ""
 "Tags are keywords used to describe your group so it can be easily found "
 "by other users. For example, if you have a group about old school techno,"
 " you might tag it:"
-msgstr ""
+msgstr "タグとはグループの説明で、ユーザが検索しやすくするために使うキーワードのことです。例えばオールドスクールテクノ："
 
 #, python-format
 msgid "Takes %(input)s business days to ship"
@@ -7578,21 +7696,21 @@ msgid "Takes %(input)s to %(input2)s business days to deliver"
 msgstr ""
 
 msgid "Teamwork"
-msgstr ""
+msgstr "チームワーク"
 
 msgid ""
 "Tell the community a little about yourself. This information will be "
 "displayed on "
-msgstr ""
+msgstr "お客様のことをちょっと教えてください。お客様のプロフィールページはここに表示されます："
 
 msgid "Tell us how we can improve this page."
-msgstr ""
+msgstr "このページに関するご意見を受付中。"
 
 msgid "Terms of Service"
 msgstr "利用規約"
 
 msgid "Test all hyperlinks and make sure they link to the correct artist/label."
-msgstr ""
+msgstr "アーティストやレーベルのリンクに間違えないか、確認してください。"
 
 msgid "Text Only"
 msgstr ""
@@ -7612,11 +7730,11 @@ msgstr ""
 msgid "Thank you for choosing to sell in the Discogs Marketplace."
 msgstr ""
 
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "Thank you for choosing to sell through the Discogs Marketplace! We've "
 "applied a <strong>$%s credit</strong> to your account."
-msgstr ""
+msgstr "<p>Discogsマーケットプレイスをご利用頂いてありがとうございます。<strong>$%s</strong>分のクレジットをお客様のアカウントに追加しました。</p>"
 
 #, python-format
 msgid ""
@@ -7672,13 +7790,13 @@ msgid ""
 msgstr ""
 
 msgid "Thank you! You have just made a payment for"
-msgstr ""
+msgstr "ありがとうございます。お支払いが完了しました："
 
 msgid "Thank you! You have just made a payment."
-msgstr ""
+msgstr "ありがとうございます。お支払いが完了しました。"
 
 msgid "Thank you, your reply has been saved."
-msgstr ""
+msgstr "ありがとうございます。お客様の返信が保存されました。"
 
 #, python-format
 msgid ""
@@ -7686,56 +7804,59 @@ msgid ""
 "can change this at any time on your <a href=\"%(link)s\">Notification "
 "Settings</a> page."
 msgstr ""
+"ありがとうございます。リマインダーメールやフィードバックは送信されません。.<br /><a "
+"href=\"%(link)s\">通知設定</a>でいつでも設定を変更できます。"
 
 #, python-format
 msgid "Thank you. Your feedback for %(user)s was saved."
 msgstr ""
 
 msgid "Thank you. Your report has been submitted."
-msgstr ""
+msgstr "ありがとうございます。報告を送信しました。"
 
 msgid "Thank you. Your report was received."
-msgstr ""
+msgstr "ありがとうございます。報告を受け取りました。"
 
 msgid ""
 "Thank you. Your report was received. Listed below are copies of the "
 "release available from other sellers."
-msgstr ""
+msgstr "ありがとうございます。報告を受け取りました。以下は、同じリリースに関する他の売り手の情報。"
 
 msgid "Thank you. Your request has been submitted."
-msgstr ""
+msgstr "ありがとうございます。お客様のリクエストを送信しました。"
 
 msgid ""
 "Thanks for contributing to Discogs! Please note: It may take up to five "
 "minutes for your changes to appear everywhere."
-msgstr ""
+msgstr "Discogsにご協力いただいてありがとうございます。変更時間は全体に反映されるのに5分ほどかかることをご了承ください。"
 
 msgid "Thanks for registering with us at Discogs and welcome!"
 msgstr ""
 
 msgid "Thanks, your promo code is valid!"
-msgstr ""
+msgstr "ありがとうございます。有効なキャンペーンコードです。"
 
+#, fuzzy
 msgid "Thanks, your report was received."
-msgstr ""
+msgstr "ありがとうございます。報告を受け取りました。"
 
 msgid "That list already contains this item."
-msgstr ""
+msgstr "すでにリストに掲載済みのアイテムです。"
 
 msgid "That name is already in use. Please choose a different one."
-msgstr ""
+msgstr "この名前はすでに使われています。別の名前を指定してください。"
 
 msgid "That review does not exist."
-msgstr ""
+msgstr "このレビューは存在しません。"
 
 msgid "The Database"
-msgstr ""
+msgstr "データベース"
 
 msgid "The Description Field"
-msgstr ""
+msgstr "解説画面"
 
 msgid "The Discogs Blog"
-msgstr ""
+msgstr "Discogsブログ"
 
 #, python-format
 msgid ""
@@ -7745,28 +7866,28 @@ msgid ""
 "the Marketplace is built on top of the accurate Discogs database, it is "
 "easy for sellers to list their inventory and buyers are able to specify "
 "the exact version they want."
-msgstr ""
+msgstr "Discogsマーケットプレイスは世界中の売り手と買い手を繋いでいます。何千という売り手と%(num)s何百万アイテム以上のアイテム数で新しいアイテムから貴重な入手困難商品まで見つけることができる場所となっています。Discogsの正確なデータベースをもとにしたマーケットプレイスであることから売り手にとって在庫をリストしやすく、買い手にとって欲しいものを見つけやすい場所になっています。"
 
 msgid "The Discogs Team"
-msgstr ""
+msgstr "Discogチーム"
 
 msgid "The Format Field"
-msgstr ""
+msgstr "フォーマットフィールド"
 
 msgid "The Marketplace"
-msgstr ""
+msgstr "マーケットプレイス"
 
 msgid "The Standard Criteria"
 msgstr ""
 
 msgid "The Story"
-msgstr ""
+msgstr "ストーリー"
 
 msgid "The application has been deleted."
-msgstr ""
+msgstr "アプリは削除されました。"
 
 msgid "The application's access has been revoked."
-msgstr ""
+msgstr "アプリからのアクセスは取り下げられました。"
 
 msgid ""
 "The buyer did not pay for this item within the 4 day time limit. The "
@@ -7841,28 +7962,29 @@ msgstr ""
 msgid ""
 "The fee for this order has been cancelled and we')ve sent you a revised "
 "invoice."
-msgstr ""
+msgstr "この注文はキャンセルされ、訂正した請求書が送られました。"
 
 msgid ""
 "The file you upload must be a comma-separated CSV. The first row must be "
 "a header with \"lower_case\" field names."
 msgstr ""
 
+#, fuzzy
 msgid "The file you uploaded was not a valid image and cannot be used."
-msgstr ""
+msgstr "このレーベルは無効なため編集できません。"
 
 #, python-format
 msgid "The file you uploaded was too big. Please submit an image smaller than %s."
-msgstr ""
+msgstr "ファイルサイズが大きすぎます。 %s以下のものにしてください。"
 
 #, python-format
 msgid ""
 "The file you uploaded was too small. Please submit an image larger than "
 "%d pixels wide."
-msgstr ""
+msgstr "ファイルサイズが小さすぎます。 幅が%dピクセル以上のものにしてください。"
 
 msgid "The following artists are new to the database:"
-msgstr ""
+msgstr "次のアーティストはデータベースに新しく追加されました："
 
 msgid ""
 "The following items have been removed from your cart; they were purchased"
@@ -7876,9 +7998,9 @@ msgid ""
 msgstr ""
 
 msgid "The following labels/companies are new to the database:"
-msgstr ""
+msgstr "このレーベル・会社は新しくデータベースに追加されました："
 
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "The heart of Discogs is a user-built database of music. More than "
 "%(num_users)s people have contributed some piece of knowledge, to build "
@@ -7887,55 +8009,57 @@ msgid ""
 "too!%(link_close)s Discogs also offers the ability to catalog your music "
 "collection, wantlist, and share your ratings and reviews."
 msgstr ""
+"Discogsの根幹は、ユーザ自身によって構築された音楽のデータベースです。%(num_users)s "
+"もの人たちの知識を集めて、%(num_releases)sものレコードと%(num_artists)sものアーティストに関するカタログを作り上げました。まだ完成にはほど遠い状況なので是非お客様もこの%(link)s偉業に参加できます%(link_close)s。またDiscogsを使ってお客様のミュージックコレクションやほしい物リストを整理することができたり、お客様のレビューや評価をシェアすることができます。"
 
 #, python-format
 msgid ""
 "The image dimensions are too small, please upload an image with a minimum"
 " width of %s pixels and minimum height of %s pixels."
-msgstr ""
+msgstr "画像が小さすぎます。 幅が%sピクセル以上で高さが%sピクセル以上のものにしてください。"
 
 #, python-format
 msgid ""
 "The image file %s was too big to upload. We do not allow images wider "
 "than %s or larger than %s."
-msgstr ""
+msgstr "%s画像ファイルは大きすぎます。%s以上の幅と%s以上の大きさのファイルはアップロードできません。"
 
 #, python-format
 msgid ""
 "The image file %s was too small to upload. Images must be at least %s "
 "wide."
-msgstr ""
+msgstr "%s画像ファイルが小さすぎます。幅は%s以上にしてください。"
 
 msgid ""
 "The information you entered is correct, but you don't have a PayPal "
 "Verified account. Buyers feel more confident doing business with PayPal "
 "Verified sellers, who are more likely to be legitimate, trustworthy "
 "merchants."
-msgstr ""
+msgstr "ご入力いただいた情報は正しいですが、PayPalの認証済みアカウントを持っていません。買い手はPayPalの認証済み売り手とのやり取りを望んでいます。"
 
 msgid ""
 "The invoice will be marked as paid after PayPal authorizes the "
 "transaction. If you paid via eCheck or bank transfer there will be a "
 "delay of 3-7 days before the payment is completed."
-msgstr ""
+msgstr "PayPalが取引を承認したら、請求書が「支払ずみ」になります。eチェックや銀行振込で支払った場合、支払完了まで3～7日が掛かります。ご了承ください。"
 
 msgid "The item has been added"
-msgstr ""
+msgstr "アイテムが追加されています"
 
 msgid "The item has been added."
-msgstr ""
+msgstr "アイテムが追加されています。"
 
 msgid "The master release has been deleted."
-msgstr ""
+msgstr "マスターリリースが削除されました。"
 
 msgid "The message you are replying to no longer exists."
-msgstr ""
+msgstr "お客様が返信しようとしているメッセージはもう存在しません。"
 
 msgid "The name of the artist or group."
-msgstr ""
+msgstr "アーティスト、もしくはグループ名。"
 
 msgid "The name of the record label."
-msgstr ""
+msgstr "レーベル名。"
 
 msgid "The order has been cancelled by the seller as requested by the buyer."
 msgstr ""
@@ -7974,7 +8098,7 @@ msgstr ""
 msgid ""
 "The provided password reset token was invalid or has expired. If you wish"
 " to reset your password, use the form below to send a new token."
-msgstr ""
+msgstr "パスワード解除トークンが無効です。もしくは期限切れです。パスワードをリセットした場合は以下のフォームを使って新しいトークンを送ってください。"
 
 #, python-format
 msgid ""
@@ -7991,12 +8115,12 @@ msgid ""
 msgstr ""
 
 msgid "The review's subject has been deleted."
-msgstr ""
+msgstr "レビューの対象商品が削除されました。"
 
 msgid ""
 "The sale of mp3 or other primarily file-based releases is not permitted "
 "in the Discogs Marketplace"
-msgstr ""
+msgstr "Discogsマーケットプレイス上でmp3等の音楽ファイルのみを使ったリリースは禁止されています"
 
 msgid ""
 "The seller has <em>changed the contents</em> of this order. You must "
@@ -8088,26 +8212,26 @@ msgid ""
 msgstr ""
 
 msgid "The specified list does not exist."
-msgstr ""
+msgstr "指定されたリストは存在しません。"
 
 msgid "The state of this order cannot be modified as it is more than 90 days old."
 msgstr ""
 
 msgid "The study and cataloguing of phonograph records."
-msgstr ""
+msgstr "蓄音機用のレコードの研究とカタログ化について。"
 
 msgid "The title of the release."
-msgstr ""
+msgstr "リリースタイトル。"
 
 msgid ""
 "The uploaded image is corrupt or incompatible, please try again or try "
 "with a different format."
-msgstr ""
+msgstr "画像は互換性がないか破損しています。違う形式で再度アップロードをしてみてください。"
 
 msgid ""
 "The user account you are trying to activate was not found. If you "
 "registered more than two weeks ago please re-register."
-msgstr ""
+msgstr "ユーザアカウントが検索できません。2週間以上前に登録された場合は再度、登録し直してください。"
 
 msgid "The user is not receiving emails. Do you wish to ignore this complaint?"
 msgstr ""
@@ -8116,21 +8240,21 @@ msgid "The user is not receiving emails. Do you wish to try again?"
 msgstr ""
 
 msgid "The verification code was incorrect."
-msgstr ""
+msgstr "コードが違います。"
 
 #, python-format
 msgid "There are no %s's"
-msgstr ""
+msgstr "%sはありません"
 
 msgid "There are no deleted threads."
 msgstr ""
 
 #, python-format
 msgid "There are no images for %(link)s yet."
-msgstr ""
+msgstr "%(link)s にまだ画像が登録されていません。"
 
 msgid "There are no recent completed sales of this item."
-msgstr ""
+msgstr "このアイテムに関する最近の取引はありません。"
 
 msgid "There are no threads in this topic."
 msgstr ""
@@ -8154,51 +8278,51 @@ msgid "There is a new response to the %(type)s posted on Discogs"
 msgstr ""
 
 msgid "There is no Discogs user with that e-mail address."
-msgstr ""
+msgstr "このeメールアドレスのDiscogsユーザの登録はありません。"
 
 msgid ""
 "There is too much data to efficiently compute and show differences; the "
 "revisions below are rendered <b>without</b> highlighting differences."
-msgstr ""
+msgstr "データが多すぎて効率よく相違部分の表示ができません。リストは相違部分を強調<b>しない</b>形で表示されます。"
 
 msgid "There was a problem loading the data"
-msgstr ""
+msgstr "ロード中に問題がおきました"
 
 #, python-format
 msgid ""
 "There was a problem loading this module.<br> Try enabling it using the "
 "\"%s\" button."
-msgstr ""
+msgstr "モジュールアップロード中に問題発生。<br> \"%s\" ボタンで再度試してください。"
 
 msgid ""
 "There was a problem receiving your account information; please make sure "
 "that cookies are enabled in your browser and try again."
-msgstr ""
+msgstr "アカウントインフォメーションを受け取れません。ブラウザー上のクッキーを無効にして再度、アクセスしてください。"
 
 msgid "There was a problem saving your changes. Please try again."
-msgstr ""
+msgstr "変更を保存できません。やり直してください。"
 
 msgid "There was an error changing your password."
-msgstr ""
+msgstr "パスワード変更中にエラーがおきました。"
 
 msgid "There was an error processing this transaction"
-msgstr ""
+msgstr "作業中にエラーがおきました"
 
 msgid "There was an error saving the CSV file you uploaded.Please try again."
-msgstr ""
+msgstr "アップデート中のCSVファイルの保存にエラーがおきました。やり直してください。"
 
 msgid "There was an error saving the file"
-msgstr ""
+msgstr "ファイルの保存にエラーがおきました"
 
 #, python-format
 msgid "There was an error uploading the image file %s."
-msgstr ""
+msgstr "%s画像ファイルのアップロード中にエラーが起きました\t"
 
 msgid "There was an problem saving your changes. Please try again."
-msgstr ""
+msgstr "変更の保存ができません。やり直してください。"
 
 msgid "There were errors with your submission."
-msgstr ""
+msgstr "お客様のサブミッションに問題が発生しました。"
 
 msgid ""
 "There's no doubt that the staff at London-based <a "
@@ -8215,7 +8339,7 @@ msgid ""
 msgstr ""
 
 msgid "There's nothing going on in your groups at the moment."
-msgstr ""
+msgstr "現在、グループ内でのやり取りはありません。"
 
 msgid "These listings will be marked \"For Sale\" immediately."
 msgstr ""
@@ -8239,15 +8363,15 @@ msgstr ""
 
 #, python-format
 msgid "This %s has been marked as invalid and cannot be updated."
-msgstr ""
+msgstr "こちらの%sは有効でないため更新できません。"
 
 msgid "This IP address was already recently used to create a new account."
-msgstr ""
+msgstr "このIPアドレスは、すでに他のアカウント登録に使われています。"
 
 msgid ""
 "This Release is the Key Release in the Master Release. Before Removal, "
 "please edit that Master Release to change the Key Release."
-msgstr ""
+msgstr "このリリースはマスターリリース内のキーリリースとして登録されています。マスターリリースでキーリリースを変更してから削除してください。"
 
 msgid "This Weeks's Top Contributors"
 msgstr ""
@@ -8256,30 +8380,30 @@ msgid "This Weeks's Top Voters"
 msgstr ""
 
 msgid "This account has been closed"
-msgstr ""
+msgstr "このアカウントは休止中です。"
 
 msgid "This account has been closed."
-msgstr ""
+msgstr "このアカウントは休止中です。"
 
 msgid "This artist does not exist in Discogs."
 msgstr ""
 
 msgid "This artist has been marked as invalid and cannot be edited."
-msgstr ""
+msgstr "このアーティストは有効でないため編集できません。"
 
 msgid ""
 "This artist is used as a placeholder entry and does not link to any "
 "artist."
-msgstr ""
+msgstr "このアーティストはプレイスホルダーとして登録されているため他のアーティストとリンクできません。"
 
 msgid "This document is also available in these languages: "
 msgstr ""
 
 msgid "This domain of the provided email address is not allowed."
-msgstr ""
+msgstr "こちらのeメールアドレスのドメインは使用できません。"
 
 msgid "This event has expired and can no longer be shared."
-msgstr ""
+msgstr "このイベントは期限切れのためシェアできません。"
 
 #, python-format
 msgid ""
@@ -8288,19 +8412,21 @@ msgid ""
 "abusive images %(dash)s that is, images that have been uploaded "
 "maliciously to cause offense or confusion."
 msgstr ""
+"このフォームでDiscogsシステムから画像を完全に削除することができます。<mark>重要</mark>%(dash)sこのページは違反する画像や、"
+" %(dash)s悪意をもってアップロードされた画像を報告するためです。"
 
 msgid "This image should be removed because"
-msgstr ""
+msgstr "この画像は下記の理由で削除すべきです"
 
 msgid ""
 "This information will help us to track down your specific problem and fix"
 " it! We apologize for the inconvenience."
-msgstr ""
+msgstr "この情報はお客様の問題を見つけ出すのに役に立ちます。不具合があって申し訳ありません。"
 
 msgid ""
 "This is a legacy Duration value,<br />shown so it can be converted to<br "
 "/>the new Index Track feature.<br />Headings do not support Durations."
-msgstr ""
+msgstr "従来の記録時間を表示します。<br />新しいインディクスに変換することが可能です。<br />見出しは新しい記録時間に対応していません。"
 
 msgid ""
 "This is useful if you are going on vacation or simply want to halt all "
@@ -8309,7 +8435,7 @@ msgid ""
 msgstr ""
 
 msgid "This item is in violation of one or more Discogs policies."
-msgstr ""
+msgstr "このアイテムは、Discogsのポリシー違反を含んでいます。"
 
 msgid "This item was removed from the database."
 msgstr ""
@@ -8318,7 +8444,7 @@ msgid "This label does not exist in Discogs."
 msgstr ""
 
 msgid "This label has been marked as invalid and cannot be edited."
-msgstr ""
+msgstr "このレーベルは無効なため編集できません。"
 
 msgid "This label has no approved releases"
 msgstr ""
@@ -8327,6 +8453,8 @@ msgid ""
 "This list has been made private by its owner. Click <a "
 "class=\"remove_module\">here</a> to remove this from your dashboard."
 msgstr ""
+"このリストはオーナーによってプライベート設定にされました。<a "
+"class=\"remove_module\">ここ</a>をクリックすればダッシュボードから削除されます。"
 
 #, python-format
 msgid ""
@@ -8337,7 +8465,7 @@ msgstr ""
 msgid ""
 "This message is to confirm that your Discogs password has just been "
 "changed."
-msgstr ""
+msgstr "このメッセージはお客様のDiscogsパスワードの変更を確認するものです。"
 
 msgid ""
 "This order's contents have been changed. You cannot change the status of "
@@ -8358,18 +8486,18 @@ msgid "This release also displays the videos linked to"
 msgstr ""
 
 msgid "This release cannot be sold in the Marketplace"
-msgstr ""
+msgstr "このリリースデータは前回保存されたものから更新されています。変更を消去することもできます。"
 
 msgid ""
 "This release data was loaded from a previous save. This option can be "
 "used to undo changes."
-msgstr ""
+msgstr "このリリースは以前保存されたものです。このオプションは変更を取り消すに使えます。"
 
 #, python-format
 msgid ""
 "This release has been selected for deletion and cannot be updated right "
 "now. Please view the %(start_link)shistory page%(end_link)s for details."
-msgstr ""
+msgstr "このリリースは削除用選択されており、現在、更新できません。詳細は%(start_link)s履歴%(end_link)sで確認してください。"
 
 #, python-format
 msgid ""
@@ -8377,30 +8505,32 @@ msgid ""
 "now. Please view the <a href=\"/history?release=%s#latest\">history "
 "page</a> for details."
 msgstr ""
+"このリリースは削除用に選択されており、現在更新できません。詳細は<a "
+"href=\"/history?release=%s#latest\">履歴</a> を確認してください。"
 
 #, python-format
 msgid ""
 "This release has been selected for merging and cannot be updated right "
 "now. Please view the %(start_link)shistory page%(end_link)s for details."
-msgstr ""
+msgstr "このリリースは編集中のため現在更新できません。詳細は%(start_link)s履歴%(end_link)sで確認してください。"
 
 msgid "This release is a draft."
-msgstr ""
+msgstr "このリリースは下書きです。"
 
 msgid "This release is in your wantlist"
 msgstr ""
 
 msgid "This release was selected for merging by"
-msgstr ""
+msgstr "このリリースは統合用選択中です。依頼元："
 
 msgid "This release was selected for removal by"
-msgstr ""
+msgstr "このリリースは削除用選択中です。依頼元："
 
 msgid "This takes your Expired items and marks them For Sale once again."
 msgstr ""
 
 msgid "This thread has been deleted."
-msgstr ""
+msgstr "このスレッドは削除されました。"
 
 #, python-format
 msgid "This topic is older than %(number_of_days)s days and cannot be replied to."
@@ -8417,13 +8547,13 @@ msgid ""
 msgstr ""
 
 msgid "This version of the API was shut down on 15 January 2012."
-msgstr ""
+msgstr "このバージョンのAPIは、2012年の1月15日をもって閉鎖されました。"
 
 msgid "Thread is locked and cannot be replied to."
 msgstr ""
 
 msgid "Threads"
-msgstr ""
+msgstr "スレッド"
 
 msgid "Threads Deleted"
 msgstr ""
@@ -8441,34 +8571,34 @@ msgid "Thumbnail"
 msgstr ""
 
 msgid "Time Zone"
-msgstr ""
+msgstr "タイムゾーン"
 
 msgid "Timeline"
 msgstr ""
 
 msgid "Times in CIP"
-msgstr ""
+msgstr "輸送費・保険料込条件の回数"
 
 msgid "Tip"
 msgstr ""
 
 msgid "Title"
-msgstr ""
+msgstr "タイトル"
 
 msgid "Title, A-Z"
-msgstr ""
+msgstr "作品タイトル(A-Z順)"
 
 msgid "Title, Z-A"
-msgstr ""
+msgstr "作品タイトル(Z-A順)"
 
 msgid "Title/Credits"
-msgstr ""
+msgstr "タイトル／クレジット"
 
 msgid "Title/Name"
 msgstr ""
 
 msgid "To"
-msgstr ""
+msgstr "宛先"
 
 msgid "To accept this invitation please click here:"
 msgstr ""
@@ -8487,7 +8617,7 @@ msgid ""
 "To complete your purchase you must log into your Discogs account. If you "
 "are an already registered user, please login to complete your order. If "
 "you are not a registered user, you'll need to %s."
-msgstr ""
+msgstr "購入を完了するには、Discogsアカウントにログインする必要があります。登録済みのユーザの場合はログインをして注文を完了させてください。未登録ユーザは%sする必要があります。"
 
 msgid "To complete your registration please click here:"
 msgstr ""
@@ -8496,12 +8626,12 @@ msgstr ""
 msgid ""
 "To create more applications, <a href=\"%(url)s\">open a Support "
 "Request</a>."
-msgstr ""
+msgstr "アプリをもっと作るには、<a href=\"%(url)s\">問い合わせページに進んでください</a>。"
 
 msgid ""
 "To finish resetting your password, please enter the new password you wish"
 " to use."
-msgstr ""
+msgstr "パスワードをリセットするには、好きな新しいパスワードを入力してください。"
 
 msgid ""
 "To initiate the removal of this release please use the field below to "
@@ -8509,7 +8639,7 @@ msgid ""
 " After doing this all owners and contributors to this release will be "
 "notified about the removal request. There will need to be at least 4 "
 "agreeing votes before the release is removed."
-msgstr ""
+msgstr "このリリースを削除するには以下のフィールドを使ってリリース取り下げの理由を入力し、送信ボタンを押してください。そうすると、このリリースに関する全オーナーと協力者に削除のお知らせが届きます。そのうち4票以上の賛同が得られたら、削除されます。"
 
 msgid "To place this order, you must first activate your account."
 msgstr ""
@@ -8539,6 +8669,8 @@ msgid ""
 "To view the detailed sales history of this item, please enter the text "
 "from the image. Click %(icon)s Refresh if you can't read the words."
 msgstr ""
+"この商品の取引履歴の詳細をみるには画像に出ているテキストを記入してください。文字が読めとれない場合は%(icon)s アイコン "
+"をクリックして再読み込みしてください。"
 
 msgid "To view the offer please visit the Orders page on Discogs:"
 msgstr ""
@@ -8547,29 +8679,29 @@ msgid "To view the offer please visit your Orders page on Discogs:"
 msgstr ""
 
 msgid "Today"
-msgstr ""
+msgstr "今日"
 
 msgid "Toggle Community Menu"
-msgstr ""
+msgstr "コミュニティメニューを切り替える"
 
 msgid "Toggle Conditions and Notes"
 msgstr ""
 
 msgid "Toggle Marketplace Menu"
-msgstr ""
+msgstr "マーケットプレイス・メニューを切り替える"
 
 msgid "Toggle Preview/Container Mode"
-msgstr ""
+msgstr "プレビュー／コンテイナーモードを切り替える"
 
 msgid "Toggle User Menu"
-msgstr ""
+msgstr "ユーザ・メニューを切り替える"
 
 msgid "Tools for managing sales listings."
 msgstr ""
 
 #, python-format
 msgid "Top results matching \"%(query)s\""
-msgstr ""
+msgstr "トップ検索結果：\"%(query)s\""
 
 msgid "Topic"
 msgstr ""
@@ -8578,34 +8710,34 @@ msgid "Topic is locked and cannot be replied to."
 msgstr ""
 
 msgid "Topic(s) deleted and submitted as \"missed spam\""
-msgstr ""
+msgstr "未確認スパムとして削除されたトピック"
 
 msgid "Topics"
-msgstr ""
+msgstr "トピック"
 
 msgid "Total"
-msgstr "全て"
+msgstr "合計"
 
 msgid "Total (USD)"
-msgstr ""
+msgstr "合計(USドル)"
 
 msgid "Total Amount Due:"
 msgstr ""
 
 msgid "Total Paid"
-msgstr ""
+msgstr "合計金額"
 
 msgid "Total for this Order"
 msgstr ""
 
 msgid "Total, not including shipping"
-msgstr ""
+msgstr "合計 配送料を除く"
 
 msgid "Track"
 msgstr ""
 
 msgid "Track Position(s)"
-msgstr ""
+msgstr "曲順"
 
 msgid "Track Title"
 msgstr ""
@@ -8614,7 +8746,7 @@ msgid "Track your music"
 msgstr ""
 
 msgid "Tracklist"
-msgstr ""
+msgstr "収録曲"
 
 msgid "Trash"
 msgstr ""
@@ -8628,18 +8760,20 @@ msgid ""
 "Try the latest version of %(chrome_link)s, %(firefox_link)s, or upgrade "
 "to the latest Internet Explorer."
 msgstr ""
+"最新の%(chrome_link)s, %(firefox_link)s を使うか、Internet "
+"Explorerの最新版にアップグレードしてください。"
 
 msgid "Try unchecking one of these fields"
-msgstr ""
+msgstr "選択したフィールドを一つ減らしてください"
 
 msgid "Turn on Help"
-msgstr ""
+msgstr "ヘルプを立ち上げる"
 
 msgid "Turned sticky off"
-msgstr ""
+msgstr "スティッキー機能を無効にする"
 
 msgid "Turned sticky on"
-msgstr ""
+msgstr "スティッキー機能を起動する"
 
 msgid ""
 "Two things they all have in common: they love music and they're on "
@@ -8647,7 +8781,7 @@ msgid ""
 msgstr ""
 
 msgid "Type"
-msgstr ""
+msgstr "タイプ"
 
 msgid "Type your country..."
 msgstr ""
@@ -8656,14 +8790,14 @@ msgid "URL"
 msgstr ""
 
 msgid "URLs"
-msgstr ""
+msgstr "URL"
 
 #, python-format
 msgid "URLs %(optional)s"
 msgstr ""
 
 msgid "US Dollars only."
-msgstr ""
+msgstr "USドルのみ。"
 
 msgid "Un-Archive"
 msgstr ""
@@ -8676,10 +8810,10 @@ msgstr ""
 
 #, python-format
 msgid "Unable to find the specified report with id: %s"
-msgstr ""
+msgstr "このIDに基づく報告が見つかりません：%s"
 
 msgid "Unable to process merge request."
-msgstr ""
+msgstr "統合リクエストを処理できません。"
 
 msgid "Unarchive"
 msgstr ""
@@ -8692,26 +8826,27 @@ msgstr ""
 
 #, python-format
 msgid "Unarchived %s orders."
-msgstr ""
+msgstr "注文を%s個アーカイブから復活させました。"
 
 msgid "Unblock"
-msgstr ""
+msgstr "ブロック解除"
 
+#, fuzzy
 msgid "Unblocked user"
 msgid_plural "Unblocked users"
-msgstr[0] ""
+msgstr[0] "ブロック解除されたユーザ"
 
 msgid "Unfollowed user."
-msgstr ""
+msgstr "フォロー解除されたユーザ。"
 
 msgid "Unfriend"
-msgstr ""
+msgstr "友達解除"
 
 msgid "Unignore"
-msgstr ""
+msgstr "無視をやめる"
 
 msgid "Unknown"
-msgstr ""
+msgstr "不明"
 
 msgid "Unlist"
 msgstr ""
@@ -8723,31 +8858,31 @@ msgstr ""
 msgid ""
 "Unlisted item(s). The item(s) will be removed from our browse/search "
 "pages within %d minutes."
-msgstr ""
+msgstr "アイテムをリストから外しました。そのアイテムは%d分以内に検索から消去されます。"
 
 msgid "Unlocked topic"
-msgstr ""
+msgstr "ロック解除トピック"
 
 msgid "Unpaid Invoices"
-msgstr ""
+msgstr "未払い請求書"
 
 msgid "Unread"
 msgstr ""
 
 msgid "Unread Message"
-msgstr ""
+msgstr "未開封メッセージ"
 
 msgid "Unread Messages"
-msgstr ""
+msgstr "未開封メッセージ"
 
 msgid "Unshare This"
-msgstr ""
+msgstr "シェアを解除する"
 
 msgid "Untitled"
-msgstr ""
+msgstr "タイトル未定"
 
 msgid "Untitled Application"
-msgstr ""
+msgstr "タイトル未定のアプリ"
 
 #, python-format
 msgid "Update %(username)s on the status of their order"
@@ -8772,7 +8907,7 @@ msgid "Update image"
 msgstr ""
 
 msgid "Update these images"
-msgstr ""
+msgstr "画像を更新する"
 
 msgid "Update videos"
 msgstr ""
@@ -8780,19 +8915,19 @@ msgstr ""
 msgid "Updated"
 msgstr ""
 
-#, python-format
+#, fuzzy, python-format
 msgid "Updated %d order to %s."
 msgid_plural "Updated %d orders to %s."
-msgstr[0] ""
+msgstr[0] "注文%dを%sに更新しました。"
 
 msgid "Updated artist profile"
-msgstr ""
+msgstr "更新されたアーティストプロフィール"
 
 msgid "Updated label profile"
-msgstr ""
+msgstr "更新されたレーベルプロフィール"
 
 msgid "Updated shipping and mailed invoice to buyer."
-msgstr ""
+msgstr "配送情報を更新し、買い手に請求書を送りました。"
 
 msgid "Updates to My Collection"
 msgstr ""
@@ -8804,25 +8939,28 @@ msgid "Updates to items I'm selling"
 msgstr ""
 
 msgid "Upgrade your browser."
-msgstr ""
+msgstr "ブラウザーを更新する。"
 
 msgid "Upload CSV"
-msgstr ""
+msgstr "CSVをアップロードする"
 
+#, fuzzy
 msgid "Upload Image"
-msgstr ""
+msgstr "新しい画像をアップロードする"
 
 msgid "Upload New Image"
-msgstr ""
+msgstr "新しい画像をアップロードする"
 
+#, fuzzy
 msgid "Upload Photo"
-msgstr ""
+msgstr "アップロード状況"
 
 msgid "Upload Status"
-msgstr ""
+msgstr "アップロード状況"
 
+#, fuzzy
 msgid "Upload a wide, high quality JPG"
-msgstr ""
+msgstr "高解像度のJPG画像をアップロードする"
 
 msgid "Upload and process file"
 msgstr ""
@@ -8831,11 +8969,11 @@ msgid "Upload new image"
 msgstr ""
 
 msgid "Upload row is missing or invalid"
-msgstr ""
+msgstr "行が欠損しているか有効でないためアップロードできません"
 
 #, python-format
 msgid "Upload type must be %s."
-msgstr ""
+msgstr "アップロードタイプは%sでなければなりません。"
 
 msgid "Uploaded"
 msgstr ""
@@ -8844,10 +8982,10 @@ msgid "Uploaded "
 msgstr ""
 
 msgid "Use English only."
-msgstr ""
+msgstr "英語のみ。"
 
 msgid "Use Gravatar"
-msgstr ""
+msgstr "Gravatarを使う"
 
 msgid ""
 "Use drag and drop to re-order the items in your list, or click \"move "
@@ -8855,7 +8993,7 @@ msgid ""
 msgstr ""
 
 msgid "Use suggested price"
-msgstr ""
+msgstr "参考価格を使用してください"
 
 msgid "Use the <strong>order page</strong> to contact the buyer."
 msgstr ""
@@ -8868,7 +9006,7 @@ msgstr ""
 
 #, python-format
 msgid "User %s is now being ignored. Manage your ignored users %s"
-msgstr ""
+msgstr "ユーザ%sは現在無視されています。無視したユーザ%sを管理する。"
 
 msgid "User Accounts"
 msgstr ""
@@ -8877,7 +9015,7 @@ msgid "User Options"
 msgstr ""
 
 msgid "User Profile Settings"
-msgstr ""
+msgstr "ユーザプロフィール設定"
 
 msgid "User Reviews"
 msgstr ""
@@ -8888,22 +9026,22 @@ msgstr ""
 
 #, python-format
 msgid "User is already on your %s list."
-msgstr ""
+msgstr "このユーザはすでに%sリストに登録されています。"
 
 msgid "User is not a member."
-msgstr ""
+msgstr "このユーザはメンバーではありません。"
 
 msgid "Username"
-msgstr ""
+msgstr "ユーザネーム"
 
 msgid "Username or Email"
 msgstr ""
 
 msgid "Username or email does not exist."
-msgstr ""
+msgstr "ユーザネーム、eメールアドレスの登録はありません。"
 
 msgid "Users in Contributor Improvement Program (CIP)"
-msgstr ""
+msgstr "このユーザはコントリビューター インプルーブメントプログラム(CIP)の参加者です"
 
 #, python-format
 msgid ""
@@ -8921,10 +9059,10 @@ msgid ""
 msgstr ""
 
 msgid "Verify the item matches the information on"
-msgstr ""
+msgstr "アイテムの詳細が正しいことを確認する："
 
 msgid "Versions"
-msgstr ""
+msgstr "バージョン"
 
 msgid "Video: How to list an item for sale on Discogs"
 msgstr ""
@@ -8940,10 +9078,12 @@ msgid ""
 "View <a href=\"%(first_link)s\">formatting codes</a> and <a "
 "href=\"%(second_link)s\">posting guidelines</a>"
 msgstr ""
+"<a href=\"%(first_link)s\">フォーマットコード</a>と<a "
+"href=\"%(second_link)s\">投稿ガイドライン</a>を見る"
 
 #, python-format
 msgid "View <a href=\"%(link)s\" class=\"new_window\"> formatting options</a>."
-msgstr ""
+msgstr "<a href=\"%(link)s\" class=\"new_window\"> フォーマットオプション</a>を見る。"
 
 #, python-format
 msgid ""
@@ -8962,7 +9102,7 @@ msgid "View Complete Release Details"
 msgstr ""
 
 msgid "View Help"
-msgstr ""
+msgstr "ヘルプを見る"
 
 msgid "View History"
 msgstr ""
@@ -8971,10 +9111,10 @@ msgid "View List"
 msgstr ""
 
 msgid "View Message"
-msgstr ""
+msgstr "メッセージを見る"
 
 msgid "View My Recent Changes By:"
-msgstr ""
+msgstr "最近の変更を見る："
 
 msgid "View Release"
 msgstr ""
@@ -8989,7 +9129,7 @@ msgid "View Submissions"
 msgstr ""
 
 msgid "View additional popular groups"
-msgstr ""
+msgstr "その他の人気グループを見る"
 
 msgid "View all genres"
 msgstr ""
@@ -9006,7 +9146,7 @@ msgid "View all of these updates: %(view_all_url)s"
 msgstr ""
 
 msgid "View complete sales history"
-msgstr ""
+msgstr "取引履歴を全て見る"
 
 msgid "View current submissions by:"
 msgstr ""
@@ -9015,34 +9155,34 @@ msgid "View details"
 msgstr ""
 
 msgid "View documentation for API v2"
-msgstr ""
+msgstr "API v2に関するお知らせを見る"
 
 msgid "View feedback on buyer"
-msgstr ""
+msgstr "買い手へのフィードバックを見る"
 
 msgid "View feedback on seller"
-msgstr ""
+msgstr "売り手へのフィードバックを見る"
 
 msgid "View formatting options"
-msgstr ""
+msgstr "フォーマットオプションを見る"
 
 msgid "View group activity"
-msgstr ""
+msgstr "グループ活動を見る"
 
 msgid "View in admin"
 msgstr ""
 
 msgid "View items for sale"
-msgstr ""
+msgstr "販売アイテムを見る"
 
 msgid "View list"
-msgstr ""
+msgstr "リストを見る"
 
 msgid "View more activity"
 msgstr ""
 
 msgid "View more artists"
-msgstr ""
+msgstr "アーティストをさらに見る"
 
 msgid "View more discussions"
 msgstr ""
@@ -9055,34 +9195,34 @@ msgid "View more items from this seller"
 msgstr ""
 
 msgid "View more labels"
-msgstr ""
+msgstr "レーベルをさらに見る"
 
 msgid "View more new releases"
-msgstr ""
+msgstr "新しいリリースをさらに見る"
 
 msgid "View more newest groups"
-msgstr ""
+msgstr "新しいグループをさらに見る"
 
 msgid "View more releases"
-msgstr ""
+msgstr "リリースをさらに見る"
 
 msgid "View more sales history"
-msgstr ""
+msgstr "取引履歴をさらに見る"
 
 msgid "View my Ratings"
-msgstr ""
+msgstr "評価を見る"
 
 msgid "View my lists"
-msgstr ""
+msgstr "マイリストを見る"
 
 msgid "View my orders"
-msgstr ""
+msgstr "自分の注文を見る"
 
 msgid "View my profile"
-msgstr ""
+msgstr "自分のプロフィールを見る"
 
 msgid "View my purchases"
-msgstr ""
+msgstr "購入履歴を見る"
 
 msgid "View order page"
 msgstr ""
@@ -9099,18 +9239,20 @@ msgid ""
 "href=\"%(link2)s\">Social Contract</a>. Or, <a href=\"%(link3)s\"> send a"
 " support request</a>."
 msgstr ""
+"<a href=\"%(link)s\">プライバシーポリシー</a>と<a "
+"href=\"%(link2)s\">利用規約</a>を見る。もしくは<a href=\"%(link3)s\"> 問い合わせ</a>をする。"
 
 msgid "View releases for sale"
-msgstr ""
+msgstr "売り出し中のリリースを見る"
 
 msgid "View results"
 msgstr ""
 
 msgid "View submissions browser"
-msgstr ""
+msgstr "サブミッションブラウザーを見る"
 
 msgid "View this list"
-msgstr ""
+msgstr "このリストを見る"
 
 msgid "View this message here:"
 msgstr ""
@@ -9119,13 +9261,13 @@ msgid "View your cart"
 msgstr ""
 
 msgid "View your collection"
-msgstr ""
+msgstr "コレクションを見る"
 
 msgid "View your inventory"
-msgstr ""
+msgstr "アイテムリストを見る"
 
 msgid "View your listing"
-msgstr ""
+msgstr "マイリストを見る"
 
 msgid "View your support requests"
 msgstr ""
@@ -9147,7 +9289,7 @@ msgstr ""
 
 #, python-format
 msgid "Visit the %(link)s page."
-msgstr ""
+msgstr "%(link)sページに移動する。"
 
 msgid "Visit the Forum"
 msgstr ""
@@ -9156,16 +9298,16 @@ msgid "Vote:"
 msgstr ""
 
 msgid "Voted"
-msgstr ""
+msgstr "投票済み"
 
 msgid "Votes Received"
 msgstr ""
 
 msgid "Voting"
-msgstr ""
+msgstr "投票中"
 
 msgid "Voting Trends"
-msgstr ""
+msgstr "投票トレンド"
 
 msgid "WARNING"
 msgstr ""
@@ -9174,10 +9316,10 @@ msgid "Want"
 msgstr ""
 
 msgid "Wantlist"
-msgstr "欲しいものリスト"
+msgstr "ほしい物リスト"
 
 msgid "Wantlist item not found."
-msgstr ""
+msgstr "ほしい物リストのアイテムは見つけられませんでした。"
 
 msgid "Warning: Buyer suspension"
 msgstr ""
@@ -9186,7 +9328,7 @@ msgid "Warning: Seller suspension"
 msgstr ""
 
 msgid "Warnings"
-msgstr ""
+msgstr "警告"
 
 msgid ""
 "Was left by a user who purchased an item for the <strong>sole purpose of "
@@ -9198,12 +9340,12 @@ msgid "Was this helpful?"
 msgstr ""
 
 msgid "Watched"
-msgstr ""
+msgstr "確認済み"
 
 msgid ""
 "We are all equally important parts of a successful team, sharing respect "
 "and open communication."
-msgstr ""
+msgstr "Discogsはみなチームの一員です。互いにリスペクトしあってオープンなコミュニケーションを心がけましょう。"
 
 #, python-format
 msgid ""
@@ -9241,20 +9383,20 @@ msgid "We couldn't find anything in the Discogs database for"
 msgstr ""
 
 msgid "We couldn't find that page."
-msgstr ""
+msgstr "そのページは見つかりません。"
 
 msgid ""
 "We currently do not support images in \"CMYK\" mode, please convert the "
 "image to RGB mode and try again."
-msgstr ""
+msgstr "CMYK画像に対応していません。RGBに変換してから再度試してください。"
 
 msgid ""
 "We currently do not support images in \"Palette\" mode, please convert "
 "the image to RGB mode and try again."
-msgstr ""
+msgstr "パレット画像に対応していません。RGBに変換してから再度試してください。"
 
 msgid "We did not find an existing banner to modify, upload one first."
-msgstr ""
+msgstr "編集するバナーはありません。先にアップロードしてください。"
 
 #, python-format
 msgid ""
@@ -9271,7 +9413,7 @@ msgid "We don't post anything to Facebook or Google without your permission."
 msgstr ""
 
 msgid "We found possible duplicate releases:"
-msgstr ""
+msgstr "2重のリリース："
 
 msgid "We found some new submissions related to some of your lists."
 msgstr ""
@@ -9288,7 +9430,7 @@ msgid "We have been having trouble sending email to this user since %(time)s!"
 msgstr ""
 
 msgid "We have emailed you instructions on deleting your account."
-msgstr ""
+msgstr "アカウント削除についてメールしました。"
 
 msgid ""
 "We recommend providing the seller with an opportunity to resolve any\n"
@@ -9301,54 +9443,56 @@ msgid ""
 "through Discogs."
 msgstr ""
 
+#, fuzzy
 msgid "We share a passion for listening to, creating, and/or studying music."
-msgstr ""
+msgstr "Discogsは音楽を聞くことや創作すること研究することへの熱意を共感したいです。"
 
 msgid ""
 "We think you may be using some incorrect artists. Please double-check "
 "these to make sure you are using the correct artist:"
-msgstr ""
+msgstr "間違ったアーティストを選んでいるかもしれません。正しいか確認してください："
 
 msgid ""
 "We were not able to create filters for this page. Please reload in a few "
 "seconds."
-msgstr ""
+msgstr "このページ上にフィルターを設置できませんでした。後ほどやり直してしてください。"
 
 msgid "We were unable to delete the image, please try again."
-msgstr ""
+msgstr "画像を削除できませんでした。再度試してください。"
 
 msgid ""
 "We were unable to fetch your PayPal information because you declined to "
 "log in."
-msgstr ""
+msgstr "ログインされていないので、PayPal情報を読み取ることができません。"
 
 msgid ""
 "We were unable to parse the CSV file you uploaded.Make sure your file "
 "matches the Discogs collection export format."
-msgstr ""
+msgstr "アップロードされたCSVファイルを読み取れません。Discogsの書き出しフォーマットにファイルが適合しているのか確認してください。"
 
+#, fuzzy
 msgid "We were unable to save the image, please try again."
-msgstr ""
+msgstr "変更を保存できません。やり直してください。"
 
 msgid "We weren't able to determine your PayPal Verified status."
-msgstr ""
+msgstr "お客様のPayPal「認証ずみ」資格を確認できません。"
 
 msgid "We will attempt to send email to this user again."
 msgstr ""
 
 msgid "We'll send you an e-mail when it's done."
-msgstr ""
+msgstr "完了したらeメールを送信します。"
 
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "We're a small team that loves music and is "
 "%(link)sdedicated%(link_close)s to helping other music lovers.  Each "
 "month, the work we do reaches more than %(num)s million music fans around"
 " the world."
-msgstr ""
+msgstr "Discogsの%(link)s使命%(link_close)sは世界中の音楽愛好者を手助けることです。毎月約%(num)s万人のファンにサービスを提供しています。"
 
 msgid "We're glad you found this helpful. Thank you for your input!"
-msgstr ""
+msgstr "お役に立てて嬉しいです。フィードバックに感謝します。"
 
 msgid "We're here to help!"
 msgstr ""
@@ -9379,13 +9523,13 @@ msgid "We're sorry the seller didn't respond via the order page:"
 msgstr ""
 
 msgid "We're sorry the seller isn't responding."
-msgstr ""
+msgstr "売り手から返事がないのは残念です。"
 
 msgid "We're sorry you didn't find this helpful. Thank you for your input!"
-msgstr ""
+msgstr "お役に立てなくて残念です。フィードバックに感謝します。"
 
 msgid "We're sorry, but we were unable to complete your request."
-msgstr ""
+msgstr "大変申し訳ございません。お客様のリクエストを処理できません。"
 
 #, python-format
 msgid ""
@@ -9402,7 +9546,7 @@ msgstr ""
 
 #, python-format
 msgid "We're unable to log you in via %s right now."
-msgstr ""
+msgstr "只今%sでログインできません。"
 
 #, python-format
 msgid ""
@@ -9422,7 +9566,7 @@ msgstr ""
 msgid ""
 "We've contacted the seller regarding this order; check your inbox for "
 "further details."
-msgstr ""
+msgstr "この注文に関して売り手に連絡しました。詳細は受信メールを確認してください。"
 
 msgid ""
 "We've let the buyer know you've responded. Please be sure to follow up "
@@ -9446,11 +9590,11 @@ msgid "Weight"
 msgstr ""
 
 msgid "Weight cannot be negative"
-msgstr ""
+msgstr "大変申し訳ございません。お客様のリクエストを処理できません。"
 
 #, python-format
 msgid "Welcome back, %(token_username)s. We're almost done here."
-msgstr ""
+msgstr "%(token_username)sさん、あと少しで完了です。"
 
 msgid "Welcome to the Discogs community!"
 msgstr ""
@@ -9485,44 +9629,44 @@ msgid "What would you like to do?"
 msgstr ""
 
 msgid "When Discogs sends an announcement"
-msgstr ""
+msgstr "Discogsが何かを発表する時に"
 
 msgid "When I add a release to my collection"
-msgstr ""
+msgstr "コレクションにリリースを追加した時に"
 
 msgid "When I add a release to my wantlist"
-msgstr ""
+msgstr "ほしい物リストにリリースを追加した時に"
 
 msgid "When I post a review"
-msgstr ""
+msgstr "レビューを投稿した時に"
 
 msgid "When I submit a release to the database"
-msgstr ""
+msgstr "データベースにリリースを送信した時に"
 
 msgid "When a release in my collection is changed by another user"
-msgstr ""
+msgstr "他のユーザにわたしのコレクション上のリリースが変更された時に"
 
 msgid "When a release in my inventory is changed by another user"
-msgstr ""
+msgstr "他のユーザにより自分のアイテムリストのリリースが変更された時に"
 
 msgid "When a release in my wantlist is listed for sale"
-msgstr ""
+msgstr "ほしい物リスト内のリリースが売りに出ていた時に"
 
 msgid "When an item in my cart is no longer available"
-msgstr ""
+msgstr "カート内のアイテムが購入可能でなくなった時に"
 
 msgid ""
 "When an item listed in the Marketplace has a 'Make Offer' button it means"
 " the seller is willing to consider offers on that item."
-msgstr ""
+msgstr "マーケットプレイスにあるアイテムに「オファーボタン」が表示されている場合、売り手はそのアイテムに対する「オファー」を期待しているということです。"
 
 msgid "When another user sends me a message"
-msgstr ""
+msgstr "他のユーザがメッセージが送られた時に"
 
 msgid ""
 "When available, show <strong>audio clips</strong> and buy links next to "
 "tracklistings"
-msgstr ""
+msgstr "可能な場合、収録曲の横<strong>オーディオクリップ</strong>と購入リンクを表示します。"
 
 msgid ""
 "When contacting us please include all details such as your invoice number"
@@ -9531,31 +9675,31 @@ msgid ""
 msgstr ""
 
 msgid "When my order is confirmed, changes status, or has messages"
-msgstr ""
+msgstr "注文が確定すると、ステータスが変わるかメッセージが表示されます"
 
 msgid "When one of my contributions is changed by another user"
-msgstr ""
+msgstr "他のユーザにより、わたしの解説文が変更された時"
 
 msgid "When one of my orders needs feedback"
-msgstr ""
+msgstr "わたしへの注文者がフィードバックを求めている時"
 
 msgid "When one of my submissions is changed by another user"
-msgstr ""
+msgstr "他のユーザにお客様のサブミッションが変更された時"
 
 msgid ""
 "When reporting this problem to Discogs Support or in the Discogs Help "
 "Forums, <em>please describe what you were doing</em>.  Also, provide the "
 "following information:"
-msgstr ""
+msgstr "DiscogsサポートやDiscogsヘルプフォーラムに問題を報告する際には、どんなことをしていたかを説明し、以下の情報をお知らせください："
 
 msgid "When there's a reply to a forum thread I'm watching"
-msgstr ""
+msgstr "わたしが見ていたフォーラムのスレッドに返信があった時"
 
 msgid "When there's a reply to a group thread I'm watching"
-msgstr ""
+msgstr "わたしが見ていたグループのスレッドに返信があった時"
 
 msgid "When there's an update to a release in my lists"
-msgstr ""
+msgstr "リストに入っているリリースに更新があった時"
 
 #, python-format
 msgid ""
@@ -9578,22 +9722,26 @@ msgstr ""
 msgid "When you specify a media condition, it must exactly match one of these:"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "Where should the user be directed after authorization?<br />OAuth 1.0a "
 "applications should provide an <code>oauth_callback</code> during the "
 "request token step regardless of what's entered here."
 msgstr ""
+"<P>承認後ユーザをどこに転送しますか<br/>\n"
+"OAuth 1.0a アプリに関係なく、ここで入力したているリクエストトークンステップの\n"
+"<code>oauth_callback</code>を提供する必要があります。</ p>"
 
 msgid ""
 "Whoops! This page is no longer valid (the request token is invalid or has"
 " expired). Please return to the site that sent you here and try again."
-msgstr ""
+msgstr "無効なページです(リクエストトークンが無効か期限が切れています。)一つ前のサイトに戻って、やり直してください。"
 
 msgid "Why create a Discogs account?"
 msgstr ""
 
 msgid "Why does this need to be removed?"
-msgstr ""
+msgstr "この項目を削除する理由を教えてください。"
 
 msgid "Why should you be selling on Discogs?"
 msgstr ""
@@ -9610,8 +9758,9 @@ msgid_plural ""
 "your recent orders"
 msgstr[0] ""
 
+#, fuzzy
 msgid "With a registered Discogs application, you will:"
-msgstr ""
+msgstr "Discogsアプリを登録すれば、以下の事ができます："
 
 msgid "With entire inventory"
 msgstr ""
@@ -9634,14 +9783,15 @@ msgstr[0] ""
 msgid "Year"
 msgstr "年"
 
+#, fuzzy
 msgid "Year Range"
-msgstr ""
+msgstr "年の範囲"
 
 msgid "Year, 0-9"
-msgstr ""
+msgstr "0-9年"
 
 msgid "Year, 9-0"
-msgstr ""
+msgstr "9-0年"
 
 msgid "Yes"
 msgstr ""
@@ -9660,12 +9810,12 @@ msgstr ""
 msgid ""
 "You already have bulk inventory actions pending. Please wait for them to "
 "finish first."
-msgstr ""
+msgstr "保留しているアイテムリストのバルク処理があります。完了するまでお待ちください。"
 
 msgid ""
 "You are about to delete this Master Release. If you would like to "
 "proceed, please enter the text from the image"
-msgstr ""
+msgstr "このマスターリリースを削除しようとしています。続行したい場合は、画像からテキストを入力してください"
 
 #, python-format
 msgid ""
@@ -9679,19 +9829,19 @@ msgid ""
 msgstr ""
 
 msgid "You are not allowed to access this page."
-msgstr ""
+msgstr "このページへはアクセスできません。"
 
 msgid "You are not allowed to create lists."
-msgstr ""
+msgstr "リストを作ることはできません。"
 
 msgid "You are not allowed to list an item for sale"
-msgstr ""
+msgstr "売り出しのアイテムのリストを作ることはできません"
 
 msgid "You are not allowed to post in this forum"
 msgstr ""
 
 msgid "You are not allowed to submit releases."
-msgstr ""
+msgstr "リリースを送信することはできません。"
 
 msgid "You are not watching any threads."
 msgstr ""
@@ -9753,30 +9903,30 @@ msgid ""
 msgstr ""
 
 msgid "You can now close this window."
-msgstr ""
+msgstr "このウィンドウを閉じることはできません。"
 
 msgid "You can now list this item for sale!"
-msgstr ""
+msgstr "このアイテムを売り出しのリストに入れることはできません！"
 
 msgid "You can now log in."
-msgstr ""
+msgstr "ログインできます。"
 
 msgid "You can only create five groups."
-msgstr ""
+msgstr "5つのグループしか作成することはできません。"
 
 msgid "You can pay this invoice via PayPal or Credit Card via the following URL:"
 msgstr ""
 
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "You can revoke access later by going to <a href=\"%(link)s\">Settings "
 "%(arrow)s Applications</a>."
-msgstr ""
+msgstr "後でアクセス権を取り消すことができます：<a href=\"%(link)s\">設定%(arrow)s アプリケーション</a>。"
 
 msgid ""
 "You can still view it because you are the seller, but it has been hidden "
 "from the Marketplace and must be correctly relisted."
-msgstr ""
+msgstr "お客様は売り手なので見続けることができます。しかし、マーケットプレイスに隠されていて、正確にリスト化されないといけません。"
 
 msgid ""
 "You can view details on this order and correspond with the other party "
@@ -9801,89 +9951,89 @@ msgid "You can vote on the following pages:"
 msgstr ""
 
 msgid "You can't delete this type of event."
-msgstr ""
+msgstr "このタイプのイベントを消去することはできません。"
 
 msgid "You cannot add yourself to your friends list."
-msgstr ""
+msgstr "友達リストに自分自身を追加できません。"
 
 msgid "You cannot buy from yourself."
-msgstr ""
+msgstr "お客様ご自身の商品は購入できません。"
 
 msgid "You cannot cancel an order with removed items. Please contact support."
-msgstr ""
+msgstr "移動したアイテムの注文をキャンセルすることはできません。お問い合わせください。"
 
 msgid "You cannot cancel this order at this time. Please contact support."
-msgstr ""
+msgstr "今回はこの注文をキャンセルすることはできません。お問い合わせください。"
 
 msgid "You cannot close a suspended account."
-msgstr ""
+msgstr "凍結されたアカウントを閉じることはできません。"
 
 msgid ""
 "You cannot edit images on a draft release from here. Please use the "
 "release form."
-msgstr ""
+msgstr "ここからの下書きリリースの画像を編集することはできません。このリリースフォームを使用してください。"
 
 msgid "You cannot post while impersonating someone."
 msgstr ""
 
 msgid "You cannot remove all items from an order."
-msgstr ""
+msgstr "注文から全てのアイテムを削除することはできません。"
 
 msgid "You cannot remove items from an invoiced order."
 msgstr ""
 
 msgid "You cannot report this image."
-msgstr ""
+msgstr "この画像を報告することはできません。"
 
 msgid "You cannot report your own image."
-msgstr ""
+msgstr "お客様ご自身の画像は報告できません。"
 
 msgid "You cannot review that item."
-msgstr ""
+msgstr "アイテムを評価することはできません。"
 
 msgid "You cannot tag your own comments."
-msgstr ""
+msgstr "お客様のコメントにタグをつけることはできません。"
 
 msgid "You cannot use that PayPal address."
-msgstr ""
+msgstr "このPayPalアカウントを使えません。"
 
 #, python-format
 msgid ""
 "You cannot use this option on orders less than %d days old or %d days "
 "after an order has been invoiced."
-msgstr ""
+msgstr "注文が請求された後、%d日前、または%d日未満の注文には、このオプションを使用することはできません。"
 
 msgid "You did not agree to the order terms."
-msgstr ""
+msgstr "項順序に同意しなかった。"
 
 msgid "You did not enter a description."
-msgstr ""
+msgstr "記述を入力できなかった。"
 
 msgid "You did not enter a name."
-msgstr ""
+msgstr "名前を入力できなかった。"
 
 msgid "You did not enter a password."
-msgstr ""
+msgstr "パスワードを入力できなかった。"
 
 msgid "You did not enter any tags."
-msgstr ""
+msgstr "タグを入力できなかった。"
 
 msgid "You did not select a folder to delete."
-msgstr ""
+msgstr "削除するためのフォルダーを選択できなかった。"
 
 msgid "You did not select any items."
-msgstr ""
+msgstr "アイテムを選択できなかった。"
 
 msgid "You did not set a price"
-msgstr ""
+msgstr "価格を設定できなかった"
 
 msgid "You did not type a new password."
-msgstr ""
+msgstr "新しいパスワードを分類できなかった。"
 
 msgid ""
 "You did not type your password correctly. Both fields must match. Please "
 "try again."
-msgstr ""
+msgstr "正確なパスワードを分類できなかった。両方の分野がマッチしないといけません。再試行してください。"
 
 msgid ""
 "You do not accept PayPal, so buyers will not have the option to pay at "
@@ -9891,10 +10041,10 @@ msgid ""
 msgstr ""
 
 msgid "You do not own that list."
-msgstr ""
+msgstr "リストを持たない。"
 
 msgid "You don't have a PayPal Verified account."
-msgstr ""
+msgstr "PayPal 認証済みアカウントを持たない。"
 
 #, python-format
 msgid ""
@@ -9947,15 +10097,15 @@ msgid_plural "You have pending offers!"
 msgstr[0] ""
 
 msgid "You have already invited this user."
-msgstr ""
+msgstr "このユーザはすでに招待しています。"
 
 msgid "You have already left feedback on this order."
-msgstr ""
+msgstr "すでにこの注文のフィードバックは残しています。"
 
 msgid ""
 "You have already reviewed this item. You can edit your existing review or"
 " post a comment."
-msgstr ""
+msgstr "すでにこのアイテムを評価しています。レビューや過去のコメント編集できます。"
 
 #, python-format
 msgid ""
@@ -9971,32 +10121,32 @@ msgid "You have been invited to join:"
 msgstr ""
 
 msgid "You have been logged out."
-msgstr ""
+msgstr "ログアウトしています。"
 
-#, python-format
+#, fuzzy, python-format
 msgid "You have contributed <a href=\"%(link)s\">%(n)s release</a>"
 msgid_plural "You have contributed <a href=\"%(link)s\">%(n)s releases</a>"
-msgstr[0] ""
+msgstr[0] "<a href=\"%(link)s\">%(n)s リリース</a> に寄稿しています"
 
 #, python-format
 msgid "You have ignored the invitation to join the group \"%s\"."
-msgstr ""
+msgstr "%sのグループ招待を無視しました。"
 
 #, python-format
 msgid "You have joined the group \"%s\""
-msgstr ""
+msgstr "%sグループに参加しました。"
 
 #, python-format
 msgid "You have joined the group \"%s\"."
-msgstr ""
+msgstr "%sグループに参加しました。"
 
 #, python-format
 msgid "You have left the group \"%s\""
-msgstr ""
+msgstr "%sグループから去りました。"
 
 #, python-format
 msgid "You have left the group \"%s\"."
-msgstr ""
+msgstr "%sグループから去りました。"
 
 msgid "You have no audio"
 msgstr ""
@@ -10005,22 +10155,22 @@ msgid "You have no buyer feedback"
 msgstr ""
 
 msgid "You have no contributions."
-msgstr ""
+msgstr "寄稿はありません。"
 
 msgid "You have no items from this seller in your cart."
-msgstr ""
+msgstr "カートにこの売り手のアイテムはありません。"
 
 #, python-format
 msgid ""
 "You have no pending submissions. Would you like to <a "
 "href=\"%(link)s\">learn how to contribute to Discogs</a>?"
-msgstr ""
+msgstr "提出中のサブミッションはありません。Discogsに<a href=\"%(link)s\">寄稿する方法</a>を見ますか。"
 
 msgid "You have not received any fee credits."
-msgstr ""
+msgstr "クレジットの手数料を受け取っていません。"
 
 msgid "You have not received any invoices."
-msgstr ""
+msgstr "請求書を受け取っていません。"
 
 msgid "You have not yet posted in any threads."
 msgstr ""
@@ -10032,16 +10182,16 @@ msgid "You have passed the Contributor Improvement Program!"
 msgstr ""
 
 msgid "You have pending invoice changes. Please check back in an hour."
-msgstr ""
+msgstr "請求書変更待ちです。1時間後に再度確認してください。"
 
 msgid ""
 "You have pending sales and cannot close your account until those have "
 "been completed."
-msgstr ""
+msgstr "ペンディング中なので、完了するまでアカウントをクローズするはできません。"
 
-#, python-format
+#, fuzzy, python-format
 msgid "You have reached the limit of %d list modules."
-msgstr ""
+msgstr "このユーザはすでに招待しています。(%d)"
 
 #, python-format
 msgid ""
@@ -10050,32 +10200,33 @@ msgid ""
 msgstr ""
 
 msgid "You have successfully edited the message."
-msgstr ""
+msgstr "メッセージを編集しました。"
 
 msgid ""
 "You have unpaid invoices and cannot close your account until those have "
 "been paid."
-msgstr ""
+msgstr "未払い請求書があります。支払が完了するまではアカウントを閉鎖できません。"
 
+#, fuzzy
 msgid ""
 "You have upcoming invoices and cannot close your account until those have"
 " been paid."
-msgstr ""
+msgstr "もうすぐ請求書が来るよていです。支払いが完了するまでアカウントを閉鎖できません。"
 
 msgid "You haven't entered any information."
-msgstr ""
+msgstr "情報を入力できませんでした。"
 
 msgid "You haven't purchased anything recently."
-msgstr ""
+msgstr "最近は何も購入していません。"
 
 msgid "You haven't shared any activity recently."
-msgstr ""
+msgstr "最近、活動をシェアしていません。"
 
 msgid "You haven't sold anything recently."
-msgstr ""
+msgstr "最近は何も売れていません。"
 
 msgid "You haven't yet authorized any applications to access your account."
-msgstr ""
+msgstr "お客様はアプリがアカウントにアクセスできる権限をまだ設定してません。"
 
 #, python-format
 msgid "You may download it <a href=\"%(url)s\">here</a>."
@@ -10088,31 +10239,31 @@ msgid "You may list one label as the parent of this label."
 msgstr ""
 
 msgid "You may only delete one master release per 24-hour period."
-msgstr ""
+msgstr "マスター・リリースの削除は24時間につき1つまでです。"
 
 msgid ""
 "You may only post one review per item. You can edit your existing review "
 "or post a comment."
-msgstr ""
+msgstr "ひとつのアイテムにつきひとつの評価しかできません。レビューや過去のコメント編集できます。"
 
 #, python-format
 msgid ""
 "You must %(start_link)sactivate your account%(end_link)s before posting "
 "reviews."
-msgstr ""
+msgstr "レビューを投稿する前に%(start_link)sアカウントを有効化%(end_link)sしなければなりません。"
 
 msgid "You must activate your account before listing items for sale"
-msgstr ""
+msgstr "売り出しアイテムにリストするにはアカウントを有効にしてください"
 
 msgid "You must activate your account before listing items for sale."
-msgstr ""
+msgstr "売り出しアイテムにリストするにはアカウントを有効にしてください。"
 
 msgid "You must activate your account before submitting edits."
-msgstr ""
+msgstr "編集するにはアカウントを有効にしてください。"
 
 #, python-format
 msgid "You must be %s to post this item"
-msgstr ""
+msgstr "このアイテムを投稿するには%sになってください"
 
 msgid "You must be a member of this group to post."
 msgstr ""
@@ -10121,7 +10272,7 @@ msgid "You must be logged in to post."
 msgstr ""
 
 msgid "You must choose at least one payment method."
-msgstr ""
+msgstr "支払い方法を少なくとも一つ選んでください。"
 
 msgid ""
 "You must fill in these fields before you can post items for sale.\n"
@@ -10141,28 +10292,28 @@ msgid ""
 msgstr ""
 
 msgid "You must select at least one order to archive."
-msgstr ""
+msgstr "完了するには最低ひとつの注文を選んでください。"
 
 msgid "You must select at least one order to change statuses."
-msgstr ""
+msgstr "ステイタスを変更するには最低でもひとつの注文を選んでください。"
 
 msgid "You must select at least one order to leave feedback."
-msgstr ""
+msgstr "フィードバックから離れるには最低でもひとつの注文を選んでください。"
 
 msgid "You must select at least one order to reply to feedback."
-msgstr ""
+msgstr "フィードバックに返信するには最低でもひとつの注文を選んでください。"
 
 msgid "You must select at least one order to unarchive."
-msgstr ""
+msgstr "解凍するには最低でもひとつの注文を選んでください。"
 
 msgid "You must set your listing currency before you can edit shipping policies."
-msgstr ""
+msgstr "配送ポリシーを編集する前に最近のリストをセットしてください。"
 
 msgid "You must specify a BIC/SWIFT and IBAN"
-msgstr ""
+msgstr "金融機関識別コードを明示してください。"
 
 msgid "You need to log in to view this page."
-msgstr ""
+msgstr "このページを見るにはログインの必要があります。"
 
 msgid ""
 "You own the rights to the image and agree to make it available via a CC0 "
@@ -10195,7 +10346,7 @@ msgid "You will need to manually provide shipping costs for all new orders."
 msgstr ""
 
 msgid "You will not be charged a fee for this order."
-msgstr ""
+msgstr "この注文には手数料はかかりません。"
 
 msgid ""
 "You will receive an invoice approximately two weeks after your first "
@@ -10207,11 +10358,11 @@ msgid "You will receive your next invoice on the %(billing_date)s of next month.
 msgstr ""
 
 msgid "You'll receive a credit towards selling after your create your account."
-msgstr ""
+msgstr "お客様がアカウントを作成した後、販売によるクレジットが届きます。"
 
 #, python-format
 msgid "You're not a member of any groups. <a href=\"%(link)s\">Get involved!</a>"
-msgstr ""
+msgstr "どのグループにも所属していません。<a href=\"%(link)s\">ジョインしよう</a>"
 
 msgid ""
 "You're serious about your music&hellip; and we are, too.\n"
@@ -10221,7 +10372,7 @@ msgid ""
 msgstr ""
 
 msgid "You've allowed these third-party applications to access your account."
-msgstr ""
+msgstr "お客様のアカウントにアクセスするにはこれからのサードパーティアプリが許可されています。"
 
 msgid ""
 "Your <strong>username</strong> will be displayed along with your rating "
@@ -10229,7 +10380,7 @@ msgid ""
 msgstr ""
 
 msgid "Your Applications"
-msgstr ""
+msgstr "お客様のアプリ"
 
 msgid "Your BIC/SWIFT"
 msgstr ""
@@ -10263,7 +10414,7 @@ msgid "Your Discogs Marketplace inventory will expire in %(days)s days"
 msgstr ""
 
 msgid "Your Home Page is not a valid URL."
-msgstr ""
+msgstr "お客様のホームページは有効なアドレスではありません。"
 
 msgid "Your IBAN"
 msgstr ""
@@ -10271,10 +10422,10 @@ msgstr ""
 msgid ""
 "Your IP address has changed since you last logged in. Please enter your "
 "password to continue."
-msgstr ""
+msgstr "ログイン中、お客様のIPアドレスが変わりました。もう一度パスワードを入力してください。"
 
 msgid "Your PayPal account is Not Verified."
-msgstr ""
+msgstr "お客様のPayPalアカウントは無効です。"
 
 msgid "Your PayPal email address"
 msgstr ""
@@ -10289,13 +10440,13 @@ msgid "Your Skrill address"
 msgstr ""
 
 msgid "Your account has already been activated."
-msgstr ""
+msgstr "お客様のアカウントがすでに有効化されました。"
 
 msgid "Your account has been activated."
-msgstr ""
+msgstr "お客様のアカウントが有効化されました。"
 
 msgid "Your account has been closed."
-msgstr ""
+msgstr "お客様のアカウントがキャンセルされました。"
 
 msgid ""
 "Your account has been suspended. We encourage you to contact the buyer to"
@@ -10326,10 +10477,10 @@ msgid "Your address:"
 msgstr ""
 
 msgid "Your application has been created."
-msgstr ""
+msgstr "お客様のアプリが作成されました。"
 
 msgid "Your bulk inventory action will run shortly."
-msgstr ""
+msgstr "アイテムリストのバルク処理が間もなく開始されます。"
 
 msgid ""
 "Your cart can hold items from many different sellers. When you're ready "
@@ -10341,13 +10492,15 @@ msgstr ""
 
 #, python-format
 msgid "Your changes were saved. Return to %s"
-msgstr ""
+msgstr "変更は保存されました。 %sのこっています。"
 
 #, python-format
 msgid ""
 "Your collection has been made private because your selling options are "
 "disabled. <a href=\"%(link)s\">See your selling options</a>."
 msgstr ""
+"販売オプションが無効になっているのでお客様のコレクションはプライベート設定になりました。<a "
+"href=\"%(link)s\">販売オプションを確認してください</a>。"
 
 msgid ""
 "Your collection, wantlist, favorites and ratings data <strong>will be "
@@ -10356,44 +10509,44 @@ msgstr ""
 
 #, python-format
 msgid "Your comment must be between %d and %d characters"
-msgstr ""
+msgstr "お客様のコメントは%dから%dの文字数にしてください"
 
 msgid ""
 "Your credit card information is sent over the Internet encrypted, both "
 "from your computer to Discogs, and from Discogs to the bank.  Your credit"
 " card number is immediately forgotten after payment and never stored on "
 "any server."
-msgstr ""
+msgstr "お客様のクレジットカード情報はコンピュータからDiscogsに、Discogsから銀行に両方、暗号化されインターネット経由で送信されます。お客様のクレジットカード番号は、支払い後直ぐに消されて、サーバ上に保存されることはありません。"
 
 #, python-format
 msgid "Your current e-mail address is %(email)s "
-msgstr ""
+msgstr "最後に使用したeメールアドレスは%(email)s "
 
 msgid "Your draft releases <strong>will be deleted</strong>."
 msgstr ""
 
 msgid "Your email address has been changed. Thank you."
-msgstr ""
+msgstr "eメールアドレスは変更されました。ありがとう。"
 
 msgid ""
 "Your email address has been changed; if you need to resend the activation"
 " code please fill in the fields below. Thank you."
-msgstr ""
+msgstr "eメールアドレスは変更されました。コードを再送する場合は下記に入力してください。"
 
 msgid "Your entry did not match the characters in the image."
-msgstr ""
+msgstr "お客様の入力は画像の文字と一致しません。"
 
 msgid "Your export request was scheduled"
-msgstr ""
+msgstr "お客様のエキスポート依頼がスケジュールされました。"
 
 msgid "Your friends haven't done anything recently."
-msgstr ""
+msgstr "友達は最近、活動していません。"
 
 #, python-format
 msgid ""
 "Your friends list is empty! Add interesting people to your <a "
 "href=\"%(link)s\">friends list</a> to see what they've been up to lately."
-msgstr ""
+msgstr "友達はいません！<a href=\"%(link)s\">友達リスト</a>から興味ある人に声をかけてみて。"
 
 msgid ""
 "Your inventory will be accessible to a robust community of genuinely "
@@ -10404,27 +10557,27 @@ msgstr ""
 msgid ""
 "Your item has been deleted. Please allow at least %d minutes for it to be"
 " removed from the marketplace."
-msgstr ""
+msgstr "アイテムが削除されました。マーケットプレイスから削除するには最低でも%d分かかります。"
 
 #, python-format
 msgid ""
 "Your item has been unlisted. Please allow at least %d minutes for it to "
 "be removed from the marketplace."
-msgstr ""
+msgstr "アイテムがリスト化されていません。マーケットプレイスから削除するには最低でも%d分かかります。"
 
 msgid "Your item is now listed for sale!"
-msgstr ""
+msgstr "アイテムが売り出しリストに入りました！"
 
 msgid "Your message was deleted."
-msgstr ""
+msgstr "メッセージ消去されました。"
 
 msgid ""
 "Your message was determined to be spam by our automated detection system "
 "and was not posted"
-msgstr ""
+msgstr "お客様のメッセージはdiscogsのシステムによって「スパム」と認識されました。"
 
 msgid "Your message was sent."
-msgstr ""
+msgstr "メッセージを送信しました。"
 
 msgid "Your name and address will be provided to buyers who place an order."
 msgstr ""
@@ -10441,7 +10594,7 @@ msgstr ""
 msgid ""
 "Your offer has been made. The seller has %d days to accept or decline "
 "your offer."
-msgstr ""
+msgstr "オファーを送りました。売り手は%d日間以内にお客様のオファーを受け入れるまたは拒否します。"
 
 #, python-format
 msgid "Your offer on %(item_desc)s has been declined."
@@ -10470,15 +10623,15 @@ msgid ""
 msgstr ""
 
 msgid "Your offer price must be lower than the listed price."
-msgstr ""
+msgstr "オファー価格はリストの価格よりも低くなければいけません。"
 
 msgid ""
 "Your password has been changed. You may now log in with your new "
 "credentials."
-msgstr ""
+msgstr "パスワードは変更されました。新しいパスワードでログインできます。"
 
 msgid "Your recent Discogs password change"
-msgstr ""
+msgstr "最近のDiscogsパスワードの変更"
 
 #, python-format
 msgid ""
@@ -10492,40 +10645,40 @@ msgid ""
 msgstr ""
 
 msgid "Your saved submissions were cleared"
-msgstr ""
+msgstr "保存したサブミッションを消去しました。"
 
 #, python-format
 msgid ""
 "Your search - <strong>%(query)s</strong> - did not match any items for "
 "sale."
-msgstr ""
+msgstr "検索結果：(<strong>%(query)s</strong>) 売り出しアイテムの中にマッチするものはありません。"
 
 msgid "Your seller settings have been updated successfully."
-msgstr ""
+msgstr "売り手情報は更新されました。"
 
 msgid "Your session has expired. Please enter your password to continue."
-msgstr ""
+msgstr "セッションは時間切れになりました。続けるにはパスワードを入力してください。"
 
 msgid "Your shipping address is missing or invalid."
-msgstr ""
+msgstr "配送住所が不明か無効です。"
 
 msgid "Your total for these items, including shipping, is"
 msgstr ""
 
 msgid "Your updated address information will be reflected only in future orders."
-msgstr ""
+msgstr "更新された住所情報は次の注文に反映されます。"
 
 msgid "Your upload was received and scheduled for processing"
-msgstr ""
+msgstr "アップロードされたものは受け入れられ、スケジュール化中です。"
 
 msgid "Your version not on Discogs?"
 msgstr ""
 
 msgid "Z-A"
-msgstr ""
+msgstr "Z-A"
 
 msgid "Zip/Postal Code"
-msgstr ""
+msgstr "郵便番号"
 
 msgid "Zoom In"
 msgstr ""
@@ -10535,7 +10688,7 @@ msgstr ""
 
 #, python-format
 msgid "_%0.2f to _%0.2f"
-msgstr ""
+msgstr "_%0.2f から _%0.2fまで "
 
 msgid ""
 "a) You are entering into a contract with the seller to buy the item at "
@@ -10551,37 +10704,37 @@ msgid ""
 msgstr ""
 
 msgid "about"
-msgstr ""
+msgstr "Discogsについて"
 
 #, python-format
 msgid "about %s"
-msgstr ""
+msgstr "%sについて"
 
 #, python-format
 msgid "about %s total"
-msgstr ""
+msgstr "%sについて"
 
 msgid "add releases to your collection or wantlist"
 msgstr ""
 
 #, python-format
 msgid "added %(release)s to collection."
-msgstr ""
+msgstr "コレクションに%(release)sが追加された。"
 
 #, python-format
 msgid "added %(release)s to their collection."
-msgstr ""
+msgstr "彼らのコレクションに%(release)s追加された。"
 
 #, python-format
 msgid "added %(release)s to their wantlist."
-msgstr ""
+msgstr "%(release)s を彼らのほしい物リストに追加された。"
 
 #, python-format
 msgid "added %(release)s to wantlist."
-msgstr ""
+msgstr "%(release)sをほしい物リストに追加された。"
 
 msgid "ago"
-msgstr ""
+msgstr "前"
 
 msgid "alternates"
 msgstr ""
@@ -10607,17 +10760,17 @@ msgid ""
 msgstr ""
 
 msgid "back to message"
-msgstr ""
+msgstr "メッセージに戻る"
 
 msgid "blocked users"
-msgstr ""
+msgstr "ブロックされたユーザ"
 
 #, python-format
 msgid "buy %(format)s at Discogs"
 msgstr ""
 
 msgid "by"
-msgstr ""
+msgstr "によって"
 
 msgid ""
 "c) By pressing the \"Place Order\" button, you are agreeing to this "
@@ -10627,10 +10780,10 @@ msgid ""
 msgstr ""
 
 msgid "change currency"
-msgstr ""
+msgstr "通貨換算"
 
 msgid "changed"
-msgstr ""
+msgstr "変更された"
 
 msgid "changed the order status to"
 msgstr ""
@@ -10642,7 +10795,7 @@ msgid "clear search"
 msgstr ""
 
 msgid "click here"
-msgstr ""
+msgstr "ここをクリック"
 
 msgid "collection"
 msgstr ""
@@ -10651,10 +10804,10 @@ msgid "contact the seller"
 msgstr ""
 
 msgid "created spam group"
-msgstr ""
+msgstr "スパムグループを作る"
 
 msgid "created spam topics"
-msgstr ""
+msgstr "スパムトピックスを作る"
 
 msgid "created the order"
 msgstr ""
@@ -10670,7 +10823,7 @@ msgid ""
 msgstr ""
 
 msgid "details"
-msgstr ""
+msgstr "詳細"
 
 msgid "does not include shipping"
 msgstr ""
@@ -10688,7 +10841,7 @@ msgid ""
 msgstr ""
 
 msgid "e.g. Free-form comments, reminders, etc..."
-msgstr ""
+msgstr "フリーフォームコメント、リマインドなど"
 
 msgid "e.g. Great shape, slightly worn edges, plays perfect"
 msgstr ""
@@ -10697,38 +10850,38 @@ msgid "e.g. Quick response, fast service, good communication"
 msgstr ""
 
 msgid "e.g. Upper Stacks - Aisle 5 Row 4"
-msgstr ""
+msgstr "例 アッパースタック - 側面5行4"
 
 msgid "edit"
 msgstr ""
 
 msgid "edited"
-msgstr ""
+msgstr "編集された"
 
 msgid "error code"
-msgstr ""
+msgstr "コードエラー"
 
 msgid "exactly. Review our guidelines for"
-msgstr ""
+msgstr "その通りです。Discogsのガイドラインを見てください"
 
 msgid "feedback left on"
-msgstr ""
+msgstr "残っていないフィードバック"
 
 msgid "flat view"
-msgstr ""
+msgstr "フラットビュー"
 
 msgid "for"
-msgstr ""
+msgstr "のため"
 
-#, python-format
+#, fuzzy, python-format
 msgid "for &quot;%(name)s&quot; folder"
-msgstr ""
+msgstr "%(name)sのフォルダの"
 
 msgid "for sale"
 msgstr "販売"
 
 msgid "from"
-msgstr ""
+msgstr "から"
 
 #, python-format
 msgid "from %(n)d seller."
@@ -10751,22 +10904,22 @@ msgid "from the %(decade)ss"
 msgstr ""
 
 msgid "grams"
-msgstr ""
+msgstr "グラム"
 
 msgid "granted"
-msgstr ""
+msgstr "付与された"
 
 msgid "has"
-msgstr ""
+msgstr "持っている"
 
 msgid "has no history entries yet."
-msgstr ""
+msgstr "まだエントリーがない。"
 
 msgid "have"
-msgstr ""
+msgstr "持っている"
 
 msgid "here"
-msgstr ""
+msgstr "ここ"
 
 msgid "if you can't find what you're looking for."
 msgstr ""
@@ -10775,7 +10928,7 @@ msgid "in"
 msgstr ""
 
 msgid "in Cart"
-msgstr ""
+msgstr "カート内"
 
 msgid "instead"
 msgstr ""
@@ -10783,18 +10936,19 @@ msgstr ""
 msgid "invited by"
 msgstr ""
 
+#, fuzzy
 msgid "item"
 msgid_plural "items"
-msgstr[0] "商品"
+msgstr[0] "アイテム"
 
 msgid "items"
-msgstr ""
+msgstr "アイテム"
 
 msgid "items in the Discogs marketplace."
 msgstr ""
 
 msgid "jobs"
-msgstr ""
+msgstr "ジョブ"
 
 msgid "labels"
 msgstr ""
@@ -10802,11 +10956,12 @@ msgstr ""
 msgid "less"
 msgstr ""
 
+#, fuzzy
 msgid "listed for sale in my inventory"
-msgstr ""
+msgstr "販売用設定中"
 
 msgid "logged in"
-msgstr ""
+msgstr "ログイン中"
 
 msgid "major"
 msgstr ""
@@ -10815,19 +10970,19 @@ msgid "marked for removal"
 msgstr ""
 
 msgid "matched"
-msgstr ""
+msgstr "マッチした"
 
 msgid "matching"
-msgstr ""
+msgstr "マッチング"
 
 msgid "members"
-msgstr ""
+msgstr "メンバーズ"
 
 msgid "members have this"
-msgstr ""
+msgstr "これを持っているメンバー"
 
 msgid "members want this"
-msgstr ""
+msgstr "これが欲しいメンバー"
 
 msgid "merged this order into"
 msgstr ""
@@ -10836,7 +10991,7 @@ msgid "minor"
 msgstr ""
 
 msgid "month and year"
-msgstr ""
+msgstr "月と年"
 
 msgid "more"
 msgstr ""
@@ -10845,22 +11000,22 @@ msgid "more in the Discogs Marketplace"
 msgstr ""
 
 msgid "move to comment/vote form"
-msgstr ""
+msgstr "コメントに移動する／?からの評価"
 
 msgid "move to next submission"
-msgstr ""
+msgstr "次のサブミッションに移動する"
 
 msgid "move to previous submission"
-msgstr ""
+msgstr "前のサブミッションに移動する"
 
 msgid "move to top of history"
-msgstr ""
+msgstr "履歴のトップに移動する"
 
 msgid "negative"
-msgstr ""
+msgstr "ネガティブ"
 
 msgid "neutral"
-msgstr ""
+msgstr "中立の"
 
 msgid "no extra shipping"
 msgstr ""
@@ -10869,16 +11024,16 @@ msgid "no images allowed"
 msgstr ""
 
 msgid "of"
-msgstr ""
+msgstr "オブ"
 
 msgid "on"
-msgstr ""
+msgstr "上に"
 
 msgid "on Discogs"
 msgstr ""
 
 msgid "optional"
-msgstr ""
+msgstr "任意の"
 
 msgid "optional, private"
 msgstr ""
@@ -10890,7 +11045,7 @@ msgid "order terms"
 msgstr ""
 
 msgid "overall rating"
-msgstr ""
+msgstr "総合的評価"
 
 msgid "page"
 msgstr ""
@@ -10902,16 +11057,16 @@ msgid "placed on"
 msgstr ""
 
 msgid "positive"
-msgstr ""
+msgstr "ポジティブ"
 
 msgid "posted a comment"
-msgstr ""
+msgstr "コメントが投稿された"
 
 msgid "posted a review"
-msgstr ""
+msgstr "レビューが投稿された"
 
 msgid "private"
-msgstr ""
+msgstr "プライベート"
 
 msgid "quantity"
 msgstr ""
@@ -10922,8 +11077,9 @@ msgstr ""
 msgid "received"
 msgstr ""
 
+#, fuzzy
 msgid "referencing"
-msgstr ""
+msgstr "参照"
 
 msgid "regarding acceptable size and quality."
 msgstr ""
@@ -10938,31 +11094,31 @@ msgid "removed"
 msgstr ""
 
 msgid "replies"
-msgstr ""
+msgstr "返信"
 
 msgid "reported"
 msgstr ""
 
 msgid "rows"
-msgstr ""
+msgstr "列"
 
 msgid "save submission / don't save submission"
-msgstr ""
+msgstr "サブミッションを保存・サブミッションを保存しない"
 
 msgid "select Complete and Correct"
-msgstr ""
+msgstr "完了とコレクトを選択"
 
 msgid "select Correct"
-msgstr ""
+msgstr "正解を選択"
 
 msgid "select Entirely Incorrect"
-msgstr ""
+msgstr "間違っているを選択"
 
 msgid "select Needs Major Changes"
-msgstr ""
+msgstr "マイナーチェンジが必要を選択"
 
 msgid "select Needs Minor Changes"
-msgstr ""
+msgstr "マイナーチェンジが必要を選択"
 
 msgid "sell"
 msgstr ""
@@ -10986,23 +11142,26 @@ msgid "submission pending"
 msgid_plural "submissions pending"
 msgstr[0] ""
 
+#, fuzzy
 msgid "submitted"
-msgstr ""
+msgstr "送信された"
 
 msgid "team"
-msgstr ""
+msgstr "チーム"
 
+#, fuzzy
 msgid "that has since been deleted"
-msgstr ""
+msgstr "削除されて以来"
 
+#, fuzzy
 msgid "that has since been deleted."
-msgstr ""
+msgstr "削除されて以来。"
 
 msgid "to"
-msgstr ""
+msgstr "?に"
 
 msgid "to make the data more accurate!"
-msgstr ""
+msgstr "もっと正確な情報を入れてください。"
 
 msgid "total"
 msgstr ""
@@ -11017,24 +11176,25 @@ msgid "unknown"
 msgstr ""
 
 msgid "unselect vote"
-msgstr ""
+msgstr "選ばれていない評価"
 
 msgid "updated"
 msgstr ""
 
 #, python-format
 msgid "updated %(time)s ago"
-msgstr ""
+msgstr "%(time)s前に更新されました"
 
 msgid "uploaded"
-msgstr ""
+msgstr "アップロードされました"
 
+#, fuzzy
 msgid "user"
 msgid_plural "users"
-msgstr[0] ""
+msgstr[0] "ユーザ"
 
 msgid "values"
-msgstr ""
+msgstr "価値"
 
 msgid "via"
 msgstr ""
@@ -11043,16 +11203,16 @@ msgid "via the order page."
 msgstr ""
 
 msgid "vote"
-msgstr ""
+msgstr "評価"
 
 msgid "want"
-msgstr ""
+msgstr "欲しいもの"
 
 msgid "wantlist"
 msgstr ""
 
 msgid "wants"
-msgstr ""
+msgstr "欲しいもの"
 
 msgid "weight"
 msgstr ""
@@ -11067,7 +11227,7 @@ msgid "wrote:"
 msgstr ""
 
 msgid "your profile page"
-msgstr ""
+msgstr "お客様のプロフィールページ"
 
 msgid "your search query."
 msgstr ""
