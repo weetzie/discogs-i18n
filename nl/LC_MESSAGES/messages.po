@@ -155,14 +155,14 @@ msgstr[1] ""
 #, python-format
 msgid "%(n)s neutral rating from buyers"
 msgid_plural "%(n)s neutral ratings from buyers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(n)s neutrale beoordeling van kopers"
+msgstr[1] "%(n)s neutrale beoordelingen van kopers"
 
 #, python-format
 msgid "%(n)s neutral rating from sellers"
 msgid_plural "%(n)s neutral ratings from sellers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(n)s neutrale beoordeling van verkopers"
+msgstr[1] "%(n)s neutrale beoordelingen van verkopers"
 
 #, python-format
 msgid "%(n)s of %(total)s discussion"
