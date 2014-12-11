@@ -692,7 +692,7 @@ msgid "Activate your account"
 msgstr ""
 
 msgid "Activate your account so sellers can contact you"
-msgstr ""
+msgstr "Ative sua conta para que os vendedores possam entrar em contato com você"
 
 msgid "Activate your account, update email and password, change your avatar."
 msgstr ""
@@ -994,13 +994,13 @@ msgid "Allow offers on this item"
 msgstr ""
 
 msgid "Allow other members to contact me"
-msgstr ""
+msgstr "Permitir que outros membros entrem em contato comigo"
 
 msgid "Allow other people to view this image"
 msgstr ""
 
 msgid "Allow others to browse my collection"
-msgstr ""
+msgstr "Permitir que os outros consultem minha coleção"
 
 msgid "Allow others to browse my wantlist"
 msgstr ""
@@ -1110,7 +1110,7 @@ msgid ""
 msgstr ""
 
 msgid "Are you sure you want to Delete this item? This action is not recoverable."
-msgstr ""
+msgstr "Você tem certeza que quer Deletar este item? Esta ação não é recuperável."
 
 #, python-format
 msgid "Are you sure you want to accept this offer of %(offer_price)s?"
@@ -1395,7 +1395,7 @@ msgid "Blocked Buyers"
 msgstr "Compradores Bloqueados"
 
 msgid "Blocked Users"
-msgstr ""
+msgstr "Usuários Bloqueados"
 
 msgid "Blocked users"
 msgstr ""
@@ -1628,7 +1628,7 @@ msgid "Card Verification<br>Number"
 msgstr ""
 
 msgid "Cart"
-msgstr ""
+msgstr "Carrinho"
 
 msgid "Cat #"
 msgstr ""
@@ -1666,7 +1666,7 @@ msgid "Change Log"
 msgstr ""
 
 msgid "Change Password"
-msgstr "Mudar Password"
+msgstr "Mudar Senha"
 
 msgid "Change Status"
 msgstr ""
@@ -1929,7 +1929,7 @@ msgid "Confirm Your Post"
 msgstr ""
 
 msgid "Confirm new password"
-msgstr "Confirme o novo password"
+msgstr "Confirme a nova senha"
 
 msgid "Confirmation"
 msgstr ""
@@ -2211,7 +2211,7 @@ msgid "Current Videos"
 msgstr ""
 
 msgid "Current password"
-msgstr "Password atual"
+msgstr "Senha atual"
 
 msgid "Custom Range"
 msgstr ""
@@ -2252,7 +2252,8 @@ msgstr "Década"
 msgid ""
 "Decide who can contact you, and what information you would like to share "
 "with others."
-msgstr ""
+msgstr "Decida quem pode entrar em contato com você, e que informação você gostaria de compartilhar "
+"com os outros."
 
 msgid "Decline"
 msgstr ""
@@ -2325,7 +2326,7 @@ msgid ""
 msgstr ""
 
 msgid "Description"
-msgstr ""
+msgstr "Descrição"
 
 msgid "Desktop"
 msgstr ""
@@ -2635,7 +2636,7 @@ msgid "Drafts"
 msgstr "Rascunhos"
 
 msgid "Drag and drop files or click to browse"
-msgstr ""
+msgstr "Arraste e solte os arquivos ou clique para procurar"
 
 msgid "Duration"
 msgstr "Duração"
@@ -3047,7 +3048,7 @@ msgid "Forgot Password"
 msgstr ""
 
 msgid "Forgot your password?"
-msgstr "Esqueceu seu password?"
+msgstr "Esqueceu sua senha?"
 
 msgid "Format"
 msgstr "Formato"
@@ -3059,7 +3060,7 @@ msgid "Format quantity cannot be negative"
 msgstr ""
 
 msgid "Format: YYYY-MM-DD or YYYY-MM-00 or YYYY"
-msgstr ""
+msgstr "Formato: AAAA-MM-DD ou AAAA-MM-00 ou AAAA"
 
 msgid "Formats List"
 msgstr "Lista de Formatos"
@@ -3107,10 +3108,10 @@ msgid "From"
 msgstr "De"
 
 msgid "Full Name"
-msgstr ""
+msgstr "Nome Completo"
 
 msgid "General"
-msgstr ""
+msgstr "Geral"
 
 msgid "General Group Settings"
 msgstr ""
@@ -3318,7 +3319,7 @@ msgid "Help on searching"
 msgstr ""
 
 msgid "Help, please!"
-msgstr ""
+msgstr "Ajuda, por favor!"
 
 msgid "Here are the details of your order:"
 msgstr ""
@@ -3383,7 +3384,7 @@ msgid "How to contribute to Discogs"
 msgstr ""
 
 msgid "How to sell on Discogs."
-msgstr "Como Vender no Discogs."
+msgstr "Como vender no Discogs."
 
 msgid "How to shop on Discogs."
 msgstr ""
@@ -3512,7 +3513,7 @@ msgstr ""
 
 #, python-format
 msgid "If you do not have a Discogs account, <a href=\"%(link)s\">create one</a>."
-msgstr ""
+msgstr "Se você não tem uma conta no Discogs, <a href=\"%(link)s\">crie uma</a>"
 
 #, python-format
 msgid ""
@@ -4814,7 +4815,7 @@ msgid "My"
 msgstr ""
 
 msgid "My Activity (Private)"
-msgstr ""
+msgstr "Minha Atividade (Privado)"
 
 msgid "My Activity (Shared)"
 msgstr ""
@@ -4823,7 +4824,7 @@ msgid "My Buyer Rating:"
 msgstr ""
 
 msgid "My Collection"
-msgstr ""
+msgstr "Minha Coleção"
 
 msgid "My Contributions"
 msgstr ""
@@ -4983,7 +4984,7 @@ msgid "New folder name"
 msgstr "Novo nome da pasta"
 
 msgid "New password"
-msgstr "Novo password"
+msgstr "Nova senha"
 
 #, python-format
 msgid "New response to %(type)s on %(subject_text)s"
@@ -5466,7 +5467,7 @@ msgid "Other"
 msgstr ""
 
 msgid "Other Versions"
-msgstr ""
+msgstr "Outras Versões"
 
 #, python-format
 msgid "Other Versions (%(other_versions)s of %(num_versions)s)"
@@ -5985,7 +5986,7 @@ msgid "Post new topic"
 msgstr ""
 
 msgid "Postal Code"
-msgstr ""
+msgstr "Código Postal"
 
 msgid "Posted"
 msgstr ""
@@ -6160,7 +6161,7 @@ msgid "Quote Selection"
 msgstr ""
 
 msgid "Random Item"
-msgstr ""
+msgstr "Item Aleatório"
 
 msgid "Rank"
 msgstr ""
@@ -7425,7 +7426,7 @@ msgid "State/Province"
 msgstr ""
 
 msgid "Statistics"
-msgstr ""
+msgstr "Estatísticas"
 
 #, python-format
 msgid "Stats %(unicode_and)s Ratings for"
@@ -7588,7 +7589,7 @@ msgid "Summary"
 msgstr ""
 
 msgid "Support Request"
-msgstr "Pedido de Apoio"
+msgstr "Solicitação de Suporte"
 
 msgid "Support Request #"
 msgstr ""
@@ -7810,7 +7811,7 @@ msgid "The Standard Criteria"
 msgstr ""
 
 msgid "The Story"
-msgstr ""
+msgstr "A História"
 
 msgid "The application has been deleted."
 msgstr ""
@@ -9180,7 +9181,7 @@ msgid "View your listing"
 msgstr ""
 
 msgid "View your support requests"
-msgstr ""
+msgstr "Veja suas solicitações de suporte"
 
 msgid "Viewing"
 msgstr ""
@@ -9247,7 +9248,7 @@ msgid ""
 msgstr ""
 
 msgid "Was this helpful?"
-msgstr ""
+msgstr "Esta informação foi útil?"
 
 msgid "Watched"
 msgstr "Vigiados"
@@ -9400,7 +9401,7 @@ msgid ""
 msgstr ""
 
 msgid "We're glad you found this helpful. Thank you for your input!"
-msgstr ""
+msgstr "Estamos contentes por você achar isso útil. Obrigado por sua contribuição!"
 
 msgid "We're here to help!"
 msgstr ""
@@ -10395,7 +10396,7 @@ msgid ""
 msgstr ""
 
 msgid "Your cart is empty"
-msgstr ""
+msgstr "Seu carrinho está vazio"
 
 #, python-format
 msgid "Your changes were saved. Return to %s"
@@ -10425,7 +10426,7 @@ msgstr ""
 
 #, python-format
 msgid "Your current e-mail address is %(email)s "
-msgstr ""
+msgstr "O seu endereço de e-mail atual é %(email)s "
 
 msgid "Your draft releases <strong>will be deleted</strong>."
 msgstr ""
@@ -10482,7 +10483,7 @@ msgid ""
 msgstr ""
 
 msgid "Your message was sent."
-msgstr ""
+msgstr "Sua mensagem foi enviada."
 
 msgid "Your name and address will be provided to buyers who place an order."
 msgstr ""
@@ -10639,19 +10640,19 @@ msgid "added %(release)s to wantlist."
 msgstr ""
 
 msgid "ago"
-msgstr ""
+msgstr "atrás"
 
 msgid "alternates"
 msgstr ""
 
 msgid "and"
-msgstr ""
+msgstr "e"
 
 msgid "and up"
 msgstr ""
 
 msgid "artists"
-msgstr ""
+msgstr "artistas"
 
 msgid "at least"
 msgstr ""
