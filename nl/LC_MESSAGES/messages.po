@@ -51,7 +51,7 @@ msgstr ""
 
 #, python-format
 msgid "\"%s\" is available."
-msgstr ""
+msgstr "\"%s\" is beschikbaar."
 
 #, python-format
 msgid "\"Search %(seller)s's store"
@@ -105,16 +105,16 @@ msgstr[1] ""
 #, python-format
 msgid "%(n)d new item For Sale in your Wantlist"
 msgid_plural "%(n)d new items For Sale in your Wantlist"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(n)d nieuw product Te Koop in je verlanglijst"
+msgstr[1] "%(n)d nieuwe producten Te Koop in je verlanglijst"
 
 #, python-format
 msgid "%(n)s For Sale"
-msgstr ""
+msgstr "%(n)s Te Koop"
 
 #, python-format
 msgid "%(n)s From My Wantlist"
-msgstr ""
+msgstr "%(n)s Van Mijn Verlanglijst"
 
 #, python-format
 msgid "%(n)s Item"
@@ -242,7 +242,7 @@ msgstr ""
 
 #, python-format
 msgid "%(title)s was removed"
-msgstr ""
+msgstr "%(title)s zijn verwijderd"
 
 #, python-format
 msgid "%(title)s was requested to be removed"
@@ -265,8 +265,8 @@ msgstr[1] ""
 #, python-format
 msgid "%d Week Ago"
 msgid_plural "%d Weeks Ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d Week Geleden"
+msgstr[1] "%d Weken Geleden"
 
 #, python-format
 msgid ""
