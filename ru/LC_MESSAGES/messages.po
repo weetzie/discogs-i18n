@@ -408,7 +408,7 @@ msgid "13. Images"
 msgstr ""
 
 msgid "2. Artist"
-msgstr ""
+msgstr "2. Исполнитель"
 
 msgid "2. Click on 'Pay' next to the invoice that shows 'Past Due'"
 msgstr ""
@@ -854,13 +854,13 @@ msgid "Add some images to the key release."
 msgstr ""
 
 msgid "Add to Cart"
-msgstr ""
+msgstr "Добавить в Корзину"
 
 msgid "Add to Collection"
-msgstr ""
+msgstr "Добавить в Коллекцию"
 
 msgid "Add to Inventory"
-msgstr ""
+msgstr "Добавить в Инвентарь"
 
 msgid "Add to List"
 msgstr ""
@@ -1203,7 +1203,7 @@ msgid "Are you sure you would like to copy this to your drafts?"
 msgstr ""
 
 msgid "Artist"
-msgstr ""
+msgstr "Исполнитель"
 
 msgid "Artist Name Variation"
 msgstr ""
@@ -1427,7 +1427,7 @@ msgid "Blocked users are not allowed to contact you."
 msgstr ""
 
 msgid "Blog"
-msgstr ""
+msgstr "Блог"
 
 msgid "Bought by"
 msgstr ""
@@ -1437,19 +1437,19 @@ msgstr ""
 
 #, python-format
 msgid "Browse %(mode)s Groups"
-msgstr ""
+msgstr "Просмотр %(mode)s Групп"
 
 msgid "Browse Groups"
-msgstr ""
+msgstr "Группы"
 
 msgid "Browse Groups By Tag"
-msgstr ""
+msgstr "Группы по тегам"
 
 msgid "Browsing and Searching"
-msgstr ""
+msgstr "Просмотр и Поиск"
 
 msgid "Browsing options"
-msgstr ""
+msgstr "Настройки просмотра"
 
 msgid "Bugs and Feature Requests"
 msgstr ""
@@ -1464,7 +1464,7 @@ msgid "Bulk inventory actions completed"
 msgstr ""
 
 msgid "Buy"
-msgstr ""
+msgstr "Купить"
 
 #, python-format
 msgid "Buy %s%sat Discogs Marketplace"
@@ -1475,7 +1475,7 @@ msgid "Buy %s, includes %s"
 msgstr ""
 
 msgid "Buy Music"
-msgstr ""
+msgstr "Купить Музыку"
 
 msgid "Buy Similar Items"
 msgstr ""
@@ -1651,7 +1651,7 @@ msgid "Card Verification<br>Number"
 msgstr ""
 
 msgid "Cart"
-msgstr ""
+msgstr "Корзина"
 
 msgid "Cat #"
 msgstr ""
@@ -1683,7 +1683,7 @@ msgid "Change Currency"
 msgstr ""
 
 msgid "Change Email Address"
-msgstr ""
+msgstr "Изменить Email адрес"
 
 msgid "Change Log"
 msgstr ""
@@ -1910,7 +1910,7 @@ msgid "Comments on this item"
 msgstr ""
 
 msgid "Community"
-msgstr ""
+msgstr "Сообщество"
 
 msgid "Companies etc"
 msgstr ""
@@ -2243,7 +2243,7 @@ msgid "Customize This Page"
 msgstr ""
 
 msgid "Dashboard"
-msgstr ""
+msgstr "Панель Управления"
 
 msgid "Data Correct"
 msgstr ""
@@ -2430,7 +2430,7 @@ msgid "Discogs Account Suspension"
 msgstr ""
 
 msgid "Discogs Blog"
-msgstr ""
+msgstr "Discogs Блог"
 
 msgid "Discogs Blog - Drafts"
 msgstr ""
@@ -2442,7 +2442,7 @@ msgid "Discogs Contributors"
 msgstr ""
 
 msgid "Discogs Forum"
-msgstr ""
+msgstr "Discogs Форум"
 
 msgid "Discogs Groups"
 msgstr ""
@@ -2761,7 +2761,7 @@ msgid "Embrace Open Source"
 msgstr ""
 
 msgid "Empty Cart"
-msgstr ""
+msgstr "Пустая Корзина"
 
 msgid "Enable"
 msgstr ""
@@ -2865,13 +2865,13 @@ msgid "Explore"
 msgstr "Обзор"
 
 msgid "Export"
-msgstr ""
+msgstr "Экспорт"
 
 msgid "Export CSV"
-msgstr ""
+msgstr "Экспорт CSV"
 
 msgid "Export My Collection"
-msgstr ""
+msgstr "Экспорт Моей коллекции"
 
 msgid "Export My Contributions"
 msgstr ""
@@ -2883,7 +2883,7 @@ msgid "Export files will be deleted from the system after two months."
 msgstr ""
 
 msgid "Facebook Log In"
-msgstr ""
+msgstr "Вход через Facebook"
 
 #, python-format
 msgid ""
@@ -2916,7 +2916,7 @@ msgid "Fee after sale"
 msgstr ""
 
 msgid "Feedback"
-msgstr ""
+msgstr "Обратная связь"
 
 msgid "Feedback Removed"
 msgstr ""
@@ -2940,10 +2940,10 @@ msgid ""
 msgstr ""
 
 msgid "Field"
-msgstr ""
+msgstr "Поля"
 
 msgid "Field Name"
-msgstr ""
+msgstr "Поле Имени"
 
 msgid "File Structure"
 msgstr ""
@@ -2970,7 +2970,7 @@ msgid "Files over 10k will be zipped automatically."
 msgstr ""
 
 msgid "Filter"
-msgstr ""
+msgstr "Фильтр"
 
 msgid "Find your group on Discogs."
 msgstr ""
@@ -3092,7 +3092,7 @@ msgid "Formatting Options"
 msgstr ""
 
 msgid "Forum"
-msgstr ""
+msgstr "Форум"
 
 #, python-format
 msgid "Found %(num_results)s result for %(query)s."
@@ -3374,10 +3374,10 @@ msgid "History"
 msgstr ""
 
 msgid "Home Page"
-msgstr ""
+msgstr "Ваш сайт"
 
 msgid "Homepage URL"
-msgstr ""
+msgstr "URL вашего сайта"
 
 msgid ""
 "Hover on an item's comments and click to edit, or click \"remove\" to "
@@ -3884,7 +3884,7 @@ msgid "Invalid verification code"
 msgstr ""
 
 msgid "Inventory"
-msgstr ""
+msgstr "Инвентарь"
 
 msgid "Invitation only"
 msgstr ""
@@ -4441,16 +4441,16 @@ msgid "Log In to Discogs"
 msgstr ""
 
 msgid "Log Out"
-msgstr ""
+msgstr "Выход"
 
 msgid "Log in."
-msgstr ""
+msgstr "Войти"
 
 msgid "Log on to"
 msgstr ""
 
 msgid "Logged in as"
-msgstr ""
+msgstr "Вошёл как"
 
 msgid ""
 "London, U.K.-based <a "
@@ -4894,7 +4894,7 @@ msgid "My Seller Rating:"
 msgstr ""
 
 msgid "My Store"
-msgstr ""
+msgstr "Мой Магазин"
 
 msgid "My Submissions"
 msgstr ""
@@ -5218,7 +5218,7 @@ msgid "No results for"
 msgstr ""
 
 msgid "No results found."
-msgstr ""
+msgstr "Ничего не найдено"
 
 msgid "No sales history is available for this item."
 msgstr ""
@@ -5487,7 +5487,7 @@ msgid "Order subtotal must be"
 msgstr ""
 
 msgid "Orders"
-msgstr ""
+msgstr "Заказы"
 
 msgid ""
 "Orders are billed according to the order status at the time of billing.\n"
@@ -5732,7 +5732,7 @@ msgid "Permalink"
 msgstr ""
 
 msgid "Personal Email"
-msgstr ""
+msgstr "Личный Email"
 
 msgid "Place Order"
 msgstr ""
@@ -6145,7 +6145,7 @@ msgid "Profile %(optional)s"
 msgstr ""
 
 msgid "Profile settings"
-msgstr ""
+msgstr "Настройки профиля"
 
 msgid "Promote to Admin"
 msgstr ""
@@ -6155,7 +6155,7 @@ msgid "Promoted %s to group admin."
 msgstr ""
 
 msgid "Public"
-msgstr ""
+msgstr "Опубликовать"
 
 msgid "Public Comments"
 msgstr ""
@@ -6852,35 +6852,35 @@ msgid "Saved your changes."
 msgstr ""
 
 msgid "Search"
-msgstr ""
+msgstr "Поиск"
 
 #, python-format
 msgid "Search %(thread_type)s Threads"
 msgstr ""
 
 msgid "Search Collection"
-msgstr ""
+msgstr "Поиск Коллекции"
 
 msgid "Search Discogs"
-msgstr ""
+msgstr "Поиск Discogs"
 
 msgid "Search Discogs for info. Looks like it is not in the database yet!"
 msgstr ""
 
 msgid "Search Groups"
-msgstr ""
+msgstr "Поиск Группы"
 
 msgid "Search Help Docs"
-msgstr ""
+msgstr "Поиск Помощи"
 
 msgid "Search Help Docs..."
 msgstr ""
 
 msgid "Search Marketplace"
-msgstr ""
+msgstr "Поиск по Магазину"
 
 msgid "Search Results"
-msgstr ""
+msgstr "Поиск по результатам"
 
 msgid "Search Similar"
 msgstr ""
@@ -6889,10 +6889,10 @@ msgid "Search Submissions"
 msgstr ""
 
 msgid "Search Wantlist"
-msgstr ""
+msgstr "Поиск по Списку Желаний"
 
 msgid "Search Youtube"
-msgstr ""
+msgstr "Поиск по Youtube"
 
 msgid "Search all excluding Vinyl and CD"
 msgstr ""
@@ -6901,7 +6901,7 @@ msgid "Search all release formats"
 msgstr ""
 
 msgid "Search artists, albums and more..."
-msgstr ""
+msgstr "Поиск исполнителей, альбомов и т.д..."
 
 msgid "Search by Exact Match"
 msgstr ""
@@ -7035,7 +7035,7 @@ msgid "Sell Item"
 msgstr ""
 
 msgid "Sell Music"
-msgstr ""
+msgstr "Продавать Музыку"
 
 msgid "Sell This Item"
 msgstr ""
@@ -7287,7 +7287,7 @@ msgid "Shop for"
 msgstr ""
 
 msgid "Shopping Cart"
-msgstr ""
+msgstr "Корзина покупок"
 
 msgid "Short Desc"
 msgstr ""
@@ -7830,13 +7830,13 @@ msgid "That review does not exist."
 msgstr ""
 
 msgid "The Database"
-msgstr ""
+msgstr "База Данных"
 
 msgid "The Description Field"
 msgstr ""
 
 msgid "The Discogs Blog"
-msgstr ""
+msgstr "The Discogs Блог"
 
 #, python-format
 msgid ""
@@ -8542,7 +8542,7 @@ msgid "Thumbnail"
 msgstr ""
 
 msgid "Time Zone"
-msgstr ""
+msgstr "Часовой пояс"
 
 msgid "Timeline"
 msgstr ""
@@ -8554,13 +8554,13 @@ msgid "Tip"
 msgstr ""
 
 msgid "Title"
-msgstr ""
+msgstr "Название"
 
 msgid "Title, A-Z"
-msgstr ""
+msgstr "Название, A-Z"
 
 msgid "Title, Z-A"
-msgstr ""
+msgstr "Название, Z-A"
 
 msgid "Title/Credits"
 msgstr ""
@@ -8869,7 +8869,7 @@ msgid "Update Videos for"
 msgstr ""
 
 msgid "Update email address"
-msgstr ""
+msgstr "Обновить email адрес"
 
 msgid "Update image"
 msgstr ""
@@ -8912,16 +8912,16 @@ msgid "Upgrade your browser."
 msgstr ""
 
 msgid "Upload CSV"
-msgstr ""
+msgstr "Загрузить CSV"
 
 msgid "Upload Image"
-msgstr ""
+msgstr "Загрузить изображение"
 
 msgid "Upload New Image"
-msgstr ""
+msgstr "Загрузить новое изображение"
 
 msgid "Upload Photo"
-msgstr ""
+msgstr "Загрузить фото"
 
 msgid "Upload Status"
 msgstr ""
@@ -8999,10 +8999,10 @@ msgid "User is not a member."
 msgstr ""
 
 msgid "Username"
-msgstr ""
+msgstr "Логин"
 
 msgid "Username or Email"
-msgstr ""
+msgstr "Логин или Email"
 
 msgid "Username or email does not exist."
 msgstr ""
@@ -9035,10 +9035,10 @@ msgid "Video: How to list an item for sale on Discogs"
 msgstr ""
 
 msgid "Videos"
-msgstr ""
+msgstr "Видео"
 
 msgid "View"
-msgstr ""
+msgstr "Просмотр"
 
 #, python-format
 msgid ""
@@ -10352,7 +10352,7 @@ msgid "Your BIC/SWIFT"
 msgstr ""
 
 msgid "Your Cart has changed"
-msgstr ""
+msgstr "Ваша корзина измененна"
 
 msgid "Your Contributions"
 msgstr ""
@@ -10394,7 +10394,7 @@ msgid "Your PayPal account is Not Verified."
 msgstr ""
 
 msgid "Your PayPal email address"
-msgstr ""
+msgstr "Ваш PayPal email адрес"
 
 msgid "Your Recent Support Requests"
 msgstr ""
@@ -10484,7 +10484,7 @@ msgstr ""
 
 #, python-format
 msgid "Your current e-mail address is %(email)s "
-msgstr ""
+msgstr "Ваш текущий email: %(email)s"
 
 msgid "Your draft releases <strong>will be deleted</strong>."
 msgstr ""
@@ -10756,7 +10756,7 @@ msgid "check your inbox for further instructions."
 msgstr ""
 
 msgid "clear search"
-msgstr ""
+msgstr "Очистить поиск"
 
 msgid "click here"
 msgstr ""
@@ -10891,9 +10891,9 @@ msgid "if you can't find what you're looking for."
 msgstr ""
 
 msgid "in"
-msgstr ""
+msgstr "в"
 
-msgid "in Cart"
+msgid "в Корзину"
 msgstr ""
 
 msgid "instead"
