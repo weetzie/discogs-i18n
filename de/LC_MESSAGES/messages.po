@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Discogs 0.1\n"
 "Report-Msgid-Bugs-To: language@discogs.com\n"
-"POT-Creation-Date: 2014-12-04 21:36-0800\n"
+"POT-Creation-Date: 2014-12-11 16:25-0800\n"
 "PO-Revision-Date: 2012-01-23 14:50-0800\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: MARCO WEISER <discogs@mweiser.de>\n"
 "Language-Team: de <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -755,7 +755,7 @@ msgid "Add New Thread"
 msgstr ""
 
 msgid "Add Release"
-msgstr "Release hinzufügen"
+msgstr "Veröffentlichung hinzufügen"
 
 msgid "Add Review"
 msgstr ""
@@ -1316,7 +1316,7 @@ msgid "Barcode"
 msgstr ""
 
 msgid "Barcode and Other Identifiers"
-msgstr "Barcode und andere Bezeichner"
+msgstr "Barcode und andere Bezeichnungen"
 
 msgid ""
 "Based on recent votes made on your contributions to the database, you "
@@ -2187,7 +2187,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Credits"
-msgstr "Credits"
+msgstr "bearbeiten"
 
 msgid "Credits List"
 msgstr ""
@@ -2377,7 +2377,7 @@ msgid "Disabled Images"
 msgstr ""
 
 msgid "Discography"
-msgstr "Diskographie"
+msgstr "Diskografie"
 
 msgid "Discography at Discogs"
 msgstr ""
@@ -2737,7 +2737,7 @@ msgid "Embrace Open Source"
 msgstr ""
 
 msgid "Empty Cart"
-msgstr "Leerer Einkaufswagen"
+msgstr "Einkaufswagen ist leer"
 
 msgid "Enable"
 msgstr ""
@@ -2838,7 +2838,7 @@ msgid "Expires in"
 msgstr ""
 
 msgid "Explore"
-msgstr "Entdecken"
+msgstr "Erkunden"
 
 msgid "Export"
 msgstr ""
@@ -3131,7 +3131,7 @@ msgid "Geographic Location"
 msgstr ""
 
 msgid "Get Started"
-msgstr "Los geht's"
+msgstr "Für den Start vorbereiten"
 
 msgid "Get Started on Discogs"
 msgstr ""
@@ -4070,13 +4070,13 @@ msgid "Items For Sale"
 msgstr ""
 
 msgid "Items I Want"
-msgstr "Artikel, die ich möchte"
+msgstr "Releases in der Wunschliste"
 
 msgid "Items I'm selling"
 msgstr ""
 
 msgid "Items Ship From"
-msgstr "Artikel versenden von"
+msgstr "Versand erfolgt aus"
 
 #, python-format
 msgid ""
@@ -4904,7 +4904,7 @@ msgid "Need some Help?"
 msgstr ""
 
 msgid "Needs Changes"
-msgstr "Änderungen nötig"
+msgstr "Benötigt Veränderungen"
 
 msgid "Needs Major Changes"
 msgstr ""
@@ -4913,7 +4913,7 @@ msgid "Needs Minor Changes"
 msgstr ""
 
 msgid "Needs Vote"
-msgstr "Needs Vote"
+msgstr "Benötigt Stimme"
 
 msgid "Needs changes"
 msgstr ""
@@ -4962,7 +4962,7 @@ msgid "New Post in %(subject_text)s"
 msgstr ""
 
 msgid "New Releases"
-msgstr "Neue Veröffentlichungen"
+msgstr "Neue Releases"
 
 msgid "New Seller"
 msgstr "Neuer Verkäufer"
@@ -5264,7 +5264,7 @@ msgid "Numeric barcode of the release."
 msgstr ""
 
 msgid "OR"
-msgstr "oder"
+msgstr "OR"
 
 msgid "Offer"
 msgstr ""
@@ -6249,7 +6249,7 @@ msgid "Recent Changes made"
 msgstr ""
 
 msgid "Recent Group Activity"
-msgstr "Aktuelle Gruppen-Aktivität"
+msgstr "Aktuelle Gruppenaktivitäten"
 
 msgid "Recent Lists"
 msgstr ""
@@ -6373,10 +6373,10 @@ msgstr ""
 
 #, fuzzy
 msgid "Released"
-msgstr "Veröffentlichung"
+msgstr "Veröffentlicht"
 
 msgid "Releases"
-msgstr "Veröffentlichungen"
+msgstr "Releases"
 
 msgid "Releases Rated"
 msgstr ""
@@ -6777,7 +6777,7 @@ msgid "Saved Changes."
 msgstr ""
 
 msgid "Saved Group Topics"
-msgstr "Gespeicherte Gruppen-Themen"
+msgstr "Gespeichert Gruppen-Themen"
 
 msgid "Saved Labs Preferences"
 msgstr ""
@@ -6872,7 +6872,7 @@ msgid "Search for an item to sell"
 msgstr ""
 
 msgid "Search for variations of"
-msgstr "Suche nach Varianten"
+msgstr "Suche nach Variationen"
 
 msgid "Search group"
 msgstr ""
@@ -7208,7 +7208,7 @@ msgid "Shipping Methods"
 msgstr ""
 
 msgid "Shipping Policies"
-msgstr "Lieferbedigungen"
+msgstr "Lieferbedingungen"
 
 msgid "Shipping Policy"
 msgstr ""
@@ -7465,7 +7465,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Style"
-msgstr "Style"
+msgstr "Styles"
 
 msgid "Styles"
 msgstr "Styles"
@@ -7491,7 +7491,7 @@ msgid "Submission Notes (Required)"
 msgstr ""
 
 msgid "Submissions"
-msgstr "Neueintragungen"
+msgstr "Submissions"
 
 msgid "Submissions for"
 msgstr ""
@@ -7590,7 +7590,7 @@ msgid "Summary"
 msgstr ""
 
 msgid "Support Request"
-msgstr "Support-Anfrage"
+msgstr "Anfrage an den Support"
 
 msgid "Support Request #"
 msgstr ""
@@ -8367,13 +8367,13 @@ msgid "This item was removed from the database."
 msgstr ""
 
 msgid "This label does not exist in Discogs."
-msgstr "Dieses Label existiert in Discogs nicht."
+msgstr "Dieses Label steht auf Discogs noch nicht zur Verfügung."
 
 msgid "This label has been marked as invalid and cannot be edited."
 msgstr ""
 
 msgid "This label has no approved releases"
-msgstr "Dieses Label hat keine bestätigten Veröffentlichungen."
+msgstr "Dieses Label hat keine offiziell bestätigten Veröffentlichungen."
 
 msgid ""
 "This list has been made private by its owner. Click <a "
@@ -11047,8 +11047,8 @@ msgstr ""
 
 msgid "submission pending"
 msgid_plural "submissions pending"
-msgstr[0] "Einreichung anhängig"
-msgstr[1] "Einreichungen anhängig"
+msgstr[0] "Eingabe noch nicht abgeschlossen"
+msgstr[1] "Eingaben noch nicht abgeschlossen"
 
 msgid "submitted"
 msgstr ""
