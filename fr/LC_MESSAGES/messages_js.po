@@ -7,11 +7,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-12-04 12:06-0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: fr <LL@li.org>\n"
+"Report-Msgid-Bugs-To: stecova@yahoo.fr\n"
+"POT-Creation-Date: 2014-12-12 10:47-0800\n"
+"PO-Revision-Date: 2014-12-01 18:21+0200\n"
+"Last-Translator: STEFAN COVA <stecova@yahoo.fr>\n"
+"Language-Team: fr <FR@fr.org>\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -22,467 +22,507 @@ msgid ""
 "<%= filename %> is an unsupported format. Please upload a .jpg, .png, "
 ".gif, or .bmp."
 msgstr ""
+"<%= filename %> est dans un format non supporté. Veuillez envoyer un "
+".jpg, .png, .gif, ou .bmp."
 
 msgid "<%= releaseId %> is invalid. Release IDs should only contain numbers."
 msgstr ""
 
 msgid "A nearly perfect record. The record should show no obvious signs of wear."
 msgstr ""
+"Un enregistrement presque parfait .L'enregistrement devrait montrer aucun"
+" signe évident d'usure."
 
 msgid ""
 "Absolutely perfect in every way. Certainly never been played. Should be "
 "used sparingly as a grade, If at all."
 msgstr ""
+"Absolument parfait de toute part. Devrait êtreutilisé avec parcimonie car"
+" un grade, le cas échéant."
 
 msgid "Accepted Fields"
-msgstr ""
+msgstr "Champs acceptés"
 
 msgid "Add Sub-Track"
-msgstr ""
+msgstr "Ajouter sous-morceau"
 
 msgid "Add artist"
-msgstr ""
+msgstr "Ajouter artiste"
 
 msgid "Add barcode or identifier"
-msgstr ""
+msgstr "Ajouter code barre ou identifiant"
 
 msgid "Add credit"
-msgstr ""
+msgstr "Ajouter credit"
 
 msgid "Add format"
-msgstr ""
+msgstr "Ajouter format"
 
 msgid "Add label or entity"
-msgstr ""
+msgstr "Ajouter label ou entité"
 
 msgid "Add row"
-msgstr ""
+msgstr "Ajouter ligne"
 
 msgid "Add style"
-msgstr ""
+msgstr "Ajouter style"
 
 msgid "Add to List"
-msgstr ""
+msgstr "Ajouter à la liste"
 
 msgid "Added <%= preview.title %> to your collection."
-msgstr ""
+msgstr "<%= preview.title %> ajouté à votre collection."
 
 msgid "Added <%= preview.title %> to your wantlist."
-msgstr ""
+msgstr "<%= preview.title %> ajouté à votre collection."
 
 msgid "Alert"
-msgstr ""
+msgstr "Alerte"
 
 msgid "All shipping methods must define at least one range"
-msgstr ""
+msgstr "Toutes les méthodes d'expédition doivent définir au moins une ligne"
 
 msgid "An error has occurred, please try again."
-msgstr ""
+msgstr "Une erreur s'est produite.Veuillez réessayer"
 
 msgid "An unknown error occurred (code <%= status %>)"
-msgstr ""
+msgstr "Une erreur inconnue s'est produite (code <%= status %>)"
 
 msgid ""
 "Are you certain you wish to change the format? Any descriptions in the "
 "row will be removed."
 msgstr ""
+"Êtes-vous sûr de vouloir changer le format? Les descriptions de laligne "
+"seront supprimées."
 
 msgid "Are you certain you would like to delete this review?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir supprimer cette critique?"
 
 msgid "Are you sure you want to DELETE the items?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir SUPPRIMER les éléments?"
 
 msgid "Are you sure you want to delete this list?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir supprimer cette liste?"
 
 msgid "Are you sure you want to remove <%= text %>?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir supprimer <%= text %>?"
 
 msgid "Are you sure you want to remove these items?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir supprimer ces éléments?"
 
 msgid "Are you sure you want to remove this item?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir supprimer cet élément?"
 
 msgid "Are you sure you want to un-share this?"
-msgstr ""
+msgstr "Êtes-vous sûr de plus vouloir partager ceci?"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "Êtes-vous sûr?"
 
 msgid "Audio not found"
-msgstr ""
+msgstr "Audio introuvable"
 
 msgid "Auto-saved draft <%= link %> at <%= time %>"
-msgstr ""
+msgstr "Brouillon sauvergardé automatiquement <%= link %> at <%= time %>"
 
 msgid ""
 "Can be put onto a turntable and will play through without skipping. "
 "Significant surface noise, scratches and visible groove wear."
 msgstr ""
+"Peut être mis sur une platine vynile et jouera sans sauter. Bruit de "
+"surface important , rayures et usure du sillon visible"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 msgid "Cancel Order"
-msgstr ""
+msgstr "Annuler la demande"
 
 msgid "Checking"
-msgstr ""
+msgstr "Vérification"
 
 msgid "Click <%= saveButton => again to save anyway."
-msgstr ""
+msgstr "Cliquer <%= saveButton => à nouveau pour sauvegarder."
 
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 msgid "Confirm"
-msgstr ""
+msgstr "Confirmer"
 
 msgid "Create"
-msgstr ""
+msgstr "Créer"
 
 msgid "Create Master Release"
-msgstr ""
+msgstr "Créer une Version Principale"
 
 msgid "Created draft <%= link %> at <%= time %>"
-msgstr ""
+msgstr "Brouillion crée <%= link %> à <%= time %>"
 
 msgid "Customize This Page"
-msgstr ""
+msgstr "Personaliser cette page"
 
 msgid "Deleting"
-msgstr ""
+msgstr "Suppression"
 
 msgid "Delivery in <%= label %>"
-msgstr ""
+msgstr "Livraison en <%= label %>"
 
 msgid "Discogs Alert"
-msgstr ""
+msgstr "Alerte Discogs"
 
 msgid "Does not exist: <%= id %>"
-msgstr ""
+msgstr "N'existe pas: <%= id %>"
 
 msgid "Edit Master Release"
-msgstr ""
+msgstr "Editer la Version Principale"
 
 msgid "Error"
-msgstr ""
+msgstr "Erreur"
 
 msgid "European Union"
-msgstr ""
+msgstr "Union européenne"
 
 msgid "Failed to generate preview."
-msgstr ""
+msgstr "Impossible de générer l'aperçu."
 
 msgid "Failed to save draft."
-msgstr ""
+msgstr "Impossible de sauvegarder le broullion."
 
 msgid "Feedback Sent"
-msgstr ""
+msgstr "Commentaire envoyé"
 
 msgid "Generating Preview"
-msgstr ""
+msgstr "Generation de l'aperçu"
 
 msgid "Hide Credits"
-msgstr ""
+msgstr "Masquer les crédits"
 
 msgid "Hide actions"
-msgstr ""
+msgstr "Masquer les actions"
 
 msgid "Insert Heading"
-msgstr ""
+msgstr "Insérer le titre"
 
 msgid "Insert Index Track"
-msgstr ""
+msgstr "Insérer l'index de la piste"
 
 msgid "Insert Sub-Track"
-msgstr ""
+msgstr "Insérer la sous-piste"
 
 msgid "Insert Track"
-msgstr ""
+msgstr "Insérer la piste"
 
 msgid "Items added to your collection"
-msgstr ""
+msgstr "Élements ajoutés à votre collection"
 
 msgid "Less"
-msgstr ""
+msgstr "Moins"
 
 msgid "Load next"
-msgstr ""
+msgstr "Charger le suivant"
 
 msgid "Make End of Index Track"
-msgstr ""
+msgstr "Assurez-vous de l'indice de piste"
 
 msgid "Make an Offer"
-msgstr ""
+msgstr "Faire une offre"
 
 msgid ""
 "Master release saved successfully and will be processed soon. Please "
 "refresh the page in a minute to see the updated discography."
 msgstr ""
+"Version Principale enregistrée avec succès, sera traitée bientôt. "
+"Veuillez rafraîchir la page dans une minute pour voir discographie à "
+"jour."
 
 msgid "More"
-msgstr ""
+msgstr "Plus"
 
 msgid "Move"
-msgstr ""
+msgstr "Déplacer"
 
 msgid "Move Item to:"
-msgstr ""
+msgstr "Déplacer élément à:"
 
 msgid "Okay"
-msgstr ""
+msgstr "Okay"
 
 msgid "Place order"
-msgstr ""
+msgstr "Sur commande"
 
 msgid "Place order and pay now"
-msgstr ""
+msgstr "Sur commande et payer maintenant"
 
 msgid "Placing order..."
-msgstr ""
+msgstr "Prise de commande..."
 
 msgid "Please choose a file to upload"
-msgstr ""
+msgstr "Veuillez choisir un fichier à envoyer"
 
 msgid "Please enter <%= n %> unique Release IDs."
-msgstr ""
+msgstr "Veuillez saisir <%= n %> unique IDs de Version'."
 
 msgid "Please enter <%= n %> valid Release IDs."
-msgstr ""
+msgstr "Veuillez saisir  <%= n %> valide IDs de Version'."
 
 msgid "Please enter a Key Release ID"
-msgstr ""
+msgstr "Veuillez saisir une clé Version ID"
 
 msgid "Please enter a title."
-msgstr ""
+msgstr "Veuillez saisir un titre."
 
 msgid "Please enter at least one Release ID in addition to the Key Release ID."
-msgstr ""
+msgstr "Veuillez saisir au moins une Version ID en plus de la clé Version ID."
 
 msgid "Please enter your Release IDs. Be sure to include the Key Release ID."
-msgstr ""
+msgstr "Veuillez saisir votre 'Release IDs'. Veillez à inclure la clé Version ID."
 
 msgid "Please indicate which Release ID has accurate data."
-msgstr ""
+msgstr "Veuillez indiquer quelle Version ID comporte des données précises."
 
 msgid "Please provide a detailed reason for the merge."
-msgstr ""
+msgstr "Veuillez fournir une raison détaillée pour la fusion."
 
 msgid "Please select a key release."
-msgstr ""
+msgstr "Veuillez sélectionner une clé de Version."
 
 msgid "Please select an existing list."
-msgstr ""
+msgstr "Veuillez sélectionnez une liste existante"
 
 msgid "Please select an item to remove"
-msgstr ""
+msgstr "Veuillez sélectionnez un élément à supprimer"
 
 msgid "Popular Destinations"
-msgstr ""
+msgstr "Destinations populaires"
 
 msgid "Post Comment"
-msgstr ""
+msgstr "Poster un commentaire"
 
 msgid "Posting"
-msgstr ""
+msgstr "Poster"
 
 msgid ""
 "Press OK to report that this list contravenes the <a "
 "href=\"http://www.discogs.com/help/lists.html\">Discogs List "
 "guidelines</a>."
 msgstr ""
+"Presser OK pour signaler que cette liste est contraire à la ligne "
+"directrice de <a href=\"http://www.discogs.com/help/lists.html\">Discogs "
+"List</a>."
 
 msgid "Preview Loading"
-msgstr ""
+msgstr "Chargement de l'aperçu"
 
 msgid "Previewing..."
-msgstr ""
+msgstr "Prévisualisation"
 
 msgid "Problem Sending Feedback"
-msgstr ""
+msgstr "Problème pendant l'envoi de commentaire"
 
 msgid "Processing"
-msgstr ""
+msgstr "En cours"
 
 msgid "Ranges overlap or are ordered incorrectly"
-msgstr ""
+msgstr "Les plages se chevauchent ou sont ordonnés de façon incorrecte"
 
 msgid ""
 "Record is cracked, badly warped, or won't play through without skipping "
 "or repeating."
 msgstr ""
+"L'enregistrement est fissuré ou gondolé, ou ne peut pas être joué sans "
+"sauts,ni boucles."
 
 msgid "Release not found. Please try another Release ID."
-msgstr ""
+msgstr "Version non trouvée. Veuillez essayer une autre Version ID."
 
 msgid "Remove"
-msgstr ""
+msgstr "Supprimer"
 
 msgid "Remove <%= username %> from your friends list?"
-msgstr ""
+msgstr "Supprimer <%= username %> de votre liste d'amis?"
 
 msgid "Remove this shipping method?"
-msgstr ""
+msgstr "Supprimer cette méthode d'expédition?"
 
 msgid "Remove this shipping policy?"
-msgstr ""
+msgstr "Supprimer cette politique d'expédition?"
 
 msgid "Replying"
-msgstr ""
+msgstr "Répondre"
 
 msgid "Reported"
-msgstr ""
+msgstr "Rapporté"
 
 msgid "Save"
-msgstr ""
+msgstr "Sauvegarder"
 
 msgid "Save Changes"
-msgstr ""
+msgstr "Sauvegarder les changements"
 
 msgid "Save and Continue"
-msgstr ""
+msgstr "Sauvegarder et continuer"
 
 msgid "Saved draft <%= link %> at <%= time %>"
-msgstr ""
+msgstr "Brouillon enregistré <%= link %> à <%= time %>"
 
 msgid "Saving"
-msgstr ""
+msgstr "Sauvegarde en cours"
 
 msgid "Send Feedback"
-msgstr ""
+msgstr "Envoyer commentaire"
 
 msgid "Send Report"
-msgstr ""
+msgstr "Envoyer un rapport"
 
 msgid "Share"
-msgstr ""
+msgstr "Partager"
 
 msgid "Shared on your profile"
-msgstr ""
+msgstr "Partager sur votre profil"
 
 msgid "Sharing Settings"
-msgstr ""
+msgstr "Paramètres de partage"
 
 msgid "Sharing..."
-msgstr ""
+msgstr "Partage en cours..."
 
 msgid "Shipping and Payment Terms"
-msgstr ""
+msgstr "Conditions de livraison et de paiement"
 
 msgid "Show Credits"
-msgstr ""
+msgstr "Afficher crédits"
 
 msgid "Show actions"
-msgstr ""
+msgstr "Afficher actions"
 
 msgid ""
 "Some mobile devices will not allow playback until you first activate the "
 "YouTube player by tapping on it. If the video is not loading, refresh the"
 " page, then tap on the player."
 msgstr ""
+"Certains appareils mobiles ne permettent pas la lecture jusqu'à ce que "
+"vous activez d'abord lecteur YouTube en appuyant dessus. Si la vidéo ne "
+"se charge pas , actualisez la page , puis appuyez sur le lecteur."
 
 msgid "Submission Form Keyboard Shortcuts"
-msgstr ""
+msgstr "Formulaire de soumission de raccourcis clavier"
 
 msgid "Submission notes are required"
-msgstr ""
+msgstr "Les notes de soumission sont obligatoires"
 
 msgid ""
 "Surface noise will be evident upon playing... but will not overpower the "
 "music. Groove wear will start to be noticeable, as will light scratches."
 msgstr ""
+"Le bruit de surface sera évident lors de la lecture... mais ne fera pas "
+"saturer la musique.L'usure du sillon va commencer à être perceptible, "
+"comme des rayures"
 
 msgid "The following errors preventing this item from being listed"
-msgstr ""
+msgstr "Les erreurs suivantes empêchent cet article d'être listé"
 
 msgid ""
 "There was a problem sending your feedback. Please try again in a few "
 "moments."
 msgstr ""
+"Il y a eu problème d'envoi de vos commentaires. Veuillez ré-essayer dans "
+"quelques instants."
 
 msgid "This list is already on your dashboard"
 msgstr ""
+"Il y a eu problème d'envoi de vos commentaires. Veuillez ré-essayer dans "
+"quelques instants."
 
 msgid ""
 "This operation will overwrite all track positions with 1, 2, 3, etc. Are "
 "you sure you want to do this?"
 msgstr ""
+"Cette opération va écraser toutes les positions de piste avec 1, 2, 3, "
+"etc. Etes-vous sûr que vous voulez faire cà?"
 
 msgid "Unable to estimate from release data"
-msgstr ""
+msgstr "Impossible à estimer à partir des données de Version."
 
 msgid "Undo"
-msgstr ""
+msgstr "Annuler"
 
 msgid "Unsharing..."
-msgstr ""
+msgstr "Ne plus partager..."
 
 msgid "Update Order"
-msgstr ""
+msgstr "Mettre à jour la commande"
 
 msgid "View Image"
-msgstr ""
+msgstr "Voir l'image"
 
 msgid "Vote and Post Comment"
-msgstr ""
+msgstr "Voter et poster un commentaire"
 
 msgid "WARNING: You have made changes since loading this page."
 msgstr ""
+"ATTENTION: Vous avez apporté des modifications depuis le chargement de "
+"cette page."
 
 msgid "WARNING: You have unsaved changes."
-msgstr ""
+msgstr "ATTENTION: Vous avez des modifications non enregistrées."
 
 msgid "Warning"
 msgstr ""
 
 msgid "Warning: for large tracklists this may significantly hinder performance"
 msgstr ""
+"ATTENTION: pour les grandes tracklists,  cela peut entraver "
+"considérablement les performances"
 
 msgid ""
 "Will show some signs that it was played and otherwise handled by a "
 "previous owner who took good care of it."
 msgstr ""
+"Montrera des signes de lectucre et manipulé par un précédent propriétaire"
+" qui en a pris soin."
 
 msgid ""
 "You can't have more than one <%= shippingMethod %> shipping method in the"
 " same policy"
 msgstr ""
+"Vous ne pouvez pas avoir plus d'une méthode d'expédition dans la même "
+"politique."
 
 msgid "You did not choose a rating."
-msgstr ""
+msgstr "Vous n'avez pas choisi de note"
 
 msgid "You did not enter a comment."
-msgstr ""
+msgstr "Vous n'avez pas saisi de commentaire"
 
 msgid "You must add at least one shipping method"
-msgstr ""
+msgstr "Vous devez ajouter au moins une méthode d'expédition"
 
 msgid "You must agree to the order terms to continue"
-msgstr ""
+msgstr "Vous devez accepter les termes de commande pour continuer"
 
 msgid "You must post a comment with this type of vote"
-msgstr ""
+msgstr "Vous devez poster un commentaire pour ce type de vote"
 
 msgid "You must provide a reason for removing this release."
-msgstr ""
+msgstr "Vous devez fournir un motif de suppression de cette Version"
 
 msgid "You must select at least one destination"
-msgstr ""
+msgstr "Vous devez sélectionner au moins une destination"
 
 msgid "Your changes couldn't be saved. Please try again."
-msgstr ""
+msgstr "Vos changements ne pouvaient pas être sauvés. Veuillez essayer à nouveau"
 
 msgid ""
 "Your feedback was sent successfully. Thank you for helping improve "
 "Discogs!"
 msgstr ""
+"Vos commentaires a été envoyé avec succès. Merci de nous aider à "
+"améliorer Discogs!"
 
 msgid "about"
-msgstr ""
+msgstr "A propos"
 
 msgid "generating preview..."
-msgstr ""
+msgstr "Génération de l'apercu..."
 
