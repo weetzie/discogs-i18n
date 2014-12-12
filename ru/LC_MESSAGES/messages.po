@@ -1,16 +1,16 @@
-# Russian translations for PROJECT.
-# Copyright (C) 2014 ORGANIZATION
-# This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+# Russian translations for Romens-Team.
+# Copyright (C) 2014 Romens-Team
+# This file is distributed under the same license as the Romens-Team project.
+# Romens <romantrutnev@gmail.com>, 2014.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"Report-Msgid-Bugs-To: romantrutnev@gmail.com\n"
 "POT-Creation-Date: 2014-11-21 14:57-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Romens <romantrutnev@gmail.com>\n"
 "Language-Team: ru <LL@li.org>\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
@@ -472,7 +472,7 @@ msgstr ""
 
 #, python-format
 msgid "<a href=\"%(link)s\">Discover</a> new music."
-msgstr ""
+msgstr "<a href=\"%(link)s\">Исследуй</a> новую музыку."
 
 #, python-format
 msgid "<a href=\"%(link)s\">Send us a support request</a> and we will help you."
@@ -968,7 +968,7 @@ msgid "All Topics"
 msgstr ""
 
 msgid "All Versions"
-msgstr ""
+msgstr "Все версии"
 
 msgid "All images are copyrighted by their respective copyright owners."
 msgstr ""
@@ -1426,7 +1426,7 @@ msgid "Browse Groups"
 msgstr "Группы"
 
 msgid "Browse Groups By Tag"
-msgstr "Группы по тегам"
+msgstr "Просмотр групп по тегам"
 
 msgid "Browsing and Searching"
 msgstr "Просмотр и Поиск"
@@ -1464,7 +1464,7 @@ msgid "Buy Similar Items"
 msgstr ""
 
 msgid "Buy and Sell Vinyl and CDs at Discogs Marketplace"
-msgstr ""
+msgstr "Покупай и Продавай Винил и CD в Discogs Магазине"
 
 msgid ""
 "Buy rare and hard to find music on vinyl records and used CDs from "
@@ -1594,7 +1594,7 @@ msgid "Can be any of these <a href=\"%(link)s\">format fields</a>."
 msgstr ""
 
 msgid "Can't find a group for you?"
-msgstr ""
+msgstr "Не можете найти группу для себя?"
 
 msgid "Can't find it on Discogs?"
 msgstr ""
@@ -1660,7 +1660,7 @@ msgid "Change Email Address"
 msgstr "Изменить Email адрес"
 
 msgid "Change Log"
-msgstr ""
+msgstr "Список изменений"
 
 msgid "Change Password"
 msgstr ""
@@ -2099,7 +2099,7 @@ msgid "Create Your New Discogs Account"
 msgstr ""
 
 msgid "Create a New Group"
-msgstr ""
+msgstr "Создать группу"
 
 #, python-format
 msgid "Create a new %(mode)s group"
@@ -2323,7 +2323,7 @@ msgid "Destinations"
 msgstr ""
 
 msgid "Details"
-msgstr ""
+msgstr "Детали"
 
 msgid "Details on Closing your Discogs Account"
 msgstr ""
@@ -2573,7 +2573,7 @@ msgid "Don't change offer status"
 msgstr ""
 
 msgid "Don't have an account?"
-msgstr ""
+msgstr "Нету аккаунта?"
 
 msgid "Don't miss out on the items still in your cart:"
 msgstr ""
@@ -2635,35 +2635,35 @@ msgid "E-mail me when it's done"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "Изменить"
 
 msgid "Edit "
-msgstr ""
+msgstr "Изменить "
 
 #, python-format
 msgid "Edit %(app_name)s Application"
 msgstr ""
 
 msgid "Edit / Submit"
-msgstr ""
+msgstr "Изменить / Принять"
 
 msgid "Edit Artist"
-msgstr ""
+msgstr "Изменить профиль артиста"
 
 msgid "Edit Features"
 msgstr ""
 
 msgid "Edit Images"
-msgstr ""
+msgstr "Изменить изображение"
 
 msgid "Edit Inventory"
-msgstr ""
+msgstr "Изменить Инвентарь"
 
 msgid "Edit Item"
-msgstr ""
+msgstr "Изменить предмет"
 
 msgid "Edit Label"
-msgstr ""
+msgstr "Изменить надпись"
 
 msgid "Edit Listing"
 msgstr ""
@@ -2672,16 +2672,16 @@ msgid "Edit Master Release"
 msgstr ""
 
 msgid "Edit Message"
-msgstr ""
+msgstr "Изменить сообщение"
 
 msgid "Edit Post"
-msgstr ""
+msgstr "Изменить запись"
 
 msgid "Edit Release"
-msgstr ""
+msgstr "Изменить Релиз"
 
 msgid "Edit Settings"
-msgstr ""
+msgstr "Изменить настройки"
 
 msgid "Edit Your List"
 msgstr ""
@@ -2702,10 +2702,10 @@ msgid "Editing Inventory"
 msgstr ""
 
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 msgid "Email address"
-msgstr ""
+msgstr "Email адресс"
 
 msgid "Email matches autohold string"
 msgstr ""
@@ -2732,7 +2732,7 @@ msgid "Enable offers for all items"
 msgstr ""
 
 msgid "Enabled"
-msgstr ""
+msgstr "Включено"
 
 msgid "Enter different payee"
 msgstr ""
@@ -2772,17 +2772,17 @@ msgid "Entirely Incorrect"
 msgstr ""
 
 msgid "Error"
-msgstr ""
+msgstr "Ошибка"
 
 msgid "Error saving file"
-msgstr ""
+msgstr "Ошибка при сохранении файла"
 
 #, python-format
 msgid "Error with module: %s"
 msgstr ""
 
 msgid "Errors"
-msgstr ""
+msgstr "Ошибки"
 
 msgid "Estimate"
 msgstr ""
@@ -3272,13 +3272,13 @@ msgid "Help Forum Bans"
 msgstr ""
 
 msgid "Help Is Here"
-msgstr ""
+msgstr "Помощь здесь"
 
 msgid "Help People Enjoy Music"
 msgstr ""
 
 msgid "Help Translate"
-msgstr ""
+msgstr "Помощь в переводе"
 
 msgid "Help on Making Offers"
 msgstr ""
@@ -3305,7 +3305,7 @@ msgid "Here's an example:"
 msgstr ""
 
 msgid "Hide"
-msgstr ""
+msgstr "Спрятать"
 
 msgid "Hide editing options"
 msgstr ""
@@ -3481,7 +3481,7 @@ msgstr ""
 
 #, python-format
 msgid "If you do not have a Discogs account, <a href=\"%(link)s\">create one</a>."
-msgstr ""
+msgstr "Если у вас нет Discogs аккаунта, <a href=\"%(link)s\">создайте сейчас</a>."
 
 #, python-format
 msgid ""
@@ -4032,7 +4032,7 @@ msgid "Items For Sale"
 msgstr ""
 
 msgid "Items I Want"
-msgstr "Мои Желания"
+msgstr "В списке желаемого"
 
 msgid "Items I'm selling"
 msgstr ""
@@ -4060,7 +4060,7 @@ msgid "Join Group"
 msgstr ""
 
 msgid "Join In"
-msgstr ""
+msgstr "Вступайте"
 
 msgid ""
 "Join our community of contributors and add your unique items to the "
@@ -4122,7 +4122,7 @@ msgid "Key not found or address has already been changed"
 msgstr ""
 
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Горячие клавиши"
 
 msgid "Kick"
 msgstr ""
@@ -4956,13 +4956,13 @@ msgid "Newest"
 msgstr ""
 
 msgid "Newest Groups"
-msgstr ""
+msgstr "Новые группы"
 
 msgid "Newsletters"
 msgstr ""
 
 msgid "Next"
-msgstr ""
+msgstr "Далее"
 
 msgid "Next Order"
 msgstr ""
@@ -5181,7 +5181,7 @@ msgid "Note: You can only pay one invoice at a time."
 msgstr ""
 
 msgid "Notes"
-msgstr "Примечания"
+msgstr "Описание"
 
 msgid "Nothing found"
 msgstr ""
@@ -5858,7 +5858,7 @@ msgid "Policies and guidelines for the Discogs Marketplace."
 msgstr ""
 
 msgid "Popular Groups"
-msgstr ""
+msgstr "Популярные группы"
 
 msgid "Pos"
 msgstr ""
@@ -5873,7 +5873,7 @@ msgid "Post"
 msgstr ""
 
 msgid "Post Comment"
-msgstr ""
+msgstr "Отправить комменатрий"
 
 msgid "Post Reply"
 msgstr ""
@@ -6118,7 +6118,7 @@ msgid "Ready to contribute?"
 msgstr ""
 
 msgid "Real Name"
-msgstr ""
+msgstr "Настоящее имя"
 
 #, python-format
 msgid "Real Name %(optional)s"
@@ -6177,7 +6177,7 @@ msgid "Recipient"
 msgstr ""
 
 msgid "Recommendations"
-msgstr "Рекомендации"
+msgstr "Рекомендуем"
 
 msgid "Recommended"
 msgstr ""
@@ -6346,7 +6346,7 @@ msgid "Remove Topic"
 msgstr ""
 
 msgid "Remove all from Wantlist"
-msgstr ""
+msgstr "Удалить из списка желаемого"
 
 msgid "Remove filters"
 msgstr ""
@@ -6450,7 +6450,7 @@ msgid "Replies"
 msgstr ""
 
 msgid "Reply"
-msgstr ""
+msgstr "Ответить"
 
 msgid "Reply above this line"
 msgstr ""
@@ -7086,7 +7086,7 @@ msgid "Shipping via %(method)s"
 msgstr ""
 
 msgid "Ships From"
-msgstr ""
+msgstr "Доставка из"
 
 msgid "Ships From:"
 msgstr ""
@@ -7101,7 +7101,7 @@ msgid "Short Desc"
 msgstr ""
 
 msgid "Show"
-msgstr ""
+msgstr "Показать"
 
 #, python-format
 msgid "Show %(more_reviews)s more Review"
@@ -7247,7 +7247,7 @@ msgid "Sorry, you must be logged in to make offers."
 msgstr ""
 
 msgid "Sort By:"
-msgstr ""
+msgstr "Сортировать по:"
 
 #, python-format
 msgid "Spam: %s (in IP bans)"
@@ -8410,7 +8410,7 @@ msgid "Total for this Order"
 msgstr ""
 
 msgid "Total, not including shipping"
-msgstr ""
+msgstr "Всего, без учёта доставки"
 
 msgid "Track"
 msgstr ""
@@ -8521,7 +8521,7 @@ msgid "Unignore"
 msgstr ""
 
 msgid "Unknown"
-msgstr ""
+msgstr "Неизвестно"
 
 msgid "Unlist"
 msgstr ""
@@ -8637,7 +8637,7 @@ msgid "Upload and process file"
 msgstr ""
 
 msgid "Upload new image"
-msgstr ""
+msgstr "Загрузить новое изображение"
 
 msgid "Upload row is missing or invalid"
 msgstr ""
@@ -8650,10 +8650,10 @@ msgid "Uploaded"
 msgstr ""
 
 msgid "Use English only."
-msgstr ""
+msgstr "Только на английском"
 
 msgid "Use Gravatar"
-msgstr ""
+msgstr "Использовать Gravatar"
 
 msgid ""
 "Use drag and drop to re-order the items in your list, or click \"move "
@@ -8677,13 +8677,13 @@ msgid "User %s is now being ignored. Manage your ignored users %s"
 msgstr ""
 
 msgid "User Accounts"
-msgstr ""
+msgstr "Аккаунт пользователя"
 
 msgid "User Options"
-msgstr ""
+msgstr "Настройки пользователя"
 
 msgid "User Profile Settings"
-msgstr ""
+msgstr "Настройки профиля пользователя"
 
 msgid "User Reviews"
 msgstr ""
@@ -8702,13 +8702,13 @@ msgid "Username or Email"
 msgstr "Логин или Email"
 
 msgid "Username or email does not exist."
-msgstr ""
+msgstr "Логин или Email не существует"
 
 msgid "Users in Contributor Improvement Program (CIP)"
 msgstr ""
 
 msgid "Variations"
-msgstr ""
+msgstr "Также известны как"
 
 #, python-format
 msgid ""
@@ -8720,7 +8720,7 @@ msgid "Verify the item matches the information on"
 msgstr ""
 
 msgid "Versions"
-msgstr ""
+msgstr "Версии"
 
 msgid "Video: How to list an item for sale on Discogs"
 msgstr ""
@@ -8921,13 +8921,13 @@ msgid "Viewing"
 msgstr ""
 
 msgid "Viewing All"
-msgstr ""
+msgstr "Посмотреть все"
 
 msgid "Vinyl"
-msgstr ""
+msgstr "Винил"
 
 msgid "Vinyl and CD"
-msgstr ""
+msgstr "Винил и CD"
 
 msgid "Violation"
 msgstr ""
@@ -10282,13 +10282,13 @@ msgid "Your upload was received and scheduled for processing"
 msgstr ""
 
 msgid "Your version not on Discogs?"
-msgstr ""
+msgstr "Вашей версии нет на Discogs?"
 
 msgid "Z-A"
-msgstr ""
+msgstr "Z-A"
 
 msgid "Zip/Postal Code"
-msgstr ""
+msgstr "Почтовый индекс"
 
 #, python-format
 msgid "_%0.2f to _%0.2f"
