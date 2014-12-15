@@ -647,7 +647,7 @@ msgid "About Anthem Records"
 msgstr ""
 
 msgid "About Discogs"
-msgstr ""
+msgstr "О Discogs"
 
 msgid "About Dobshizzle"
 msgstr ""
@@ -692,7 +692,7 @@ msgid "Account Notifications"
 msgstr ""
 
 msgid "Account Verification"
-msgstr ""
+msgstr "Проверка подлинности аккаунта"
 
 #, python-format
 msgid ""
@@ -1890,9 +1890,9 @@ msgid "Complete And Correct"
 msgstr ""
 
 msgid "Compose"
-msgstr ""
+msgstr "Отправить"
 
-msgid "Compose New Message"
+msgid "Отправить новое сообщение"
 msgstr ""
 
 msgid "Compose Newsletter"
@@ -2797,7 +2797,7 @@ msgid "Estimate shipping weights"
 msgstr ""
 
 msgid "Everyone's Activity"
-msgstr ""
+msgstr "Активность пользователей"
 
 msgid "Existing List"
 msgstr ""
@@ -2941,10 +2941,10 @@ msgid "First Name"
 msgstr ""
 
 msgid "First and last name"
-msgstr ""
+msgstr "Имя и Фамилия"
 
 msgid "First name"
-msgstr ""
+msgstr "Имя"
 
 msgid ""
 "First, you should check your past contributions, and see the comments and"
@@ -3737,7 +3737,7 @@ msgid "In your"
 msgstr ""
 
 msgid "Inbox"
-msgstr ""
+msgstr "Входящие"
 
 msgid ""
 "Include <strong>how much</strong> you charge and <strong>who</strong> is "
@@ -4168,7 +4168,7 @@ msgid "Last Invoice:"
 msgstr ""
 
 msgid "Last Name"
-msgstr ""
+msgstr "Фамилия"
 
 msgid "Last Post"
 msgstr ""
@@ -4459,10 +4459,10 @@ msgid "Manually Update your Collection &amp; Wantlist"
 msgstr ""
 
 msgid "Mark as Read"
-msgstr ""
+msgstr "Пометить как прочитанный"
 
 msgid "Mark as Unread"
-msgstr ""
+msgstr "Пометить как непрочитанный"
 
 msgid "Mark for Sale"
 msgstr ""
@@ -4792,19 +4792,19 @@ msgid "My Information"
 msgstr ""
 
 msgid "My Lists"
-msgstr ""
+msgstr "Мои списки"
 
 msgid "My Lists:"
-msgstr ""
+msgstr "Мои списки:"
 
 msgid "My Media"
-msgstr ""
+msgstr "Мои медиа"
 
 msgid "My Posts"
-msgstr ""
+msgstr "Мои посты"
 
 msgid "My Profile"
-msgstr ""
+msgstr "Мой профиль"
 
 msgid "My Seller Rating:"
 msgstr ""
@@ -4816,7 +4816,7 @@ msgid "My Submissions"
 msgstr ""
 
 msgid "My Uploads"
-msgstr ""
+msgstr "Мои загрузки"
 
 msgid "My Wantlist"
 msgstr ""
@@ -4944,7 +4944,7 @@ msgid "New seller"
 msgstr ""
 
 msgid "New sellers are required to have a PayPal Verified account."
-msgstr ""
+msgstr "Новые продавцы должны добавить информацию о их PayPal аккаунте."
 
 msgid "New submissions related to my lists"
 msgstr ""
@@ -6361,7 +6361,7 @@ msgid "Remove selected"
 msgstr ""
 
 msgid "Remove this"
-msgstr ""
+msgstr "Убрать"
 
 msgid "Remove this image"
 msgstr ""
@@ -6914,7 +6914,7 @@ msgid "Seller Promo"
 msgstr ""
 
 msgid "Seller Settings"
-msgstr ""
+msgstr "Настройки продавца"
 
 msgid "Seller Suspension Pending"
 msgstr ""
@@ -7002,7 +7002,7 @@ msgid "Send reply"
 msgstr ""
 
 msgid "Sent"
-msgstr ""
+msgstr "Отправленные"
 
 msgid ""
 "Separate by space or one per line. These buyers will not be able to make "
@@ -8428,7 +8428,7 @@ msgid "Tracklist"
 msgstr "Треклист"
 
 msgid "Trash"
-msgstr ""
+msgstr "Корзина"
 
 #, python-format
 msgid "Try again in <a href=\"%(link)s\">English</a>."
@@ -9891,6 +9891,9 @@ msgid ""
 "This information will be displayed on your item details.\n"
 "You must save your changes at the end of the form."
 msgstr ""
+"Вы должны заполнить все поля перед, прежде чем отправлять товар на продажу по почте.\n"
+"Эта информация будет указывается в деталях каждого товара.\n"
+"Вы можете сохранить введенные данные в конце формы."
 
 msgid ""
 "You must fill in these fields before you can purchase items for sale.\n"
@@ -9974,7 +9977,7 @@ msgstr ""
 
 #, python-format
 msgid "You're not a member of any groups. <a href=\"%(link)s\">Get involved!</a>"
-msgstr ""
+msgstr "Вы еще не состоите в группе. <a href=\"%(link)s\">Вступайте!</a>"
 
 msgid ""
 "You're serious about your music&hellip; and we are, too.\n"
@@ -10323,19 +10326,19 @@ msgstr ""
 
 #, python-format
 msgid "added %(release)s to collection."
-msgstr ""
+msgstr "добавил %(release)s в коллекцию."
 
 #, python-format
 msgid "added %(release)s to their collection."
-msgstr ""
+msgstr "добавил %(release)s в свою коллекцию."
 
 #, python-format
 msgid "added %(release)s to their wantlist."
-msgstr ""
+msgstr "добавил %(release)s в свой список желаний."
 
 #, python-format
 msgid "added %(release)s to wantlist."
-msgstr ""
+msgstr "добавлен %(release)s в список желаний."
 
 msgid "ago"
 msgstr ""
@@ -10741,7 +10744,7 @@ msgstr[1] ""
 msgstr[2] ""
 
 msgid "submitted"
-msgstr ""
+msgstr "опубликовал"
 
 msgid "team"
 msgstr ""
