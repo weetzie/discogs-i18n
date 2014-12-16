@@ -6436,7 +6436,7 @@ msgid "Remove My Feedback"
 msgstr ""
 
 msgid "Remove Release"
-msgstr "Remver Lançamento"
+msgstr "Remover Lançamento"
 
 msgid "Remove Reply"
 msgstr ""
