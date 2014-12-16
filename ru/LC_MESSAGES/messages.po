@@ -1,6 +1,6 @@
-# Russian translations for Romens-Team.
-# Copyright (C) 2014 Romens-Team
-# This file is distributed under the same license as the Romens-Team
+# Russian translations for Discogs
+# Copyright (C) 2014 Discogs
+# This file is distributed under the same license as Discogs translations
 # project.
 # Romens <romantrutnev@gmail.com>, 2014.
 #
@@ -2708,7 +2708,7 @@ msgid "Edit Item"
 msgstr "Изменить предмет"
 
 msgid "Edit Label"
-msgstr "Изменить надпись"
+msgstr "Изменить Лейбл"
 
 msgid "Edit Listing"
 msgstr ""
