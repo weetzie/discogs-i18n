@@ -30,6 +30,15 @@ msgid ""
 "\n"
 "See "
 msgstr ""
+"\n"
+"Afbeeldingen dienen <strong>exact</strong> overeen te komen met de versie van de uitgave. "
+"Voeg bijvoorbeeld geen afbeelding van de CD toe aan de LP versie.\n"
+"Toegestane bestanden voor afbeeldingen zijn .jpg, .gif, .png, en .bmp.\n"
+"Afbeeldingen dienen tussen %(lower_px_limit)s en %(upper_px_limit)s breed te zijn, "
+"en minder dan %(upper_byte_limit)s.\n"
+"Voeg s.v.p. geen afbeeldingen met watermerken of afbeeldingen van generieke hoezen toe."
+"\n"
+"Bekijk "
 
 #, python-format
 msgid ""
@@ -47,15 +56,15 @@ msgid ""
 msgstr ""
 
 msgid " (not including shipping)"
-msgstr ""
+msgstr " (exclusief verzendkosten)"
 
 #, python-format
 msgid "\"%s\" is available."
-msgstr ""
+msgstr "\"%s\" is beschikbaar."
 
 #, python-format
 msgid "\"Search %(seller)s's store"
-msgstr ""
+msgstr "\"Zoek in %(seller)s's winkel"
 
 #, python-format
 msgid ""
@@ -73,12 +82,12 @@ msgstr ""
 #, python-format
 msgid "%(count)s message has been ignored"
 msgid_plural "%(count)s messages have been ignored"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(count)s bericht is genegeerd"
+msgstr[1] "%(count)s berichten zijn genegeerd"
 
 #, python-format
 msgid "%(inviter)s has invited you to join %(topic_name)s"
-msgstr ""
+msgstr "%(inviter)s heeft je uitgenodigd om deel te nemen aan %(topic_name)s"
 
 #, python-format
 msgid ""
@@ -114,13 +123,13 @@ msgstr ""
 
 #, python-format
 msgid "%(n)s From My Wantlist"
-msgstr ""
+msgstr "%(n)s Van Mijn Verlanglijst"
 
 #, python-format
 msgid "%(n)s Item"
 msgid_plural "%(n)s Items"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(n)s Artikel"
+msgstr[1] "%(n)s Artikelen"
 
 #, python-format
 msgid "%(n)s Order Awaiting Feedback"
@@ -131,38 +140,38 @@ msgstr[1] ""
 #, python-format
 msgid "%(n)s comment"
 msgid_plural "%(n)s comments"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(n)s reactie"
+msgstr[1] "%(n)s reacties"
 
 #, python-format
 msgid "%(n)s message has been ignored"
 msgid_plural "%(n)s messages have been ignored"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(n)s bericht is genegeerd"
+msgstr[1] "%(n)s berichten zijn genegeerd"
 
 #, python-format
 msgid "%(n)s negative rating from buyers"
 msgid_plural "%(n)s negative ratings from buyers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(n)s negatieve beoordeling door koper"
+msgstr[1] "%(n)s negatieve beoordelingen door kopers"
 
 #, python-format
 msgid "%(n)s negative rating from sellers"
 msgid_plural "%(n)s negative ratings from sellers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(n)s negatieve beoordeling door verkoper"
+msgstr[1] "%(n)s negatieve beoordelingen door verkopers"
 
 #, python-format
 msgid "%(n)s neutral rating from buyers"
 msgid_plural "%(n)s neutral ratings from buyers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(n)s neutrale beoordeling door koper"
+msgstr[1] "%(n)s neutrale beoordelingen door kopers"
 
 #, python-format
 msgid "%(n)s neutral rating from sellers"
 msgid_plural "%(n)s neutral ratings from sellers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(n)s neutrale beoordeling door verkoper"
+msgstr[1] "%(n)s neutrale beoordelingen door verkopers"
 
 #, python-format
 msgid "%(n)s of %(total)s discussion"
@@ -172,35 +181,35 @@ msgstr[1] ""
 
 #, python-format
 msgid "%(n)s other versions for sale."
-msgstr ""
+msgstr "%(n)s andere versies te koop."
 
 #, python-format
 msgid "%(n)s positive rating from buyers"
 msgid_plural "%(n)s positive ratings from buyers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(n)s positieve beoordeling door koper"
+msgstr[1] "%(n)s positieve beoordeling door kopers"
 
 #, python-format
 msgid "%(n)s positive rating from sellers"
 msgid_plural "%(n)s positive ratings from sellers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(n)s positieve beoordeling door verkoper"
+msgstr[1] "%(n)s positieve beoordelingen door verkopers"
 
 #, python-format
 msgid "%(n)s previous order"
 msgid_plural "%(n)s previous orders"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(n)s vorige bestelling"
+msgstr[1] "%(n)s vorige bestellingen"
 
 #, python-format
 msgid "%(n)s rating"
 msgid_plural "%(n)s ratings"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(n)s beoordeling"
+msgstr[1] "%(n)s beoordelingen"
 
 #, python-format
 msgid "%(name)s will be added to the Database."
-msgstr ""
+msgstr "%(name)s zullen worden toegevoegd aan de Database"
 
 #, python-format
 msgid "%(num_found)s found when searching for \"%(query)s\""
@@ -212,15 +221,15 @@ msgstr ""
 
 #, python-format
 msgid "%(part)s of %(total)s"
-msgstr ""
+msgstr "%(part)s van %(total)s"
 
 #, python-format
 msgid "%(person)s's feedback as a buyer."
-msgstr ""
+msgstr "%(person)s's beoordeling als koper"
 
 #, python-format
 msgid "%(person)s's feedback as a seller."
-msgstr ""
+msgstr "%(person)s's beoordeling als verkoper"
 
 #, python-format
 msgid ""
@@ -238,11 +247,11 @@ msgstr ""
 
 #, python-format
 msgid "%(release)s is no longer available."
-msgstr ""
+msgstr "%(release)s is niet langer beschikbaar."
 
 #, python-format
 msgid "%(title)s was removed"
-msgstr ""
+msgstr "%(title)s is verwijderd"
 
 #, python-format
 msgid "%(title)s was requested to be removed"
@@ -259,14 +268,14 @@ msgstr ""
 #, python-format
 msgid "%(x)s available from %(y)s seller"
 msgid_plural "%(x)s available from %(y)s sellers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(x)s beschikbaar bij %(y)s verkoper"
+msgstr[1] "%(x)s beschikbaar bij %(y)s verkopers"
 
 #, python-format
 msgid "%d Week Ago"
 msgid_plural "%d Weeks Ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d Week Geleden"
+msgstr[1] "%d Weken Geleden"
 
 #, python-format
 msgid ""
@@ -280,37 +289,37 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d month"
-msgstr ""
+msgstr "%d maand"
 
 #, python-format
 msgid "%d months"
-msgstr ""
+msgstr "%d maanden"
 
 #, python-format
 msgid "%d to %d"
-msgstr ""
+msgstr "%d tot %d"
 
 #, python-format
 msgid "%d week"
-msgstr ""
+msgstr "%d week"
 
 #, python-format
 msgid "%d year"
-msgstr ""
+msgstr "%d jaar"
 
 #, python-format
 msgid "%s Month Ago"
 msgid_plural "%s Months Ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s Maand Geleden"
+msgstr[1] "%s Maanden Geleden"
 
 #, python-format
 msgid "%s converted this message to a support request."
-msgstr ""
+msgstr "%s heeft dit bericht omgezet naar een support request."
 
 #, python-format
 msgid "%s has been deleted."
-msgstr ""
+msgstr "%s is verwijderd."
 
 #, python-format
 msgid "%s have, %s want"
@@ -318,19 +327,19 @@ msgstr ""
 
 #, python-format
 msgid "%s is not a member of this group."
-msgstr ""
+msgstr "%s is geen lid van deze groep."
 
 #, python-format
 msgid "%s was added to your friends list."
-msgstr ""
+msgstr "%s is toegevoegd aan jouw vriendenlijst."
 
 #, python-format
 msgid "%s's Contributions"
-msgstr ""
+msgstr "%s's Bijdragen"
 
 #, python-format
 msgid "%s's Wantlist"
-msgstr ""
+msgstr "%s's Verlanglijst"
 
 #, python-format
 msgid "(%(n)s additional item not shown)"
