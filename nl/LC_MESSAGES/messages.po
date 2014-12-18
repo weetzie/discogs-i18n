@@ -78,6 +78,8 @@ msgid ""
 "%(action)s on <a href=\"%(objurl)s\">%(objname)s</a>\n"
 "which you submitted or contributed to."
 msgstr ""
+"%(action)s aan <a href=\"%(objurl)s\">%(objname)s</a>\n"
+"die jij hebt toegevoegd, of waaraan jij hebt bijgedragen."
 
 #, python-format
 msgid "%(count)s message has been ignored"
