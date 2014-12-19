@@ -110,7 +110,7 @@ msgstr[2] ""
 #, python-format
 msgid "%(n)d new item For Sale in your Wantlist"
 msgid_plural "%(n)d new items For Sale in your Wantlist"
-msgstr[0] ""
+msgstr[0] "%(n)d новых предметов для покупки из вашего списка желаний"
 msgstr[1] ""
 msgstr[2] ""
 
@@ -2285,10 +2285,10 @@ msgid "Default Currency Display"
 msgstr ""
 
 msgid "Delete"
-msgstr ""
+msgstr "Удалить"
 
 msgid "Delete Folder"
-msgstr ""
+msgstr "Удалить папку"
 
 msgid "Delete Listing"
 msgstr ""
@@ -2309,19 +2309,19 @@ msgid "Delete all items"
 msgstr ""
 
 msgid "Delete app"
-msgstr ""
+msgstr "Удалить приложение"
 
 msgid "Delete my Discogs account"
-msgstr ""
+msgstr "Удалить Discogs аккаунт"
 
 msgid "Delete my account"
-msgstr ""
+msgstr "Удалить мой аккуант"
 
 msgid "Delete this image permanently?"
 msgstr ""
 
 msgid "Deleted"
-msgstr ""
+msgstr "Удалено"
 
 msgid "Deleted Folder"
 msgstr ""
@@ -3132,7 +3132,7 @@ msgid "Friends' Submissions"
 msgstr ""
 
 msgid "From"
-msgstr ""
+msgstr "От"
 
 msgid "Full Name"
 msgstr ""
@@ -4538,10 +4538,10 @@ msgid "Manually Update your Collection &amp; Wantlist"
 msgstr ""
 
 msgid "Mark as Read"
-msgstr "Пометить как прочитанный"
+msgstr "Пометить как прочитанные"
 
 msgid "Mark as Unread"
-msgstr "Пометить как непрочитанный"
+msgstr "Пометить как непрочитанные"
 
 msgid "Mark for Sale"
 msgstr ""
@@ -6278,7 +6278,7 @@ msgid "Reason for removal"
 msgstr ""
 
 msgid "Received"
-msgstr ""
+msgstr "Получено"
 
 msgid "Recent"
 msgstr ""
@@ -6493,7 +6493,7 @@ msgid "Remove Topic"
 msgstr ""
 
 msgid "Remove all from Wantlist"
-msgstr "Удалить из списка желаемого"
+msgstr "Удалить всё из списка желаемого"
 
 msgid "Remove filters"
 msgstr ""
@@ -6762,10 +6762,10 @@ msgid "Sales History"
 msgstr "История продаж"
 
 msgid "Save"
-msgstr ""
+msgstr "Сохранить"
 
 msgid "Save Changes"
-msgstr ""
+msgstr "Сохранить изменения"
 
 msgid "Save Draft"
 msgstr ""
@@ -7523,7 +7523,7 @@ msgid "Subheading"
 msgstr ""
 
 msgid "Subject"
-msgstr ""
+msgstr "Тема сообщения"
 
 msgid "Sublabel"
 msgid_plural "Sublabels"
@@ -10850,7 +10850,7 @@ msgid "for sale"
 msgstr "для продажи"
 
 msgid "from"
-msgstr ""
+msgstr "от"
 
 #, python-format
 msgid "from %(n)d seller."
@@ -11127,7 +11127,7 @@ msgid "that has since been deleted."
 msgstr ""
 
 msgid "to"
-msgstr ""
+msgstr "к"
 
 msgid "to make the data more accurate!"
 msgstr ""
