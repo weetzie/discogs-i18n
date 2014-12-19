@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-12-04 12:06-0800\n"
+"POT-Creation-Date: 2014-12-19 11:05-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: bg <LL@li.org>\n"
@@ -1185,6 +1185,9 @@ msgstr ""
 msgid "Artist Name Variation"
 msgstr ""
 
+msgid "Artist not in use"
+msgstr ""
+
 msgid "Artists"
 msgstr "Артисти"
 
@@ -1755,11 +1758,6 @@ msgstr ""
 msgid "Check out our help section"
 msgstr ""
 
-msgid ""
-"Check out this year's RSD releases as they're added to the Discogs "
-"database.<br> If you picked any of them up, add them to your Collection!"
-msgstr ""
-
 msgid "Check the Selection"
 msgstr ""
 
@@ -1884,6 +1882,9 @@ msgid "Comments on offer:"
 msgstr ""
 
 msgid "Comments on this item"
+msgstr ""
+
+msgid "Comments:"
 msgstr ""
 
 msgid "Community"
@@ -3005,6 +3006,9 @@ msgstr ""
 msgid "For Me"
 msgstr ""
 
+msgid "For Sale"
+msgstr ""
+
 msgid "For a list of FAQ's, related to selling on Discogs, please visit:"
 msgstr ""
 
@@ -3118,9 +3122,6 @@ msgstr ""
 msgid "General settings"
 msgstr ""
 
-msgid "Generic"
-msgstr ""
-
 msgid "Genre"
 msgstr "Жанр"
 
@@ -3167,6 +3168,12 @@ msgid "Global Actions"
 msgstr ""
 
 msgid "Go"
+msgstr ""
+
+msgid "Go To Next Page"
+msgstr ""
+
+msgid "Go To Previous Page"
 msgstr ""
 
 msgid "Go to Collection"
@@ -3626,6 +3633,9 @@ msgid ""
 "description of your complaint in the window below, and then click the "
 "\"Submit Report\" button. Your report will then be automatically sent to "
 "us for review and action, if appropriate."
+msgstr ""
+
+msgid "If you want to adjust your notification settings further, please log in."
 msgstr ""
 
 msgid ""
@@ -4181,6 +4191,9 @@ msgstr ""
 msgid "Label"
 msgstr "Label"
 
+msgid "Label not in use"
+msgstr ""
+
 msgid "Label, A-Z"
 msgstr ""
 
@@ -4610,6 +4623,9 @@ msgstr ""
 msgid "Media condition is missing"
 msgstr ""
 
+msgid "Media:"
+msgstr ""
+
 msgid "Median"
 msgstr ""
 
@@ -5031,9 +5047,6 @@ msgstr ""
 msgid "No %(lang)s results found for"
 msgstr ""
 
-msgid "No Cover"
-msgstr ""
-
 msgid "No Drafts"
 msgstr ""
 
@@ -5205,9 +5218,6 @@ msgid "Not Available"
 msgstr ""
 
 msgid "Not Available At Listed Price"
-msgstr ""
-
-msgid "Not Graded"
 msgstr ""
 
 msgid "Not active recently"
@@ -5416,6 +5426,9 @@ msgid "Order Changed"
 msgstr ""
 
 msgid "Order Date"
+msgstr ""
+
+msgid "Order Date:"
 msgstr ""
 
 msgid "Order ID"
@@ -5803,9 +5816,6 @@ msgstr ""
 msgid "Please complete your Seller Settings before listing items."
 msgstr ""
 
-msgid "Please contact the seller to arrange for payment"
-msgstr ""
-
 msgid "Please contact the seller via the order page to arrange for payment:"
 msgstr ""
 
@@ -5922,9 +5932,6 @@ msgstr ""
 
 #, python-format
 msgid "Please try %(start_link)slogging in manually%(end_link)s."
-msgstr ""
-
-msgid "Please try again."
 msgstr ""
 
 msgid "Please upload a valid CSV file."
@@ -6288,10 +6295,6 @@ msgstr ""
 msgid "Recommended from this seller"
 msgstr ""
 
-#, python-format
-msgid "Record Store Day %(year)s"
-msgstr ""
-
 msgid "Refresh"
 msgstr ""
 
@@ -6613,10 +6616,6 @@ msgid "Report the image above"
 msgstr ""
 
 msgid "Request"
-msgstr ""
-
-#, python-format
-msgid "Request #%(id)s"
 msgstr ""
 
 msgid "Request Data Export"
@@ -7234,6 +7233,9 @@ msgstr ""
 msgid "Ships From:"
 msgstr ""
 
+msgid "Shop"
+msgstr ""
+
 msgid "Shop for"
 msgstr ""
 
@@ -7334,6 +7336,9 @@ msgstr ""
 msgid "Sleeve condition may be any of the above, or:"
 msgstr ""
 
+msgid "Sleeve:"
+msgstr ""
+
 msgid "Sold"
 msgstr ""
 
@@ -7347,6 +7352,11 @@ msgstr ""
 msgid ""
 "Some audio clips (%s) weren't saved because they are too large. The "
 "maximum file size allowed is %0.2f MB."
+msgstr ""
+
+msgid ""
+"Some items could not be marked for sale because they can no longer be "
+"sold on the Marketplace"
 msgstr ""
 
 msgid ""
@@ -7591,9 +7601,6 @@ msgid "Support Request"
 msgstr ""
 
 msgid "Support Request #"
-msgstr ""
-
-msgid "Support Requests"
 msgstr ""
 
 #, python-format
@@ -8311,10 +8318,10 @@ msgstr ""
 msgid "This account has been closed."
 msgstr ""
 
-msgid "This artist does not exist in Discogs."
+msgid "This artist has been marked as invalid and cannot be edited."
 msgstr ""
 
-msgid "This artist has been marked as invalid and cannot be edited."
+msgid "This artist has no releases on Discogs."
 msgstr ""
 
 msgid ""
@@ -8364,13 +8371,13 @@ msgstr ""
 msgid "This item was removed from the database."
 msgstr ""
 
-msgid "This label does not exist in Discogs."
-msgstr ""
-
 msgid "This label has been marked as invalid and cannot be edited."
 msgstr ""
 
 msgid "This label has no approved releases"
+msgstr ""
+
+msgid "This label has no releases on Discogs."
 msgstr ""
 
 msgid ""
@@ -8380,7 +8387,7 @@ msgstr ""
 
 #, python-format
 msgid ""
-"This message is a confirmation of your purchase from %(other_user)s via "
+"This message is a confirmation of your purchase from %(username)s via "
 "Discogs."
 msgstr ""
 
@@ -9833,6 +9840,12 @@ msgid ""
 "from the Marketplace and must be correctly relisted."
 msgstr ""
 
+#, python-format
+msgid ""
+"You can view details on this order and correspond with the other party <a"
+" href=\"%(order_url)s\">here</a>."
+msgstr ""
+
 msgid ""
 "You can view details on this order and correspond with the other party "
 "here"
@@ -9846,7 +9859,15 @@ msgstr ""
 msgid "You can view your invoices and make payments here:"
 msgstr ""
 
+#, python-format
+msgid "You can view your orders <a href=\"%(url)s\">here</a>."
+msgstr ""
+
 msgid "You can view your orders online at"
+msgstr ""
+
+#, python-format
+msgid "You can view your purchases online <a href=\"%(url)s\">here</a>."
 msgstr ""
 
 msgid "You can view your purchases online at"
@@ -10230,6 +10251,13 @@ msgstr ""
 msgid "You recently requested to close your Discogs account."
 msgstr ""
 
+#, python-format
+msgid ""
+"You selected PayPal as your payment method. If you have not done so\n"
+"already, you can pay for this order using the Pay Now button on the\n"
+"order page <a href=\"%(order_url)s\">here</a>"
+msgstr ""
+
 msgid ""
 "You selected PayPal as your payment method. If you have not done so\n"
 "already, you can pay for this order using the Pay Now button on the\n"
@@ -10490,6 +10518,12 @@ msgstr ""
 msgid ""
 "Your name, e-mail address, mailing address, and order number will remain "
 "private."
+msgstr ""
+
+msgid "Your notification settings have been updated"
+msgstr ""
+
+msgid "Your notification settings have been updated."
 msgstr ""
 
 msgid "Your offer"
@@ -10857,9 +10891,6 @@ msgid "jobs"
 msgstr ""
 
 msgid "labels"
-msgstr ""
-
-msgid "less"
 msgstr ""
 
 msgid "listed for sale in my inventory"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages_js.po (new)\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-12-04 14:13-0800\n"
+"POT-Creation-Date: 2014-12-19 11:05-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -127,6 +127,12 @@ msgstr "キャンセルする"
 msgid "Cancel Order"
 msgstr "注文をキャンセルする"
 
+msgid "Capitalization may be wrong, is this correct?"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
 msgid "Checking"
 msgstr "チェック中"
 
@@ -189,6 +195,9 @@ msgstr "クレジットを非表示にする"
 
 msgid "Hide actions"
 msgstr "アクションを非表示にする"
+
+msgid "Ignore"
+msgstr ""
 
 msgid "Insert Heading"
 msgstr "見出しを挿入する"
@@ -379,6 +388,12 @@ msgstr "信用情報の表示"
 
 msgid "Show actions"
 msgstr "アクションの表示"
+
+msgid "Show less"
+msgstr ""
+
+msgid "Show more"
+msgstr ""
 
 msgid ""
 "Some mobile devices will not allow playback until you first activate the "

@@ -100,6 +100,12 @@ msgstr ""
 msgid "Cancel Order"
 msgstr ""
 
+msgid "Capitalization may be wrong, is this correct?"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
 msgid "Checking"
 msgstr ""
 
@@ -161,6 +167,9 @@ msgid "Hide Credits"
 msgstr ""
 
 msgid "Hide actions"
+msgstr ""
+
+msgid "Ignore"
 msgstr ""
 
 msgid "Insert Heading"
@@ -341,6 +350,12 @@ msgid "Show Credits"
 msgstr ""
 
 msgid "Show actions"
+msgstr ""
+
+msgid "Show less"
+msgstr ""
+
+msgid "Show more"
 msgstr ""
 
 msgid "Some mobile devices will not allow playback until you first activate the YouTube player by tapping on it. If the video is not loading, refresh the page, then tap on the player."

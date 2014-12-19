@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: stecova@yahoo.fr\n"
-"POT-Creation-Date: 2014-12-12 10:47-0800\n"
+"POT-Creation-Date: 2014-12-19 11:05-0800\n"
 "PO-Revision-Date: 2014-12-01 18:21+0200\n"
 "Last-Translator: STEFAN COVA <stecova@yahoo.fr>\n"
 "Language-Team: fr <FR@fr.org>\n"
@@ -138,6 +138,12 @@ msgstr "Annuler"
 msgid "Cancel Order"
 msgstr "Annuler la demande"
 
+msgid "Capitalization may be wrong, is this correct?"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
 msgid "Checking"
 msgstr "Vérification"
 
@@ -200,6 +206,9 @@ msgstr "Masquer les crédits"
 
 msgid "Hide actions"
 msgstr "Masquer les actions"
+
+msgid "Ignore"
+msgstr ""
 
 msgid "Insert Heading"
 msgstr "Insérer le titre"
@@ -395,6 +404,12 @@ msgstr "Afficher crédits"
 
 msgid "Show actions"
 msgstr "Afficher actions"
+
+msgid "Show less"
+msgstr ""
+
+msgid "Show more"
+msgstr ""
 
 msgid ""
 "Some mobile devices will not allow playback until you first activate the "

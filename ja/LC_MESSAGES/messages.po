@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages.po (new)\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-12-04 14:13-0800\n"
+"POT-Creation-Date: 2014-12-19 11:05-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -1176,6 +1176,9 @@ msgstr "アーティスト"
 msgid "Artist Name Variation"
 msgstr "同一アーティストの別名"
 
+msgid "Artist not in use"
+msgstr ""
+
 msgid "Artists"
 msgstr "アーティスト"
 
@@ -1748,11 +1751,6 @@ msgstr ""
 msgid "Check out our help section"
 msgstr "ヘルプ・セクションをチェックしてください"
 
-msgid ""
-"Check out this year's RSD releases as they're added to the Discogs "
-"database.<br> If you picked any of them up, add them to your Collection!"
-msgstr ""
-
 msgid "Check the Selection"
 msgstr "セレクションをチェック"
 
@@ -1883,6 +1881,9 @@ msgstr ""
 
 msgid "Comments on this item"
 msgstr "このアイテムについてのコメント"
+
+msgid "Comments:"
+msgstr ""
 
 msgid "Community"
 msgstr "コミュニティ"
@@ -3019,6 +3020,9 @@ msgstr ""
 msgid "For Me"
 msgstr ""
 
+msgid "For Sale"
+msgstr ""
+
 msgid "For a list of FAQ's, related to selling on Discogs, please visit:"
 msgstr ""
 
@@ -3130,10 +3134,6 @@ msgstr ""
 msgid "General settings"
 msgstr "一般設定"
 
-#, fuzzy
-msgid "Generic"
-msgstr "汎用"
-
 msgid "Genre"
 msgstr "ジャンル"
 
@@ -3180,6 +3180,12 @@ msgid "Global Actions"
 msgstr ""
 
 msgid "Go"
+msgstr ""
+
+msgid "Go To Next Page"
+msgstr ""
+
+msgid "Go To Previous Page"
 msgstr ""
 
 msgid "Go to Collection"
@@ -3645,6 +3651,9 @@ msgid ""
 "\"Submit Report\" button. Your report will then be automatically sent to "
 "us for review and action, if appropriate."
 msgstr "それでも、この不正行為を報告して先に行くしたい場合は、以下のウィンドウで苦情の内容を入力し、「報告を送信」ボタンをクリックしてください。適切であれば、レビューやアクションをするためにレポートがDiscogsに自動的に送られます。"
+
+msgid "If you want to adjust your notification settings further, please log in."
+msgstr ""
 
 msgid ""
 "If you would like to purchase the item at the current listed price just\n"
@@ -4205,6 +4214,9 @@ msgstr ""
 msgid "Label"
 msgstr "レーベル"
 
+msgid "Label not in use"
+msgstr ""
+
 msgid "Label, A-Z"
 msgstr "レーベル・A-Z"
 
@@ -4638,6 +4650,9 @@ msgstr "メディアの状態"
 msgid "Media condition is missing"
 msgstr "メディアの状態がありません"
 
+msgid "Media:"
+msgstr ""
+
 msgid "Median"
 msgstr "中間点"
 
@@ -5062,9 +5077,6 @@ msgstr ""
 msgid "No %(lang)s results found for"
 msgstr ""
 
-msgid "No Cover"
-msgstr "カバーなし"
-
 msgid "No Drafts"
 msgstr ""
 
@@ -5237,9 +5249,6 @@ msgstr ""
 
 msgid "Not Available At Listed Price"
 msgstr ""
-
-msgid "Not Graded"
-msgstr "採点されません"
 
 msgid "Not active recently"
 msgstr ""
@@ -5451,6 +5460,9 @@ msgstr ""
 
 msgid "Order Date"
 msgstr "注文日"
+
+msgid "Order Date:"
+msgstr ""
 
 msgid "Order ID"
 msgstr "注文ID"
@@ -5852,9 +5864,6 @@ msgstr "続行する前に、売り手の設定を入力してください。"
 msgid "Please complete your Seller Settings before listing items."
 msgstr "アイテムをリスト化する前に、売り手の設定を入力してください。"
 
-msgid "Please contact the seller to arrange for payment"
-msgstr ""
-
 msgid "Please contact the seller via the order page to arrange for payment:"
 msgstr ""
 
@@ -5973,10 +5982,6 @@ msgstr "キーリリースを明示してください。"
 #, python-format
 msgid "Please try %(start_link)slogging in manually%(end_link)s."
 msgstr "%(start_link)s手動でログイン%(end_link)sしてみてください。"
-
-#, fuzzy
-msgid "Please try again."
-msgstr "エラー 再度試してください。"
 
 msgid "Please upload a valid CSV file."
 msgstr "有効なCSVファイルをアップロードしてください。"
@@ -6341,10 +6346,6 @@ msgstr ""
 msgid "Recommended from this seller"
 msgstr "この売り手からのおすすめ"
 
-#, python-format
-msgid "Record Store Day %(year)s"
-msgstr ""
-
 msgid "Refresh"
 msgstr ""
 
@@ -6665,10 +6666,6 @@ msgid "Report the image above"
 msgstr "上記の画像を報告する"
 
 msgid "Request"
-msgstr ""
-
-#, python-format
-msgid "Request #%(id)s"
 msgstr ""
 
 msgid "Request Data Export"
@@ -7293,6 +7290,9 @@ msgstr "から出荷"
 msgid "Ships From:"
 msgstr ""
 
+msgid "Shop"
+msgstr ""
+
 msgid "Shop for"
 msgstr ""
 
@@ -7394,6 +7394,9 @@ msgstr ""
 msgid "Sleeve condition may be any of the above, or:"
 msgstr ""
 
+msgid "Sleeve:"
+msgstr ""
+
 msgid "Sold"
 msgstr ""
 
@@ -7408,6 +7411,11 @@ msgid ""
 "Some audio clips (%s) weren't saved because they are too large. The "
 "maximum file size allowed is %0.2f MB."
 msgstr "ファイルサイズが大きすぎるので、いくつかのオーディオクリップ(%s)は保存できませんでした。ファイルのサイズは %0.2f MB以下にしてください。"
+
+msgid ""
+"Some items could not be marked for sale because they can no longer be "
+"sold on the Marketplace"
+msgstr ""
 
 msgid ""
 "Some items could not be marked for sale because they have already been "
@@ -7659,9 +7667,6 @@ msgid "Support Request"
 msgstr "問い合わせ"
 
 msgid "Support Request #"
-msgstr ""
-
-msgid "Support Requests"
 msgstr ""
 
 #, python-format
@@ -8385,11 +8390,11 @@ msgstr "このアカウントは休止中です。"
 msgid "This account has been closed."
 msgstr "このアカウントは休止中です。"
 
-msgid "This artist does not exist in Discogs."
-msgstr ""
-
 msgid "This artist has been marked as invalid and cannot be edited."
 msgstr "このアーティストは有効でないため編集できません。"
+
+msgid "This artist has no releases on Discogs."
+msgstr ""
 
 msgid ""
 "This artist is used as a placeholder entry and does not link to any "
@@ -8440,13 +8445,13 @@ msgstr "このアイテムは、Discogsのポリシー違反を含んでいま�
 msgid "This item was removed from the database."
 msgstr ""
 
-msgid "This label does not exist in Discogs."
-msgstr ""
-
 msgid "This label has been marked as invalid and cannot be edited."
 msgstr "このレーベルは無効なため編集できません。"
 
 msgid "This label has no approved releases"
+msgstr ""
+
+msgid "This label has no releases on Discogs."
 msgstr ""
 
 msgid ""
@@ -8458,7 +8463,7 @@ msgstr ""
 
 #, python-format
 msgid ""
-"This message is a confirmation of your purchase from %(other_user)s via "
+"This message is a confirmation of your purchase from %(username)s via "
 "Discogs."
 msgstr ""
 
@@ -9928,6 +9933,12 @@ msgid ""
 "from the Marketplace and must be correctly relisted."
 msgstr "お客様は売り手なので見続けることができます。しかし、マーケットプレイスに隠されていて、正確にリスト化されないといけません。"
 
+#, python-format
+msgid ""
+"You can view details on this order and correspond with the other party <a"
+" href=\"%(order_url)s\">here</a>."
+msgstr ""
+
 msgid ""
 "You can view details on this order and correspond with the other party "
 "here"
@@ -9941,7 +9952,15 @@ msgstr ""
 msgid "You can view your invoices and make payments here:"
 msgstr ""
 
+#, python-format
+msgid "You can view your orders <a href=\"%(url)s\">here</a>."
+msgstr ""
+
 msgid "You can view your orders online at"
+msgstr ""
+
+#, python-format
+msgid "You can view your purchases online <a href=\"%(url)s\">here</a>."
 msgstr ""
 
 msgid "You can view your purchases online at"
@@ -10323,6 +10342,13 @@ msgstr ""
 msgid "You recently requested to close your Discogs account."
 msgstr ""
 
+#, python-format
+msgid ""
+"You selected PayPal as your payment method. If you have not done so\n"
+"already, you can pay for this order using the Pay Now button on the\n"
+"order page <a href=\"%(order_url)s\">here</a>"
+msgstr ""
+
 msgid ""
 "You selected PayPal as your payment method. If you have not done so\n"
 "already, you can pay for this order using the Pay Now button on the\n"
@@ -10585,6 +10611,12 @@ msgstr ""
 msgid ""
 "Your name, e-mail address, mailing address, and order number will remain "
 "private."
+msgstr ""
+
+msgid "Your notification settings have been updated"
+msgstr ""
+
+msgid "Your notification settings have been updated."
 msgstr ""
 
 msgid "Your offer"
@@ -10951,9 +10983,6 @@ msgid "jobs"
 msgstr "ジョブ"
 
 msgid "labels"
-msgstr ""
-
-msgid "less"
 msgstr ""
 
 #, fuzzy
