@@ -6765,7 +6765,7 @@ msgid "Save"
 msgstr "Сохранить"
 
 msgid "Save Changes"
-msgstr "Сохранение изменений"
+msgstr "Сохранить изменения"
 
 msgid "Save Draft"
 msgstr ""
