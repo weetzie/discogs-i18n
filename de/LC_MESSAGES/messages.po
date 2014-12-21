@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Discogs 0.1\n"
 "Report-Msgid-Bugs-To: language@discogs.com\n"
 "POT-Creation-Date: 2014-12-19 11:05-0800\n"
-"PO-Revision-Date: 2014-12-21 01:49+0100\n"
-"Last-Translator: MARCO WEISER <discogs@mweiser.de>\n"
+"PO-Revision-Date: 2014-12-21 03:39+0100\n"
+"Last-Translator: Jarod2801 <mondon.patrick@googlemail.com>\n"
 "Language-Team: de <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
@@ -273,29 +273,29 @@ msgstr[1] ""
 
 #, python-format
 msgid "%d month"
-msgstr ""
+msgstr "%d Monat"
 
 #, python-format
 msgid "%d months"
-msgstr ""
+msgstr "%d Monate"
 
 #, python-format
 msgid "%d to %d"
-msgstr ""
+msgstr "%d bis %d"
 
 #, python-format
 msgid "%d week"
-msgstr ""
+msgstr "%d Woche"
 
 #, python-format
 msgid "%d year"
-msgstr ""
+msgstr "%d Jahr"
 
 #, python-format
 msgid "%s Month Ago"
 msgid_plural "%s Months Ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "vor %s Monat"
+msgstr[1] "vor %s Monaten"
 
 #, python-format
 msgid "%s converted this message to a support request."
@@ -303,7 +303,7 @@ msgstr ""
 
 #, python-format
 msgid "%s has been deleted."
-msgstr ""
+msgstr "%s wurde gelöscht."
 
 #, python-format
 msgid "%s have, %s want"
@@ -311,11 +311,11 @@ msgstr ""
 
 #, python-format
 msgid "%s is not a member of this group."
-msgstr ""
+msgstr "%s ist kein Mitglied dieser Gruppe."
 
 #, python-format
 msgid "%s was added to your friends list."
-msgstr ""
+msgstr "%s wurde zu Ihrer Freundesliste hinzugefügt."
 
 #, python-format
 msgid "%s's Contributions"
@@ -361,10 +361,10 @@ msgid "1. Log on to"
 msgstr ""
 
 msgid "10. Credits"
-msgstr ""
+msgstr "10. Impressum"
 
 msgid "11. Release Notes"
-msgstr ""
+msgstr "11. Versionshinweise"
 
 msgid "12 Months"
 msgstr "12 Monate"
@@ -391,7 +391,7 @@ msgid "3. Title"
 msgstr "Titel"
 
 msgid "4. Label/Catalog"
-msgstr ""
+msgstr "Label/Katalog"
 
 msgid "5. Barcodes &amp; Identifiers"
 msgstr ""
@@ -406,13 +406,13 @@ msgid "7. Country"
 msgstr "7. Land"
 
 msgid "8. Release Date"
-msgstr ""
+msgstr "8. Erscheinungsdatum"
 
 msgid "9. Genres/Styles"
-msgstr ""
+msgstr "9. Kategorien/Stil"
 
 msgid "<%= type %> not found."
-msgstr ""
+msgstr "<%= type %> konnte nicht gefunden werden."
 
 #, python-format
 msgid ""
@@ -422,11 +422,11 @@ msgstr ""
 
 #, python-format
 msgid "<a href=\"%(link)s\">Contribute</a> to the database."
-msgstr ""
+msgstr "An der Datenbank <a href=\"%(link)s\">mitwirken</a>."
 
 #, python-format
 msgid "<a href=\"%(link)s\">Discover</a> new music."
-msgstr ""
+msgstr "Neue Musik <a href=\"%(link)s\">entdecken</a>."
 
 #, python-format
 msgid "<a href=\"%(link)s\">Send us a support request</a> and we will help you."
@@ -583,31 +583,31 @@ msgid "Abbr"
 msgstr ""
 
 msgid "About"
-msgstr ""
+msgstr "Über uns"
 
 msgid "About 360 Vinyl"
-msgstr ""
+msgstr "Über 360 Vinyl"
 
 msgid "About Anthem Records"
-msgstr ""
+msgstr "Über Anthem Records"
 
 msgid "About Discogs"
-msgstr ""
+msgstr "Über Discogs"
 
 msgid "About Dobshizzle"
-msgstr ""
+msgstr "Über Dobshizzle"
 
 msgid "About Energyflash"
-msgstr ""
+msgstr "Über Energyflash"
 
 msgid "About Flashback"
-msgstr ""
+msgstr "Über Flashback"
 
 msgid "About Skylar"
-msgstr ""
+msgstr "Über Skylar"
 
 msgid "About Vinyl Pimp"
-msgstr ""
+msgstr "ÜberVinyl Pimp"
 
 msgid "About the Contributor Improvement Program (CIP)"
 msgstr ""
@@ -722,10 +722,10 @@ msgid "Add Folder"
 msgstr "Verzeichnis hinzufügen"
 
 msgid "Add Friend"
-msgstr ""
+msgstr "Freund hinzufügen"
 
 msgid "Add List To Dashboard"
-msgstr ""
+msgstr "Liste zum Dashboard hinzufügen"
 
 msgid "Add Message"
 msgstr "Nachricht hinzufügen"
@@ -743,7 +743,7 @@ msgid "Add Review"
 msgstr ""
 
 msgid "Add Row"
-msgstr ""
+msgstr "Reihe hinzufügen"
 
 msgid "Add Thread"
 msgstr ""
@@ -853,14 +853,14 @@ msgid "Added messages to %d orders."
 msgstr ""
 
 msgid "Added new folder"
-msgstr ""
+msgstr "Neuer Ordner hinzugefügt"
 
 msgid "Added to new version"
 msgstr ""
 
 #, python-format
 msgid "Added user to your %s list."
-msgstr ""
+msgstr "Benutzer zu Ihrer %s Liste hinzugefügt."
 
 msgid "Adding Information to Discogs"
 msgstr ""
@@ -893,13 +893,13 @@ msgid "Admin"
 msgstr ""
 
 msgid "Administration"
-msgstr ""
+msgstr "Administration"
 
 msgid "Advanced Search"
-msgstr ""
+msgstr "Erweiterte Suche"
 
 msgid "Advanced search"
-msgstr ""
+msgstr "Erweiterte Suche"
 
 #, python-format
 msgid ""
@@ -916,7 +916,7 @@ msgid "Aliases %(optional)s"
 msgstr ""
 
 msgid "All"
-msgstr ""
+msgstr "Alles"
 
 msgid "All Filters"
 msgstr "Alle Filter"
@@ -928,7 +928,7 @@ msgid "All Items"
 msgstr ""
 
 msgid "All Tags"
-msgstr ""
+msgstr "Alle Tags"
 
 msgid "All Topics"
 msgstr ""
@@ -984,7 +984,7 @@ msgid "Almost there"
 msgstr ""
 
 msgid "Already have an account?"
-msgstr ""
+msgstr "Haben Sie schon einen Account?"
 
 #, python-format
 msgid ""
@@ -1017,18 +1017,20 @@ msgid ""
 msgstr ""
 
 msgid "Always share"
-msgstr ""
+msgstr "Immer teilen"
 
 msgid "Amount"
-msgstr ""
+msgstr "Betrag"
 
 msgid "An error occurred. Please try again."
-msgstr ""
+msgstr "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
 
 msgid ""
 "An unknown error occurred while attempting to fetch your PayPal information. Please "
 "try again later."
 msgstr ""
+"Beim Versuch Ihre PayPal Informationen abzurufen ist ein Fehler aufgetreten. Bitte "
+"versuchen Sie es später nach einmal."
 
 msgid "Anonymous"
 msgstr ""
@@ -1057,16 +1059,16 @@ msgid "Applied to Invoice?"
 msgstr ""
 
 msgid "Approve Changes"
-msgstr ""
+msgstr "Änderungen bestätigen"
 
 msgid "Archive"
-msgstr ""
+msgstr "Archivieren"
 
 msgid "Archive Order"
 msgstr "Bestellung archivieren"
 
 msgid "Archive Purchase"
-msgstr ""
+msgstr "Kauf archivieren"
 
 msgid "Archive this order"
 msgstr "Diese Bestellung archivieren"
@@ -1113,31 +1115,31 @@ msgid "Are you sure you want to decline this offer of %(offer_price)s?"
 msgstr ""
 
 msgid "Are you sure you want to delete this app?"
-msgstr "Willst du diese App wirklich löschen?"
+msgstr "Wollen Sie diese App wirklich löschen?"
 
 msgid "Are you sure you want to delete this folder?"
-msgstr "Willst du diesen Ordner wirklich löschen?"
+msgstr "Wollen Sie diesen Ordner wirklich löschen?"
 
 msgid "Are you sure you want to delete this message?"
-msgstr "Willst du diese Nachricht wirklich löschen?"
+msgstr "Wollen Sie diese Nachricht wirklich löschen?"
 
 msgid "Are you sure you want to empty your cart?"
-msgstr ""
+msgstr "Wollen Sie Ihren Warenkorb wirklich leeren?"
 
 msgid "Are you sure you want to ignore this user?"
-msgstr "Willst du diesen Benutzer wirklich ignorieren?"
+msgstr "Wollen Sie diesen Benutzer wirklich ignorieren?"
 
 msgid "Are you sure you want to join this group?"
-msgstr "Willst du dieser Gruppe wirklich beitreten?"
+msgstr "Wollen Sie dieser Gruppe wirklich beitreten?"
 
 msgid "Are you sure you want to leave this group?"
-msgstr "Willst du diese Gruppe wirklich verlassen?"
+msgstr "Wollen Sie diese Gruppe wirklich verlassen?"
 
 msgid "Are you sure you want to mark these items for sale?"
-msgstr ""
+msgstr "Wollen Sie diese Artikel wirklich zum verkauf anbieten?"
 
 msgid "Are you sure you want to quit this group?"
-msgstr "Willst du diese Gruppe wirklich schließen?"
+msgstr "Wollen Sie diese Gruppe wirklich schließen?"
 
 msgid "Are you sure you want to remove this seller's items from your cart?"
 msgstr ""
@@ -1265,7 +1267,7 @@ msgstr "Überweisung"
 
 #, python-format
 msgid "Banned %s and deleted %d groups:"
-msgstr ""
+msgstr "Gebannte %s und gelöschte %d Gruppen:"
 
 #, python-format
 msgid "Banned %s and deleted %d topics:"
@@ -1276,7 +1278,7 @@ msgstr "gebannte Benutzer"
 
 #, python-format
 msgid "Banned user %s from this group."
-msgstr ""
+msgstr "Gebannte Benutzer dieser Gruppe."
 
 msgid "Bans"
 msgstr ""
@@ -1342,45 +1344,45 @@ msgid "Billing, sales fees and fee credit information for sellers."
 msgstr ""
 
 msgid "Block"
-msgstr ""
+msgstr "Blockieren"
 
 msgid "Block Sender"
-msgstr ""
+msgstr "Absender blockieren"
 
 msgid "Block another user"
-msgstr ""
+msgstr "Einen anderen Benutzer blockieren"
 
 #, python-format
 msgid "Blocked %s"
 msgstr ""
 
 msgid "Blocked Buyers"
-msgstr ""
+msgstr "Geblockte Käufer"
 
 msgid "Blocked Users"
-msgstr ""
+msgstr "Geblockte Benutzer"
 
 msgid "Blocked users"
-msgstr ""
+msgstr "Geblockte Benutzer"
 
 msgid "Blocked users are not allowed to contact you."
-msgstr ""
+msgstr "Geblockte Benutzer dürfen Sie nicht kontaktieren."
 
 msgid "Blog"
 msgstr "Blog"
 
 msgid "Bought by"
-msgstr ""
+msgstr "Gekauft von"
 
 msgid "Browse"
-msgstr ""
+msgstr "Durchstöbern"
 
 #, python-format
 msgid "Browse %(mode)s Groups"
 msgstr ""
 
 msgid "Browse Groups"
-msgstr ""
+msgstr "Gruppen durchstöbern"
 
 msgid "Browse Groups By Tag"
 msgstr ""
@@ -1415,7 +1417,7 @@ msgid "Buy %s, includes %s"
 msgstr ""
 
 msgid "Buy Music"
-msgstr ""
+msgstr "Musik kaufen"
 
 msgid "Buy Similar Items"
 msgstr "ähnliche Artikel kaufen"
@@ -8424,7 +8426,7 @@ msgid "Tracklist"
 msgstr "Tracks"
 
 msgid "Trash"
-msgstr ""
+msgstr "Papierkorb"
 
 #, python-format
 msgid "Try again in <a href=\"%(link)s\">English</a>."
@@ -8458,7 +8460,7 @@ msgid "Type your country..."
 msgstr ""
 
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 msgid "URLs"
 msgstr ""
@@ -8560,13 +8562,13 @@ msgid "Update %(username)s on the status of their order"
 msgstr ""
 
 msgid "Update Images"
-msgstr ""
+msgstr "Bilder aktualisieren"
 
 msgid "Update Label Profile"
 msgstr ""
 
 msgid "Update Order"
-msgstr ""
+msgstr "Bestellung  aktualisieren"
 
 msgid "Update Videos for"
 msgstr ""
@@ -8575,7 +8577,7 @@ msgid "Update email address"
 msgstr ""
 
 msgid "Update image"
-msgstr ""
+msgstr "Bild aktualisieren"
 
 msgid "Update these images"
 msgstr ""
@@ -8614,19 +8616,19 @@ msgid "Upgrade your browser."
 msgstr ""
 
 msgid "Upload CSV"
-msgstr ""
+msgstr "CSV hochladen"
 
 msgid "Upload Image"
-msgstr ""
+msgstr "Bild hochladen"
 
 msgid "Upload New Image"
-msgstr ""
+msgstr "Neues Bild hochladen"
 
 msgid "Upload Photo"
-msgstr ""
+msgstr "Foto hochladen"
 
 msgid "Upload Status"
-msgstr ""
+msgstr "Status hochladen"
 
 msgid "Upload a wide, high quality JPG"
 msgstr ""
@@ -8635,7 +8637,7 @@ msgid "Upload and process file"
 msgstr ""
 
 msgid "Upload new image"
-msgstr ""
+msgstr "Neues Bild hochladen"
 
 msgid "Upload row is missing or invalid"
 msgstr ""
@@ -8645,16 +8647,16 @@ msgid "Upload type must be %s."
 msgstr ""
 
 msgid "Uploaded"
-msgstr ""
+msgstr "Hochgeladen"
 
 msgid "Uploaded "
-msgstr ""
+msgstr "Hochgeladen"
 
 msgid "Use English only."
 msgstr ""
 
 msgid "Use Gravatar"
-msgstr ""
+msgstr "Gravatar benutzen"
 
 msgid ""
 "Use drag and drop to re-order the items in your list, or click \"move to,\" type a new "
@@ -8701,13 +8703,13 @@ msgid "User is not a member."
 msgstr ""
 
 msgid "Username"
-msgstr ""
+msgstr "benutzername"
 
 msgid "Username or Email"
-msgstr ""
+msgstr "Benutzername oder E-Mail-Adresse"
 
 msgid "Username or email does not exist."
-msgstr ""
+msgstr "Benutzername oder E-Mail-Adresse existiert nicht."
 
 msgid "Users in Contributor Improvement Program (CIP)"
 msgstr ""
@@ -8775,7 +8777,7 @@ msgid "View History"
 msgstr ""
 
 msgid "View List"
-msgstr ""
+msgstr "Liste anzeigen"
 
 msgid "View Message"
 msgstr ""
@@ -8843,7 +8845,7 @@ msgid "View items for sale"
 msgstr ""
 
 msgid "View list"
-msgstr ""
+msgstr "Liste anzeigen"
 
 msgid "View more activity"
 msgstr ""
@@ -8877,19 +8879,19 @@ msgid "View more sales history"
 msgstr ""
 
 msgid "View my Ratings"
-msgstr ""
+msgstr "Meine Bewertungen"
 
 msgid "View my lists"
-msgstr ""
+msgstr "Meine Listen"
 
 msgid "View my orders"
-msgstr ""
+msgstr "Meine Bestellungen"
 
 msgid "View my profile"
-msgstr ""
+msgstr "Mein Profil"
 
 msgid "View my purchases"
-msgstr ""
+msgstr "Meine Einkäufe"
 
 msgid "View order page"
 msgstr ""
@@ -8910,13 +8912,13 @@ msgid "View releases for sale"
 msgstr ""
 
 msgid "View results"
-msgstr ""
+msgstr "Ergebnisse anzeigen"
 
 msgid "View submissions browser"
 msgstr ""
 
 msgid "View this list"
-msgstr ""
+msgstr "Diese Liste anzeigen"
 
 msgid "View this message here:"
 msgstr ""
@@ -8946,7 +8948,7 @@ msgid "Vinyl"
 msgstr "Vinyl"
 
 msgid "Vinyl and CD"
-msgstr ""
+msgstr "Vinyl und CD"
 
 msgid "Violation"
 msgstr ""
@@ -9223,10 +9225,10 @@ msgid "Web Links %(optional)s"
 msgstr ""
 
 msgid "Weight"
-msgstr ""
+msgstr "Gewicht"
 
 msgid "Weight cannot be negative"
-msgstr ""
+msgstr "Gewicht darf nicht negativ sein"
 
 #, python-format
 msgid "Welcome back, %(token_username)s. We're almost done here."
@@ -9411,13 +9413,13 @@ msgid "Year Range"
 msgstr ""
 
 msgid "Year, 0-9"
-msgstr ""
+msgstr "Jahr, 0-9"
 
 msgid "Year, 9-0"
-msgstr ""
+msgstr "Jahr, 9-0"
 
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 msgid "You <strong>cannot change</strong> your reply. This is a one-time operation."
 msgstr ""
@@ -9993,7 +9995,7 @@ msgid "Your Applications"
 msgstr ""
 
 msgid "Your BIC/SWIFT"
-msgstr ""
+msgstr "Ihre BIC/SWIFT"
 
 msgid "Your Cart has changed"
 msgstr ""
@@ -10017,17 +10019,17 @@ msgid "Your Discogs Marketplace account has been put on hold"
 msgstr ""
 
 msgid "Your Discogs Marketplace account was reactivated"
-msgstr ""
+msgstr "Ihr Discogs Marketplace Account wurde reaktiviert"
 
 #, python-format
 msgid "Your Discogs Marketplace inventory will expire in %(days)s days"
 msgstr ""
 
 msgid "Your Home Page is not a valid URL."
-msgstr ""
+msgstr "Ihre Webseite ist keine gültige URL."
 
 msgid "Your IBAN"
-msgstr ""
+msgstr "Ihre IBAN"
 
 msgid ""
 "Your IP address has changed since you last logged in. Please enter your password to "
@@ -10035,7 +10037,7 @@ msgid ""
 msgstr ""
 
 msgid "Your PayPal account is Not Verified."
-msgstr ""
+msgstr "Ihr PayPal Konto wurde nicht verifiziert."
 
 msgid "Your PayPal email address"
 msgstr ""
@@ -10044,7 +10046,7 @@ msgid "Your Recent Support Requests"
 msgstr ""
 
 msgid "Your Shipping Address"
-msgstr ""
+msgstr "Ihre Versandadresse"
 
 msgid "Your Skrill address"
 msgstr ""
@@ -10076,13 +10078,13 @@ msgid ""
 msgstr ""
 
 msgid "Your account will NOT be recoverable."
-msgstr ""
+msgstr "Ihr Account kann NICHT wiederhergestellt werden."
 
 msgid "Your address:"
-msgstr ""
+msgstr "Ihre Adresse:"
 
 msgid "Your application has been created."
-msgstr ""
+msgstr "Ihre Anwendung wurde erstellt."
 
 msgid "Your bulk inventory action will run shortly."
 msgstr ""
@@ -10273,13 +10275,13 @@ msgid "Z-A"
 msgstr ""
 
 msgid "Zip/Postal Code"
-msgstr ""
+msgstr "Postleitzahl"
 
 msgid "Zoom In"
-msgstr ""
+msgstr "hineinzoomen"
 
 msgid "Zoom Out"
-msgstr ""
+msgstr "herauszoomen"
 
 #, python-format
 msgid "_%0.2f to _%0.2f"
@@ -10333,16 +10335,16 @@ msgid "alternates"
 msgstr ""
 
 msgid "and"
-msgstr ""
+msgstr "und"
 
 msgid "and up"
 msgstr ""
 
 msgid "artists"
-msgstr ""
+msgstr "Künstler"
 
 msgid "at least"
-msgstr ""
+msgstr "mindestens"
 
 msgid ""
 "b) You will keep an open dialog with the seller regarding any problems that arise. You "
@@ -10362,7 +10364,7 @@ msgid "buy %(format)s at Discogs"
 msgstr ""
 
 msgid "by"
-msgstr ""
+msgstr "von"
 
 msgid ""
 "c) By pressing the \"Place Order\" button, you are agreeing to this transaction as a "
@@ -10374,7 +10376,7 @@ msgid "change currency"
 msgstr ""
 
 msgid "changed"
-msgstr ""
+msgstr "geändert"
 
 msgid "changed the order status to"
 msgstr ""
@@ -10386,10 +10388,10 @@ msgid "clear search"
 msgstr ""
 
 msgid "click here"
-msgstr ""
+msgstr "Hier klicken"
 
 msgid "collection"
-msgstr ""
+msgstr "Sammlung"
 
 msgid "contact the seller"
 msgstr ""
@@ -10413,7 +10415,7 @@ msgid ""
 msgstr ""
 
 msgid "details"
-msgstr ""
+msgstr "Details"
 
 msgid "does not include shipping"
 msgstr ""
@@ -10446,10 +10448,10 @@ msgid "edit"
 msgstr "bearbeiten"
 
 msgid "edited"
-msgstr ""
+msgstr "geändert"
 
 msgid "error code"
-msgstr ""
+msgstr "Fehlercode"
 
 msgid "exactly. Review our guidelines for"
 msgstr ""
@@ -10471,7 +10473,7 @@ msgid "for sale"
 msgstr "zu verkaufen"
 
 msgid "from"
-msgstr ""
+msgstr "von"
 
 #, python-format
 msgid "from %(n)d seller."
@@ -10501,7 +10503,7 @@ msgid "granted"
 msgstr ""
 
 msgid "has"
-msgstr ""
+msgstr "hat"
 
 msgid "has no history entries yet."
 msgstr ""
@@ -10510,7 +10512,7 @@ msgid "have"
 msgstr ""
 
 msgid "here"
-msgstr ""
+msgstr "hier"
 
 msgid "if you can't find what you're looking for."
 msgstr ""
@@ -10519,10 +10521,10 @@ msgid "in"
 msgstr "in"
 
 msgid "in Cart"
-msgstr ""
+msgstr "Im Einkaufswagen"
 
 msgid "instead"
-msgstr ""
+msgstr "anstatt"
 
 msgid "invited by"
 msgstr ""
@@ -10533,7 +10535,7 @@ msgstr[0] "Artikel"
 msgstr[1] "Artikel"
 
 msgid "items"
-msgstr ""
+msgstr "Artikel"
 
 msgid "items in the Discogs marketplace."
 msgstr ""
@@ -10542,7 +10544,7 @@ msgid "jobs"
 msgstr ""
 
 msgid "labels"
-msgstr ""
+msgstr "Label"
 
 msgid "listed for sale in my inventory"
 msgstr ""
@@ -10578,7 +10580,7 @@ msgid "minor"
 msgstr ""
 
 msgid "month and year"
-msgstr ""
+msgstr "Monat und Jahr"
 
 msgid "more"
 msgstr "mehr"
@@ -10599,7 +10601,7 @@ msgid "move to top of history"
 msgstr ""
 
 msgid "negative"
-msgstr ""
+msgstr "negativ"
 
 msgid "neutral"
 msgstr ""
@@ -10620,13 +10622,13 @@ msgid "on Discogs"
 msgstr ""
 
 msgid "optional"
-msgstr ""
+msgstr "optional"
 
 msgid "optional, private"
-msgstr ""
+msgstr "optional, privat"
 
 msgid "or"
-msgstr ""
+msgstr "oder"
 
 msgid "order terms"
 msgstr ""
@@ -10635,16 +10637,16 @@ msgid "overall rating"
 msgstr ""
 
 msgid "page"
-msgstr ""
+msgstr "Seite"
 
 msgid "page."
-msgstr ""
+msgstr "Seite."
 
 msgid "placed on"
 msgstr ""
 
 msgid "positive"
-msgstr ""
+msgstr "positiv"
 
 msgid "posted a comment"
 msgstr ""
@@ -10662,7 +10664,7 @@ msgid "ratings"
 msgstr ""
 
 msgid "received"
-msgstr ""
+msgstr "empfangen"
 
 msgid "referencing"
 msgstr ""
@@ -10677,7 +10679,7 @@ msgid "remove"
 msgstr "entfernen"
 
 msgid "removed"
-msgstr ""
+msgstr "entfernt"
 
 msgid "replies"
 msgstr ""
@@ -10686,7 +10688,7 @@ msgid "reported"
 msgstr ""
 
 msgid "rows"
-msgstr ""
+msgstr "Reihen"
 
 msgid "save submission / don't save submission"
 msgstr ""
@@ -10716,7 +10718,7 @@ msgid "set the shipping price to"
 msgstr ""
 
 msgid "shipping"
-msgstr ""
+msgstr "Versand"
 
 msgid "so sellers can contact you"
 msgstr ""
@@ -10757,25 +10759,25 @@ msgid "under"
 msgstr ""
 
 msgid "unknown"
-msgstr ""
+msgstr "unbekannt"
 
 msgid "unselect vote"
 msgstr ""
 
 msgid "updated"
-msgstr ""
+msgstr "aktualisiert"
 
 #, python-format
 msgid "updated %(time)s ago"
-msgstr ""
+msgstr "zuletzt aktualisiert vor %(time)s"
 
 msgid "uploaded"
 msgstr ""
 
 msgid "user"
 msgid_plural "users"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Benutzer"
+msgstr[1] "Benutzer"
 
 msgid "values"
 msgstr ""
@@ -10793,7 +10795,7 @@ msgid "want"
 msgstr ""
 
 msgid "wantlist"
-msgstr ""
+msgstr "Wunschliste"
 
 msgid "wants"
 msgstr ""
