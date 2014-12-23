@@ -23,3 +23,4 @@ Translations for the Discogs website
 * Moderado
 * Mop66
 * armak
+* msaizar
