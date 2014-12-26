@@ -4077,7 +4077,7 @@ msgid "Items %(name)s wants"
 msgstr ""
 
 msgid "Items For Sale"
-msgstr ""
+msgstr "Itens A Venda"
 
 msgid "Items I Want"
 msgstr "Itens Que Eu Quero"
@@ -4830,10 +4830,10 @@ msgid "My"
 msgstr ""
 
 msgid "My Activity (Private)"
-msgstr ""
+msgstr "Minha Atividade (Privado)"
 
 msgid "My Activity (Shared)"
-msgstr ""
+msgstr "Minha Atividade (Compartilhado)"
 
 msgid "My Buyer Rating:"
 msgstr ""
@@ -5392,7 +5392,7 @@ msgid "Open Site Menu"
 msgstr ""
 
 msgid "Open a new support request"
-msgstr ""
+msgstr "Abra uma nova solicitação de suporte"
 
 msgid "Open another file"
 msgstr ""
@@ -7598,7 +7598,7 @@ msgid "Summary"
 msgstr ""
 
 msgid "Support Request"
-msgstr "Pedido de Apoio"
+msgstr "Solicitação de Suporte"
 
 msgid "Support Request #"
 msgstr ""
@@ -9086,7 +9086,7 @@ msgid "View formatting options"
 msgstr ""
 
 msgid "View group activity"
-msgstr ""
+msgstr "Visualizar as atividades do grupo"
 
 msgid "View in admin"
 msgstr ""
@@ -9095,7 +9095,7 @@ msgid "View items for sale"
 msgstr ""
 
 msgid "View list"
-msgstr ""
+msgstr "Visualizar a lista"
 
 msgid "View more activity"
 msgstr ""
@@ -9410,7 +9410,7 @@ msgid "We're glad you found this helpful. Thank you for your input!"
 msgstr ""
 
 msgid "We're here to help!"
-msgstr ""
+msgstr "Estamos aqui para ajudar!"
 
 msgid ""
 "We're on a mission to build the biggest and most comprehensive music "
@@ -10722,7 +10722,7 @@ msgid "change currency"
 msgstr ""
 
 msgid "changed"
-msgstr ""
+msgstr "alterado"
 
 msgid "changed the order status to"
 msgstr ""
