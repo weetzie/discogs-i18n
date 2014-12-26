@@ -212,7 +212,7 @@ msgstr[1] "%(n)s beoordelingen"
 
 #, python-format
 msgid "%(name)s will be added to the Database."
-msgstr "%(name)s zullen worden toegevoegd aan de Database"
+msgstr "%(name)s zullen worden toegevoegd aan de Database."
 
 #, python-format
 msgid "%(num_found)s found when searching for \"%(query)s\""
@@ -228,11 +228,11 @@ msgstr "%(part)s van %(total)s"
 
 #, python-format
 msgid "%(person)s's feedback as a buyer."
-msgstr "%(person)s's beoordeling als koper"
+msgstr "%(person)s's beoordeling als koper."
 
 #, python-format
 msgid "%(person)s's feedback as a seller."
-msgstr "%(person)s's beoordeling als verkoper"
+msgstr "%(person)s's beoordeling als verkoper."
 
 #, python-format
 msgid ""
