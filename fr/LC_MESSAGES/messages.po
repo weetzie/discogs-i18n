@@ -1,17 +1,20 @@
-# French translations for PROJECT.
-# Copyright (C) 2014 ORGANIZATION
-# This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
-#
-#, fuzzy
+# French translations for Discogs.
+# Copyright (C) 2012 Discogs
+# This file is distributed under the same license as the Discogs project.
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+# <florn88@hotmail.fr>, 2012.
+# <jeangregm27@gmail.com>, 2012.
+# <laure.guicherd@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-12-19 11:05-0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: fr <LL@li.org>\n"
+"Project-Id-Version:  Discogs\n"
+"Report-Msgid-Bugs-To: language@discogs.com\n"
+"POT-Creation-Date: 2014-12-26 09:29-0800\n"
+"PO-Revision-Date: 2012-06-12 16:03+0000\n"
+"Last-Translator: justpearly <laure.guicherd@gmail.com>\n"
+"Language-Team: French "
+"(http://www.transifex.com/projects/p/discogs/language/fr/)\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -756,7 +759,7 @@ msgid "Add New Thread"
 msgstr ""
 
 msgid "Add Release"
-msgstr "Ajouter un disque"
+msgstr "Ajouter un enregistrement"
 
 msgid "Add Review"
 msgstr ""
@@ -831,7 +834,7 @@ msgid "Add some images to the key release."
 msgstr ""
 
 msgid "Add to Cart"
-msgstr ""
+msgstr "Ajouter au panier"
 
 msgid "Add to Collection"
 msgstr ""
@@ -840,7 +843,7 @@ msgid "Add to Inventory"
 msgstr ""
 
 msgid "Add to List"
-msgstr ""
+msgstr "Ajouter à la liste"
 
 msgid "Add to Wantlist"
 msgstr ""
@@ -1030,7 +1033,7 @@ msgid "Also export for sale items to a downloadable CSV file"
 msgstr ""
 
 msgid "Alternates"
-msgstr ""
+msgstr "Alternatives"
 
 #, python-format
 msgid "Alternatively, you can %(start_tag)sbulk upload%(end_tag)s your items"
@@ -1444,7 +1447,7 @@ msgid "Bulk inventory actions completed"
 msgstr ""
 
 msgid "Buy"
-msgstr ""
+msgstr "Acheter"
 
 #, python-format
 msgid "Buy %s%sat Discogs Marketplace"
@@ -1891,7 +1894,7 @@ msgid "Community"
 msgstr ""
 
 msgid "Companies etc"
-msgstr ""
+msgstr "Sociétés, etc."
 
 msgid "Company Core Values"
 msgstr ""
@@ -2248,7 +2251,7 @@ msgid "Date in CIP"
 msgstr ""
 
 msgid "Decade"
-msgstr ""
+msgstr "Décennie"
 
 msgid ""
 "Decide who can contact you, and what information you would like to share "
@@ -2738,7 +2741,7 @@ msgid "Embrace Open Source"
 msgstr ""
 
 msgid "Empty Cart"
-msgstr ""
+msgstr "Vider le panier"
 
 msgid "Enable"
 msgstr ""
@@ -4086,7 +4089,7 @@ msgid "Items I'm selling"
 msgstr ""
 
 msgid "Items Ship From"
-msgstr ""
+msgstr "Articles expédiés de"
 
 #, python-format
 msgid ""
@@ -4099,7 +4102,7 @@ msgid "Items for sale"
 msgstr ""
 
 msgid "Jobs"
-msgstr "Emploi"
+msgstr "Emplois"
 
 msgid "Join"
 msgstr ""
@@ -4204,7 +4207,7 @@ msgid "Label, Z-A"
 msgstr ""
 
 msgid "Labels"
-msgstr ""
+msgstr "Labels"
 
 msgid "Large Covers"
 msgstr ""
@@ -4501,7 +4504,7 @@ msgid "Manage Folders"
 msgstr ""
 
 msgid "Manage Inventory"
-msgstr ""
+msgstr "Gérer l&#39;inventaire"
 
 msgid "Manage policies, set rates, and handle returns."
 msgstr ""
@@ -4920,7 +4923,7 @@ msgid "Need some Help?"
 msgstr ""
 
 msgid "Needs Changes"
-msgstr ""
+msgstr "Besoin de changements"
 
 msgid "Needs Major Changes"
 msgstr ""
@@ -4929,7 +4932,7 @@ msgid "Needs Minor Changes"
 msgstr ""
 
 msgid "Needs Vote"
-msgstr ""
+msgstr "Besoin de votes"
 
 msgid "Needs changes"
 msgstr ""
@@ -4981,7 +4984,7 @@ msgid "New Releases"
 msgstr "Nouveautés"
 
 msgid "New Seller"
-msgstr ""
+msgstr "Nouveau vendeur"
 
 msgid "New Styles"
 msgstr "Nouveaux styles"
@@ -5274,7 +5277,7 @@ msgid "Numeric barcode of the release."
 msgstr ""
 
 msgid "OR"
-msgstr ""
+msgstr "OU"
 
 msgid "Offer"
 msgstr ""
@@ -5648,7 +5651,7 @@ msgid "Payment Information"
 msgstr ""
 
 msgid "Payment Methods"
-msgstr ""
+msgstr "Modes de paiement"
 
 msgid "Payment Options"
 msgstr ""
@@ -6256,7 +6259,7 @@ msgid "Recent Changes made"
 msgstr ""
 
 msgid "Recent Group Activity"
-msgstr ""
+msgstr "Récente activité de groupe"
 
 msgid "Recent Lists"
 msgstr ""
@@ -6375,10 +6378,10 @@ msgid "Release not found."
 msgstr ""
 
 msgid "Released"
-msgstr "Sorti"
+msgstr "Sortie"
 
 msgid "Releases"
-msgstr ""
+msgstr "Sorties"
 
 msgid "Releases Rated"
 msgstr ""
@@ -6688,7 +6691,7 @@ msgid ""
 msgstr ""
 
 msgid "Reviews"
-msgstr ""
+msgstr "Avis"
 
 msgid "Reviews & Discussion"
 msgstr ""
@@ -6870,7 +6873,7 @@ msgid "Search for an item to sell"
 msgstr ""
 
 msgid "Search for variations of"
-msgstr ""
+msgstr "Chercher des variantes de"
 
 msgid "Search group"
 msgstr ""
@@ -6888,7 +6891,7 @@ msgid "Search phrase or YouTube URL"
 msgstr ""
 
 msgid "Search results"
-msgstr ""
+msgstr "Résultats de la recherche"
 
 msgid "Search the database using these fields"
 msgstr ""
@@ -7206,7 +7209,7 @@ msgid "Shipping Methods"
 msgstr ""
 
 msgid "Shipping Policies"
-msgstr ""
+msgstr "Politiques d&#39;expédition"
 
 msgid "Shipping Policy"
 msgstr ""
@@ -7234,19 +7237,19 @@ msgid "Ships From:"
 msgstr ""
 
 msgid "Shop"
-msgstr ""
+msgstr "Boutique"
 
 msgid "Shop for"
 msgstr ""
 
 msgid "Shopping Cart"
-msgstr ""
+msgstr "Panier"
 
 msgid "Short Desc"
 msgstr ""
 
 msgid "Show"
-msgstr ""
+msgstr "Voir"
 
 #, python-format
 msgid "Show %(more_reviews)s more Review"
@@ -7415,7 +7418,7 @@ msgid "Staff"
 msgstr ""
 
 msgid "Start Shopping"
-msgstr ""
+msgstr "Commencer à acheter"
 
 msgid ""
 "Start by entering your promo code located on the back of the card you "
@@ -8375,7 +8378,7 @@ msgid "This label has been marked as invalid and cannot be edited."
 msgstr ""
 
 msgid "This label has no approved releases"
-msgstr ""
+msgstr "Ce label n&#39;a pas de disque approuvé"
 
 msgid "This label has no releases on Discogs."
 msgstr ""
@@ -8659,7 +8662,7 @@ msgid "Total, not including shipping"
 msgstr ""
 
 msgid "Track"
-msgstr ""
+msgstr "Piste"
 
 msgid "Track Position(s)"
 msgstr ""
@@ -8989,7 +8992,7 @@ msgid "Video: How to list an item for sale on Discogs"
 msgstr ""
 
 msgid "Videos"
-msgstr ""
+msgstr "Vidéos"
 
 msgid "View"
 msgstr ""
@@ -9051,7 +9054,7 @@ msgid "View additional popular groups"
 msgstr ""
 
 msgid "View all genres"
-msgstr ""
+msgstr "Afficher tous les genres"
 
 msgid "View all of my lists"
 msgstr ""
@@ -9196,7 +9199,7 @@ msgid "Viewing All"
 msgstr ""
 
 msgid "Vinyl"
-msgstr ""
+msgstr "Vinyle"
 
 msgid "Vinyl and CD"
 msgstr ""
@@ -10423,7 +10426,7 @@ msgid ""
 msgstr ""
 
 msgid "Your cart is empty"
-msgstr ""
+msgstr "Votre panier est vide"
 
 #, python-format
 msgid "Your changes were saved. Return to %s"
@@ -10792,7 +10795,7 @@ msgid "e.g. Upper Stacks - Aisle 5 Row 4"
 msgstr ""
 
 msgid "edit"
-msgstr ""
+msgstr "modifier"
 
 msgid "edited"
 msgstr ""
@@ -10865,7 +10868,7 @@ msgid "if you can't find what you're looking for."
 msgstr ""
 
 msgid "in"
-msgstr ""
+msgstr "en"
 
 msgid "in Cart"
 msgstr ""
@@ -10930,7 +10933,7 @@ msgid "month and year"
 msgstr ""
 
 msgid "more"
-msgstr ""
+msgstr "plus"
 
 msgid "more in the Discogs Marketplace"
 msgstr ""
@@ -11075,8 +11078,8 @@ msgstr ""
 
 msgid "submission pending"
 msgid_plural "submissions pending"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "contribution en attente"
+msgstr[1] "contributions en attente"
 
 msgid "submitted"
 msgstr ""
