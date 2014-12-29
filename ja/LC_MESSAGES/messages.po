@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages.po (new)\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-12-19 11:05-0800\n"
+"POT-Creation-Date: 2014-12-26 11:22-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -2289,6 +2289,9 @@ msgstr "クリア"
 msgid "Delete This List"
 msgstr ""
 
+msgid "Delete Token"
+msgstr ""
+
 msgid "Delete all items"
 msgstr ""
 
@@ -3133,6 +3136,12 @@ msgstr ""
 
 msgid "General settings"
 msgstr "一般設定"
+
+msgid "Generate new token"
+msgstr ""
+
+msgid "Generate token"
+msgstr ""
 
 msgid "Genre"
 msgstr "ジャンル"
@@ -4070,6 +4079,9 @@ msgstr "アイテムのコンテナ"
 msgid "Item Edit"
 msgstr "アイテムを編集"
 
+msgid "Item ID"
+msgstr ""
+
 msgid "Item Location"
 msgstr "アイテムの場所"
 
@@ -4174,6 +4186,10 @@ msgstr "前のリビジョンではありません"
 
 msgid "Jump to next submission after saving comment"
 msgstr "コメントを保存した後、次のサブミッションに移動する"
+
+#, python-format
+msgid "Just need a <a href=\"%(url)s\">personal access token</a>?"
+msgstr ""
 
 msgid ""
 "Keep your feedback <strong>factual</strong> and avoid making personal "
@@ -8320,8 +8336,10 @@ msgid "There was an error saving the file"
 msgstr "ファイルの保存にエラーがおきました"
 
 #, python-format
-msgid "There was an error uploading the image file %s."
-msgstr "%s画像ファイルのアップロード中にエラーが起きました\t"
+msgid ""
+"There was an error uploading the image file %s. Please verify that the "
+"image uploaded is an RGB image."
+msgstr ""
 
 msgid "There was an problem saving your changes. Please try again."
 msgstr "変更の保存ができません。やり直してください。"
@@ -8688,9 +8706,6 @@ msgstr "今日"
 
 msgid "Toggle Community Menu"
 msgstr "コミュニティメニューを切り替える"
-
-msgid "Toggle Conditions and Notes"
-msgstr ""
 
 msgid "Toggle Marketplace Menu"
 msgstr "マーケットプレイス・メニューを切り替える"
@@ -10514,6 +10529,12 @@ msgid ""
 msgstr ""
 
 msgid "Your cart is empty"
+msgstr ""
+
+#, python-format
+msgid ""
+"Your changes are queued and will take effect within a few minutes. Return"
+" to %s"
 msgstr ""
 
 #, python-format

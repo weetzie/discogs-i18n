@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-12-19 11:05-0800\n"
+"POT-Creation-Date: 2014-12-26 11:22-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: it <LL@li.org>\n"
@@ -2282,6 +2282,9 @@ msgstr ""
 msgid "Delete This List"
 msgstr ""
 
+msgid "Delete Token"
+msgstr ""
+
 msgid "Delete all items"
 msgstr ""
 
@@ -3120,6 +3123,12 @@ msgid "General Group Settings"
 msgstr ""
 
 msgid "General settings"
+msgstr ""
+
+msgid "Generate new token"
+msgstr ""
+
+msgid "Generate token"
 msgstr ""
 
 msgid "Genre"
@@ -4051,6 +4060,9 @@ msgstr ""
 msgid "Item Edit"
 msgstr ""
 
+msgid "Item ID"
+msgstr ""
+
 msgid "Item Location"
 msgstr ""
 
@@ -4150,6 +4162,10 @@ msgid "Jump to Previous Section"
 msgstr ""
 
 msgid "Jump to next submission after saving comment"
+msgstr ""
+
+#, python-format
+msgid "Just need a <a href=\"%(url)s\">personal access token</a>?"
 msgstr ""
 
 msgid ""
@@ -8248,7 +8264,9 @@ msgid "There was an error saving the file"
 msgstr ""
 
 #, python-format
-msgid "There was an error uploading the image file %s."
+msgid ""
+"There was an error uploading the image file %s. Please verify that the "
+"image uploaded is an RGB image."
 msgstr ""
 
 msgid "There was an problem saving your changes. Please try again."
@@ -8607,9 +8625,6 @@ msgid "Today"
 msgstr ""
 
 msgid "Toggle Community Menu"
-msgstr ""
-
-msgid "Toggle Conditions and Notes"
 msgstr ""
 
 msgid "Toggle Marketplace Menu"
@@ -10423,6 +10438,12 @@ msgid ""
 msgstr ""
 
 msgid "Your cart is empty"
+msgstr ""
+
+#, python-format
+msgid ""
+"Your changes are queued and will take effect within a few minutes. Return"
+" to %s"
 msgstr ""
 
 #, python-format
