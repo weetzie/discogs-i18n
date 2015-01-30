@@ -14,6 +14,7 @@ Translations for the Discogs website
 
 ### Contributors:
 
+* raiseandfall
 * Lilian76
 * raphael76
 * Jarod2801
