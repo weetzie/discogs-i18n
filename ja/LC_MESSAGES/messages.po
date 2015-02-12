@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: messages.po (new)\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2014-12-04 14:13-0800\n"
-"PO-Revision-Date: 2015-01-29 22:21+0900\n"
+"PO-Revision-Date: 2015-02-12 00:44+0900\n"
 "Last-Translator: tosh <tosh@at-vision.jp>\n"
 "Language-Team: ja <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -147,7 +147,7 @@ msgstr[0] "買い手からのよくない評価%(n)s件"
 #, python-format
 msgid "%(n)s negative rating from sellers"
 msgid_plural "%(n)s negative ratings from sellers"
-msgstr[0] "売り手からのよくない評価%(n)s件"
+msgstr[0] "出品者からのよくない評価%(n)s件"
 
 #, python-format
 msgid "%(n)s neutral rating from buyers"
@@ -157,7 +157,7 @@ msgstr[0] "買い手からの中性な評価%(n)s件"
 #, python-format
 msgid "%(n)s neutral rating from sellers"
 msgid_plural "%(n)s neutral ratings from sellers"
-msgstr[0] "売り手からの中性な評価%(n)s件"
+msgstr[0] "出品者からの中性な評価%(n)s件"
 
 #, python-format
 msgid "%(n)s of %(total)s discussion"
@@ -176,7 +176,7 @@ msgstr[0] "買い手からのいい評価%(n)s件"
 #, python-format
 msgid "%(n)s positive rating from sellers"
 msgid_plural "%(n)s positive ratings from sellers"
-msgstr[0] "売り手からのいい評価%(n)s件"
+msgstr[0] "出品者からのいい評価%(n)s件"
 
 #, python-format
 msgid "%(n)s previous order"
@@ -210,7 +210,7 @@ msgstr "買い手として%(person)sフィードバック。"
 
 #, python-format
 msgid "%(person)s's feedback as a seller."
-msgstr "売り手として%(person)s'sフィードバック。"
+msgstr "出品者として%(person)s'sフィードバック。"
 
 #, python-format
 msgid ""
@@ -244,7 +244,7 @@ msgstr "マーケットプレイスのリストから%(violation_count)s 件の�
 #, python-format
 msgid "%(x)s available from %(y)s seller"
 msgid_plural "%(x)s available from %(y)s sellers"
-msgstr[0] "%(y)s人の売り手が%(x)s個出品中"
+msgstr[0] "%(y)s人の出品者が%(x)s個出品中"
 
 #, python-format
 msgid "%d Week Ago"
@@ -287,7 +287,7 @@ msgstr "%sはサポートリクエストにこのメッセージを変換する�
 
 #, python-format
 msgid "%s has been deleted."
-msgstr "%s ドラフトは消去されました。"
+msgstr "%s 件の下書きは消去されました。"
 
 #, python-format
 msgid "%s have, %s want"
@@ -424,7 +424,7 @@ msgid "<strong>Admin Notice:</strong> Due to inactivity on this account, Home Pa
 msgstr "<strong>お知らせ:</strong> このアカウントは一定期間利用されていないため、ホームページおよびプロフィールは未公開となっています。"
 
 msgid "<strong>Auto-save submissions</strong> after I comment or vote"
-msgstr "コメント・投票後、<strong>サブミッションを自動的に保存する</strong>"
+msgstr "コメント・投票後、<strong>投稿を自動的に保存する</strong>"
 
 # massive=世界最大級
 # にしています。おかしければ変更します。
@@ -477,14 +477,14 @@ msgid "A $ %(amount)s credit has been issued towards your next invoice"
 msgstr "%(amount)s円分のクレジットが次回の請求書に適用されます。"
 
 msgid "A Discogs account with this e-mail address already exists. Please use a different e-mail address for this account."
-msgstr "DiscogsアカウントとしてこのEメール・アカウントはすでに存在しています。このアカウントでは別のeメールアドレスを使用してください。"
+msgstr "DiscogsアカウントとしてこのEメール・アカウントはすでに存在しています。このアカウントでは別のメールアドレスを使用してください。"
 
 msgid "A comprehensive list of the recordings made by a particular performer or of a particular composer's works."
 msgstr "特定の演奏者によって、または特定の作曲家でレコーディングした総合的なリスト。"
 
 #, python-format
 msgid "A confirmation email to <strong>%s</strong> will contain a link you must click to complete your email address change."
-msgstr "<strong>%s</strong>へのeメールの確認は、 Eメールアドレスの変更を完了するためにクリックする必要があります。"
+msgstr "<strong>%s</strong>へのeメールの確認は、 メールアドレスの変更を完了するためにクリックする必要があります。"
 
 msgid "A credit for the fee paid on this order will be applied to your next invoice."
 msgstr "この注文の支払に対するクレジットを次の請求書に適用されます。"
@@ -537,7 +537,7 @@ msgid "API v1.0 Documentation"
 msgstr "API v1.0 ドキュメンテーション"
 
 msgid "API v2 Documentation"
-msgstr "API v2 アプリ"
+msgstr "API v2 仕様書"
 
 msgid "Abbr"
 msgstr "省略"
@@ -604,7 +604,7 @@ msgstr "アカウントの認証"
 
 #, python-format
 msgid "Account creation is not available at this time. If you have tried to set up an account recently, please check your email for the confirmation code. If you have not received the confirmation code, please %s to request it again. If you need to change the email address the confirmation code is sent to, please log on with your username and password, and you will be directed to the email settings page. Thanks!"
-msgstr "アカウントを作成できません。もし最近アカウントを作ったのであればeメールをチェックして、コードナンバーを確認してください。コードを受け取っていない場合はもう一度%sまで連絡してください。もし、コードナンバーがあってeメールアドレスを変更したい場合は新しいユーザネームとパスワードを使ってログインしてください。すぐにeメール設定ページに移動します。"
+msgstr "アカウントを作成できません。もし最近アカウントを作ったのであればeメールをチェックして、コードナンバーを確認してください。コードを受け取っていない場合はもう一度%sまで連絡してください。もし、コードナンバーがあってメールアドレスを変更したい場合は新しいユーザネームとパスワードを使ってログインしてください。すぐにメール設定ページに移動します。"
 
 msgid "Accounts are absolutely free – jump in and enjoy full access immediately! Never a membership fee, no trial periods or “premium” sections, and no advertisements – just open an account and get started!"
 msgstr "アカウントは無料です。会員費、お試し期間、プレミアム会員などは一切なく、広告もありません。まずはアカウント登録して、Discogsをお楽しみください。"
@@ -626,7 +626,7 @@ msgid "Activate your account"
 msgstr "アカウントを有効にする"
 
 msgid "Activate your account so sellers can contact you"
-msgstr "売り手が連絡できるようアカウントを有効にしてください。"
+msgstr "出品者が連絡できるようアカウントを有効にしてください。"
 
 msgid "Activate your account, update email and password, change your avatar."
 msgstr "アカウントを有効にし、メールアドレスとパスワードを更新して、アバターを変更してください。"
@@ -720,7 +720,7 @@ msgid "Add Tracks"
 msgstr "トラックの追加"
 
 msgid "Add a Field"
-msgstr "フィールドの追加"
+msgstr "項目の追加"
 
 msgid "Add a Release"
 msgstr "リリースの追加"
@@ -804,7 +804,7 @@ msgid "Add to Wantlist"
 msgstr "ほしい物リストへ追加"
 
 msgid "Add to your Saved Submissions"
-msgstr "サブミッションに保存・追加しました"
+msgstr "投稿に保存・追加しました"
 
 msgid "Add up to <%- space %> more discs/tapes"
 msgstr "あと <%- space %> 個のディスク/テープの追加が可能です。"
@@ -870,7 +870,7 @@ msgid "Address"
 msgstr "住所"
 
 msgid "Adjust notification preferences and seller information."
-msgstr "通知設定と売り手の情報を調整してください。"
+msgstr "通知設定と出品者の情報を調整してください。"
 
 msgid "Admin"
 msgstr "管理者"
@@ -945,7 +945,7 @@ msgid "Allow Post Edits"
 msgstr "投稿の編集を許可"
 
 msgid "Allow applications to access your Discogs profile information."
-msgstr "アプリからDiscogsプロフィール情報へのアクセスを許可する。"
+msgstr "アプリケーションにDiscogsプロフィール情報へのアクセスを許可する。"
 
 msgid "Allow offers"
 msgstr "オファーを許可"
@@ -1117,13 +1117,13 @@ msgstr "このグループから退会してもよろしいですか？"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Are you sure you want to remove this seller's items from your cart?"
-msgstr "この売り手のアイテムをカートから削除してもよろしいですか？"
+msgstr "この出品者のアイテムをカートから削除してもよろしいですか？"
 
 msgid "Are you sure you want to unlist this item? After unlisting, this item will be set to draft status and removed from the Marketplace within 5 minutes."
 msgstr "このアイテムをリストから削除してもよろしいですか？削除すると、アイテムは下書きとなり、5分ほどでマーケットプレイスから削除されます。"
 
 msgid "Are you sure you would like to copy this to your drafts?"
-msgstr "ドラフトにこれをコピーしてもよろしいですか"
+msgstr "下書きにこれをコピーしてもよろしいですか"
 
 msgid "Artist"
 msgstr "アーティスト"
@@ -1135,10 +1135,10 @@ msgid "Artists"
 msgstr "アーティスト"
 
 msgid "Ask me first"
-msgstr "はじめに聞いてください"
+msgstr "確認する"
 
 msgid "Ask the seller for payment options."
-msgstr "売り手に支払のオプションを確認する。"
+msgstr "出品者に支払のオプションを確認する。"
 
 msgid "Assigned Support Request"
 msgstr "アサインされたサポート・リクエスト"
@@ -1203,7 +1203,7 @@ msgid "Authorize this application to use your Discogs account?"
 msgstr "Discogsアカウントを使用するために、このアプリを許可しますか"
 
 msgid "Authorized Applications"
-msgstr "認定アプリ"
+msgstr "認証済みのアプリケーション"
 
 msgid "Auto-number Tracks"
 msgstr "自動でトラックに番号をつける"
@@ -1286,7 +1286,7 @@ msgid "Basic privacy settings"
 msgstr "基本的なプライバシー設定"
 
 msgid "Be able to use authentication to build third-party apps"
-msgstr "サードパーティアプリを作成するには認証が必要です"
+msgstr "サードパーティアプリケーションを作成するさいの認証"
 
 msgid "Be sure to include a full and detailed justification for your submission. You should supply any and all information and links to proofs you have relating to the justification of this submission."
 msgstr "必ず投稿に対する根拠を詳しく記載してください。また、投稿の根拠に関連する情報や情報の記載されているリンク等を証拠として提供してください。"
@@ -1316,7 +1316,7 @@ msgid "Billing"
 msgstr "請求"
 
 msgid "Billing, sales fees and fee credit information for sellers."
-msgstr "売り手の請求、販売手数料、クレジットに関する情報"
+msgstr "出品者の請求、販売手数料、クレジットに関する情報"
 
 msgid "Block"
 msgstr "ブロック"
@@ -1366,7 +1366,7 @@ msgid "Browsing and Searching"
 msgstr "検索と閲覧"
 
 msgid "Browsing options"
-msgstr "ブラウズのオプション"
+msgstr "閲覧オプション"
 
 msgid "Bugs and Feature Requests"
 msgstr "エラー報告/機能改善リクエスト"
@@ -1468,7 +1468,7 @@ msgid "Buyers Code"
 msgstr "買い手のコード"
 
 msgid "Buyers feel more confident doing business with PayPal Verified sellers, who are more likely to be legitimate, trustworthy merchants."
-msgstr "買い手は、PayPalで売り手との取引でさらに自信となり、合法的なのでさらに可能性と信頼を生みます。"
+msgstr "買い手は、PayPalで出品者との取引でさらに自信となり、合法的なのでさらに可能性と信頼を生みます。"
 
 # 現在のサイトに沿って、買い手としていますが、購入者のほうがよいかと思います。
 msgid "Buyers will not be able to pay at checkout."
@@ -1488,11 +1488,11 @@ msgstr "アーティスト別"
 
 #, python-format
 msgid "By clicking \"List For Sale\", you accept our <a href=\"%(link)s\" target=\"_blank\">seller policy</a>."
-msgstr "\"List For Sale\"をクリックすることにより、Discogsの<a href=\"%(link)s\" target=\"_blank\">売り手のポリシー</a>に同意したものと見なします。"
+msgstr "\"List For Sale\"をクリックすることにより、Discogsの<a href=\"%(link)s\" target=\"_blank\">出品者のポリシー</a>に同意したものと見なします。"
 
 #, python-format
 msgid "By clicking \"List item for sale\", you accept our %(start_tag)sseller policy%(end_tag)s."
-msgstr "\"List item for sale\"をクリックすることにより、Discogsの%(start_tag)s売り手のポリシー%(end_tag)sに同意したものと見なします。"
+msgstr "\"List item for sale\"をクリックすることにより、Discogsの%(start_tag)s出品者のポリシー%(end_tag)sに同意したものと見なします。"
 
 #, python-format
 msgid "By creating an account you agree to our <a href=\"%(link)s\">terms of service</a> and <a href=\"%(link2)s\">privacy policy</a>."
@@ -1521,7 +1521,7 @@ msgstr "URLに再接続"
 
 #, python-format
 msgid "Can be any of these <a href=\"%(link)s\">format fields</a>."
-msgstr "これらの<a href=\"%(link)s\">フィールドフォーマット</a>のいずれかになります。"
+msgstr "これらの<a href=\"%(link)s\">項目形式</a>のいずれかになります。"
 
 msgid "Can't find a group for you?"
 msgstr "お好きなのグループを見つけることができませんか"
@@ -1614,7 +1614,7 @@ msgid "Change Status"
 msgstr "ステータスの変更"
 
 msgid "Change my email address"
-msgstr "eメールアドレスの変更"
+msgstr "メールアドレスの変更"
 
 msgid "Change password"
 msgstr "パスワードの変更"
@@ -1730,7 +1730,7 @@ msgid "Clear All Filters"
 msgstr "すべてのフィルターを解除"
 
 msgid "Clear My Saved Submissions"
-msgstr "保存サブミッションを消去する"
+msgstr "保存投稿を消去する"
 
 # フィードバックとしていますが、利用方法にあわせて「ご意見」や「ご感想」、「コメント」に変更してください。
 #, python-format
@@ -1792,7 +1792,7 @@ msgid "Collection"
 msgstr "コレクション"
 
 msgid "Collection Note Fields"
-msgstr "コレクション ノート フィールド"
+msgstr "コレクション ノートの項目"
 
 msgid "Collection Value Range"
 msgstr "コレクションの価格帯"
@@ -1847,7 +1847,7 @@ msgid "Compose Newsletter"
 msgstr "メールマガジンを作成"
 
 msgid "Condition"
-msgstr "状態"
+msgstr "商品の状態"
 
 msgid "Condition and comments"
 msgstr "状態とコメント"
@@ -1862,7 +1862,7 @@ msgid "Confirm Account"
 msgstr "アカウントの確認"
 
 msgid "Confirm Email Address Change"
-msgstr "eメールアドレス変更の確認"
+msgstr "メールアドレス変更の確認"
 
 msgid "Confirm Your Post"
 msgstr "投稿を確認する"
@@ -1910,14 +1910,14 @@ msgstr "電話番号"
 
 # 現在のサイトに沿って「売り手」としていますが、「出品者」のほうが良いかと思います。
 msgid "Contact Seller"
-msgstr "売り手に連絡"
+msgstr "出品者に連絡"
 
 # スタッフとはあまりいわないので、「Discogs」に変更しています。必要であれば変更してください。
 msgid "Contact a staff member"
 msgstr "Discogsに連絡"
 
 msgid "Contact seller"
-msgstr "売り手へのコンタクト"
+msgstr "出品者へのコンタクト"
 
 msgid "Contained Releases"
 msgstr "含まれているリリース"
@@ -1996,7 +1996,7 @@ msgid "Copy from PayPal account"
 msgstr "PayPalアカウントからコピー"
 
 msgid "Copy to Draft"
-msgstr "ドラフトへコピー"
+msgstr "下書きへコピー"
 
 msgid "Correct"
 msgstr "正しい"
@@ -2041,7 +2041,7 @@ msgid "Create New Group"
 msgstr "新しいグループを作成"
 
 msgid "Create Public Group"
-msgstr "公的なグループを作成"
+msgstr "公開グループを作成"
 
 # コンテキスト次第で「新しい」は必要ないかもしれないので、なければ削除してください。
 msgid "Create Your New Discogs Account"
@@ -2064,16 +2064,16 @@ msgid "Create an Account"
 msgstr "アカウントを作成"
 
 msgid "Create an Application"
-msgstr "アプリを作成"
+msgstr "アプリケーションを作成"
 
 msgid "Create an account now."
 msgstr "アカウントを作成する。"
 
 msgid "Create an application"
-msgstr "アプリを作成"
+msgstr "アプリケーションを作成"
 
 msgid "Create application"
-msgstr "アプリを作成"
+msgstr "アプリケーションを作成"
 
 msgid "Create your Discogs account"
 msgstr "Discogsアカウントを作成"
@@ -2083,7 +2083,7 @@ msgid "Create your Discogs account and we'll apply a <strong>$%(credit)s credit<
 msgstr "お客様のDiscogsアカウントを作成し、Discogsは<strong>$%(credit)s credit</strong>を適用します。"
 
 msgid "Create, update, or delete custom note fields for your collection."
-msgstr "お客様のコレクションにカスタムノートフィールドの作成・更新・削除する。"
+msgstr "お客様のコレクションにカスタムノート項目の作成・更新・削除する。"
 
 msgid "Created"
 msgstr "作成されました"
@@ -2155,7 +2155,7 @@ msgid "Custom Range"
 msgstr "範囲のカスタム設定"
 
 msgid "Customize This Page"
-msgstr "このページをカストマイズ"
+msgstr "ページをカスタマイズ"
 
 msgid "Dashboard"
 msgstr "ダッシュボード"
@@ -2434,10 +2434,10 @@ msgid "Discogs account registration"
 msgstr "Discogsアカウントの登録"
 
 msgid "Discogs can recommend new releases to you based on your recent activity. Check back soon!"
-msgstr "Discogsは、最近の活動をもとに、新しいリリースをお勧めすることができます。すぐに戻ってチェックしてください"
+msgstr "Discogsは、最近のご利用状況をもとに、新しいリリースをおすすめします。"
 
 msgid "Discogs can recommend releases to you based on your recent activity. Check back soon!"
-msgstr "Discogsは、お客様の最近の活動に基づいてリリースをお勧めすることができます。またチェックしてください。"
+msgstr "Discogsは、最近のご利用状況をもとに、リリースをおすすめします。"
 
 msgid "Discogs data export available for download"
 msgstr "ダウンロード可能なDiscogsエクスポートデータ"
@@ -2482,7 +2482,7 @@ msgstr "Discogsでは、フィードバックを基に買い手を評価して�
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Discogs uses feedback to determine seller performance."
-msgstr "Discogsでは、フィードバックを基に売り手を評価しています。"
+msgstr "Discogsでは、フィードバックを基に出品者を評価しています。"
 
 # 〜〜〜〜〜〜に続く情報を記入してください。
 msgid "Discogs will <strong>only</strong> remove feedback and comments if the feedback"
@@ -2551,16 +2551,16 @@ msgid "Draft"
 msgstr "下書き"
 
 msgid "Draft Images"
-msgstr "画像のドラフト"
+msgstr "画像の下書き"
 
 msgid "Draft has been deleted."
-msgstr "ドラフトは消去されました。"
+msgstr "下書きは消去されました。"
 
 msgid "Draft release are not allowed to be sold"
-msgstr "ドラフトのリリースを販売することは許可されていません"
+msgstr "下書きのリリースを販売することは許可されていません"
 
 msgid "Drafts"
-msgstr "ドラフト"
+msgstr "下書き"
 
 msgid "Drag and drop files or click to browse"
 msgstr "ドラッグ＆ドロップするか、クリックしてファイルを閲覧"
@@ -2685,7 +2685,7 @@ msgid "Enable offers for all items"
 msgstr "すべてのアイテムのオファーを有効にする"
 
 msgid "Enabled"
-msgstr "有効化しました"
+msgstr "有効化"
 
 msgid "Enter different payee"
 msgstr "別の受取人を入力"
@@ -2700,7 +2700,7 @@ msgid "Enter the Release ID of the Key Release."
 msgstr "キーリリースのリリースIDを入力してください。"
 
 msgid "Enter the email address associated with your Discogs account. Password reset instructions will be sent via email."
-msgstr "お客様のDiscogsアカウントに関連付けられたeメールアドレスを入力します。パスワードのリセットの命令は、Eメールで送信されます。"
+msgstr "お客様のDiscogsアカウントに関連付けられたメールアドレスを入力します。パスワードのリセットの命令は、Eメールで送信されます。"
 
 msgid "Enter your password"
 msgstr "パスワードを入力してください。"
@@ -2772,7 +2772,7 @@ msgid "Expires in"
 msgstr "で期限切れとなります。"
 
 msgid "Explore"
-msgstr "探す"
+msgstr "検索"
 
 msgid "Export"
 msgstr "エクスポート"
@@ -2850,10 +2850,10 @@ msgid "Feedback that does not clearly meet any of the reasons outlined above may
 msgstr "明らかに上記の理由に反しているフィードバックは削除される可能性があります。"
 
 msgid "Field"
-msgstr "フィールド"
+msgstr "項目"
 
 msgid "Field Name"
-msgstr "フィールド名"
+msgstr "項目名"
 
 msgid "File Structure"
 msgstr "ファイル構成"
@@ -2969,7 +2969,7 @@ msgstr "15年にわたり、<a href=\"http://www.discogs.com/user/360vinyl?q=u:3
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "For the seller"
-msgstr "売り手専用"
+msgstr "出品者専用"
 
 msgid "Forgot Password"
 msgstr "パスワードを忘れた"
@@ -3006,7 +3006,7 @@ msgstr[0] "見つかった %(num_results)s の結果 %(query)s."
 #, python-format
 msgid "Found %(num_sub)s submission"
 msgid_plural "Found %(num_sub)s submissions"
-msgstr[0] "サブミッションを%(num_sub)s個見つけました"
+msgstr[0] "投稿を%(num_sub)s個見つけました"
 
 #, python-format
 msgid "Found %(total)s result for <mark>%(query)s</mark>."
@@ -3023,10 +3023,10 @@ msgid "Friends"
 msgstr "友達"
 
 msgid "Friends' Activity"
-msgstr "友達の活動"
+msgstr "友達の利用状況"
 
 msgid "Friends' Submissions"
-msgstr "友達からのサブミッション"
+msgstr "友達からの投稿"
 
 msgid "From"
 msgstr "から"
@@ -3065,13 +3065,13 @@ msgid "Get an Account"
 msgstr "アカウントを取得する"
 
 msgid "Get help on uploading files and accepted fields."
-msgstr "アップロードするファイルと受け入れるフィールドのヘルプを取得します。"
+msgstr "アップロードするファイルと受け入れる項目のヘルプを取得します。"
 
 msgid "Get involved in our discussion section!"
 msgstr "ディスカッションに参加しましょう！"
 
 msgid "Get notifications about major API updates and changes"
-msgstr "APIの大幅変更・修正に関する情報を受信する"
+msgstr "APIの大幅変更・修正に関する情報を受信"
 
 msgid "Get notified when records are listed for sale."
 msgstr "レコードが出品されたら通知を受ける"
@@ -3127,7 +3127,7 @@ msgid "Go to Purchases"
 msgstr "購入へ進む"
 
 msgid "Go to Submissions"
-msgstr "サブミッションへ"
+msgstr "投稿へ"
 
 msgid "Go to User Profile"
 msgstr "ユーザープロフィールへ"
@@ -3181,7 +3181,7 @@ msgid "Groups"
 msgstr "グループ"
 
 msgid "Guess based on my location"
-msgstr "私のロケーションに基づく推測"
+msgstr "地域にあわせて自動設定"
 
 msgid "Guidelines Reference"
 msgstr "ガイドライン参照"
@@ -3200,7 +3200,7 @@ msgid "Have"
 msgstr "所有している"
 
 msgid "Have access to all API endpoints"
-msgstr "全てのAPIエンドポイントのアクセス権限を受ける"
+msgstr "全てのAPIエンドポイントへのアクセス"
 
 msgid "Haven't saved any topics?"
 msgstr "なにか保存していないトピックがありますか"
@@ -3282,7 +3282,7 @@ msgid "Hover on the title or description then click to edit."
 msgstr "タイトルまたは詳細にマウスオーバーし、クリックして編集してください。"
 
 msgid "How do I add stuff to my wantlist?"
-msgstr "ほしい物リストへの追加方法を教えてください。"
+msgstr "ほしい物リストへの追加方法を確認する。"
 
 msgid "How do I cancel an order that is on this invoice?"
 msgstr "この請求書にある注文のキャンセル方法を教えてください。"
@@ -3343,7 +3343,7 @@ msgid ""
 "(<a href=\"%(url_2)s\">%(url_2)s</a>), your account will be restricted until further staff review.\n"
 "Contact our support staff (<a href=\"%(url_3)s\">%(url_3)s</a>) to learn more."
 msgstr ""
-"マーケットプレイスでの違反行為: Discogsの売り手の規約(<a href=\"%(url)s\">%(url)s</a>)または利用規約(<a href=\"%(url_2)s\">%(url_2)s</a>)に違反した場合、\n"
+"マーケットプレイスでの違反行為: Discogsの出品者の規約(<a href=\"%(url)s\">%(url)s</a>)または利用規約(<a href=\"%(url_2)s\">%(url_2)s</a>)に違反した場合、\n"
 "または違反した疑いのある場合、Discogsの担当者よりご連絡させていただく場合がございます。\n"
 "その場合、確認作業が終わるまでアカウントの利用が制限されることがございます。ご了承ください。\n"
 "詳細に関しては、サポート(<a href=\"%(url_3)s\">%(url_3)s</a>)までお問い合わせください。"
@@ -3376,9 +3376,9 @@ msgid ""
 "will suspend their account and notify you of our action. If the seller does\n"
 "respond, please work with them to resolve any outstanding problems."
 msgstr ""
-"注文ページにて%(days)s日以内に売り手からの返信がない場合は、\n"
-"売り手のアカウントに制限をかけ、その旨をご連絡いたします。\n"
-"それでも売り手から連絡の無い場合は、当事者間にて問題解決を試みてください。"
+"注文ページにて%(days)s日以内に出品者からの返信がない場合は、\n"
+"出品者のアカウントに制限をかけ、その旨をご連絡いたします。\n"
+"それでも出品者から連絡の無い場合は、当事者間にて問題解決を試みてください。"
 
 #, python-format
 msgid ""
@@ -3386,9 +3386,9 @@ msgid ""
 "will suspend their account and notify you of our action. If the seller does\n"
 "respond, please work with them to resolve any outstanding problems.\n"
 msgstr ""
-"注文ページにて%(days)s日以内に売り手からの返信がない場合は、\n"
-"売り手のアカウントに制限をかけ、その旨をご連絡いたします。\n"
-"それでも売り手から連絡の無い場合は、\n"
+"注文ページにて%(days)s日以内に出品者からの返信がない場合は、\n"
+"出品者のアカウントに制限をかけ、その旨をご連絡いたします。\n"
+"それでも出品者から連絡の無い場合は、\n"
 "当事者間にて問題解決を試みてください。\n"
 
 #, python-format
@@ -3398,10 +3398,10 @@ msgid ""
 "on your behalf and suspend their account if a response is not made. Would you like\n"
 "to file a Seller Not Responding report?"
 msgstr ""
-"注文のメッセージに対して売り手から返信が無い場合は\n"
-"<a href='%(help_url)s'>「売り手から返事なし」の報告</a>をしてください。\n"
-"Discogsより売り手に対して連絡の上、応答が無い場合はアカウントを制限します。\n"
-"「売り手から返事なし」の報告をしますか？"
+"注文のメッセージに対して出品者から返信が無い場合は\n"
+"<a href='%(help_url)s'>「出品者から返事なし」の報告</a>をしてください。\n"
+"Discogsより出品者に対して連絡の上、応答が無い場合はアカウントを制限します。\n"
+"「出品者から返事なし」の報告をしますか？"
 
 #, python-format
 msgid "If there are no past due invoices, or you have a question about an invoice, please %(start_link)scontact us%(end_link)s."
@@ -3466,7 +3466,7 @@ msgstr "すでにこれを試行し、まだ何も受け取らない場合は、
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "If you have any questions about your order please contact the seller via the order page:"
-msgstr "注文に対して不明点や質問がある場合は、注文ページから売り手に連絡してください。"
+msgstr "注文に対して不明点や質問がある場合は、注文ページから出品者に連絡してください。"
 
 #, python-format
 msgid ""
@@ -3480,7 +3480,7 @@ msgid ""
 msgstr ""
 "有効な注文がありつつ、買い手と連絡を取っていない場合は、\n"
 "\r最後の質問から4日以上返信していないためアカウントが制限された可能性があります。\n"
-"\r「売り手から返事なし」の報告がないかサポートリクエストを確認して\n"
+"\r「出品者から返事なし」の報告がないかサポートリクエストを確認して\n"
 "（このページ下部にてご確認いただけます: <a href=\"%(url)s\">%(url)s</a>）\n"
 "買い手に連絡を取った上で、問題を解決し、サポートのスレッドから\n"
 "サポートチームにアカウント復活のための\n"
@@ -3499,7 +3499,7 @@ msgstr "注文に対して不明点や質問がある場合は、"
 
 #, python-format
 msgid "If you have questions about your order, please %(start_tag)scontact the seller%(end_tag)s via the order page."
-msgstr "注文に対して不明点や質問がある場合は、注文ページから%(start_tag)s売り手に連絡%(end_tag)sしてください。"
+msgstr "注文に対して不明点や質問がある場合は、注文ページから%(start_tag)s出品者に連絡%(end_tag)sしてください。"
 
 msgid "If you haven't received the confirmation message, you can have it sent again:"
 msgstr "確認メッセージを受信していない場合は、再度送信することができます。"
@@ -3546,7 +3546,7 @@ msgstr ""
 " \"Add to Cart\"ボタンをクリックの上、カートにお進みください。"
 
 msgid "If you're still interested in purchasing this item, it may be available from other sellers:"
-msgstr "この商品の購入をまだ検討している場合は、他の売り手もチェックしてみましょう。"
+msgstr "この商品の購入をまだ検討している場合は、他の出品者もチェックしてみましょう。"
 
 msgid ""
 "If you've paid the seller and they have not resolved a problem with the order,\n"
@@ -3556,11 +3556,11 @@ msgid ""
 "negotiated via PayPal. We also recommend leaving appropriate feedback for the\n"
 "seller on Discogs."
 msgstr ""
-"売り手に入金したにも関わらず、問題が解決しない場合は、決済代行業者へのお問い合わせをご検討ください。\n"
+"出品者に入金したにも関わらず、問題が解決しない場合は、決済代行業者へのお問い合わせをご検討ください。\n"
 "Discogs上での売買における金銭の取引は第三者機関が決済を代行しており、\n"
 "Discogsでは決済のプロセスおよび返金は一切取り扱っておりません。\n"
 "注文ページにてお支払いを行った場合は、PayPalに返金のお問い合わせをしてください。\n"
-"またこのような自体が発生した場合は、Discogsの売り手にに対して\n"
+"またこのような自体が発生した場合は、Discogsの出品者にに対して\n"
 "相応のフィードバックを残すことをおすすめします。"
 
 msgid "If your CSV contains duplicates of items currently in your Discogs Collection, please be sure to remove any releases you don't want to create doubles of"
@@ -3576,7 +3576,7 @@ msgid ""
 "out on an accepted offer is not acceptable and may result in\n"
 "negative feedback, so be sure you really want the item."
 msgstr ""
-"オファーが5日以内に同意された場合、売り手との取り引きが成立したとみなされ、\n"
+"オファーが5日以内に同意された場合、出品者との取り引きが成立したとみなされ、\n"
 "アイテムを購入する義務が発生します。同意済みのオファーのキャンセルは認められておらず、\n"
 "悪評につながる可能性があります。購入の意思が固まってから\n"
 "オファーをするよう心がけてください。"
@@ -3673,7 +3673,7 @@ msgstr "<strong>販売金額</strong>と、<strong>どちらが送料を負担�
 
 #, python-format
 msgid "Including currency is not required. Currency must be set in <a href=\"%(link)s\">seller settings</a>."
-msgstr "通貨は必要ありません。通貨は<a href=\"%(link)s\">売り手の設定</a>で設定する必要があります。"
+msgstr "通貨は必要ありません。通貨は<a href=\"%(link)s\">出品者の設定</a>で設定する必要があります。"
 
 msgid "Incorrect password"
 msgstr "正しいパスワード"
@@ -3704,7 +3704,7 @@ msgid "Instructions for"
 msgstr "の手順書"
 
 msgid "Instructions for seller"
-msgstr "売り手の手順書"
+msgstr "出品者の手順書"
 
 msgid "Invalid BIC/SWIFT"
 msgstr "無効な BIC/SWIFT"
@@ -3744,7 +3744,7 @@ msgid "Invalid release_id"
 msgstr "無効なリリースID"
 
 msgid "Invalid seller."
-msgstr "無効な売り手。"
+msgstr "無効な出品者。"
 
 msgid "Invalid shipping method."
 msgstr "無効な配送方法。"
@@ -3910,7 +3910,7 @@ msgstr ""
 "購入可能である必要があります。"
 
 msgid "It looks like the shipping options available to you have changed recently! Please double-check the shipping options on your order. (This could be because the seller updated their shipping policies, or you updated your address.)"
-msgstr "お客様が利用可能な配送オプションが最近変更されているようです(ご注文配送オプションを再度チェックしてください。 (売り手が彼らの船積み方針を更新したこと、または、お客様の住所を更新したことが原因の可能性があります。)"
+msgstr "お客様が利用可能な配送オプションが最近変更されているようです(ご注文配送オプションを再度チェックしてください。 (出品者が彼らの船積み方針を更新したこと、または、お客様の住所を更新したことが原因の可能性があります。)"
 
 msgid "It may take a few minutes for your Marketplace listings to be updated."
 msgstr "マーケットプレイスのリスト更新には数分かかる場合があります。"
@@ -3977,7 +3977,7 @@ msgid "Items For Sale"
 msgstr "出品中のアイテム"
 
 msgid "Items I Want"
-msgstr "私が欲しいアイテム"
+msgstr "ほしいアイテム"
 
 msgid "Items I'm selling"
 msgstr "私の販売しているアイテム"
@@ -4028,7 +4028,7 @@ msgid "Jump to Previous Section"
 msgstr "前のリビジョンではありません"
 
 msgid "Jump to next submission after saving comment"
-msgstr "コメントを保存した後、次のサブミッションに移動する"
+msgstr "コメントを保存した後、次の投稿に移動する"
 
 msgid "Keep your feedback <strong>factual</strong> and avoid making personal remarks."
 msgstr "フィードバック内容は私見ではなく、事実に基づいた内容にしてください。"
@@ -4150,7 +4150,7 @@ msgstr "買い手のフィードバックを残す"
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 # フィードバックとしていますが、利用方法にあわせて「ご意見」や「ご感想」、「コメント」に変更してください。
 msgid "Leave seller feedback"
-msgstr "売り手のフィードバックを残す"
+msgstr "出品者のフィードバックを残す"
 
 msgid "Leaving feedback is not allowed after 90 days."
 msgstr "90日以上経過しているため、フィードバックは投稿できません。"
@@ -4235,7 +4235,7 @@ msgid "Listed Price"
 msgstr "リストしている価格"
 
 msgid "Listed below are copies of the release available from other sellers."
-msgstr "以下に、他の売り手から入手可能なリリースのコピーが一覧表示されます。"
+msgstr "以下に、他の出品者から入手可能なリリースのコピーが一覧表示されます。"
 
 msgid "Listing Currency"
 msgstr "通貨リスト"
@@ -4303,7 +4303,7 @@ msgid "Logged in as"
 msgstr "としてログインされました"
 
 msgid "London, U.K.-based <a href=\"http://www.discogs.com/user/djdtl?q=u:djdtl\">Djdtl</a>, aka <a href=\"http://www.vinylpimp.co.uk\">Vinyl Pimp</a>, a Discogs community member for nearly a full decade, is both a strong database <a href=\"http://www.discogs.com/contributions?user=Djdtl\">contributor</a> and a highly-regarded <a href=\"http://www.discogs.com/seller/Djdtl\">seller</a>. As part of our series in Community Profiles, Discogs sent a crew to the U.K. to gt a behind-the-scenes look at one of the most efficient and fascinating vinyl shops in our community."
-msgstr "英国ロンドンをホームとした <a href=\"http://www.discogs.com/user/djdtl?q=u:djdtl\">Djdtl</a>、別名 <a href=\"http://www.vinylpimp.co.uk\">Vinyl Pimp</a>がDiscogsのメンバーとなってから間もなく10年が経ちます。彼はとても影響力のある<a href=\"http://www.discogs.com/contributions?user=Djdtl\">執筆者</a>、そして <a href=\"http://www.discogs.com/seller/Djdtl\">売り手</a>で、コミュニティープロフィールのシリーズでは、このDiscogsコミュニティーで最も魅力的なレコードショップをチェックするために英国にスタッフを送り舞台裏を見せてもらいました。"
+msgstr "英国ロンドンをホームとした <a href=\"http://www.discogs.com/user/djdtl?q=u:djdtl\">Djdtl</a>、別名 <a href=\"http://www.vinylpimp.co.uk\">Vinyl Pimp</a>がDiscogsのメンバーとなってから間もなく10年が経ちます。彼はとても影響力のある<a href=\"http://www.discogs.com/contributions?user=Djdtl\">執筆者</a>、そして <a href=\"http://www.discogs.com/seller/Djdtl\">出品者</a>で、コミュニティープロフィールのシリーズでは、このDiscogsコミュニティーで最も魅力的なレコードショップをチェックするために英国にスタッフを送り舞台裏を見せてもらいました。"
 
 msgid "Long Desc"
 msgstr "詳細"
@@ -4318,7 +4318,7 @@ msgstr ""
 "。"
 
 msgid "Looks like you haven't been up to anything interesting lately. Try adding something to your wantlist or collection!"
-msgstr "お客様が最近何か面白いことアップしていないようです。お客様のほしい物リストまたはコレクションに何かを追加してください。"
+msgstr "最近、Discogsを利用されていません。ほしい物リストまたはコレクションにアイテムを追加してみませんか？"
 
 msgid "Lookup"
 msgstr "見上げる"
@@ -4352,7 +4352,7 @@ msgstr "管理"
 
 # “を”と”の”に関してはどちらかで統一した方がよいと思いますので、必要があれば”の”に変更してください。
 msgid "Manage Custom Fields"
-msgstr "カスタムフィールドを管理"
+msgstr "カスタム項目を管理"
 
 msgid "Manage Folders"
 msgstr "フォルダを管理する"
@@ -4364,7 +4364,7 @@ msgid "Manage policies, set rates, and handle returns."
 msgstr "ポリシー、価格、返品についての情報を管理"
 
 msgid "Manage your applications and API keys here."
-msgstr "ここで、お客様のアプリとAPIキーを管理できます。"
+msgstr "アプリケーションとAPIキーを管理"
 
 msgid "Manage your inventory"
 msgstr "アイテムリストの管理"
@@ -4435,7 +4435,7 @@ msgid ""
 "or Terms of Service (%(url_2)s), your account will be restricted until further staff review.\n"
 "Contact our support staff (%(url_3)s) to learn more."
 msgstr ""
-"マーケットプレイスでの違反行為: Discogsの売り手の規約(%(url)s)または利用規約(%(url_2)s)に違反した場合、\n"
+"マーケットプレイスでの違反行為: Discogsの出品者の規約(%(url)s)または利用規約(%(url_2)s)に違反した場合、\n"
 "または違反した疑いのある場合、Discogsの担当者よりご連絡させていただく場合がございます。\n"
 "その場合、確認作業が終わるまでアカウントの利用が制限されることがございます。ご了承ください。\n"
 "詳細に関しては、サポート(%(url_3)s)までお問い合わせください。"
@@ -4669,7 +4669,7 @@ msgid "My"
 msgstr "私"
 
 msgid "My Activity (Private)"
-msgstr "私の活動（個人）"
+msgstr "ご利用状況"
 
 msgid "My Activity (Shared)"
 msgstr "私の活動（シェア）"
@@ -4714,13 +4714,13 @@ msgstr "私のプロフィール"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "My Seller Rating:"
-msgstr "売り手評価: "
+msgstr "出品者評価: "
 
 msgid "My Store"
 msgstr "私のストア"
 
 msgid "My Submissions"
-msgstr "私のサブミッション"
+msgstr "MY投稿"
 
 msgid "My Uploads"
 msgstr "私のアップロード"
@@ -4732,7 +4732,7 @@ msgid "My comment is a review"
 msgstr "レビューに私のコメントがあります"
 
 msgid "My feedback as a seller."
-msgstr "売り手としての私の意見。"
+msgstr "出品者としての私の意見。"
 
 msgid "My uploads"
 msgstr "マイ・アップロード"
@@ -4827,7 +4827,7 @@ msgstr "新しいリリース"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "New Seller"
-msgstr "新しい売り手"
+msgstr "新しい出品者"
 
 msgid "New Styles"
 msgstr "新しいスタイル"
@@ -4853,13 +4853,13 @@ msgstr "%(type)sの%(subject_text)sに対して返信があります。"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "New seller"
-msgstr "新しい売り手"
+msgstr "新しい出品者"
 
 msgid "New sellers are required to have a PayPal Verified account."
-msgstr "新しい売り手は、PayPal認証済みアカウントを持っていることが必須条件となります。"
+msgstr "新しい出品者は、PayPal認証済みアカウントを持っていることが必須条件となります。"
 
 msgid "New submissions related to my lists"
-msgstr "私のリストに関連する新しいサブミッション"
+msgstr "私のリストに関連する新しい投稿"
 
 msgid "New thread"
 msgstr "新しいスレッド"
@@ -4943,13 +4943,13 @@ msgid ""
 "No further offers will be considered on this item while it is for sale at\n"
 "the current listed price. In the event the seller lowers the price you will\n"
 "be able to make another offer."
-msgstr "現在記載されているセール価格で販売する間、この商品に対するこれ以上のオファーは受け付けておりません。売り手が商品価格を下げた際は、再度オファーを提示することができます。"
+msgstr "現在記載されているセール価格で販売する間、この商品に対するこれ以上のオファーは受け付けておりません。出品者が商品価格を下げた際は、再度オファーを提示することができます。"
 
 msgid ""
 "No further offers will be considered on this item while it is for sale at the\n"
 "current listed price. In the event the seller lowers the price you will be able\n"
 "to make another offer."
-msgstr "現在記載されているセール価格で販売する間、この商品に対するこれ以上のオファーは受け付けておりません。売り手が商品価格を下げた際は、再度オファーを提示することができます。"
+msgstr "現在記載されているセール価格で販売する間、この商品に対するこれ以上のオファーは受け付けておりません。出品者が商品価格を下げた際は、再度オファーを提示することができます。"
 
 msgid "No images have been uploaded."
 msgstr "画像がアップロードされていません。"
@@ -4961,7 +4961,7 @@ msgid "No items"
 msgstr "アイテムなし"
 
 msgid "No items for sale found"
-msgstr "販売用アイテムはみつかりませんでした"
+msgstr "アイテムはありません"
 
 msgid "No items found."
 msgstr "アイテムが見つかりません。"
@@ -5027,7 +5027,7 @@ msgid "No sales history is available for this item."
 msgstr "このアイテムには販売履歴がありません。"
 
 msgid "No seller rating"
-msgstr "売り手評価はありません。"
+msgstr "出品者評価はありません。"
 
 msgid "No such user."
 msgstr "そのようなユーザおりません。"
@@ -5168,7 +5168,7 @@ msgid "One or more items in your cart were removed while you were placing your o
 msgstr "注文中に、カートから1つ以上のアイテムが削除されました。ご注文内容が正しいことを確認してください。"
 
 msgid "One or more of your fields has no name. Please enter a name for your field."
-msgstr "フィールドの1つ以上に名前がありません。フィールドの名前を入力してください。"
+msgstr "項目の1つ以上に名前がありません。項目の名前を入力してください。"
 
 msgid "One per line"
 msgstr "1行につき1つ"
@@ -5325,7 +5325,7 @@ msgid "Other copies may still be available; check your cart to see the details o
 msgstr "同一商品がマーケットプレイスにある可能性があります。カートにて、変更された内容とマーケットプレイスでの同一商品の在庫状況を確認しましょう。"
 
 msgid "Other submissions to check"
-msgstr "その他にチェックするサブミッション"
+msgstr "その他にチェックする投稿"
 
 msgid "Other versions of this release may also be available for purchase:"
 msgstr "このリリースの別バージョンも出品されている可能性があります。"
@@ -5485,7 +5485,7 @@ msgid ""
 "Payment should <strong>only</strong> be made to the seller according to the method and details listed above.\n"
 "If a seller requests payment using information that differs from what is listed above,\n"
 "Discogs recommends you ask the seller to update their payment details and relist the item(s) for sale."
-msgstr "支払いの際は、<strong>上記に記載された支払い方法および詳細でのみ</strong>支払いを行うようにしてください。売り手が上記以外の方法を希望した場合は、先にセール商品の上記支払い詳細を変更するよう売り手に要請することをおすすめします。"
+msgstr "支払いの際は、<strong>上記に記載された支払い方法および詳細でのみ</strong>支払いを行うようにしてください。出品者が上記以外の方法を希望した場合は、先にセール商品の上記支払い詳細を変更するよう出品者に要請することをおすすめします。"
 
 msgid "Payments:"
 msgstr "お支払い"
@@ -5547,10 +5547,10 @@ msgid "Please also note that Report Abuse is only to be used for genuine breache
 msgstr "また、迷惑行為の報告は利用規約に対して重大な違反行為が見られた場合のみ行うものとし、Discogsのメンバー間のささいな紛争を解決する手段として使用しないものとします。利用規約に違反しない行為に対する報告が繰り返された場合、お客様のアカウントが自動的に破棄されることがあります。"
 
 msgid "Please check all artist links. If the artist is a legitimate new entry for the database, please list them in the <em>Submission Notes</em> so other users can check."
-msgstr "すべてのアーティスト・リンクを確認してください。データベースでアーティストの正当な新しいエントリーがある場合は、他のユーザも確認できるように、それらを<em>サブミッションノート</em> でリストにしてください。"
+msgstr "すべてのアーティスト・リンクを確認してください。データベースでアーティストの正当な新しいエントリーがある場合は、他のユーザも確認できるように、それらを<em>投稿ノート</em> でリストにしてください。"
 
 msgid "Please check all label links. If the label is a legitimate new entry for the database, please list them in the <em>Submission Notes</em> so other users can check."
-msgstr "すべてのレーベル・リンクを確認してください。データベースでレーベルの正当な新しいエントリーがある場合は、他のユーザも確認できるように、それらを<em>サブミッションノート</em> でリストにしてください。"
+msgstr "すべてのレーベル・リンクを確認してください。データベースでレーベルの正当な新しいエントリーがある場合は、他のユーザも確認できるように、それらを<em>投稿ノート</em> でリストにしてください。"
 
 msgid "Please check for the buyer's payment and update the order to \"Payment Received\" if you've received the funds for this order."
 msgstr "買い手からの入金が確認できたら注文ステータスを\"Payment Received\"に更新してください。"
@@ -5560,7 +5560,7 @@ msgstr "重複して送信していないことを確認するために、上記
 
 #, python-format
 msgid "Please check these warning(s) against your submission, and if needed the <a href=\"%(submission_guidelines_link)s\" target=\"_blank\">Submission Guidelines</a>.  If you have verified a warning is not applicable to your submission, please tick the box to clear it, otherwise please correct the error. The moderators will be made aware of any warnings, so you may need to write a short explanation in the Submission Notes so they can double check easily.  The more information you can give at this stage, the easier and quicker your submission can be processed and accepted to the database.  If you have any queries or problems, please save this submission to your drafts, and ask in the <a href=\"%(forum_link)s\" target=\"_blank\">Adding / Updating Forum Topic</a>.  Thank you!"
-msgstr "お客様のサブミッションに対して、これらの警告や必要に応じて<a href=\"%(submission_guidelines_link)s\" target=\"_blank\">サブミッションガイド</a>を確認してください。警告がお客様のサブミッションが適用していないと確認された場合、チェックボックスをクリアにして、それ以外の場合はエラーを修正してください。モデレーターは警告を知らせますが、それらを簡単にダブルチェックできますのでお客様がサブミッションノートに少し説明を記述する必要があります。この段階でより多くの情報与えることができますし、より簡単かつ迅速にお客様のサブミッションを処理し、データベースに受け入れることができます。お客様が任意の質問や問題がある場合は、ドラフトにこのサブミッションを保存し、そして<a href=\"%(forum_link)s\" target=\"_blank\">フォーラムのトピックを追加・更新</a>で質問をお願いします。"
+msgstr "お客様の投稿に対して、これらの警告や必要に応じて<a href=\"%(submission_guidelines_link)s\" target=\"_blank\">投稿ガイド</a>を確認してください。警告がお客様の投稿が適用していないと確認された場合、チェックボックスをクリアにして、それ以外の場合はエラーを修正してください。モデレーターは警告を知らせますが、それらを簡単にダブルチェックできますのでお客様が投稿ノートに少し説明を記述する必要があります。この段階でより多くの情報与えることができますし、より簡単かつ迅速にお客様の投稿を処理し、データベースに受け入れることができます。お客様が任意の質問や問題がある場合は、下書きにこの投稿を保存し、そして<a href=\"%(forum_link)s\" target=\"_blank\">フォーラムのトピックを追加・更新</a>で質問をお願いします。"
 
 msgid ""
 "Please check your PayPal account for the buyer's payment. If payment has\n"
@@ -5588,18 +5588,18 @@ msgid "Please complete your %s before listing this item"
 msgstr "このアイテムをリストにする前に、%sを入力してください"
 
 msgid "Please complete your Seller Settings before continuing."
-msgstr "続行する前に、売り手の設定を入力してください。"
+msgstr "続行する前に、出品者の設定を入力してください。"
 
 msgid "Please complete your Seller Settings before listing items."
-msgstr "アイテムをリスト化する前に、売り手の設定を入力してください。"
+msgstr "アイテムをリスト化する前に、出品者の設定を入力してください。"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Please contact the seller to arrange for payment"
-msgstr "売り手に連絡して、お支払いの手続きを取ってください。"
+msgstr "出品者に連絡して、お支払いの手続きを取ってください。"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Please contact the seller via the order page to arrange for payment:"
-msgstr "注文ページから売り手に連絡して、お支払いの手続きを取ってください。"
+msgstr "注文ページから出品者に連絡して、お支払いの手続きを取ってください。"
 
 msgid "Please do not post billing questions in our Forum."
 msgstr "お支払いに関する質問は掲示板に投稿しないでください。"
@@ -5888,7 +5888,7 @@ msgid "Promoted %s to group admin."
 msgstr "グループ管理者へ%sを勧めた。"
 
 msgid "Public"
-msgstr "公的"
+msgstr "公開"
 
 msgid "Public Comments"
 msgstr "公開コメント"
@@ -5937,7 +5937,7 @@ msgid "Quote Selection"
 msgstr "選択アイテムを見積もる"
 
 msgid "Random Item"
-msgstr "ランダムなアイテム"
+msgstr "ランダム表示"
 
 msgid "Rank"
 msgstr "ランキング"
@@ -5951,7 +5951,7 @@ msgstr "<strong>1注文ごとに</strong>買い手を評価する"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Rate the seller once for <strong>each order</strong>."
-msgstr "<strong>1注文ごとに</strong>売り手を評価する"
+msgstr "<strong>1注文ごとに</strong>出品者を評価する"
 
 #, python-format
 msgid "Rate your experience with %(person)s"
@@ -5989,7 +5989,7 @@ msgstr "%(group_name)sのすべてのディスカッションを見る"
 
 #, python-format
 msgid "Read and understand the <a href=\"%(link)s\" target=\"_blank\">Submission Guide</a>."
-msgstr "<a href=\"%(link)s\" target=\"_blank\">サブミッションガイド</a>をご確認お願いします。"
+msgstr "<a href=\"%(link)s\" target=\"_blank\">投稿ガイド</a>をご確認お願いします。"
 
 msgid "Ready to contribute?"
 msgstr "参加の準備はできましたか？"
@@ -6063,7 +6063,7 @@ msgid "Recommended"
 msgstr "おすすめ"
 
 msgid "Recommended from this seller"
-msgstr "この売り手からのおすすめ"
+msgstr "この出品者からのおすすめ"
 
 #, python-format
 msgid "Record Store Day %(year)s"
@@ -6095,7 +6095,7 @@ msgid "Register Using Google"
 msgstr "Google アカウントで登録"
 
 msgid "Register your application now!"
-msgstr "アプリを作成"
+msgstr "アプリケーションを登録"
 
 msgid "Related Help Documents"
 msgstr "関連するヘルプ項目"
@@ -6122,7 +6122,7 @@ msgstr "リリースID%dは、既に統合待ちなので、統合の対象で�
 
 #, python-format
 msgid "Release ID %d is not eligible for merging because it is a Draft that has never been submitted."
-msgstr "リリースID%dは、送信されていないドラフトであるため、統合の対象ではありません。"
+msgstr "リリースID%dは、送信されていない下書きであるため、統合の対象ではありません。"
 
 msgid "Release Information"
 msgstr "リリース情報"
@@ -6173,16 +6173,16 @@ msgid ""
 "Remember: it is your responsibility to work with the buyer in arranging\n"
 "payment and shipping. Failure to complete this purchase may result in\n"
 "you receiving negative seller feedback."
-msgstr "注意：配送および支払いに関する詳細は、お客様が責任を持って売り手のユーザーと取り決めを行ってください。取引がうまくいかなかった場合、買い手として悪い評価を受けることがあります。"
+msgstr "注意：配送および支払いに関する詳細は、お客様が責任を持って出品者のユーザーと取り決めを行ってください。取引がうまくいかなかった場合、買い手として悪い評価を受けることがあります。"
 
 msgid ""
 "Remember: it is your responsibility to work with the seller in arranging\n"
 "payment and shipping. Failure to complete this purchase may result in\n"
 "you receiving negative buyer feedback."
-msgstr "注意：配送および支払いに関する詳細は、お客様が責任を持って売り手のユーザーと取り決めを行ってください。取引がうまくいかなかった場合、買い手として悪い評価を受けることがあります。"
+msgstr "注意：配送および支払いに関する詳細は、お客様が責任を持って出品者のユーザーと取り決めを行ってください。取引がうまくいかなかった場合、買い手として悪い評価を受けることがあります。"
 
 msgid "Remove"
-msgstr "削除する"
+msgstr "削除"
 
 #, python-format
 msgid "Remove %(thing)s"
@@ -6240,10 +6240,10 @@ msgid "Remove selected"
 msgstr "選択中の[item]を削除"
 
 msgid "Remove this"
-msgstr "削除する"
+msgstr "削除"
 
 msgid "Remove this image"
-msgstr "削除する"
+msgstr "削除"
 
 msgid "Remove this release?"
 msgstr "このリリースを削除しますか？"
@@ -6331,7 +6331,7 @@ msgid "Reply to Feedback"
 msgstr "フィードバックへ返信"
 
 msgid "Reply to a comment someone has left about your buyer or seller performance."
-msgstr "お客様の売り手または買い手評価へのコメントに対して返信する"
+msgstr "お客様の出品者または買い手評価へのコメントに対して返信する"
 
 # フィードバックとしていますが、利用方法にあわせて「ご意見」や「ご感想」、「コメント」に変更してください。
 msgid "Reply to feedback"
@@ -6390,7 +6390,7 @@ msgid "Request #%(id)s"
 msgstr "リクエスト #%(id)s"
 
 msgid "Request Data Export"
-msgstr "データのエクスポートをリクエスト"
+msgstr "データをエクスポート"
 
 msgid "Request Feedback Review"
 msgstr "フィードバックのレビューをリクエスト"
@@ -6487,16 +6487,16 @@ msgid "Save Changes"
 msgstr "変更を保存"
 
 msgid "Save Draft"
-msgstr "ドラフトを保存"
+msgstr "下書きを保存"
 
 msgid "Save Fields"
-msgstr "保存フィールド"
+msgstr "項目を保存"
 
 msgid "Save Group Settings"
 msgstr "グループ設定を保存"
 
 msgid "Save Information"
-msgstr "情報を保存"
+msgstr "保存"
 
 msgid "Save Item"
 msgstr "アイテムを保存"
@@ -6505,7 +6505,7 @@ msgid "Save Labs Settings"
 msgstr "Labsの設定を保存"
 
 msgid "Save Notification Settings"
-msgstr "通知設定を保存する"
+msgstr "通知設定を保存"
 
 msgid "Save Notify Setting"
 msgstr "通知設定を保存"
@@ -6526,10 +6526,10 @@ msgid "Save group settings"
 msgstr "グループ設定を保存"
 
 msgid "Save my privacy settings"
-msgstr "私のプライバシー設定を保存します"
+msgstr "プライバシー設定を保存"
 
 msgid "Save settings"
-msgstr "設定を保存します"
+msgstr "設定を保存"
 
 msgid "Save your changes"
 msgstr "変更を保存"
@@ -6550,7 +6550,7 @@ msgid "Saved Labs Preferences"
 msgstr "Labsの環境設定を保存"
 
 msgid "Saved Submissions"
-msgstr "保存したサブミッション"
+msgstr "保存した投稿"
 
 msgid "Saved Topics"
 msgstr "トピックを保存"
@@ -6606,7 +6606,7 @@ msgid "Search Similar"
 msgstr "類似検索"
 
 msgid "Search Submissions"
-msgstr "サブミッションを検索"
+msgstr "投稿を検索"
 
 msgid "Search Wantlist"
 msgstr "ほしい物リストを検索"
@@ -6770,24 +6770,24 @@ msgid "Sell-Blocked Releases"
 msgstr "売るのがブロックされたリリース"
 
 msgid "Seller"
-msgstr "売り手"
+msgstr "出品者"
 
 # フィードバックとしていますが、利用方法にあわせて「ご意見」や「ご感想」、「コメント」に変更してください。
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Seller Feedback"
-msgstr "売り手のフィードバック"
+msgstr "出品者のフィードバック"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Seller Information"
-msgstr "売り手の情報"
+msgstr "出品者の情報"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Seller Not Responding"
-msgstr "売り手から返事なし"
+msgstr "出品者から返事なし"
 
 #, python-format
 msgid "Seller Not Responding report for Order #%(order_id)s"
-msgstr "売り手から返事なし 注文 #%(order_id)sの報告をする。"
+msgstr "出品者から返事なし 注文 #%(order_id)sの報告をする。"
 
 #, python-format
 msgid ""
@@ -6799,74 +6799,74 @@ msgid ""
 "buyers to resolve concerns, then update our staff via the support thread to\n"
 "review the account for reactivation."
 msgstr ""
-"売り手から返事なし：注文に関する問い合わせを開いた後、買い手に返信をしなかった場合、\n"
+"出品者から返事なし：注文に関する問い合わせを開いた後、買い手に返信をしなかった場合、\n"
 "買い手の最後の問い合わせに４日以上返信しなかったとして自動的にアカウントが停止されることがあります。\n"
-"その場合、このページの下にあるお問い合せ%(url)sから\"売り手から返事がありません\"を確認してください。さらに、買い手に連絡して問題解決後、\n"
+"その場合、このページの下にあるお問い合せ%(url)sから\"出品者から返事がありません\"を確認してください。さらに、買い手に連絡して問題解決後、\n"
 "サポートスレッドでDiscogsのスタッフに状況を伝え、アカウントの停止解除を申請してください。"
 
 msgid "Seller Promo"
-msgstr "売り手のキャンペーン"
+msgstr "出品者のキャンペーン"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Seller Settings"
-msgstr "売り手の評価"
+msgstr "出品者の評価"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Seller Suspension Pending"
-msgstr "売り手のアカウント制限は保留中です"
+msgstr "出品者のアカウント制限は保留中です"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Seller Terms"
-msgstr "売り手の規約"
+msgstr "出品者の規約"
 
 msgid "Seller To Provide"
-msgstr "売り手が提供"
+msgstr "出品者が提供"
 
 # 文言の前に日付が入ります。
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Seller changed this item's price on"
-msgstr "に売り手がこのアイテムの価格を変更しました。"
+msgstr "に出品者がこのアイテムの価格を変更しました。"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Seller has NOT archived this Order"
-msgstr "売り手はまだこの注文をアーカイブしていません。"
+msgstr "出品者はまだこの注文をアーカイブしていません。"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Seller has archived this Order"
-msgstr "売り手はこの注文をアーカイブしました。"
+msgstr "出品者はこの注文をアーカイブしました。"
 
 #, python-format
 msgid "Seller has been suspended for Order #%(order_id)s"
-msgstr "売り手の注文 #%(order_id)sに対する利用が制限されました。"
+msgstr "出品者の注文 #%(order_id)sに対する利用が制限されました。"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 #, python-format
 msgid "Seller has responded to Order #%(order_id)s"
-msgstr "売り手から注文 #%(order_id)sについての返信が届きました。"
+msgstr "出品者から注文 #%(order_id)sについての返信が届きました。"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Seller not responding?"
-msgstr "売り手から返事がありませんか？"
+msgstr "出品者から返事がありませんか？"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Seller rating"
-msgstr "売り手の評価"
+msgstr "出品者の評価"
 
 # 名詞が無いため項目としましたが、必要であれば削除・差し替えしてください。
 msgid "Seller to provide"
-msgstr "売り手が提供する項目"
+msgstr "出品者が提供する項目"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Seller's Agreement"
-msgstr "売り手の規約"
+msgstr "出品者の規約"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Seller's Shipping Information"
-msgstr "売り手の郵送情報"
+msgstr "出品者の郵送情報"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "Sellers Code"
-msgstr "売り手のコード"
+msgstr "出品者のコード"
 
 msgid "Selling Music"
 msgstr "オーディオの出品"
@@ -6917,7 +6917,7 @@ msgstr "送信済み"
 
 # 現在のサイトに沿って、買い手としていますが、購入者のほうがよいかと思います。
 msgid "Separate by space or one per line. These buyers will not be able to make purchases from you."
-msgstr "スペースまたは改行で区切ってください。買い手は購入ができなくなります。"
+msgstr "スペースまたは改行で区切ってください。入力された買い手はお客様のアイテムの購入ができなくなります。"
 
 msgid "Series"
 msgstr "シリーズ"
@@ -6943,7 +6943,7 @@ msgid "Set your shipping address now"
 msgstr "郵送住所を設定する"
 
 msgid "Set your timezone, browsing options, profile information, change your email address, or update your password."
-msgstr "タイムゾーンの設定、ブラウザーの設定、プロフィール、メールアドレスの変更、パスワードの更新。"
+msgstr "タイムゾーン、閲覧オプション、プロフィール情報、メールアドレス、パスワードの設定。"
 
 msgid "Settings"
 msgstr "設定"
@@ -7004,7 +7004,7 @@ msgid "Ships From:"
 msgstr "から出荷"
 
 msgid "Shop for"
-msgstr "の買い物"
+msgstr "ショッピング"
 
 msgid "Shopping Cart"
 msgstr "ショッピングカート"
@@ -7107,7 +7107,7 @@ msgid "Sold"
 msgstr "売却済み"
 
 msgid "Sold by"
-msgstr "売り手："
+msgstr "出品者："
 
 msgid "Sold in"
 msgstr "販売している国または地域"
@@ -7154,7 +7154,7 @@ msgstr "オファーするにはログインする必要があります。"
 
 # 訳の前に続きの文言が入ります。
 msgid "Sort By:"
-msgstr "で整列"
+msgstr "順番"
 
 #, python-format
 msgid "Spam: %s (in IP bans)"
@@ -7164,7 +7164,7 @@ msgid "Staff"
 msgstr "スタッフ"
 
 msgid "Start Shopping"
-msgstr "買い物をはじめる"
+msgstr "ショッピングをはじめる"
 
 msgid "Start by entering your promo code located on the back of the card you received."
 msgstr "カードの裏側にあるキャンペーンコードを入力することからはじめよう。"
@@ -7173,10 +7173,10 @@ msgid "Start over"
 msgstr "やり直し"
 
 msgid "Start selling now!"
-msgstr "さぁ売りましょう！"
+msgstr "出品する"
 
 msgid "Start shopping now!"
-msgstr "ショッピングを始めましょう！"
+msgstr "ショッピングをはじめる！"
 
 msgid "State/Province"
 msgstr "県"
@@ -7192,7 +7192,7 @@ msgid "Stats for"
 msgstr "のために制御する"
 
 msgid "Status"
-msgstr "ステイタス"
+msgstr "ステータス"
 
 #, python-format
 msgid "Step %(pagestep)s of 3"
@@ -7236,38 +7236,38 @@ msgid_plural "Sublabels"
 msgstr[0] "サブレーベル"
 
 msgid "Submission Guidelines"
-msgstr "サブミッションガイド"
+msgstr "投稿ガイド"
 
 msgid "Submission Notes"
-msgstr "サブミッションノート"
+msgstr "投稿ノート"
 
 # 備考としていますが、おかしければサブミッションノートとしてください。
 msgid "Submission Notes (Required)"
 msgstr "備考（必須）"
 
 msgid "Submissions"
-msgstr "サブミッション"
+msgstr "投稿"
 
 msgid "Submissions for"
-msgstr "サブミッション："
+msgstr "投稿："
 
 #, python-format
 msgid "Submissions for artist %s"
-msgstr "%s アーティストに関するサブミッション"
+msgstr "%s アーティストに関する投稿"
 
 #, python-format
 msgid "Submissions for label %s"
-msgstr "%s レーベルに関するサブミッション"
+msgstr "%s レーベルに関する投稿"
 
 msgid "Submissions from List (past 90 days):"
-msgstr "過去90日間のリストからのサブミッション："
+msgstr "過去90日間のリストからの投稿："
 
 msgid "Submissions from user"
-msgstr "ユーザからのサブミッション"
+msgstr "ユーザからの投稿"
 
 #, python-format
 msgid "Submissions from user %s"
-msgstr "%sユーザからのサブミッション"
+msgstr "%sユーザからの投稿"
 
 msgid "Submit"
 msgstr "送信する"
@@ -7426,8 +7426,8 @@ msgid ""
 "not responding. We've contacted the seller and asked them to respond to you via\n"
 "the <a href=\"%(order_url)s\">order page</a>.\n"
 msgstr ""
-"「売り手から返事なし」のご報告、ありがとうございました。ご迷惑をおかけして申し訳ございません。\n"
-"売り手に、<a href=\"%(order_url)s\">注文ページ</a>からの返信をリクエストしましたので、\n"
+"「出品者から返事なし」のご報告、ありがとうございました。ご迷惑をおかけして申し訳ございません。\n"
+"出品者に、<a href=\"%(order_url)s\">注文ページ</a>からの返信をリクエストしましたので、\n"
 "今しばらくお待ちください。\n"
 
 msgid ""
@@ -7435,8 +7435,8 @@ msgid ""
 "not responding. We've contacted the seller and asked them to respond to you via\n"
 "the order page."
 msgstr ""
-"「売り手から返事なし」のご報告、ありがとうございました。ご迷惑をおかけして申し訳ございません。\n"
-"売り手に、注文ページからの返信をリクエストしましたので、\n"
+"「出品者から返事なし」のご報告、ありがとうございました。ご迷惑をおかけして申し訳ございません。\n"
+"出品者に、注文ページからの返信をリクエストしましたので、\n"
 "今しばらくお待ちください。"
 
 # 訳の前に続きの文言が入ります。
@@ -7498,7 +7498,7 @@ msgid "Thank you. Your report was received."
 msgstr "ありがとうございます。報告を受け取りました。"
 
 msgid "Thank you. Your report was received. Listed below are copies of the release available from other sellers."
-msgstr "ありがとうございます。報告を受け取りました。以下は、同じリリースに関する他の売り手の情報。"
+msgstr "ありがとうございます。報告を受け取りました。以下は、同じリリースに関する他の出品者の情報。"
 
 msgid "Thank you. Your request has been submitted."
 msgstr "ありがとうございます。お客様のリクエストを送信しました。"
@@ -7535,13 +7535,13 @@ msgstr "Discogsブログ"
 
 #, python-format
 msgid "The Discogs Marketplace connects buyers and sellers across the globe. With more than %(num)s million items available and thousands of sellers, this is the premier spot from new releases to hard to find gems. Because the Marketplace is built on top of the accurate Discogs database, it is easy for sellers to list their inventory and buyers are able to specify the exact version they want."
-msgstr "Discogsマーケットプレイスは世界中の売り手と買い手を繋いでいます。何千という売り手と%(num)s何百万アイテム以上のアイテム数で新しいアイテムから貴重な入手困難商品まで見つけることができる場所となっています。Discogsの正確なデータベースをもとにしたマーケットプレイスであることから売り手にとって在庫をリストしやすく、買い手にとって欲しいものを見つけやすい場所になっています。"
+msgstr "Discogsマーケットプレイスは世界中の出品者と買い手を繋いでいます。何千という出品者と%(num)s何百万アイテム以上のアイテム数で新しいアイテムから貴重な入手困難商品まで見つけることができる場所となっています。Discogsの正確なデータベースをもとにしたマーケットプレイスであることから出品者にとって在庫をリストしやすく、買い手にとって欲しいものを見つけやすい場所になっています。"
 
 msgid "The Discogs Team"
 msgstr "Discogチーム"
 
 msgid "The Format Field"
-msgstr "フォーマットフィールド"
+msgstr "項目のフォーマット"
 
 msgid "The Marketplace"
 msgstr "マーケットプレイス"
@@ -7561,15 +7561,15 @@ msgstr "アプリからのアクセスは取り下げられました。"
 # 現在のサイトに沿って、買い手としていますが、購入者のほうがよいかと思います。
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "The buyer did not pay for this item within the 4 day time limit. The seller can cancel any time after that point."
-msgstr "買い手は期限である4日以内にアイテムへの支払を完了しませんでした。売り手はいつでも注文をキャンセルすることができます。"
+msgstr "買い手は期限である4日以内にアイテムへの支払を完了しませんでした。出品者はいつでも注文をキャンセルすることができます。"
 
 # 現在のサイトに沿って、買い手としていますが、購入者のほうがよいかと思います。
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "The buyer has acknowledged receipt of the seller's refund."
-msgstr "買い手は売り手の返金領収書を確認しました。"
+msgstr "買い手は出品者の返金領収書を確認しました。"
 
 msgid "The buyer has been sent an invoice by the seller. The order is ready for payment!"
-msgstr "売り手から買い手に対して請求書が送信されました。この注文の支払の準備ができました。"
+msgstr "出品者から買い手に対して請求書が送信されました。この注文の支払の準備ができました。"
 
 #, python-format
 msgid ""
@@ -7579,7 +7579,7 @@ msgid ""
 msgstr ""
 "買い手はこの注文に対しての返信をリクエストしています。\n"
 "%(deadline)s日以内に返信しなかった場合、\n"
-"売り手のアカウントは使用停止となります。"
+"出品者のアカウントは使用停止となります。"
 
 msgid ""
 "The buyer has selected PayPal as their payment method and was\n"
@@ -7666,12 +7666,12 @@ msgid ""
 "by another buyer or the seller removed them from the marketplace:"
 msgstr ""
 "以下のアイテムはカートから削除されました。\n"
-"他の買い手が購入したか、または売り手がマーケットプレイスから削除したためとなります。"
+"他の買い手が購入したか、または出品者がマーケットプレイスから削除したためとなります。"
 
 # 現在のサイトに沿って、買い手としていますが、購入者のほうがよいかと思います。
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "The following items have been removed from your cart; they were purchased by another buyer or the seller removed them from the marketplace:"
-msgstr "以下のアイテムはカートから削除されました。他の買い手が購入したか、または売り手がマーケットプレイスから削除したためとなります。"
+msgstr "以下のアイテムはカートから削除されました。他の買い手が購入したか、または出品者がマーケットプレイスから削除したためとなります。"
 
 msgid "The following labels/companies are new to the database:"
 msgstr "このレーベル・会社は新しくデータベースに追加されました："
@@ -7693,7 +7693,7 @@ msgid "The image file %s was too small to upload. Images must be at least %s wid
 msgstr "%s画像ファイルが小さすぎます。幅は%s以上にしてください。"
 
 msgid "The information you entered is correct, but you don't have a PayPal Verified account. Buyers feel more confident doing business with PayPal Verified sellers, who are more likely to be legitimate, trustworthy merchants."
-msgstr "ご入力いただいた情報は正しいですが、PayPalの認証済みアカウントを持っていません。買い手はPayPalの認証済み売り手とのやり取りを望んでいます。"
+msgstr "ご入力いただいた情報は正しいですが、PayPalの認証済みアカウントを持っていません。買い手はPayPalの認証済み出品者とのやり取りを望んでいます。"
 
 msgid "The invoice will be marked as paid after PayPal authorizes the transaction. If you paid via eCheck or bank transfer there will be a delay of 3-7 days before the payment is completed."
 msgstr "PayPalが取引を承認したら、請求書が「支払ずみ」になります。eチェックや銀行振込で支払った場合、支払完了まで3～7日が掛かります。ご了承ください。"
@@ -7719,12 +7719,12 @@ msgstr "レーベル名。"
 # 現在のサイトに沿って、買い手としていますが、購入者のほうがよいかと思います。
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "The order has been cancelled by the seller as requested by the buyer."
-msgstr "買い手のリクエストに従って、売り手が注文をキャンセルしました。"
+msgstr "買い手のリクエストに従って、出品者が注文をキャンセルしました。"
 
 # 現在のサイトに沿って、買い手としていますが、購入者のほうがよいかと思います。
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "The order has been cancelled by the seller as the item is out of stock or no longer available for sale."
-msgstr "在庫がないため、売り手が注文をキャンセルしました。"
+msgstr "在庫がないため、出品者が注文をキャンセルしました。"
 
 # 現在のサイトに沿って、買い手としていますが、購入者のほうがよいかと思います。
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
@@ -7738,10 +7738,10 @@ msgstr "配送方法の順番設定はとても重要です。Discogsでは、�
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 #, python-format
 msgid "The order was created on %(date)s by the buyer! An invoice will be sent if automatic shipping is in place, otherwise the seller will send a manual invoice."
-msgstr "この注文は%(date)sに買い手によって作成されました。自動郵送機能が設定されている場合、自動的に請求書が送信されます。設定されていない場合は、売り手から請求書が送られてきます。"
+msgstr "この注文は%(date)sに買い手によって作成されました。自動郵送機能が設定されている場合、自動的に請求書が送信されます。設定されていない場合は、出品者から請求書が送られてきます。"
 
 msgid "The payment has been made and will be confirmed by the seller shortly. If the payment clears but is not confirmed by the seller, please message them directly."
-msgstr "お支払いが完了しました。間もなく売り手の確認が完了します。売り手の確認が届かない場合は、直接メッセージをお送りください。"
+msgstr "お支払いが完了しました。間もなく出品者の確認が完了します。出品者の確認が届かない場合は、直接メッセージをお送りください。"
 
 msgid "The provided password reset token was invalid or has expired. If you wish to reset your password, use the form below to send a new token."
 msgstr "パスワード解除トークンが無効です。もしくは期限切れです。パスワードをリセットした場合は以下のフォームを使って新しいトークンを送ってください。"
@@ -7770,27 +7770,27 @@ msgid "The sale of mp3 or other primarily file-based releases is not permitted i
 msgstr "Discogsマーケットプレイス上でmp3等の音楽ファイルのみを使ったリリースは禁止されています"
 
 msgid "The seller has <em>changed the contents</em> of this order. You must accept or reject the changes"
-msgstr "売り手はこの注文の<em>内容を変更しました</em>。変更に対して同意または拒否してください。"
+msgstr "出品者はこの注文の<em>内容を変更しました</em>。変更に対して同意または拒否してください。"
 
 msgid "The seller has confirmed receiving payment for the order. The seller is preparing the order for shipment!"
-msgstr "売り手がこの注文の入金を確認しました。現在、郵送の準備中です。"
+msgstr "出品者がこの注文の入金を確認しました。現在、郵送の準備中です。"
 
 #, python-format
 msgid "The seller has issued a full refund for the purchase price of <a href=\"%(order_url)s\">Order #%(order_id)s</a>."
-msgstr "売り手は、<a href=\"%(order_url)s\">注文 #%(order_id)s</a>の購入金額を全額返金しました。"
+msgstr "出品者は、<a href=\"%(order_url)s\">注文 #%(order_id)s</a>の購入金額を全額返金しました。"
 
 #, python-format
 msgid "The seller has issued a full refund for the purchase price of Order #%(order_id)s:"
-msgstr "売り手は、注文 #%(order_id)sの購入金額を全額返金しました。"
+msgstr "出品者は、注文 #%(order_id)sの購入金額を全額返金しました。"
 
 msgid "The seller has issued a full refund for the purchase price of this order. Have you received the refund yet?"
-msgstr "売り手は、この注文の購入金額を全額返金しました。返金は届きましたか？"
+msgstr "出品者は、この注文の購入金額を全額返金しました。返金は届きましたか？"
 
 msgid "The seller has merged this order with one or more orders with the same buyer. This helps keep track of all items ordered by the same buyer!"
-msgstr "売り手はこの注文と、同じ買い手からの他の注文をまとめました。これにより同じ買い手からの注文状況を確認しやすなります。"
+msgstr "出品者はこの注文と、同じ買い手からの他の注文をまとめました。これにより同じ買い手からの注文状況を確認しやすなります。"
 
 msgid "The seller has provided a message to the buyer, acknowledging the order is valid. This is a good time to send messages before the item ships!"
-msgstr "売り手から買い手に対して注文確認のメッセージが送られました。注文に関してご質問やご意見がある場合は、メッセージをお送りください。"
+msgstr "出品者から買い手に対して注文確認のメッセージが送られました。注文に関してご質問やご意見がある場合は、メッセージをお送りください。"
 
 #, python-format
 msgid ""
@@ -7801,18 +7801,18 @@ msgid ""
 "payment service you used. You also have the option to leave the seller\n"
 "appropriate feedback through Discogs."
 msgstr ""
-"売り手からの返信が<a href=\"%(order_url)s\">注文ページ</a>に届いています。\n"
-"問題が生じた場合は、まず売り手にお問い合わせください。\n"
+"出品者からの返信が<a href=\"%(order_url)s\">注文ページ</a>に届いています。\n"
+"問題が生じた場合は、まず出品者にお問い合わせください。\n"
 "問題が解決しない場合は、ご利用の金融機関に報告してください。\n"
-"また、売り手に対して問題についての\n"
+"また、出品者に対して問題についての\n"
 "適切なフィードバックを残すことをおすすめします。\n"
 " "
 
 msgid "The seller has provided a response via the order page:"
-msgstr "売り手からの返信が注文ページに届いています。"
+msgstr "出品者からの返信が注文ページに届いています。"
 
 msgid "The seller has refunded the buyer. The buyer should confirm the refund when it is received."
-msgstr "売り手が買い手に返金しました。買い手は返金を確認してください。"
+msgstr "出品者が買い手に返金しました。買い手は返金を確認してください。"
 
 msgid ""
 "The seller has the option to accept or decline your offer within\n"
@@ -7820,19 +7820,19 @@ msgid ""
 "make another offer on the item. You only get one chance to make an\n"
 "offer on an item, so be sure it's a good one!"
 msgstr ""
-"売り手は５日以内であれば、お客様のオファーを承諾もしくは断ることができます。\n"
+"出品者は５日以内であれば、お客様のオファーを承諾もしくは断ることができます。\n"
 "もしその期間にオファーが承諾されなければ、その商品に対して再度オファーをすることはできません。\n"
 "オファーの機会は一回のみとなりますので、\n"
 "提示前に十分検討することをおすすめします。"
 
 msgid "The seller is accepting offers on this item. See terms below."
-msgstr "売り手はこのアイテムのオファーに同意しました。以下の規約をご確認ください。"
+msgstr "出品者はこのアイテムのオファーに同意しました。以下の規約をご確認ください。"
 
 msgid "The seller will contact you with instructions on how to complete your order."
-msgstr "売り手から注文完了方法についての連絡がきます。"
+msgstr "出品者から注文完了方法についての連絡がきます。"
 
 msgid "The seller's full payment information will be displayed after they have sent you an invoice."
-msgstr "売り手が請求書を送信後、支払情報が表示されるようになります。"
+msgstr "出品者が請求書を送信後、支払情報が表示されるようになります。"
 
 msgid ""
 "The selling fee charged to you by Discogs cannot be added as a\n"
@@ -7911,7 +7911,7 @@ msgid "There is a new response to the %(type)s posted on Discogs"
 msgstr "Discogsに投稿された%(type)sに返信があります。"
 
 msgid "There is no Discogs user with that e-mail address."
-msgstr "このeメールアドレスのDiscogsユーザの登録はありません。"
+msgstr "このメールアドレスのDiscogsユーザの登録はありません。"
 
 msgid "There is too much data to efficiently compute and show differences; the revisions below are rendered <b>without</b> highlighting differences."
 msgstr "データが多すぎて効率よく相違部分の表示ができません。リストは相違部分を強調<b>しない</b>形で表示されます。"
@@ -7949,7 +7949,7 @@ msgid "There was an problem saving your changes. Please try again."
 msgstr "変更の保存ができません。やり直してください。"
 
 msgid "There were errors with your submission."
-msgstr "お客様のサブミッションに問題が発生しました。"
+msgstr "お客様の投稿に問題が発生しました。"
 
 msgid "There's no doubt that the staff at London-based <a href=\"http://www.discogs.com/user/flashbacklondon?q=u:flashbacklondon\">Flash Back Records</a> are serious about their music. While they of course love collecting and listening to records, they also maintain active careers as musicians, performing and recording in various groups. Flash Back opened their first shop in London in 1997, expanding into the Crouch End area with a second shop in 2006. Flash Back Records has been a strong member of the Discogs community since 2011, with a <a href=\"http://www.discogs.com/seller/flashbacklondon\">marketplace</a> that's sure to please Rock fans, while also offering a great stock of records for other tastes."
 msgstr " ロンドンの<a href=\"http://www.discogs.com/user/flashbacklondon?q=u:flashbacklondon\">Flash Back Records</a>が音楽に対して真剣であるのは言うまでもありません。レコードを集めたり聞いたりするだけでなく、様々なグループでレコーディングやライブなどを行い、ミュージシャンとしても活動中。Flash Backは1997年ロンドンで開店し、2006年にロンドンのクラウチ・エンドに第二店舗をオープン。Flash Back Recordsは2011年からDiscogsのコミュニティー内でも力強いメンバーで、ロックファンに人気の <a href=\"http://www.discogs.com/seller/flashbacklondon\">マーケットプレイス</a>と同時に幅広いジャンルのレコードも豊富に備えています。"
@@ -8011,7 +8011,7 @@ msgid "This document is also available in these languages: "
 msgstr "この文書は以下の言語でも閲覧いただけます。"
 
 msgid "This domain of the provided email address is not allowed."
-msgstr "こちらのeメールアドレスのドメインは使用できません。"
+msgstr "こちらのメールアドレスのドメインは使用できません。"
 
 msgid "This event has expired and can no longer be shared."
 msgstr "このイベントは期限切れのためシェアできません。"
@@ -8206,7 +8206,7 @@ msgid "To finish resetting your password, please enter the new password you wish
 msgstr "パスワードをリセットするには、好きな新しいパスワードを入力してください。"
 
 msgid "To initiate the removal of this release please use the field below to explain why the release should be removed. Then click the Proceed button. After doing this all owners and contributors to this release will be notified about the removal request. There will need to be at least 4 agreeing votes before the release is removed."
-msgstr "このリリースを削除するには以下のフィールドを使ってリリース取り下げの理由を入力し、送信ボタンを押してください。そうすると、このリリースに関する全オーナーと協力者に削除のお知らせが届きます。そのうち4票以上の賛同が得られたら、削除されます。"
+msgstr "このリリースを削除するには以下の項目を使ってリリース取り下げの理由を入力し、送信ボタンを押してください。そうすると、このリリースに関する全オーナーと協力者に削除のお知らせが届きます。そのうち4票以上の賛同が得られたら、削除されます。"
 
 msgid "To place this order, you must first activate your account."
 msgstr "注文するにはアカウントを有効にする必要があります。"
@@ -8326,7 +8326,7 @@ msgid "Try the latest version of %(chrome_link)s, %(firefox_link)s, or upgrade t
 msgstr "最新の%(chrome_link)s, %(firefox_link)s を使うか、Internet Explorerの最新版にアップグレードしてください。"
 
 msgid "Try unchecking one of these fields"
-msgstr "選択したフィールドを一つ減らしてください"
+msgstr "選択した項目を一つ減らしてください"
 
 msgid "Turn on Help"
 msgstr "ヘルプを立ち上げる"
@@ -8552,7 +8552,7 @@ msgid "Use the <strong>order page</strong> to contact the buyer."
 msgstr "<strong>注文ページ</strong>から買い手に連絡してください。"
 
 msgid "Use the <strong>order page</strong> to contact the seller."
-msgstr "<strong>注文ページ</strong>から売り手に連絡してください。"
+msgstr "<strong>注文ページ</strong>から出品者に連絡してください。"
 
 msgid "Use this version of the data"
 msgstr "このバージョンのデータを利用"
@@ -8591,7 +8591,7 @@ msgid "Username or Email"
 msgstr "ユーザー名とメールアドレス"
 
 msgid "Username or email does not exist."
-msgstr "ユーザネーム、eメールアドレスの登録はありません。"
+msgstr "ユーザネーム、メールアドレスの登録はありません。"
 
 msgid "Users in Contributor Improvement Program (CIP)"
 msgstr "このユーザはコントリビューター インプルーブメントプログラム(CIP)の参加者です"
@@ -8709,7 +8709,7 @@ msgid "View feedback on buyer"
 msgstr "買い手へのフィードバックを見る"
 
 msgid "View feedback on seller"
-msgstr "売り手へのフィードバックを見る"
+msgstr "出品者へのフィードバックを見る"
 
 msgid "View formatting options"
 msgstr "フォーマットオプションを見る"
@@ -8741,7 +8741,7 @@ msgstr "%(user)sさんの出品商品をさらに見る"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "View more items from this seller"
-msgstr "この売り手の他の出品アイテムを見る"
+msgstr "この出品者の他の出品アイテムを見る"
 
 msgid "View more labels"
 msgstr "レーベルをさらに見る"
@@ -8792,7 +8792,7 @@ msgid "View results"
 msgstr "結果を見る"
 
 msgid "View submissions browser"
-msgstr "サブミッションブラウザーを見る"
+msgstr "投稿ブラウザーを見る"
 
 msgid "View this list"
 msgstr "このリストを見る"
@@ -8868,7 +8868,7 @@ msgid "Warning: Buyer suspension"
 msgstr "注意: 買い手アカウントの制限"
 
 msgid "Warning: Seller suspension"
-msgstr "注意: 売り手アカウントの制限"
+msgstr "注意: 出品者アカウントの制限"
 
 msgid "Warnings"
 msgstr "警告"
@@ -8893,10 +8893,10 @@ msgid ""
 "This seller's account remains suspended from the marketplace indefinitely\n"
 "due to their activity."
 msgstr ""
-"最近のレビューによると、現在取引中の売り手 %(username)sは\n"
+"最近のレビューによると、現在取引中の出品者 %(username)sは\n"
 "マーケットプレイスでの売買ができない状態、\n"
 "または不正行為に関わってる可能性があるようです。\n"
-"したがって、この売り手のアカウントはマーケットプレイス上で\n"
+"したがって、この出品者のアカウントはマーケットプレイス上で\n"
 "停止されています。"
 
 #, python-format
@@ -8907,10 +8907,10 @@ msgid ""
 "This seller's account remains suspended from the marketplace indefinitely due\n"
 "to their activity."
 msgstr ""
-"最近のレビューによると、現在取引中の売り手 %(username)sは\n"
+"最近のレビューによると、現在取引中の出品者 %(username)sは\n"
 "マーケットプレイスでの売買ができない状態、\n"
 "または不正行為に関わってる可能性があるようです。\n"
-"したがって、この売り手のアカウントはマーケットプレイス上で\n"
+"したがって、この出品者のアカウントはマーケットプレイス上で\n"
 "停止されています。"
 
 msgid "We are proactive in our pursuit of continuous improvement and excellence in our people, projects, products, services, and software."
@@ -8942,7 +8942,7 @@ msgid ""
 "for cancelled orders from an invoice no older than 90 days. Fee credits will\n"
 "not be given to sellers that adjust prices after an order has been placed\n"
 "(ie, \"buy 1 get 1 free\"; \"x% off\"; etc...)."
-msgstr "Discogsでは返金を行っておりませんが、90日以内の請求書内のキャンセル注文に対しては、次の請求に手数料クレジットを発行することができます。手数料クレジットは注文後価格を調整した売り手には発行されません。(例： \"buy 1 get 1 free\"; \"x% off\"; 等)"
+msgstr "Discogsでは返金を行っておりませんが、90日以内の請求書内のキャンセル注文に対しては、次の請求に手数料クレジットを発行することができます。手数料クレジットは注文後価格を調整した出品者には発行されません。(例： \"buy 1 get 1 free\"; \"x% off\"; 等)"
 
 msgid "We don't post anything to Facebook or Google without your permission."
 msgstr "お客様の許可無しにFacebookまたはGoogleに投稿しません。"
@@ -8974,9 +8974,9 @@ msgid ""
 "you used. You also have the option to leave the seller appropriate feedback\n"
 "through Discogs."
 msgstr ""
-"問題が生じた場合は、まず売り手にお問い合わせください。\n"
+"問題が生じた場合は、まず出品者にお問い合わせください。\n"
 "問題が解決しない場合は、ご利用の金融機関に報告してください。\n"
-"また、売り手に対して問題についての\n"
+"また、出品者に対して問題についての\n"
 "適切なフィードバックを残すことをおすすめします。\n"
 " "
 
@@ -9033,19 +9033,19 @@ msgid ""
 "page, your refund can be negotiated via PayPal. We also recommend leaving\n"
 "appropriate feedback for the seller on Discogs."
 msgstr ""
-"<a href=\"%(order_url)s\">注文ページ</a>に、売り手からの返信がありません。\n"
-"もし売り手に対するお支払いが完了しており、それでも問題が解決していない場合は、\n"
+"<a href=\"%(order_url)s\">注文ページ</a>に、出品者からの返信がありません。\n"
+"もし出品者に対するお支払いが完了しており、それでも問題が解決していない場合は、\n"
 "使用した金融機関でクレーム処理を行うことをおすすめします。\n"
 "Discogsは注文の支払い処理や、返金を行っておらず、すべて第三者機関が行っています。\n"
 "注文ページで直接支払いを行った場合は、PayPalに返金のお問い合わせをしてください。\n"
-"また、Discogsで売り手ユーザーに適切なフィードバックを残すことをおすすめします。\n"
+"また、Discogsで出品者ユーザーに適切なフィードバックを残すことをおすすめします。\n"
 " "
 
 msgid "We're sorry the seller didn't respond via the order page:"
-msgstr "売り手が注文ページに返信せず、ご迷惑をおかけしております。"
+msgstr "出品者が注文ページに返信せず、ご迷惑をおかけしております。"
 
 msgid "We're sorry the seller isn't responding."
-msgstr "売り手から返事がないのは残念です。"
+msgstr "出品者から返事がないのは残念です。"
 
 msgid "We're sorry you didn't find this helpful. Thank you for your input!"
 msgstr "お役に立てなくて残念です。フィードバックに感謝します。"
@@ -9055,11 +9055,11 @@ msgstr "大変申し訳ございません。お客様のリクエストを処理
 
 #, python-format
 msgid "We're sorry, your Discogs Marketplace <a href=\"%(order_url)s\">Order #%(order_id)s</a> for %(release_title)s is no longer available from this seller."
-msgstr "<a href=\"%(order_url)s\">注文 #%(order_id)s</a>（%(release_title)s）は売り手の在庫がないため取り消されました。大変申し訳ございません。"
+msgstr "<a href=\"%(order_url)s\">注文 #%(order_id)s</a>（%(release_title)s）は出品者の在庫がないため取り消されました。大変申し訳ございません。"
 
 #, python-format
 msgid "We're sorry, your Discogs Marketplace Order #%(order_id)s for %(release_title)s is no longer available from this seller."
-msgstr "注文 #%(order_id)s（%(release_title)s）は売り手の在庫がないため取り消されました。大変申し訳ございません。"
+msgstr "注文 #%(order_id)s（%(release_title)s）は出品者の在庫がないため取り消されました。大変申し訳ございません。"
 
 #, python-format
 msgid "We're unable to log you in via %s right now."
@@ -9086,7 +9086,7 @@ msgstr ""
 "取引は行わないでください。"
 
 msgid "We've contacted the seller regarding this order; check your inbox for further details."
-msgstr "この注文に関して売り手に連絡しました。詳細は受信メールを確認してください。"
+msgstr "この注文に関して出品者に連絡しました。詳細は受信メールを確認してください。"
 
 msgid "We've let the buyer know you've responded. Please be sure to follow up with them if they have additional questions or concerns."
 msgstr "買い手に返信があった旨を連絡いたしました。その他、ご不明点や追加の質問がないか改めて買い手にご確認ください。"
@@ -9098,8 +9098,8 @@ msgid ""
 "We've suspended the seller's account, pending their response. If the seller\n"
 "follows up with you after this message, please let us know."
 msgstr ""
-"返信がないため、この売り手のアカウントを利用停止にしました。\n"
-"このメッセージの受信後、売り手から連絡が会った場合はお知らせください。"
+"返信がないため、この出品者のアカウントを利用停止にしました。\n"
+"このメッセージの受信後、出品者から連絡が会った場合はお知らせください。"
 
 #, python-format
 msgid "Web Links %(optional)s"
@@ -9139,7 +9139,7 @@ msgid "What would you like to do?"
 msgstr "何がしたいですか？"
 
 msgid "When Discogs sends an announcement"
-msgstr "Discogsが何かを発表する時に"
+msgstr "Discogsからの通知"
 
 msgid "When I add a release to my collection"
 msgstr "コレクションにリリースを追加した時に"
@@ -9154,25 +9154,25 @@ msgid "When I submit a release to the database"
 msgstr "データベースにリリースを送信した時に"
 
 msgid "When a release in my collection is changed by another user"
-msgstr "他のユーザにわたしのコレクション上のリリースが変更された時に"
+msgstr "他のユーザにコレクションにあるリリースが変更された時"
 
 msgid "When a release in my inventory is changed by another user"
-msgstr "他のユーザにより自分のアイテムリストのリリースが変更された時に"
+msgstr "他のユーザによりアイテムリストにあるリリースが変更された時"
 
 msgid "When a release in my wantlist is listed for sale"
-msgstr "ほしい物リスト内のリリースが売りに出ていた時に"
+msgstr "ほしい物リストにあるリリースが出品された場合"
 
 msgid "When an item in my cart is no longer available"
-msgstr "カート内のアイテムが購入可能でなくなった時に"
+msgstr "カート内のアイテムが購入不可能となった場合"
 
 msgid "When an item listed in the Marketplace has a 'Make Offer' button it means the seller is willing to consider offers on that item."
-msgstr "マーケットプレイスにあるアイテムに「オファーボタン」が表示されている場合、売り手はそのアイテムに対する「オファー」を期待しているということです。"
+msgstr "マーケットプレイスにあるアイテムに「オファーボタン」が表示されている場合、出品者はそのアイテムに対する「オファー」を期待しているということです。"
 
 msgid "When another user sends me a message"
-msgstr "他のユーザがメッセージが送られた時に"
+msgstr "メッセージ受信"
 
 msgid "When available, show <strong>audio clips</strong> and buy links next to tracklistings"
-msgstr "可能な場合、収録曲の横<strong>オーディオクリップ</strong>と購入リンクを表示します。"
+msgstr "出品中の場合、収録曲の横に<strong>オーディオクリップ</strong>と購入リンクを表示します。"
 
 msgid ""
 "When contacting us please include all details such as your invoice number and\n"
@@ -9180,28 +9180,28 @@ msgid ""
 msgstr "お問い合わせの際は、必ず請求番号や関連する注文番号等の詳細を記入してください。"
 
 msgid "When my order is confirmed, changes status, or has messages"
-msgstr "注文が確定すると、ステータスが変わるかメッセージが表示されます"
+msgstr "注文が確定した場合、注文のステータスが変更した場合、注文に対するメッセージを受信した場合"
 
 msgid "When one of my contributions is changed by another user"
-msgstr "他のユーザにより、わたしの解説文が変更された時"
+msgstr "他のユーザにより、解説文が変更された時"
 
 msgid "When one of my orders needs feedback"
-msgstr "わたしへの注文者がフィードバックを求めている時"
+msgstr "購入者がフィードバックをリクエストした場合"
 
 msgid "When one of my submissions is changed by another user"
-msgstr "他のユーザにお客様のサブミッションが変更された時"
+msgstr "他のユーザにお客様の投稿が変更された時"
 
 msgid "When reporting this problem to Discogs Support or in the Discogs Help Forums, <em>please describe what you were doing</em>.  Also, provide the following information:"
 msgstr "DiscogsサポートやDiscogsヘルプフォーラムに問題を報告する際には、どんなことをしていたかを説明し、以下の情報をお知らせください："
 
 msgid "When there's a reply to a forum thread I'm watching"
-msgstr "わたしが見ていたフォーラムのスレッドに返信があった時"
+msgstr "閲覧中のフォーラムのスレッドへの返信"
 
 msgid "When there's a reply to a group thread I'm watching"
-msgstr "わたしが見ていたグループのスレッドに返信があった時"
+msgstr "閲覧中のグループのスレッドへの返信"
 
 msgid "When there's an update to a release in my lists"
-msgstr "リストに入っているリリースに更新があった時"
+msgstr "リスト内のリリースに更新があった時"
 
 #, python-format
 msgid "When you change your currency, your Marketplace listings will use the new symbol, but <strong>no exchange rate conversion is performed</strong>. For example, an item currently listed for $5.00 USD would change to %(pound)s5.00 GBP."
@@ -9243,7 +9243,7 @@ msgid_plural "Will you share your experience? Help the Discogs Marketplace by ra
 msgstr[0] "最近の注文を評価してDiscogsマーケットプレイスの向上にご協力ください。"
 
 msgid "With a registered Discogs application, you will:"
-msgstr "Discogsアプリを登録すれば、以下の事ができます："
+msgstr "Discogsアプリケーションを登録すると、以下が可能となります："
 
 msgid "With entire inventory"
 msgstr "すべての在庫と"
@@ -9298,7 +9298,7 @@ msgid ""
 "account is on hold you will be unable to buy or sell items within the Discogs Marketplace.\n"
 "You can reactivate your account by following these steps:"
 msgstr ""
-"売り手に対する%(total)s円の支払い遅延が発生しています。\n"
+"出品者に対する%(total)s円の支払い遅延が発生しています。\n"
 "\rお支払いが完了するまでアカウントは制限され、\n"
 "制限中はマーケットプレイスでの売買ができなくなります。\n"
 "\r以下のステップに従って、アカウント制限を解除してください。"
@@ -9395,7 +9395,7 @@ msgid "You can revoke access later by going to <a href=\"%(link)s\">Settings %(a
 msgstr "後でアクセス権を取り消すことができます：<a href=\"%(link)s\">設定%(arrow)s アプリケーション</a>。"
 
 msgid "You can still view it because you are the seller, but it has been hidden from the Marketplace and must be correctly relisted."
-msgstr "お客様は売り手なので見続けることができます。しかし、マーケットプレイスに隠されていて、正確にリスト化されないといけません。"
+msgstr "お客様は出品者なので見続けることができます。しかし、マーケットプレイスに隠されていて、正確にリスト化されないといけません。"
 
 msgid "You can view details on this order and correspond with the other party here"
 msgstr "注文の詳細確認および当事者間の連絡はこちらから: "
@@ -9515,13 +9515,13 @@ msgid_plural "You have %(n)d items in your cart"
 msgstr[0] "カートに%(n)dのアイテムがあります。"
 
 msgid "You have <%= numberOfItems %> item from <%= numberOfSellers %> sellers in your cart"
-msgstr "カートに<%= numberOfSellers %>人の売り手のアイテムが<%= numberOfItems %>件あります。"
+msgstr "カートに<%= numberOfSellers %>人の出品者のアイテムが<%= numberOfItems %>件あります。"
 
 msgid "You have <%= numberOfItems %> item in your cart"
 msgstr "カートに<%= numberOfItems %>件のアイテムがあります。"
 
 msgid "You have <%= numberOfItems %> items from <%= numberOfSellers %> sellers in your cart"
-msgstr "カートに<%= numberOfSellers %>人の売り手のアイテムが<%= numberOfItems %>件あります。"
+msgstr "カートに<%= numberOfSellers %>人の出品者のアイテムが<%= numberOfItems %>件あります。"
 
 msgid "You have <%= numberOfItems %> items in your cart"
 msgstr "カートに<%= numberOfItems %>件のアイテムがあります。"
@@ -9605,17 +9605,17 @@ msgstr "オーディオがありません。"
 # フィードバックとしていますが、利用方法にあわせて「ご意見」や「ご感想」、「コメント」に変更してください。
 # 現在のサイトに沿って、買い手としていますが、購入者のほうがよいかと思います。
 msgid "You have no buyer feedback"
-msgstr "買い手としてのフィードバックはありません。"
+msgstr "フィードバックはありません。"
 
 msgid "You have no contributions."
 msgstr "寄稿はありません。"
 
 msgid "You have no items from this seller in your cart."
-msgstr "カートにこの売り手のアイテムはありません。"
+msgstr "カートにこの出品者のアイテムはありません。"
 
 #, python-format
 msgid "You have no pending submissions. Would you like to <a href=\"%(link)s\">learn how to contribute to Discogs</a>?"
-msgstr "提出中のサブミッションはありません。Discogsに<a href=\"%(link)s\">寄稿する方法</a>を見ますか。"
+msgstr "提出中の投稿はありません。Discogsに<a href=\"%(link)s\">投稿する方法</a>を確認する。"
 
 msgid "You have not received any fee credits."
 msgstr "クレジットの手数料を受け取っていません。"
@@ -9661,16 +9661,16 @@ msgid "You haven't entered any information."
 msgstr "情報を入力できませんでした。"
 
 msgid "You haven't purchased anything recently."
-msgstr "最近は何も購入していません。"
+msgstr "最近、購入したアイテムはありません。"
 
 msgid "You haven't shared any activity recently."
 msgstr "最近、活動をシェアしていません。"
 
 msgid "You haven't sold anything recently."
-msgstr "最近は何も売れていません。"
+msgstr "最近、購入されたアイテムはありません。"
 
 msgid "You haven't yet authorized any applications to access your account."
-msgstr "お客様はアプリがアカウントにアクセスできる権限をまだ設定してません。"
+msgstr "アプリケーションのアカウントアクセス権限が設定されていません。"
 
 #, python-format
 msgid "You may download it <a href=\"%(url)s\">here</a>."
@@ -9805,7 +9805,7 @@ msgstr "お客様がアカウントを作成した後、販売によるクレジ
 
 #, python-format
 msgid "You're not a member of any groups. <a href=\"%(link)s\">Get involved!</a>"
-msgstr "どのグループにも所属していません。<a href=\"%(link)s\">ジョインしよう</a>"
+msgstr "どのグループにも所属していません。<a href=\"%(link)s\">参加する</a>"
 
 msgid ""
 "You're serious about your music&hellip; and we are, too.\n"
@@ -9921,7 +9921,7 @@ msgid "Your bulk inventory action will run shortly."
 msgstr "アイテムリストのバルク処理が間もなく開始されます。"
 
 msgid "Your cart can hold items from many different sellers. When you're ready to check out, you'll place one order with each seller."
-msgstr "カートには、たくさんの異なる売り手からの商品入れることができます。買い物を完了する前に、それぞれの売り手から１つ選択して注文してください。"
+msgstr "カートには、たくさんの異なる出品者からの商品入れることができます。ショッピングを完了する前に、それぞれの出品者から１つ選択して注文してください。"
 
 msgid "Your cart is empty"
 msgstr "カートの中身は空です。"
@@ -9946,16 +9946,16 @@ msgstr "お客様のクレジットカード情報はコンピュータからDis
 
 #, python-format
 msgid "Your current e-mail address is %(email)s "
-msgstr "最後に使用したeメールアドレスは%(email)s "
+msgstr "最後に使用したメールアドレスは%(email)sです。"
 
 msgid "Your draft releases <strong>will be deleted</strong>."
 msgstr "下書きのリリースは<strong>削除</strong>されます。"
 
 msgid "Your email address has been changed. Thank you."
-msgstr "eメールアドレスは変更されました。ありがとう。"
+msgstr "メールアドレスは変更されました。ありがとうございました。"
 
 msgid "Your email address has been changed; if you need to resend the activation code please fill in the fields below. Thank you."
-msgstr "eメールアドレスは変更されました。コードを再送する場合は下記に入力してください。"
+msgstr "メールアドレスは変更されました。コードを再送する場合は下記に入力してください。"
 
 msgid "Your entry did not match the characters in the image."
 msgstr "お客様の入力は画像の文字と一致しません。"
@@ -9968,7 +9968,7 @@ msgstr "友達は最近、活動していません。"
 
 #, python-format
 msgid "Your friends list is empty! Add interesting people to your <a href=\"%(link)s\">friends list</a> to see what they've been up to lately."
-msgstr "友達はいません！<a href=\"%(link)s\">友達リスト</a>から興味ある人に声をかけてみて。"
+msgstr "まだ友達はいません。興味をひくユーザー<a href=\"%(link)s\">友達リスト</a>に追加して声をかけてみましょう。"
 
 msgid "Your inventory will be accessible to a robust community of genuinely passionate music lovers!"
 msgstr "コミュニティーに参加している音楽愛好家のユーザー達がお客様の在庫を閲覧できるようになります。"
@@ -10004,7 +10004,7 @@ msgstr "オファー"
 
 #, python-format
 msgid "Your offer has been made. The seller has %d days to accept or decline your offer."
-msgstr "オファーを送りました。売り手は%d日間以内にお客様のオファーを受け入れるまたは拒否します。"
+msgstr "オファーを送りました。出品者は%d日間以内にお客様のオファーを受け入れるまたは拒否します。"
 
 #, python-format
 msgid "Your offer on %(item_desc)s has been declined."
@@ -10047,14 +10047,14 @@ msgid "Your recent request to perform bulk actions on your inventory has been co
 msgstr "リクエストのあった在庫に対する一括管理が完了しました。"
 
 msgid "Your saved submissions were cleared"
-msgstr "保存したサブミッションを消去しました。"
+msgstr "保存した投稿を消去しました。"
 
 #, python-format
 msgid "Your search - <strong>%(query)s</strong> - did not match any items for sale."
 msgstr "検索結果：(<strong>%(query)s</strong>) 売り出しアイテムの中にマッチするものはありません。"
 
 msgid "Your seller settings have been updated successfully."
-msgstr "売り手情報は更新されました。"
+msgstr "出品者情報は更新されました。"
 
 msgid "Your session has expired. Please enter your password to continue."
 msgstr "セッションは時間切れになりました。続けるにはパスワードを入力してください。"
@@ -10091,7 +10091,7 @@ msgid "_%0.2f to _%0.2f"
 msgstr "_%0.2f から _%0.2fまで "
 
 msgid "a) You are entering into a contract with the seller to buy the item at the stated price plus the seller's stated postage. You have an obligation to pay the seller without delay, using the seller's preferred method of payment, and the seller agrees to post the item as soon as funds have cleared. You are NOT expressing a casual interest in buying the item; when you press the \"Place Order\" button you are declaring your full intention to buy the item by paying the full price stated using the quickest method of payment available to you. Users who delay payment or renege on their commitment to buy the item will be blocked from using the Discogs marketplace."
-msgstr "a) 買い手は、商品を購入した時点で、売り手が提示する商品代金および配送料で商品を購入することに同意したものとみなします。買い手は、遅延することなく売り手が指定する支払い方法で支払いを行うものとし、また、売り手は支払いの確認がとれた時点で、速やかに商品を発送することとします。買い手は、\"Place Order\"ボタンをクリックした時点で、提示された商品代金を全額指定された支払い方法で支払うことに同意したものとし、この意図なく商品購入の処理を行うことを禁止します。Discogsは、期限までに支払いを行わないユーザ、もしくは商品購入の意思なく購入処理を行ったとみなしたユーザをDiscogsマーケットプレイスからブロックできるものとします。"
+msgstr "a) 買い手は、商品を購入した時点で、出品者が提示する商品代金および配送料で商品を購入することに同意したものとみなします。買い手は、遅延することなく出品者が指定する支払い方法で支払いを行うものとし、また、出品者は支払いの確認がとれた時点で、速やかに商品を発送することとします。買い手は、\"注文する\"ボタンをクリックした時点で、提示された商品代金を全額指定された支払い方法で支払うことに同意したものとし、この意図なく商品購入の処理を行うことを禁止します。Discogsは、期限までに支払いを行わないユーザ、もしくは商品購入の意思なく購入処理を行ったとみなしたユーザをDiscogsマーケットプレイスからブロックできるものとします。"
 
 msgid "about"
 msgstr "Discogsについて"
@@ -10142,7 +10142,7 @@ msgid "at least"
 msgstr "最低"
 
 msgid "b) You will keep an open dialog with the seller regarding any problems that arise. You will use feedback as a final indication of your satisfaction, not as immediate retribution for an unresolved problem. Users leaving unnecessary or retaliatory feedback will be blocked from using the Discogs marketplace."
-msgstr "b) 問題が生じた場合は、売り手と建設的に話し合うこととします。フィードバックは、話し合いの終了後、最終的な評価に使用するものとし、話し合いをせず、またはその途中で攻撃目的として使用するものではありません。Discogsは、フィードバックの内容が攻撃的、もしくは不適切とみなした場合、そのユーザーをDiscogsマーケットプレイスからブロックできるものとします。"
+msgstr "b) 問題が生じた場合は、出品者と建設的に話し合うこととします。フィードバックは、話し合いの終了後、最終的な評価に使用するものとし、話し合いをせず、またはその途中で攻撃目的として使用するものではありません。Discogsは、フィードバックの内容が攻撃的、もしくは不適切とみなした場合、そのユーザーをDiscogsマーケットプレイスからブロックできるものとします。"
 
 msgid "back to message"
 msgstr "メッセージに戻る"
@@ -10158,7 +10158,7 @@ msgid "by"
 msgstr "によって"
 
 msgid "c) By pressing the \"Place Order\" button, you are agreeing to this transaction as a private sale between yourself and the seller. You hold Discogs immune to any claim of damages, loss, or inconvenience howsoever caused."
-msgstr "c) \"Place Order\"ボタンをクリックすることで、お客様と売り手間で個人取引を行うことに同意したものとみなします。Discogsは、取引上で生じたクレームや損失、その他の問題に対して一切の責任を負いません。"
+msgstr "c) \"注文する\"ボタンをクリックすることで、お客様と出品者間で個人取引を行うことに同意したものとみなします。Discogsは、取引上で生じたクレームや損失、その他の問題に対して一切の責任を負いません。"
 
 msgid "change currency"
 msgstr "通貨換算"
@@ -10184,7 +10184,7 @@ msgstr "コレクション"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "contact the seller"
-msgstr "売り手に連絡する"
+msgstr "出品者に連絡する"
 
 msgid "created spam group"
 msgstr "スパムグループを作る"
@@ -10199,7 +10199,7 @@ msgid "created the order by merging"
 msgstr "注文をまとめて新しい注文としました。"
 
 msgid "d) Please review all seller information and policies and decide if you want to do business with them. Discogs is not responsible for, and will not mediate, any order disputes. You will be buying the item from the seller, NOT from Discogs."
-msgstr "d) 買い手は、Discogsからではなく売り手から商品を購入することとなるため、取引を行う前に必ず売り手の情報やポリシーを確認してください。Discogsは、注文に関する論争の一切の責任を負わず、またその仲介も行いません。"
+msgstr "d) 買い手は、Discogsからではなく出品者から商品を購入することとなるため、取引を行う前に必ず出品者の情報やポリシーを確認してください。Discogsは、注文に関する論争の一切の責任を負わず、またその仲介も行いません。"
 
 msgid "details"
 msgstr "詳細"
@@ -10259,7 +10259,7 @@ msgstr "から"
 #, python-format
 msgid "from %(n)d seller."
 msgid_plural "from %(n)d sellers."
-msgstr[0] "%(n)d人の売り手から"
+msgstr[0] "%(n)d人の出品者から"
 
 # UI次第で「から」は〜でも良いと思います。
 #, python-format
@@ -10384,10 +10384,10 @@ msgid "move to comment/vote form"
 msgstr "コメントに移動する／?からの評価"
 
 msgid "move to next submission"
-msgstr "次のサブミッションに移動する"
+msgstr "次の投稿に移動する"
 
 msgid "move to previous submission"
-msgstr "前のサブミッションに移動する"
+msgstr "前の投稿に移動する"
 
 msgid "move to top of history"
 msgstr "履歴のトップに移動する"
@@ -10485,7 +10485,7 @@ msgid "rows"
 msgstr "列"
 
 msgid "save submission / don't save submission"
-msgstr "サブミッションを保存・サブミッションを保存しない"
+msgstr "投稿を保存・投稿を保存しない"
 
 msgid "select Complete and Correct"
 msgstr "完了とコレクトを選択"
@@ -10507,7 +10507,7 @@ msgstr "出品"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "seller's terms"
-msgstr "売り手の規約"
+msgstr "出品者の規約"
 
 # 文中の場合は「郵送費を[price]に設定する」にしてください。
 msgid "set the shipping price to"
@@ -10518,11 +10518,11 @@ msgstr "誘導"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "so sellers can contact you"
-msgstr "売り手が連絡できるよう"
+msgstr "出品者が連絡できるよう"
 
 # 現在のサイトに沿って、売り手としていますが、出品者のほうがよいかと思います。
 msgid "so sellers know where to send your order"
-msgstr "売り手に郵送先がわかるよう"
+msgstr "出品者に郵送先がわかるよう"
 
 msgid "submission pending"
 msgid_plural "submissions pending"
