@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-12-26 11:22-0800\n"
+"POT-Creation-Date: 2015-02-13 09:04-0800\n"
 "PO-Revision-Date: 2014-12-26 09:01-0800\n"
 "Last-Translator: Jarod2801\n"
 "Language-Team: de <LL@li.org>\n"
@@ -20,6 +20,9 @@ msgstr ""
 msgid ""
 "<%= filename %> is an unsupported format. Please upload a .jpg, .png, "
 ".gif, or .bmp."
+msgstr ""
+
+msgid "<%= quantity %> from <%= currency %>"
 msgstr ""
 
 msgid "<%= releaseId %> is invalid. Release IDs should only contain numbers."
@@ -69,6 +72,9 @@ msgstr ""
 msgid "Added <%= preview.title %> to your wantlist."
 msgstr ""
 
+msgid "Advanced Search"
+msgstr ""
+
 msgid "Alert"
 msgstr "Warnung"
 
@@ -109,6 +115,9 @@ msgstr ""
 
 msgid "Are you sure?"
 msgstr "Sind Sie sicher?"
+
+msgid "Artists"
+msgstr ""
 
 msgid "Audio not found"
 msgstr ""
@@ -178,6 +187,9 @@ msgstr "Fehler"
 msgid "European Union"
 msgstr "Europäische Union"
 
+msgid "Everything"
+msgstr ""
+
 msgid "Failed to generate preview."
 msgstr "Fehler beim Erstellen der Vorschau."
 
@@ -214,6 +226,12 @@ msgstr "Titel einfügen"
 msgid "Items added to your collection"
 msgstr ""
 
+msgid "Just remove from order"
+msgstr ""
+
+msgid "Labels"
+msgstr ""
+
 msgid "Less"
 msgstr "Weniger"
 
@@ -238,6 +256,9 @@ msgid "Move"
 msgstr ""
 
 msgid "Move Item to:"
+msgstr ""
+
+msgid "No data points to graph"
 msgstr ""
 
 msgid "Okay"
@@ -318,6 +339,14 @@ msgstr "Verarbeite"
 msgid "Ranges overlap or are ordered incorrectly"
 msgstr ""
 
+msgid "Rate this release"
+msgstr ""
+
+msgid "Rate this release  star."
+msgid_plural "Rate this release  stars."
+msgstr[0] ""
+msgstr[1] ""
+
 msgid ""
 "Record is cracked, badly warped, or won't play through without skipping "
 "or repeating."
@@ -326,10 +355,27 @@ msgstr ""
 msgid "Release not found. Please try another Release ID."
 msgstr ""
 
+msgid "Releases"
+msgstr ""
+
 msgid "Remove"
 msgstr "Entfernen"
 
 msgid "Remove <%= username %> from your friends list?"
+msgstr ""
+
+msgid "Remove Item"
+msgid_plural "Remove Items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Remove from order and inventory"
+msgstr ""
+
+msgid "Remove from order and relist"
+msgstr ""
+
+msgid "Remove rating"
 msgstr ""
 
 msgid "Remove this shipping method?"
@@ -339,9 +385,6 @@ msgid "Remove this shipping policy?"
 msgstr ""
 
 msgid "Replying"
-msgstr ""
-
-msgid "Reported"
 msgstr ""
 
 msgid "Save"
@@ -361,9 +404,6 @@ msgstr "Speichere"
 
 msgid "Send Feedback"
 msgstr "Feedback senden"
-
-msgid "Send Report"
-msgstr "Bericht senden"
 
 msgid "Share"
 msgstr "Teilen"
@@ -425,6 +465,11 @@ msgid ""
 "you sure you want to do this?"
 msgstr ""
 
+msgid "This release is rated  star"
+msgid_plural "This release is rated  stars"
+msgstr[0] ""
+msgstr[1] ""
+
 msgid "Unable to estimate from release data"
 msgstr ""
 
@@ -454,6 +499,11 @@ msgstr "Warnung"
 
 msgid "Warning: for large tracklists this may significantly hinder performance"
 msgstr ""
+
+msgid "What do you want to do with the removed item?"
+msgid_plural "What do you want to do with the removed items?"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid ""
 "Will show some signs that it was played and otherwise handled by a "
@@ -497,6 +547,9 @@ msgid ""
 msgstr ""
 
 msgid "about"
+msgstr ""
+
+msgid "all versions"
 msgstr ""
 
 msgid "generating preview..."

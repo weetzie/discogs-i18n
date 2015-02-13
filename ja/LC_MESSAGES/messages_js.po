@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages_js.po (new)\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-12-26 11:22-0800\n"
+"POT-Creation-Date: 2015-02-13 09:04-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -19,6 +19,9 @@ msgid ""
 msgstr ""
 "「<%= filename %>」は未対応フォーマットです。\n"
 "jpg, .png, .gif, .bmpでアップロードしてください。"
+
+msgid "<%= quantity %> from <%= currency %>"
+msgstr ""
 
 msgid "<%= releaseId %> is invalid. Release IDs should only contain numbers."
 msgstr "<%= releaseId %>は無効です。リリースIDは数字のみです。"
@@ -68,6 +71,9 @@ msgstr "コレクションに<%= preview.title %>を追加する。"
 msgid "Added <%= preview.title %> to your wantlist."
 msgstr "ウィッシュリストに<%= preview.title %>を追加する。"
 
+msgid "Advanced Search"
+msgstr ""
+
 msgid "Alert"
 msgstr "アラート"
 
@@ -109,6 +115,9 @@ msgstr "このシェアを取り下げますか？"
 
 msgid "Are you sure?"
 msgstr "よろしいですか？"
+
+msgid "Artists"
+msgstr ""
 
 msgid "Audio not found"
 msgstr "音源が見つかりません"
@@ -178,6 +187,9 @@ msgstr "エラー"
 msgid "European Union"
 msgstr "EU"
 
+msgid "Everything"
+msgstr ""
+
 msgid "Failed to generate preview."
 msgstr "プレビューの作成に失敗しました。"
 
@@ -214,6 +226,12 @@ msgstr "楽曲を挿入する"
 msgid "Items added to your collection"
 msgstr "コレクションにアイテムが追加されました"
 
+msgid "Just remove from order"
+msgstr ""
+
+msgid "Labels"
+msgstr ""
+
 msgid "Less"
 msgstr "不足しています"
 
@@ -239,6 +257,9 @@ msgstr "移動する"
 
 msgid "Move Item to:"
 msgstr "アイテムの移動先："
+
+msgid "No data points to graph"
+msgstr ""
 
 msgid "Okay"
 msgstr "OK"
@@ -320,6 +341,13 @@ msgstr "処理中"
 msgid "Ranges overlap or are ordered incorrectly"
 msgstr "注文が重複している、もしくは、間違っている"
 
+msgid "Rate this release"
+msgstr ""
+
+msgid "Rate this release  star."
+msgid_plural "Rate this release  stars."
+msgstr[0] ""
+
 msgid ""
 "Record is cracked, badly warped, or won't play through without skipping "
 "or repeating."
@@ -328,11 +356,27 @@ msgstr "レコードが欠けている、包装が汚い、音飛びやリピー
 msgid "Release not found. Please try another Release ID."
 msgstr "アイテムが見つかりません。別のリリースIDで再試行。"
 
+msgid "Releases"
+msgstr ""
+
 msgid "Remove"
 msgstr "削除する"
 
 msgid "Remove <%= username %> from your friends list?"
 msgstr "友達リストから<%= username %>を削除しますか"
+
+msgid "Remove Item"
+msgid_plural "Remove Items"
+msgstr[0] ""
+
+msgid "Remove from order and inventory"
+msgstr ""
+
+msgid "Remove from order and relist"
+msgstr ""
+
+msgid "Remove rating"
+msgstr ""
 
 msgid "Remove this shipping method?"
 msgstr "この配送方法を削除しますか"
@@ -342,9 +386,6 @@ msgstr "配送条件をこの項目を削除しますか。"
 
 msgid "Replying"
 msgstr "返信する"
-
-msgid "Reported"
-msgstr "報告済み"
 
 msgid "Save"
 msgstr "保存"
@@ -363,10 +404,6 @@ msgstr "保存中"
 
 msgid "Send Feedback"
 msgstr "フィードバックを送ります"
-
-#, fuzzy
-msgid "Send Report"
-msgstr "報告済み"
 
 msgid "Share"
 msgstr "シェアする"
@@ -429,6 +466,10 @@ msgid ""
 "you sure you want to do this?"
 msgstr "曲順を1,2,3などに上書きします。いいですか。"
 
+msgid "This release is rated  star"
+msgid_plural "This release is rated  stars"
+msgstr[0] ""
+
 msgid "Unable to estimate from release data"
 msgstr "このリリースデータから試算できません"
 
@@ -458,6 +499,10 @@ msgstr "注意"
 
 msgid "Warning: for large tracklists this may significantly hinder performance"
 msgstr "注意：曲数が多い場合、処理に時間が掛かります"
+
+msgid "What do you want to do with the removed item?"
+msgid_plural "What do you want to do with the removed items?"
+msgstr[0] ""
 
 msgid ""
 "Will show some signs that it was played and otherwise handled by a "
@@ -500,6 +545,9 @@ msgstr "フィードバックが送信されました。Discogsの改善にご�
 
 msgid "about"
 msgstr "詳細情報"
+
+msgid "all versions"
+msgstr ""
 
 msgid "generating preview..."
 msgstr "プレビュー作成中"
