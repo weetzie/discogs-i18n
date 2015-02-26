@@ -421,7 +421,7 @@ msgid "* Updates to items I'm selling"
 msgstr "* Mise à jour sur Mes articles en vente"
 
 msgid "1. General Rules"
-msgstr "Règlement général"
+msgstr "1. Règlement général"
 
 msgid "1. Log on to"
 msgstr "1. Se connecter à"
