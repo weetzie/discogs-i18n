@@ -173,16 +173,16 @@ msgid "Cancel Order"
 msgstr "Annuler la commande"
 
 msgid "Capitalization may be wrong, is this correct?"
-msgstr ""
+msgstr "L'écriture en majuscules est-elle correcte ?"
 
 msgid "Catalog Number"
 msgstr ""
 
 msgid "Change"
-msgstr ""
+msgstr "Changer"
 
 msgid "Checking"
-msgstr "En cours de vérification"
+msgstr "Vérification"
 
 msgid "Click <%= saveButton => again to save anyway."
 msgstr "Cliquez de nouveau sur <%= saveButton => pour sauvegarder."
@@ -276,7 +276,7 @@ msgid "Free Text"
 msgstr ""
 
 msgid "Generating Preview"
-msgstr "Aperçu en cours"
+msgstr "Generation de l'aperçu"
 
 msgid "Genres"
 msgstr ""
@@ -291,7 +291,7 @@ msgid "Hide actions"
 msgstr "Masquer les actions"
 
 msgid "Ignore"
-msgstr ""
+msgstr "Ignorer"
 
 msgid "Index Track"
 msgstr ""
@@ -567,7 +567,7 @@ msgid "Remove this shipping policy?"
 msgstr "Supprimer cette règle d'éxpédition ?"
 
 msgid "Replying"
-msgstr "En cours de réponse"
+msgstr "Répondre"
 
 msgid "Role"
 msgstr ""
