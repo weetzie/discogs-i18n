@@ -516,9 +516,7 @@ msgid "<mark><strong>Your account will NOT be recoverable.</strong></mark>"
 msgstr "<mark><strong>Votre compte sera définitivement supprimé.</strong></mark>"
 
 msgid "<strong>Add</strong> new listings"
-msgstr ""
-"<strong>Ajouter</strong> de nouveaux listings.\n"
-"\n"
+msgstr "<strong>Ajouter</strong> de nouveaux listings."
 
 msgid ""
 "<strong>Admin Notice:</strong> Due to inactivity on this account, Home "
@@ -731,9 +729,7 @@ msgid "About 360 Vinyl"
 msgstr "A propos de 360 Vinyl"
 
 msgid "About Anthem Records"
-msgstr ""
-"A propos d'Anthem \n"
-"Records"
+msgstr "A propos d'Anthem Records"
 
 msgid "About Discogs"
 msgstr "A propos de Discogs"
@@ -782,7 +778,7 @@ msgid "Account Name:"
 msgstr "Nom du compte"
 
 msgid "Account Notifications"
-msgstr "Notifications du compte\n"
+msgstr "Notifications du compte"
 
 msgid "Account Verification"
 msgstr "Vérification du compte"
@@ -5181,7 +5177,7 @@ msgstr "Rechercher de nouveaux amis ?"
 
 #, python-format
 msgid "Looking for votes? Visit our <a href=\"%(link)s\">Forum</a>."
-msgstr "Obtenir des votes ? Plus d'infos ici <a href=\"%(link)s\">Forum</a>.\n"
+msgstr "Obtenir des votes ? Plus d'infos ici <a href=\"%(link)s\">Forum</a>."
 
 msgid ""
 "Looks like you haven't been up to anything interesting lately. Try adding"
@@ -5251,7 +5247,7 @@ msgstr "Articles mis à jour manuellement"
 
 #, fuzzy
 msgid "Manually Update your Collection &amp; Wantlist"
-msgstr "Mettre à jour votre Collection êta mp; votre Wantlist.\n"
+msgstr "Mettre à jour votre Collection et votre Wantlist."
 
 msgid "Mark as Read"
 msgstr "Marquer comme lu"
@@ -8199,7 +8195,7 @@ msgstr ""
 "vérifier<a href=\"%s\">votre page de facturation</a>\n"
 "Afin de vérifier que vous n'avez pas de factures impayées:<p> Si vous "
 "n'avez pas de factures impayées, ou si vous avez une question à propos "
-"d'une facture, merci de <a href=\"%s\">nous contacter</a>.</p> \n"
+"d'une facture, merci de <a href=\"%s\">nous contacter</a>.</p>"
 
 msgid ""
 "Selling options have been disabled on your account. Please check the "

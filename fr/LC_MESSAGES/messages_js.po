@@ -117,7 +117,7 @@ msgstr ""
 "seront effacées."
 
 msgid "Are you certain you would like to delete this review?"
-msgstr "Etes-vous sûr de vouloir supprimer cet avis ?\n"
+msgstr "Etes-vous sûr de vouloir supprimer cet avis ?"
 
 msgid "Are you sure you want to DELETE the items?"
 msgstr "Etes-vous sûr de vouloir SUPPRIMER cet article ?"
