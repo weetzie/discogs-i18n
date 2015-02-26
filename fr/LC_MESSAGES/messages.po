@@ -12546,7 +12546,7 @@ msgstr "Ajouter une référence à votre collection ou votre Wantlist"
 
 #, python-format
 msgid "added %(release)s to collection."
-msgstr "a ajouté "
+msgstr "a ajouté %(release)s a la collecte"
 
 #, python-format
 msgid "added %(release)s to their collection."
