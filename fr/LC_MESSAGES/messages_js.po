@@ -88,10 +88,10 @@ msgid "Add to List"
 msgstr "Ajouter à la liste"
 
 msgid "Added <%= preview.title %> to your collection."
-msgstr "Ajouter <%= preview.title %>à votre collection."
+msgstr "Ajouter <%= preview.title %> à votre collection."
 
 msgid "Added <%= preview.title %> to your wantlist."
-msgstr "Ajouter <%= preview.title %>à votre wantlist."
+msgstr "Ajouter <%= preview.title %> à votre wantlist."
 
 msgid "Advanced Search"
 msgstr ""
@@ -150,7 +150,7 @@ msgid "Audio not found"
 msgstr "Fichier audio non trouvé."
 
 msgid "Auto-saved draft <%= link %> at <%= time %>"
-msgstr "Auto-enregistrement du Brouillon<%= link %> à <%= time %>"
+msgstr "Auto-enregistrement du Brouillon <%= link %> à <%= time %>"
 
 msgid "Barcodes and Other Identifiers"
 msgstr ""
@@ -209,7 +209,7 @@ msgid "Create Master Release"
 msgstr "Créer une Référence Principale"
 
 msgid "Created draft <%= link %> at <%= time %>"
-msgstr "Brouillon <%= link %>créé à<%= time %>"
+msgstr "Brouillon <%= link %> créé à <%= time %>"
 
 msgid "Credits"
 msgstr ""
@@ -591,7 +591,7 @@ msgid "Saved draft"
 msgstr ""
 
 msgid "Saved draft <%= link %> at <%= time %>"
-msgstr "Enregistrer le Brouillon"
+msgstr "Brouillon enregistré <%= link %> à <%= time %>"
 
 msgid "Saving"
 msgstr "Enregistrement en cours"

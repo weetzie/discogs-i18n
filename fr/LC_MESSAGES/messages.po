@@ -4499,9 +4499,7 @@ msgstr "Facture du"
 
 #, python-format
 msgid "Invoice for %(invoice_date)s"
-msgstr ""
-"Facture du (invoice_date)s\n"
-"\t\n"
+msgstr "Facture du %(invoice_date)s"
 
 msgid "Invoices"
 msgstr "Factures"
@@ -4648,7 +4646,7 @@ msgid ""
 "To avoid having your Marketplace inventory removed, please visit this "
 "page while logged in:"
 msgstr ""
-"Cela fait presque % (month_num) mois que nous ne vous avons plus vu sur "
+"Cela fait presque %(month_num) mois que nous ne vous avons plus vu sur "
 "Discogs. Pour éviter que votre inventaire soit retiré de la Marketplace, "
 "merci de vous rendre sur cette page après vous être connecté :"
 
@@ -4717,7 +4715,7 @@ msgstr "Poids de l'article"
 
 #, python-format
 msgid "Items %(name)s wants"
-msgstr "Articles %(names) souhaités"
+msgstr "Articles %(name)s souhaités"
 
 msgid "Items For Sale"
 msgstr "Articles en vente"
@@ -5585,8 +5583,8 @@ msgid ""
 " price) or \"%(value2)s\" (to refuse offers lower than your listed "
 "price)."
 msgstr ""
-"Doit être: \"% (value1)s\" (afin de prendre en compte les offres "
-"inférieures à votre prix indiqué) ou \"% (value2)s\" (afin de refuser les"
+"Doit être: \"%(value1)s\" (afin de prendre en compte les offres "
+"inférieures à votre prix indiqué) ou \"%(value2)s\" (afin de refuser les"
 " offres inférieures à votre prix indiqué)."
 
 msgid "My"
@@ -6374,7 +6372,7 @@ msgid ""
 "Our %(help_link)s has answers waiting for most of your questions, and our"
 " %(forum_link)s is full of experienced community members!"
 msgstr ""
-"Notre %(help_link)s ) à la réponse à la plupart de vos questions, et "
+"Notre %(help_link)s à la réponse à la plupart de vos questions, et "
 "notre %(forum_link)s vous permet de discuter avec des membres "
 "expérimentés de notre communauté !"
 
@@ -8407,7 +8405,7 @@ msgstr ""
 
 #, fuzzy
 msgid "Showing <%= results.length %> of <%= pagination.items %>"
-msgstr "Aperçu de<%= results.length %> sur <%= pagination.items %>"
+msgstr "Aperçu de <%= results.length %> sur <%= pagination.items %>"
 
 msgid "Showing Deleted Messages."
 msgstr "Aperçu des messages supprimé"
@@ -10779,7 +10777,7 @@ msgid ""
 "\n"
 "due to their activity."
 msgstr ""
-"Nous vous contactons afin de vous informer que le vendeur % (username)s "
+"Nous vous contactons afin de vous informer que le vendeur %(username)s "
 "chez lequel vous avez passé une commande a été identifié comme étant "
 "défaillant sur le suivi des commandes, ou peut être soupçonné "
 "d'opérations frauduleuses sur la Marketplace. Le compte de ce vendeur est"
@@ -12295,7 +12293,7 @@ msgstr ""
 
 #, python-format
 msgid "Your current e-mail address is %(email)s "
-msgstr "Votre adresse e-mail actuelle est (email)s "
+msgstr "Votre adresse e-mail actuelle est %(email)s "
 
 msgid "Your draft releases <strong>will be deleted</strong>."
 msgstr "Vos Brouillons <strong>seront supprimées</strong>."
@@ -12406,7 +12404,7 @@ msgid ""
 "it within %(days)s days."
 msgstr ""
 "Votre offre pour %(item_desc)s a expirée. L'utilisateur ne l'a pas "
-"acceptée sous le délai des %(days) jours qui lui étaient impartis."
+"acceptée sous le délai des %(days)s jours qui lui étaient impartis."
 
 #, python-format
 msgid "Your offer on %(item_desc)s has expired."
@@ -12752,7 +12750,7 @@ msgstr "à partir de %(price)s"
 
 #, python-format
 msgid "from %(year)s"
-msgstr "à partir de (year)s"
+msgstr "à partir de %(year)s"
 
 msgid "from <%- seller %> at no additional cost!"
 msgstr ""
@@ -13041,7 +13039,7 @@ msgstr "Total"
 
 msgid "totaling under <%= price %> from <%- seller %> at no additional cost!"
 msgstr ""
-"pour un total de<%= price %> de la part de <%- seller %>, sans frais "
+"pour un total de <%= price %> de la part de <%- seller %>, sans frais "
 "supplémentaires !"
 
 msgid "under"
