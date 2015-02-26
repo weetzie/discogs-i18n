@@ -1504,11 +1504,11 @@ msgstr "Virement bancaire"
 
 #, fuzzy, python-format
 msgid "Banned %s and deleted %d groups:"
-msgstr "Groupes blacklistés %s et supprimés % :"
+msgstr "Groupes blacklistés %s et supprimés %d :"
 
 #, fuzzy, python-format
 msgid "Banned %s and deleted %d topics:"
-msgstr "Sujests blacklistés %s et supprimés % :"
+msgstr "Sujests blacklistés %s et supprimés %d :"
 
 msgid "Banned Users"
 msgstr "Utilisateurs interdits"
@@ -2821,7 +2821,7 @@ msgstr "Commande sur Discogs #%(order_id)s à payer"
 
 #, python-format
 msgid "Discogs Order %(id)s"
-msgstr "Commande sur Discogs #%(order_id)s"
+msgstr "Commande sur Discogs %(id)s"
 
 msgid "Discogs Secure Site"
 msgstr "Site sécurisé Discogs"
@@ -4673,8 +4673,8 @@ msgstr "Article #"
 #, python-format
 msgid "Item %(action)s"
 msgid_plural "Items %(action)s"
-msgstr[0] "Article %(actions)s"
-msgstr[1] "Articles %(actions)s"
+msgstr[0] "Article %(action)s"
+msgstr[1] "Articles %(action)s"
 
 msgid "Item Container"
 msgstr "Packaging de l'article"
@@ -7362,7 +7362,7 @@ msgid ""
 "Release ID %d is not eligible for merging because it already has a "
 "pending merge."
 msgstr ""
-"Ce numéro d'identification de Référence n'est pas disponible car il est "
+"Ce numéro d'identification de Référence %d n'est pas disponible car il est "
 "déjà attribué à une fusion en cours."
 
 #, python-format
@@ -10483,7 +10483,7 @@ msgid ""
 "View <a href=\"%(first_link)s\">formatting codes</a> and <a "
 "href=\"%(second_link)s\">posting guidelines</a>"
 msgstr ""
-"Voir <a href=\"%(link)s\">les balises html</a> et <a "
+"Voir <a href=\"%(first_link)s\">les balises html</a> et <a "
 "href=\"%(second_link)s\">Guide pour les Posts</a>"
 
 #, python-format
@@ -10642,7 +10642,7 @@ msgid ""
 "View our <a href=\"%(first_link)s\">formatting codes</a> and <a "
 "href=\"%(second_link)s\">posting guidelines</a>."
 msgstr ""
-"Voir notre<a href=\"%(link)s\">les balises html</a> et <a "
+"Voir notre<a href=\"%(first_link)s\">les balises html</a> et <a "
 "href=\"%(second_link)s\">Guide pour les Posts</a>"
 
 #, python-format
