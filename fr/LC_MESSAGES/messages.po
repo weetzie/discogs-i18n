@@ -12794,7 +12794,7 @@ msgstr "invité par"
 
 msgid "item"
 msgid_plural "items"
-msgstr[0] "Article"
+msgstr[0] "article"
 msgstr[1] "articles"
 
 msgid "items"
