@@ -5708,7 +5708,7 @@ msgid "Payments:"
 msgstr ""
 
 msgid "Paypal"
-msgstr "Palpal"
+msgstr "Paypal"
 
 msgid "Paypal Email Address"
 msgstr ""
