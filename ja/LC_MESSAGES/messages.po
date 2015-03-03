@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages.po (new)\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-02-13 09:40-0800\n"
+"POT-Creation-Date: 2015-03-03 12:16-0800\n"
 "PO-Revision-Date: 2015-02-12 00:44+0900\n"
 "Last-Translator: tosh <tosh@at-vision.jp>\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -779,9 +779,6 @@ msgstr "トラックごとのアーティストの追加"
 msgid "Add Credit Per Track"
 msgstr "トラックごとのクレジットの追加"
 
-msgid "Add Feature"
-msgstr "機能を追加"
-
 msgid "Add Folder"
 msgstr "フォルダの追加"
 
@@ -1356,14 +1353,6 @@ msgstr "ユーザを禁止し、すべてのグループを削除"
 msgid "Bank Transfer"
 msgstr "銀行振込"
 
-#, python-format
-msgid "Banned %s and deleted %d groups:"
-msgstr "禁止%s・削除%dされたグループ："
-
-#, python-format
-msgid "Banned %s and deleted %d topics:"
-msgstr "禁止%s・削除 %dされたトピック："
-
 msgid "Banned Users"
 msgstr "アカウント使用停止ユーザ"
 
@@ -1584,9 +1573,6 @@ msgstr "買い手の規約"
 
 msgid "Buyers"
 msgstr "買い手"
-
-msgid "Buyers Code"
-msgstr "買い手のコード"
 
 msgid ""
 "Buyers feel more confident doing business with PayPal Verified sellers, "
@@ -1916,9 +1902,6 @@ msgstr "終了"
 msgid "Closing your Discogs Account"
 msgstr "Discogsアカウントを閉鎖する"
 
-msgid "Code"
-msgstr "コード"
-
 msgid "Collapse"
 msgstr "縮小"
 
@@ -2007,14 +1990,8 @@ msgstr "アカウントの確認"
 msgid "Confirm Email Address Change"
 msgstr "メールアドレス変更の確認"
 
-msgid "Confirm Your Post"
-msgstr "投稿を確認する"
-
 msgid "Confirm new password"
 msgstr "新しいパスワードの確認"
-
-msgid "Confirmation"
-msgstr "確認"
 
 msgid "Confirmation code has been resent."
 msgstr "確認コードを再送信しました。"
@@ -2058,6 +2035,10 @@ msgstr "Discogsに連絡"
 
 msgid "Contact seller"
 msgstr "出品者へのコンタクト"
+
+#, python-format
+msgid "Contact the administrator of %(return_url)s"
+msgstr ""
 
 msgid "Contained Releases"
 msgstr "含まれているリリース"
@@ -2126,13 +2107,13 @@ msgstr "<a href=\"%(link)s\">活動フィード</a>に投稿されたイベン�
 
 #, python-format
 msgid ""
-"Cookies are not enabled.<p>You do not have cookies enabled on your "
+"Cookies are not enabled.<br>You do not have cookies enabled on your "
 "browser. Please refer to the Help section of your browser for "
-"instructions on enabling cookies.<p>** <b>After</b> you have enabled "
-"cookies please %s to log in. **"
+"instructions on enabling cookies.<br>After you have enabled cookies, "
+"please %s to log in."
 msgstr ""
-"クッキーが有効になっていません。<p>お使いのブラウザのクッキーを有効設定にしていません。クッキーを有効にする手順については、お使いのブラウザのヘルプを参照してください。<p>**"
-" クッキーを有効にしたら<b>後</b>、ログインするため%sをしてください。** "
+"クッキーが有効になっていません。<br>お使いのブラウザのクッキーを有効設定にしていません。クッキーを有効にする手順については、お使いのブ "
+"クッキーを有効にしたら後、ログインするため%sをしてください。"
 
 msgid "Copy and Relist Selected"
 msgstr "選択アイテムをコピーして再リスト"
@@ -2772,9 +2753,6 @@ msgstr "編集/送信"
 
 msgid "Edit Artist"
 msgstr "アーティストを編集"
-
-msgid "Edit Features"
-msgstr "機能を編集"
 
 msgid "Edit Images"
 msgstr "画像を編集"
@@ -3530,10 +3508,6 @@ msgstr "キャンセルした注文が請求書に記載されています。"
 msgid "IBAN"
 msgstr "IBANコード"
 
-#, python-format
-msgid "IP %s may be a proxy"
-msgstr "IP %s はプロキシかもしれません"
-
 msgid ""
 "If an order comes in that matches the shipping policies below, shipping "
 "will be automatically calculated."
@@ -3647,14 +3621,6 @@ msgid ""
 "If you arrived here via our browse/search pages this item will be removed"
 " within %d minutes."
 msgstr "ブラウズ・検索ページ経由でここに到着した場合、このアイテムは%d分以内に削除されます。"
-
-#, python-format
-msgid "If you can't read the words, click the %(icon)s refresh icon."
-msgstr "文字が読めない場合、%(icon)sの更新アイコンをクリックします。"
-
-#, python-format
-msgid "If you can't read the words, click the %(icon_tag)s refresh icon."
-msgstr "文字が読めなかったら、%(icon_tag)sをクリックしてアイコンを更新。"
 
 msgid ""
 "If you cannot click the link, just copy and paste the entire link into "
@@ -4046,9 +4012,6 @@ msgstr "無効な出品者。"
 
 msgid "Invalid shipping method."
 msgstr "無効な配送方法。"
-
-msgid "Invalid verification code"
-msgstr "無効な認証コード"
 
 msgid "Inventory"
 msgstr "アイテムリスト"
@@ -4710,9 +4673,6 @@ msgstr ""
 "Pimp</a>がDiscogsのメンバーとなってから間もなく10年が経ちます。彼はとても影響力のある<a "
 "href=\"http://www.discogs.com/contributions?user=Djdtl\">執筆者</a>、そして <a "
 "href=\"http://www.discogs.com/seller/Djdtl\">出品者</a>で、コミュニティープロフィールのシリーズでは、このDiscogsコミュニティーで最も魅力的なレコードショップをチェックするために英国にスタッフを送り舞台裏を見せてもらいました。"
-
-msgid "Long Desc"
-msgstr "詳細"
 
 msgid "Looking for some new friends?"
 msgstr "新しい友達をお探しですか？"
@@ -5455,6 +5415,9 @@ msgstr "該当するものはありません"
 msgid "No results found."
 msgstr "一致する情報は見つかりませんでした。"
 
+msgid "No return URL was specified"
+msgstr ""
+
 msgid "No sales history is available for this item."
 msgstr "このアイテムには販売履歴がありません。"
 
@@ -6144,6 +6107,9 @@ msgstr "有効なPayPalアドレスを入力してください。"
 msgid "Please enter a valid Skrill address."
 msgstr "有効なSKRILLアドレスを入力してください。"
 
+msgid "Please go back and try again"
+msgstr ""
+
 #, python-format
 msgid ""
 "Please have a quick refresh of the\n"
@@ -6222,9 +6188,6 @@ msgstr "ヘルプトピック「<a href=\"%(link)s\">フィードバックの削
 msgid "Please select the reason that best describes your complaint."
 msgstr "苦情の理由を選択してください。"
 
-msgid "Please select the reason that best describes your complaint.</"
-msgstr "お客様のご意見に最も適切な理由を以下よりご選択ください。</"
-
 msgid "Please select the version you want to sell."
 msgstr "売りたいバージョンを選択してください。"
 
@@ -6272,9 +6235,6 @@ msgstr "ポジション"
 
 msgid "Positive"
 msgstr "良い"
-
-msgid "Post"
-msgstr "投稿"
 
 msgid "Post Comment"
 msgstr "コメントを投稿する"
@@ -6836,9 +6796,6 @@ msgstr[0] "ほしい物リストから%d アイテムを削除しました。"
 msgid "Removed %s's items from your cart."
 msgstr "カートから%s's アイテムを削除しました。"
 
-msgid "Removed Ban"
-msgstr "Banは削除されました"
-
 msgid "Removed Videos"
 msgstr "動画を削除"
 
@@ -6988,9 +6945,6 @@ msgstr "再送信"
 
 msgid "Reset Reply"
 msgstr "返信をリセット"
-
-msgid "Resq Failed"
-msgstr "Resqに失敗しました。"
 
 msgid "Restore Default Settings"
 msgstr "デフォルト設定に戻す"
@@ -7441,9 +7395,6 @@ msgstr "出品者の郵送情報"
 msgid "Seller: "
 msgstr ""
 
-msgid "Sellers Code"
-msgstr "出品者のコード"
-
 msgid "Selling Music"
 msgstr "オーディオの出品"
 
@@ -7520,10 +7471,6 @@ msgstr "初期設定する"
 
 msgid "Set Shipping Price and Invoice Buyer"
 msgstr "送料を設定して、買い手に請求書を送信する"
-
-#, python-format
-msgid "Set to publish on %s."
-msgstr "%sで公開するために設定してください。"
 
 msgid "Set up your shipping information"
 msgstr "郵送情報を設定する"
@@ -7605,9 +7552,6 @@ msgstr "ショッピング"
 
 msgid "Shopping Cart"
 msgstr "ショッピングカート"
-
-msgid "Short Desc"
-msgstr "概要"
 
 msgid "Show"
 msgstr "表示"
@@ -7699,9 +7643,6 @@ msgstr "スリーブの状態"
 msgid "Sleeve condition"
 msgstr "スリーブの状態"
 
-msgid "Sleeve condition may be any of the above, or"
-msgstr "スリーブの状態は上記のいずれか、または: "
-
 msgid "Sleeve condition may be any of the above, or:"
 msgstr "スリーブの状態は上記のいずれか、または: "
 
@@ -7781,10 +7722,6 @@ msgstr "順番"
 
 msgid "Sort:"
 msgstr ""
-
-#, python-format
-msgid "Spam: %s (in IP bans)"
-msgstr "スパム：%s (IPアドレス拒否リスト)"
 
 msgid "Staff"
 msgstr "スタッフ"
@@ -7925,15 +7862,6 @@ msgstr "小計"
 
 msgid "Subtotal of Items"
 msgstr "アイテムの小計"
-
-msgid "Successfully Acted Upon Report(s)."
-msgstr "報告対応完了。"
-
-msgid "Successfully Denied Report(s)."
-msgstr "報告拒否完了。"
-
-msgid "Successfully Ignored Report(s)."
-msgstr "報告無視完了。"
 
 msgid "Successfully added new comment."
 msgstr "新しいコメントの追加完了。"
@@ -8464,6 +8392,9 @@ msgstr ""
 "このメッセージは執筆者、加筆者およびこのリリースを\n"
 "コレクションまたはほしい物リストに追加しているユーザーにお送りしています。"
 
+msgid "The return URL specified in the token is not secure"
+msgstr ""
+
 msgid "The review's subject has been deleted."
 msgstr "レビューの対象商品が削除されました。"
 
@@ -8590,6 +8521,12 @@ msgstr "蓄音機用のレコードの研究とカタログ化について。"
 msgid "The title of the release."
 msgstr "リリースタイトル。"
 
+msgid "The token supplied has expired"
+msgstr ""
+
+msgid "The token supplied is invalid"
+msgstr ""
+
 msgid ""
 "The uploaded image is corrupt or incompatible, please try again or try "
 "with a different format."
@@ -8675,7 +8612,7 @@ msgstr "パスワード変更中にエラーがおきました。"
 msgid "There was an error processing this transaction"
 msgstr "作業中にエラーがおきました"
 
-msgid "There was an error saving the CSV file you uploaded.Please try again."
+msgid "There was an error saving the CSV file you uploaded. Please try again."
 msgstr "アップデート中のCSVファイルの保存にエラーがおきました。やり直してください。"
 
 #, python-format
@@ -9051,14 +8988,6 @@ msgstr "この操作の詳細はこちらのページよりご確認ください
 msgid "To view details or vote on this request please click here"
 msgstr "このリクエストへの評価や詳細確認にはこちらをクリックしてください。"
 
-#, python-format
-msgid ""
-"To view the detailed sales history of this item, please enter the text "
-"from the image. Click %(icon)s Refresh if you can't read the words."
-msgstr ""
-"この商品の取引履歴の詳細をみるには画像に出ているテキストを記入してください。文字が読めとれない場合は%(icon)s アイコン "
-"をクリックして再読み込みしてください。"
-
 msgid "To view the offer please visit the Orders page on Discogs:"
 msgstr "オファーの詳細はDiscogsの注文ページよりご確認ください: "
 
@@ -9092,9 +9021,6 @@ msgstr "トピック"
 
 msgid "Topic is locked and cannot be replied to."
 msgstr "トピックはロックされているため返信できません。"
-
-msgid "Topic(s) deleted and submitted as \"missed spam\""
-msgstr "未確認スパムとして削除されたトピック"
 
 msgid "Topics"
 msgstr "トピック"
@@ -9775,6 +9701,9 @@ msgstr "Discogsはスタッフ、プロジェクト、プロダクト、サー�
 msgid "We are sorry to see you go!"
 msgstr "これまでのご利用ありがとうございました。またのご利用をお待ちしております。"
 
+msgid "We are unable to redirect you to the originating site"
+msgstr ""
+
 msgid "We couldn't find anything in the Discogs database for"
 msgstr "はDiscogsのデータベースでは見つかりませんでした。"
 
@@ -9868,7 +9797,7 @@ msgid ""
 msgstr "ログインされていないので、PayPal情報を読み取ることができません。"
 
 msgid ""
-"We were unable to parse the CSV file you uploaded.Make sure your file "
+"We were unable to parse the CSV file you uploaded. Make sure your file "
 "matches the Discogs collection export format."
 msgstr "アップロードされたCSVファイルを読み取れません。Discogsの書き出しフォーマットにファイルが適合しているのか確認してください。"
 
@@ -10090,11 +10019,6 @@ msgid "When another user sends me a message"
 msgstr "メッセージ受信"
 
 msgid ""
-"When available, show <strong>audio clips</strong> and buy links next to "
-"tracklistings"
-msgstr "出品中の場合、収録曲の横に<strong>オーディオクリップ</strong>と購入リンクを表示します。"
-
-msgid ""
 "When contacting us please include all details such as your invoice number"
 " and\n"
 "any relevant order numbers."
@@ -10237,10 +10161,8 @@ msgid ""
 "finish first."
 msgstr "保留しているアイテムリストのバルク処理があります。完了するまでお待ちください。"
 
-msgid ""
-"You are about to delete this Master Release. If you would like to "
-"proceed, please enter the text from the image"
-msgstr "このマスターリリースを削除しようとしています。続行したい場合は、画像からテキストを入力してください"
+msgid "You are about to delete this Master Release."
+msgstr "このマスターリリースを削除しようとしています。"
 
 #, python-format
 msgid ""
@@ -10504,6 +10426,9 @@ msgid ""
 "You do not accept PayPal, so buyers will not have the option to pay at "
 "checkout."
 msgstr "お客様はPayPalでのお支払いを承認していないため、買い手はカート内にてお支払いができません。"
+
+msgid "You do not have database submission priveleges."
+msgstr ""
 
 msgid "You do not own that list."
 msgstr "リストを持たない。"
@@ -11321,12 +11246,6 @@ msgstr "出品者に連絡する"
 msgid "contributions"
 msgstr ""
 
-msgid "created spam group"
-msgstr "スパムグループを作る"
-
-msgid "created spam topics"
-msgstr "スパムトピックスを作る"
-
 msgid "created the order"
 msgstr "注文を作成しました。"
 
@@ -11576,6 +11495,9 @@ msgstr "ページ"
 
 msgid "placed on"
 msgstr "に追加された"
+
+msgid "please contact the site's administrator"
+msgstr ""
 
 msgid "points"
 msgstr ""

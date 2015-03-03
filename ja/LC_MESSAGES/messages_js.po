@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages_js.po (new)\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-02-13 09:40-0800\n"
+"POT-Creation-Date: 2015-03-03 12:16-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -29,6 +29,9 @@ msgstr "<%= releaseId %>は無効です。リリースIDは数字のみです。
 msgid "A nearly perfect record. The record should show no obvious signs of wear."
 msgstr "保存状態良好。特に目立ったキズはありません。"
 
+msgid "ANV"
+msgstr ""
+
 msgid ""
 "Absolutely perfect in every way. Certainly never been played. Should be "
 "used sparingly as a grade, If at all."
@@ -37,8 +40,23 @@ msgstr "未開封の新品。本当に新品以外には使用しないこと。
 msgid "Accepted Fields"
 msgstr "承認されました"
 
+msgid "Add"
+msgstr ""
+
+msgid "Add ANV"
+msgstr ""
+
+msgid "Add Description"
+msgstr ""
+
+msgid "Add Release"
+msgstr ""
+
 msgid "Add Sub-Track"
 msgstr "サブトラックを追加する"
+
+msgid "Add Tracks"
+msgstr ""
 
 msgid "Add artist"
 msgstr "アーティストを追加する"
@@ -116,6 +134,9 @@ msgstr "このシェアを取り下げますか？"
 msgid "Are you sure?"
 msgstr "よろしいですか？"
 
+msgid "Artist Name Variation (ANV)"
+msgstr ""
+
 msgid "Artists"
 msgstr ""
 
@@ -124,6 +145,12 @@ msgstr "音源が見つかりません"
 
 msgid "Auto-saved draft <%= link %> at <%= time %>"
 msgstr "<%= link %> 下書き<%= time %>に自動保存しました"
+
+msgid "Barcodes and Other Identifiers"
+msgstr ""
+
+msgid "Before you submit"
+msgstr ""
 
 msgid ""
 "Can be put onto a turntable and will play through without skipping. "
@@ -139,6 +166,9 @@ msgstr "注文をキャンセルする"
 msgid "Capitalization may be wrong, is this correct?"
 msgstr ""
 
+msgid "Catalog Number"
+msgstr ""
+
 msgid "Change"
 msgstr ""
 
@@ -151,8 +181,17 @@ msgstr "保存すには再度<%= saveButton =>をクリックしてください�
 msgid "Close"
 msgstr "閉じる"
 
+msgid "Collapse"
+msgstr ""
+
+msgid "Companies, etc."
+msgstr ""
+
 msgid "Confirm"
 msgstr "確認する"
+
+msgid "Country"
+msgstr ""
 
 msgid "Create"
 msgstr "作成する"
@@ -163,8 +202,14 @@ msgstr "マスターリリースの作成"
 msgid "Created draft <%= link %> at <%= time %>"
 msgstr "<%= link %>下書きを<%= time %> 作成しました"
 
+msgid "Credits"
+msgstr ""
+
 msgid "Customize This Page"
 msgstr "このページをカストマイズ"
+
+msgid "Date"
+msgstr ""
 
 msgid "Deleting"
 msgstr "消去中"
@@ -172,22 +217,37 @@ msgstr "消去中"
 msgid "Delivery in <%= label %>"
 msgstr "納品先：<%= label %> "
 
+msgid "Description"
+msgstr ""
+
 msgid "Discogs Alert"
 msgstr "Discogsからの警告"
 
 msgid "Does not exist: <%= id %>"
 msgstr "<%= id %>は存在しません"
 
+msgid "Edit Draft"
+msgstr ""
+
 msgid "Edit Master Release"
 msgstr "マスターリリースの編集"
 
+msgid "Edit Release"
+msgstr ""
+
 msgid "Error"
 msgstr "エラー"
+
+msgid "Errors"
+msgstr ""
 
 msgid "European Union"
 msgstr "EU"
 
 msgid "Everything"
+msgstr ""
+
+msgid "Expand"
 msgstr ""
 
 msgid "Failed to generate preview."
@@ -199,8 +259,20 @@ msgstr "下書きの保存に失敗しました。"
 msgid "Feedback Sent"
 msgstr "フォードバックを送信しました"
 
+msgid "Format"
+msgstr ""
+
+msgid "Free Text"
+msgstr ""
+
 msgid "Generating Preview"
 msgstr "プレビュー作成中"
+
+msgid "Genres"
+msgstr ""
+
+msgid "Heading"
+msgstr ""
 
 msgid "Hide Credits"
 msgstr "クレジットを非表示にする"
@@ -209,6 +281,9 @@ msgid "Hide actions"
 msgstr "アクションを非表示にする"
 
 msgid "Ignore"
+msgstr ""
+
+msgid "Index Track"
 msgstr ""
 
 msgid "Insert Heading"
@@ -226,7 +301,16 @@ msgstr "楽曲を挿入する"
 msgid "Items added to your collection"
 msgstr "コレクションにアイテムが追加されました"
 
+msgid "Join"
+msgstr ""
+
 msgid "Just remove from order"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Label, Company, Catalog Number, Etc."
 msgstr ""
 
 msgid "Labels"
@@ -237,6 +321,9 @@ msgstr "不足しています"
 
 msgid "Load next"
 msgstr "次へ"
+
+msgid "Make End Of Index Track"
+msgstr ""
 
 msgid "Make End of Index Track"
 msgstr "収録曲リストを完了する"
@@ -258,11 +345,17 @@ msgstr "移動する"
 msgid "Move Item to:"
 msgstr "アイテムの移動先："
 
+msgid "Name"
+msgstr ""
+
 msgid "No data points to graph"
 msgstr ""
 
 msgid "Okay"
 msgstr "OK"
+
+msgid "Open In New Window"
+msgstr ""
 
 msgid "Place order"
 msgstr "注文する"
@@ -272,6 +365,37 @@ msgstr "注文をし、すぐに支払う"
 
 msgid "Placing order..."
 msgstr "注文中"
+
+msgid ""
+"Please check all artist links. If the artist is a legitimate new entry "
+"for the database, please list them in the <em>Submission Notes</em> so "
+"other users can check."
+msgstr ""
+
+msgid ""
+"Please check all label links. If the label is a legitimate new entry for "
+"the database, please list them in the <em>Submission Notes</em> so other "
+"users can check."
+msgstr ""
+
+msgid ""
+"Please check the release(s) above to make sure that you are not "
+"submitting a duplicate."
+msgstr ""
+
+msgid ""
+"Please check these warning(s) against your submission, and if needed the "
+"<a href='/help/doc/submission-guidelines-release' "
+"target='_blank'>Submission Guidelines</a>. If you have verified a warning"
+" is not applicable to your submission, please tick the box to clear it, "
+"otherwise please correct the error. If there are any warnings, please "
+"write a short explanation in the Submission Notes. The more information "
+"you can give at this stage, the easier and quicker your submission can be"
+" processed and accepted to the database.  If you have any queries or "
+"problems, please save this submission to your drafts, and ask in the <a "
+"href='/forum/topic/17' target='_blank'>Adding / Updating Forum Topic</a>."
+" Thank you!"
+msgstr ""
 
 msgid "Please choose a file to upload"
 msgstr "アップロードするファイルを選択してください"
@@ -326,6 +450,12 @@ msgstr ""
 "<a "
 "href=\"http://www.discogs.com/help/lists.html\">Discogsリストのガイドライン</a>に違反し、報告する場合はOKを押す。"
 
+msgid "Preview"
+msgstr ""
+
+msgid "Preview / Submit"
+msgstr ""
+
 msgid "Preview Loading"
 msgstr "プレビュー作成中"
 
@@ -338,23 +468,37 @@ msgstr "フィードバックできません"
 msgid "Processing"
 msgstr "処理中"
 
+msgid "Qty:"
+msgstr ""
+
 msgid "Ranges overlap or are ordered incorrectly"
 msgstr "注文が重複している、もしくは、間違っている"
 
 msgid "Rate this release"
 msgstr ""
 
-msgid "Rate this release  star."
-msgid_plural "Rate this release  stars."
+msgid "Rate this release <%- n %> star."
+msgid_plural "Rate this release <%- n %> stars."
 msgstr[0] ""
+
+msgid ""
+"Read and understand the <a href='/help/doc/submission-guidelines-release'"
+" target='_blank'>Submission Guide</a>"
+msgstr ""
 
 msgid ""
 "Record is cracked, badly warped, or won't play through without skipping "
 "or repeating."
 msgstr "レコードが欠けている、包装が汚い、音飛びやリピートする。"
 
+msgid "Release Notes"
+msgstr ""
+
 msgid "Release not found. Please try another Release ID."
 msgstr "アイテムが見つかりません。別のリリースIDで再試行。"
+
+msgid "Released"
+msgstr ""
 
 msgid "Releases"
 msgstr ""
@@ -364,6 +508,15 @@ msgstr "削除する"
 
 msgid "Remove <%= username %> from your friends list?"
 msgstr "友達リストから<%= username %>を削除しますか"
+
+msgid "Remove ANV"
+msgstr ""
+
+msgid "Remove Artist"
+msgstr ""
+
+msgid "Remove Description"
+msgstr ""
 
 msgid "Remove Item"
 msgid_plural "Remove Items"
@@ -387,20 +540,38 @@ msgstr "配送条件をこの項目を削除しますか。"
 msgid "Replying"
 msgstr "返信する"
 
+msgid "Role"
+msgstr ""
+
 msgid "Save"
 msgstr "保存"
 
 msgid "Save Changes"
 msgstr "変更を保存する"
 
+msgid "Save Draft"
+msgstr ""
+
 msgid "Save and Continue"
 msgstr "保存して次へ"
+
+msgid "Saved Draft"
+msgstr ""
+
+msgid "Saved draft"
+msgstr ""
 
 msgid "Saved draft <%= link %> at <%= time %>"
 msgstr "下書きを保存する"
 
 msgid "Saving"
 msgstr "保存中"
+
+msgid "Saving Draft"
+msgstr ""
+
+msgid "Search in new window"
+msgstr ""
 
 msgid "Send Feedback"
 msgstr "フィードバックを送ります"
@@ -438,25 +609,52 @@ msgid ""
 " page, then tap on the player."
 msgstr "携帯端末によっては該当のYouTubeプレイヤーをクリックして、アクティベートせずに再生できない場合があります。もしビデオが再生されない場合はページを再読み込みしてプレイヤーを最後クリックしてください。"
 
+msgid "Strict Search"
+msgstr ""
+
+msgid "Styles"
+msgstr ""
+
+msgid "Sub-Track"
+msgstr ""
+
 #, fuzzy
 msgid "Submission Form Keyboard Shortcuts"
 msgstr "ヘルプのショートカット"
 
+msgid "Submission Notes"
+msgstr ""
+
 msgid "Submission notes are required"
 msgstr "提出メモが必要です"
+
+msgid "Submit"
+msgstr ""
 
 msgid ""
 "Surface noise will be evident upon playing... but will not overpower the "
 "music. Groove wear will start to be noticeable, as will light scratches."
 msgstr "再生する上で表面的なノイズはあるが、音楽の再生には支障がない。今は軽いキズ程度ですが時間の経過によっては目立つかもしれません。"
 
+msgid "Test all hyperlinks and make sure they link to the correct artist/label"
+msgstr ""
+
+msgid "The following artists are new to the database"
+msgstr ""
+
 msgid "The following errors preventing this item from being listed"
 msgstr "以下の理由により、このアイテムをリストできない"
+
+msgid "The following labels/companies are new to the database"
+msgstr ""
 
 msgid ""
 "There was a problem sending your feedback. Please try again in a few "
 "moments."
 msgstr "フィードバック送信中に問題が発生しました。時間を空けてから再試行してください。"
+
+msgid "This field is required (minimum 4 characters)."
+msgstr ""
 
 msgid "This list is already on your dashboard"
 msgstr "このリストはすでにダッシュボードにあります"
@@ -466,9 +664,21 @@ msgid ""
 "you sure you want to do this?"
 msgstr "曲順を1,2,3などに上書きします。いいですか。"
 
-msgid "This release is rated  star"
-msgid_plural "This release is rated  stars"
+msgid "This release is rated <%- value %> star"
+msgid_plural "This release is rated <%- value %> stars"
 msgstr[0] ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Track"
+msgstr ""
+
+msgid "Track Positions"
+msgstr ""
+
+msgid "Tracklist"
+msgstr ""
 
 msgid "Unable to estimate from release data"
 msgstr "このリリースデータから試算できません"
@@ -499,6 +709,17 @@ msgstr "注意"
 
 msgid "Warning: for large tracklists this may significantly hinder performance"
 msgstr "注意：曲数が多い場合、処理に時間が掛かります"
+
+msgid "Warnings"
+msgstr ""
+
+msgid "We found possible duplicate releases"
+msgstr ""
+
+msgid ""
+"We think you may be using some incorrect artists. Please double-check "
+"these to make sure you are using the correct artist"
+msgstr ""
 
 msgid "What do you want to do with the removed item?"
 msgid_plural "What do you want to do with the removed items?"
@@ -549,6 +770,30 @@ msgstr "詳細情報"
 msgid "all versions"
 msgstr ""
 
+msgid "artist"
+msgstr ""
+
+msgid "at"
+msgstr ""
+
+msgid "barcode or other identifier"
+msgstr ""
+
+msgid "credit"
+msgstr ""
+
+msgid "format"
+msgstr ""
+
 msgid "generating preview..."
 msgstr "プレビュー作成中"
+
+msgid "label"
+msgstr ""
+
+msgid "not found"
+msgstr ""
+
+msgid "will be added to the Database"
+msgstr ""
 

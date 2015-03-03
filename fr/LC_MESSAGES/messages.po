@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: V2 messages.po\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-02-25 14:09-0800\n"
+"POT-Creation-Date: 2015-03-03 12:16-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -543,8 +543,8 @@ msgid ""
 "<strong>Contribute</strong> to the largest, most accurate database of "
 "music."
 msgstr ""
-"<strong>Contribuer</strong> à la plus grande et la plus précise base"
-" de données sur la musique."
+"<strong>Contribuer</strong> à la plus grande et la plus précise base de "
+"données sur la musique."
 
 msgid "<strong>Delete</strong> listings"
 msgstr "<strong>Supprimer</strong> les listings."
@@ -870,10 +870,6 @@ msgstr "Ajouter un artiste par titre"
 
 msgid "Add Credit Per Track"
 msgstr "Ajouter un crédit par titre"
-
-#, fuzzy
-msgid "Add Feature"
-msgstr "Ajouter un featuring"
 
 msgid "Add Folder"
 msgstr "Ajouter un dossier"
@@ -1502,14 +1498,6 @@ msgstr "Interdire l'utilisateur et effacer tout ses groupes "
 msgid "Bank Transfer"
 msgstr "Virement bancaire"
 
-#, fuzzy, python-format
-msgid "Banned %s and deleted %d groups:"
-msgstr "Groupes blacklistés %s et supprimés %d :"
-
-#, fuzzy, python-format
-msgid "Banned %s and deleted %d topics:"
-msgstr "Sujests blacklistés %s et supprimés %d :"
-
 msgid "Banned Users"
 msgstr "Utilisateurs interdits"
 
@@ -2118,9 +2106,6 @@ msgstr "Fermer"
 
 msgid "Closing your Discogs Account"
 msgstr "Compte Discogs en cours de fermeture."
-
-msgid "Code"
-msgstr "Code"
 
 #, fuzzy
 msgid "Collapse"
@@ -3058,9 +3043,6 @@ msgstr "Editer /Envoyer"
 msgid "Edit Artist"
 msgstr "Editer l'artiste "
 
-msgid "Edit Features"
-msgstr "Editer les featurings"
-
 msgid "Edit Images"
 msgstr "Editer les images"
 
@@ -3871,10 +3853,6 @@ msgstr ""
 msgid "IBAN"
 msgstr "IBAN"
 
-#, fuzzy, python-format
-msgid "IP %s may be a proxy"
-msgstr "IP %s peut être un proxy"
-
 msgid ""
 "If an order comes in that matches the shipping policies below, shipping "
 "will be automatically calculated."
@@ -4159,7 +4137,7 @@ msgid ""
 " option on the previous page for all other incorrect or updated images."
 msgstr ""
 "Si vous signalez une image non abusive sur cette page, elle <strong> ne "
-"sera pas<\strong> supprimée ou retirée. Merci d'utiliser l'option "
+"sera pas<\\strong> supprimée ou retirée. Merci d'utiliser l'option "
 "<em>désactiver l'image</em> sur la page précédente pour tout autre images"
 " incorrectes ou mises à jour par erreur."
 
@@ -5167,9 +5145,6 @@ msgstr ""
 "boutique de son magasin à Londres, l'un des lieux les plus fascinants et "
 "les mieux organisés de notre communauté."
 
-msgid "Long Desc"
-msgstr ""
-
 msgid "Looking for some new friends?"
 msgstr "Rechercher de nouveaux amis ?"
 
@@ -5584,8 +5559,8 @@ msgid ""
 "price)."
 msgstr ""
 "Doit être: \"%(value1)s\" (afin de prendre en compte les offres "
-"inférieures à votre prix indiqué) ou \"%(value2)s\" (afin de refuser les"
-" offres inférieures à votre prix indiqué)."
+"inférieures à votre prix indiqué) ou \"%(value2)s\" (afin de refuser les "
+"offres inférieures à votre prix indiqué)."
 
 msgid "My"
 msgstr "Mon"
@@ -6372,9 +6347,9 @@ msgid ""
 "Our %(help_link)s has answers waiting for most of your questions, and our"
 " %(forum_link)s is full of experienced community members!"
 msgstr ""
-"Notre %(help_link)s à la réponse à la plupart de vos questions, et "
-"notre %(forum_link)s vous permet de discuter avec des membres "
-"expérimentés de notre communauté !"
+"Notre %(help_link)s à la réponse à la plupart de vos questions, et notre "
+"%(forum_link)s vous permet de discuter avec des membres expérimentés de "
+"notre communauté !"
 
 msgid "Our address:"
 msgstr "Notre adresse"
@@ -6563,9 +6538,9 @@ msgid ""
 "Discogs recommends you ask the seller to update their payment details and"
 " relist the item(s) for sale."
 msgstr ""
-"Chaque paiement doit <strong>uniquement</strong> être effectué selon "
-"le mode et les détails indiqués par le vendeur, selon la liste ci-dessus."
-" Si un vendeur réclame un paiement selon un mode qui ne correspond pas à "
+"Chaque paiement doit <strong>uniquement</strong> être effectué selon le "
+"mode et les détails indiqués par le vendeur, selon la liste ci-dessus. Si"
+" un vendeur réclame un paiement selon un mode qui ne correspond pas à "
 "cette liste,\n"
 "Discogs vous recommande de demander à celui-ci de mettre à jour ses "
 "informations de paiement afin qu'elles correspondent à la liste, puis de "
@@ -6674,8 +6649,8 @@ msgid ""
 "users can check."
 msgstr ""
 "Merci de vérifier tous les liens Label. Si le label est référencé pour la"
-" première fois dans la base de données, merci de le lister dans les <em>"
-"Notes de Propositions</em> afin que les autres utilisateurs puissent "
+" première fois dans la base de données, merci de le lister dans les "
+"<em>Notes de Propositions</em> afin que les autres utilisateurs puissent "
 "vérifier."
 
 msgid ""
@@ -6892,11 +6867,6 @@ msgstr ""
 
 msgid "Please select the reason that best describes your complaint."
 msgstr "Merci de sélectionner la raison qui décrit le mieux votre réclamation."
-
-msgid "Please select the reason that best describes your complaint.</"
-msgstr ""
-"Merci de sélectionner le motif qui correspond le mieux à votre "
-"réclamation.</"
 
 msgid "Please select the version you want to sell."
 msgstr "Merci de sélectionner la version que vous souhaitez vendre."
@@ -7362,8 +7332,8 @@ msgid ""
 "Release ID %d is not eligible for merging because it already has a "
 "pending merge."
 msgstr ""
-"Ce numéro d'identification de Référence %d n'est pas disponible car il est "
-"déjà attribué à une fusion en cours."
+"Ce numéro d'identification de Référence %d n'est pas disponible car il "
+"est déjà attribué à une fusion en cours."
 
 #, python-format
 msgid ""
@@ -7543,9 +7513,6 @@ msgstr[1] "Supprimés : %d articles de votre Wantlist"
 msgid "Removed %s's items from your cart."
 msgstr "%s's article(s) retiré(s) de votre panier."
 
-msgid "Removed Ban"
-msgstr ""
-
 msgid "Removed Videos"
 msgstr "Vidéo supprimées"
 
@@ -7706,9 +7673,6 @@ msgstr "Renvoyer à"
 
 msgid "Reset Reply"
 msgstr "Rétablir la réponse"
-
-msgid "Resq Failed"
-msgstr ""
 
 msgid "Restore Default Settings"
 msgstr "Restaurer les paramètres par défaut"
@@ -8259,10 +8223,6 @@ msgstr "Passer en Principal"
 msgid "Set Shipping Price and Invoice Buyer"
 msgstr "Ajuster le prix d'expédition et facturez l'Acheteur"
 
-#, python-format
-msgid "Set to publish on %s."
-msgstr ""
-
 msgid "Set up your shipping information"
 msgstr "Renseignez vos informations d'expédition. "
 
@@ -8347,9 +8307,6 @@ msgstr ""
 
 msgid "Shopping Cart"
 msgstr "Panier d'achat"
-
-msgid "Short Desc"
-msgstr ""
 
 msgid "Show"
 msgstr "Montrer"
@@ -8445,9 +8402,6 @@ msgstr "État de la pochette"
 msgid "Sleeve condition"
 msgstr "État de la pochette"
 
-msgid "Sleeve condition may be any of the above, or"
-msgstr "L'état de la pochette doit correspondre à une desciption ci-dessus, ou"
-
 msgid "Sleeve condition may be any of the above, or:"
 msgstr "L'état de la pochette doit correspondre à une desciption ci-dessus, ou :"
 
@@ -8538,10 +8492,6 @@ msgstr "Trier par :"
 
 msgid "Sort:"
 msgstr ""
-
-#, python-format
-msgid "Spam: %s (in IP bans)"
-msgstr "Spam: %s (in IP bans)"
 
 msgid "Staff"
 msgstr "Équipe"
@@ -8687,15 +8637,6 @@ msgstr "Sous total"
 
 msgid "Subtotal of Items"
 msgstr "Sous-total des articles"
-
-msgid "Successfully Acted Upon Report(s)."
-msgstr ""
-
-msgid "Successfully Denied Report(s)."
-msgstr ""
-
-msgid "Successfully Ignored Report(s)."
-msgstr ""
 
 msgid "Successfully added new comment."
 msgstr "Nouveau commentaire ajouté avec succès."
@@ -10077,9 +10018,6 @@ msgstr "Sujets"
 msgid "Topic is locked and cannot be replied to."
 msgstr "Le sujet est verrouillé. Pas de réponse possible."
 
-msgid "Topic(s) deleted and submitted as \"missed spam\""
-msgstr "Sujet(s) supprimés et signalés comme Indésirables."
-
 msgid "Topics"
 msgstr "Sujets"
 
@@ -10858,7 +10796,7 @@ msgstr ""
 "crédit correspondant sur votre prochaine facture de Commission Discogs. "
 "Les crédits sur commission ne peuvent être attribués aux vendeurs qui "
 "modifient leur prix après avoir accepté une commande (exemple : \"1 "
-"acheté - 1 offert\", \"x% de remise\", etc...)"
+"acheté - 1 offert\", \"x de remise\", etc...)"
 
 msgid "We don't post anything to Facebook or Google without your permission."
 msgstr ""
@@ -12645,12 +12583,6 @@ msgid "contact the seller"
 msgstr "contactez le vendeur"
 
 msgid "contributions"
-msgstr ""
-
-msgid "created spam group"
-msgstr ""
-
-msgid "created spam topics"
 msgstr ""
 
 msgid "created the order"
