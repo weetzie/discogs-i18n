@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages_js.po (new)\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-03-03 12:16-0800\n"
+"POT-Creation-Date: 2015-03-05 09:11-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -44,6 +44,12 @@ msgid "Add"
 msgstr ""
 
 msgid "Add ANV"
+msgstr ""
+
+msgid "Add Artist Per Track"
+msgstr ""
+
+msgid "Add Credit Per Track"
 msgstr ""
 
 msgid "Add Description"
@@ -142,6 +148,9 @@ msgstr ""
 
 msgid "Audio not found"
 msgstr "音源が見つかりません"
+
+msgid "Auto-number Tracks"
+msgstr ""
 
 msgid "Auto-saved draft <%= link %> at <%= time %>"
 msgstr "<%= link %> 下書き<%= time %>に自動保存しました"

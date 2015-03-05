@@ -25,6 +25,12 @@ msgstr ""
 msgid "Add ANV"
 msgstr ""
 
+msgid "Add Artist Per Track"
+msgstr ""
+
+msgid "Add Credit Per Track"
+msgstr ""
+
 msgid "Add Description"
 msgstr ""
 
@@ -116,6 +122,9 @@ msgid "Artists"
 msgstr ""
 
 msgid "Audio not found"
+msgstr ""
+
+msgid "Auto-number Tracks"
 msgstr ""
 
 msgid "Auto-saved draft <%= link %> at <%= time %>"

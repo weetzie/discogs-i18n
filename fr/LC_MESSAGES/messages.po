@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: V2 messages.po\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-03-03 12:16-0800\n"
+"POT-Creation-Date: 2015-03-05 09:11-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -9651,9 +9651,6 @@ msgstr ""
 
 msgid "This document is also available in these languages: "
 msgstr "Ce document est aussi disponible dans cette langue : "
-
-msgid "This domain of the provided email address is not allowed."
-msgstr "Le nom de domaine de l'adresse e-mail fournie n'est pas autorisé."
 
 msgid "This event has expired and can no longer be shared."
 msgstr "Cet événement a expiré et ne peut plus être partagé."

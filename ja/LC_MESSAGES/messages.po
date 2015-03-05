@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages.po (new)\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-03-03 12:16-0800\n"
+"POT-Creation-Date: 2015-03-05 09:11-0800\n"
 "PO-Revision-Date: 2015-02-12 00:44+0900\n"
 "Last-Translator: tosh <tosh@at-vision.jp>\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -8711,9 +8711,6 @@ msgstr "このアーティストはプレイスホルダーとして登録され
 
 msgid "This document is also available in these languages: "
 msgstr "この文書は以下の言語でも閲覧いただけます。"
-
-msgid "This domain of the provided email address is not allowed."
-msgstr "こちらのメールアドレスのドメインは使用できません。"
 
 msgid "This event has expired and can no longer be shared."
 msgstr "このイベントは期限切れのためシェアできません。"

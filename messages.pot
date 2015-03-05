@@ -7647,9 +7647,6 @@ msgstr ""
 msgid "This document is also available in these languages: "
 msgstr ""
 
-msgid "This domain of the provided email address is not allowed."
-msgstr ""
-
 msgid "This event has expired and can no longer be shared."
 msgstr ""
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Discogs 0.1\n"
 "Report-Msgid-Bugs-To: language@discogs.com\n"
-"POT-Creation-Date: 2015-03-03 13:18-0800\n"
+"POT-Creation-Date: 2015-03-05 09:10-0800\n"
 "PO-Revision-Date: 2015-03-01 01:20+0100\n"
 "Last-Translator: Jarod2801 <mondon.patrick@googlemail.com>\n"
 "Language-Team: de <LL@li.org>\n"
@@ -8405,9 +8405,6 @@ msgid ""
 msgstr ""
 
 msgid "This document is also available in these languages: "
-msgstr ""
-
-msgid "This domain of the provided email address is not allowed."
 msgstr ""
 
 msgid "This event has expired and can no longer be shared."
