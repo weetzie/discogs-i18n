@@ -12361,7 +12361,7 @@ msgid ""
 "Your offer on <a href=\"%(orders_url)s\">%(item_desc)s</a> has expired\n"
 "because the user did not accept it within %(days)s days."
 msgstr ""
-"Votre offre pour <a href=\"%(orders_url)s\"%>(item_desc)s</a> a expirée "
+"Votre offre pour <a href=\"%(orders_url)s\"%>%(item_desc)s</a> a expirée "
 "car l'utilisateur ne l'a pas acceptée sous le délai des %(days)s jours "
 "impartis."
 
