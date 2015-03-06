@@ -28,3 +28,100 @@ Translations for the Discogs website
 * Mop66
 * armak
 * msaizar
+
+### Status of translations:
+
+**bg - Bulgarian**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**cs - Czech**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**da_DK - Dansk**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**de - German**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**el - Greek**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**en - English**
+* Completion: The default language of Discogs is English
+* Status: Not accepting translations
+
+**en_GB - English (UK)**
+* Completion: Nearly complete translation (95%-100% translated)
+* Status: Accepting translations 
+
+**es - Spanish**
+* Completion:  Needs translations (0% - 50% translated)
+* Status: **Currently being translated by a contractor**
+
+**fi - Finnish**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**fr - French**
+* Completion:  Nearly complete translation (95%-100% translated)
+* Status: **Currently being translated by a contractor**
+
+**hu - Hungarian**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**it - Italian**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**ja - Japanese**
+* Completion:  Nearly complete translation (95%-100% translated)
+* Status: **Currently being translated by a contractor**
+
+**ko_KR - Korean**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**lt_LT - Lithuanian**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**nb_NO - Norwegian**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**nl - Dutch (Netherlands)**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**pl - Polish**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**pt - Portuguese**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**pt_BR - Brazilian Portuguese**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**ru - Russian**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**tr_TR - Turkish**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+**zh - Chinese**
+* Completion: Needs translations (0% - 50% translated)
+* Status: Accepting translations
+
+
+**We always accept improvements to our current translations.**
